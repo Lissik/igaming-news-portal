@@ -42,20 +42,11 @@ export const metadata: Metadata = {
     title: "iGaming Pulse — Independent iGaming Industry News",
     description:
       "Independent B2B media covering the global iGaming industry — operators, affiliates, game providers, regulation, and fintech.",
-    images: [
-      {
-        url: "/logo.png",
-        width: 1080,
-        height: 1080,
-        alt: "iGaming Pulse Media",
-      },
-    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "iGaming Pulse",
     description: "Independent iGaming industry news and analysis.",
-    images: ["/logo.png"],
   },
   robots: {
     index: true,

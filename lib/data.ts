@@ -111,12 +111,12 @@ export const CATEGORIES: Record<Category, { label: string; description: string; 
 
 export const AUTHORS: Author[] = [
   { id: "a1", name: "James Whitfield", title: "Editor-in-Chief", avatar: "https://i.pravatar.cc/150?img=11" },
+  { id: "a6", name: "Illia Lisovskyy", title: "Senior Editor", avatar: "/team/illia-lisovskyy.jpg" },
+  { id: "a7", name: "Alex Biliy", title: "Senior Editor", avatar: "/team/alex-biliy.jpg" },
   { id: "a2", name: "Sofia Eriksson", title: "Senior Reporter", avatar: "https://i.pravatar.cc/150?img=5" },
   { id: "a3", name: "Marcus De Luca", title: "Regulation Correspondent", avatar: "https://i.pravatar.cc/150?img=12" },
   { id: "a4", name: "Priya Sharma", title: "Fintech Editor", avatar: "https://i.pravatar.cc/150?img=9" },
   { id: "a5", name: "Anton Voronov", title: "B2B Analyst", avatar: "https://i.pravatar.cc/150?img=15" },
-  { id: "a6", name: "Illia Lisovskyy", title: "Senior Editor", avatar: "/team/illia-lisovskyy.jpg" },
-  { id: "a7", name: "Alex Biliy", title: "Senior Editor", avatar: "/team/alex-biliy.jpg" },
 ];
 
 // ─── Demo Articles ────────────────────────────────────────────────────────────
