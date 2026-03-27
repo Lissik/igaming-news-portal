@@ -92,29 +92,40 @@ export function Header() {
         </div>
       </div>
 
-      {/* Main header */}
+      {/* Wide banner */}
+      <div className="bg-white border-b border-border">
+        <Link href="/en" className="block w-full" aria-label="iGaming Pulse Media — home">
+          <Image
+            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/iGaming%20Pulse%20%28%D0%A1%D0%B0%D0%B8%CC%86%D1%82%29-kjXmGgv2fJbaUfRxn9pi5ZcSrEVEa4.png"
+            alt="iGaming Pulse Media"
+            width={1400}
+            height={350}
+            className="w-full h-auto max-h-36 object-contain object-center"
+            priority
+          />
+        </Link>
+      </div>
+
+      {/* Main header / nav */}
       <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-border shadow-sm">
         <div className="max-w-7xl mx-auto px-4">
-          <div className="flex items-center justify-between h-16">
-            {/* Logo */}
-            <Link href="/en" className="flex items-center gap-2 shrink-0">
+          <div className="flex items-center justify-between h-14">
+            {/* Logo (compact, nav bar only) */}
+            <Link href="/en" className="flex items-center gap-2 shrink-0 lg:hidden">
               <Image
                 src="/logo.png"
-                alt="iGaming Pulse Media waveform"
-                width={36}
-                height={36}
-                className="w-9 h-9 object-contain"
-                priority
+                alt="iGaming Pulse Media"
+                width={32}
+                height={32}
+                className="w-8 h-8 object-contain"
               />
-              <div className="hidden sm:block">
-                <span className="font-serif font-bold text-navy text-xl leading-none tracking-tight">
-                  iGaming<span className="text-amber">Pulse</span>
-                </span>
-              </div>
+              <span className="font-serif font-bold text-navy text-lg leading-none">
+                iGaming<span className="text-amber">Pulse</span>
+              </span>
             </Link>
 
-            {/* Desktop nav */}
-            <nav className="hidden lg:flex items-center gap-1" aria-label="Main navigation">
+            {/* Desktop nav — spans full width on lg since logo is in banner above */}
+            <nav className="hidden lg:flex items-center gap-1 flex-1" aria-label="Main navigation">
               {NAV_ITEMS.map((item) =>
                 item.hasDropdown ? (
                   <div key={item.label} className="relative">
