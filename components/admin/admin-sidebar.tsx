@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 import {
   LayoutDashboard,
@@ -54,14 +55,14 @@ export function AdminSidebar() {
       {/* Logo */}
       <div className="px-5 py-5 border-b border-white/10">
         <Link href="/admin" className="flex items-center gap-2.5">
-          <div className="w-7 h-7 bg-amber rounded flex items-center justify-center shrink-0">
-            <span className="font-serif font-bold text-navy text-xs leading-none">iG</span>
-          </div>
-          <div>
-            <span className="font-serif font-bold text-white text-base leading-none">iGaming</span>
-            <span className="text-amber font-serif font-bold text-base leading-none">Pulse</span>
-            <span className="text-white/40 text-xs font-sans ml-1.5">CMS</span>
-          </div>
+          <Image
+            src="/logo.png"
+            alt="iGaming Pulse Media"
+            width={120}
+            height={45}
+            className="h-8 w-auto object-contain brightness-0 invert"
+          />
+          <span className="text-white/40 text-xs font-sans border-l border-white/20 pl-2.5">CMS</span>
         </Link>
       </div>
 

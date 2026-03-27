@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { Header } from "@/components/layout/header";
-import { Footer } from "@/components/layout/footer";
+import { SiteLayout } from "@/components/layout/site-layout";
 import { ArticleCard } from "@/components/articles/article-card";
 import { NewsletterWidget } from "@/components/newsletter-widget";
 import {
@@ -40,9 +39,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
   const allCategories = Object.values(CATEGORIES);
 
   return (
-    <>
-      <Header />
-      <main>
+    <SiteLayout>
         {/* Category header */}
         <div className="bg-navy text-white py-10">
           <div className="max-w-7xl mx-auto px-4">
@@ -154,8 +151,6 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
         </div>
 
         <NewsletterWidget variant="banner" />
-      </main>
-      <Footer />
-    </>
+    </SiteLayout>
   );
 }

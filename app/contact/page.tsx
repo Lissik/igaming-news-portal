@@ -1,8 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Header } from "@/components/layout/header";
-import { Footer } from "@/components/layout/footer";
+import { SiteLayout } from "@/components/layout/site-layout";
 import { Mail, Send, CheckCircle, Newspaper, BarChart2, CalendarDays } from "lucide-react";
 
 const ENQUIRY_TYPES = [
@@ -68,9 +67,7 @@ export default function ContactPage() {
   }
 
   return (
-    <>
-      <Header />
-      <main>
+    <SiteLayout>
         {/* Page header */}
         <div className="bg-navy text-white py-12">
           <div className="max-w-4xl mx-auto px-4">
@@ -248,8 +245,6 @@ export default function ContactPage() {
             </div>
           </div>
         </div>
-      </main>
-      <Footer />
-    </>
+    </SiteLayout>
   );
 }

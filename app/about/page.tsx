@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
-import { Header } from "@/components/layout/header";
-import { Footer } from "@/components/layout/footer";
+import { SiteLayout } from "@/components/layout/site-layout";
 import { AUTHORS } from "@/lib/data";
 import { NewsletterWidget } from "@/components/newsletter-widget";
 
@@ -21,9 +20,7 @@ const STATS = [
 
 export default function AboutPage() {
   return (
-    <>
-      <Header />
-      <main>
+    <SiteLayout>
         {/* Page header */}
         <div className="bg-navy text-white py-14">
           <div className="max-w-4xl mx-auto px-4 text-center">
@@ -167,8 +164,6 @@ export default function AboutPage() {
         </div>
 
         <NewsletterWidget variant="banner" />
-      </main>
-      <Footer />
-    </>
+    </SiteLayout>
   );
 }

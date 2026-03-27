@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { Twitter, Linkedin, Globe } from "lucide-react";
 import { CATEGORIES } from "@/lib/data";
 
@@ -12,13 +13,14 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
           {/* Brand */}
           <div className="lg:col-span-1">
-            <Link href="/en" className="flex items-center gap-2 mb-4">
-              <div className="w-8 h-8 bg-amber rounded flex items-center justify-center">
-                <span className="text-navy font-serif font-bold text-sm leading-none">iG</span>
-              </div>
-              <span className="font-serif font-bold text-xl text-white">
-                iGaming<span className="text-amber">Pulse</span>
-              </span>
+            <Link href="/en" className="flex items-center mb-4">
+              <Image
+                src="/logo.png"
+                alt="iGaming Pulse Media"
+                width={160}
+                height={60}
+                className="h-10 w-auto object-contain brightness-0 invert"
+              />
             </Link>
             <p className="text-white/60 text-sm leading-relaxed mb-5">
               Independent B2B media for the global iGaming industry. Credible, neutral, editorial. Launched January 2026.

@@ -9,8 +9,7 @@ import {
   CATEGORIES,
   formatDate,
 } from "@/lib/data";
-import { Header } from "@/components/layout/header";
-import { Footer } from "@/components/layout/footer";
+import { SiteLayout } from "@/components/layout/site-layout";
 import { ArticleCard } from "@/components/articles/article-card";
 import { NewsletterWidget } from "@/components/newsletter-widget";
 import { ExternalLink, Heart, MessageCircle, Clock, Tag } from "lucide-react";
@@ -52,9 +51,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const readingTime = Math.max(1, Math.ceil(article.content.split(" ").length / 200));
 
   return (
-    <>
-      <Header />
-      <main>
+    <SiteLayout>
         {/* Article header */}
         <div className="bg-navy text-white py-10">
           <div className="max-w-4xl mx-auto px-4">
@@ -316,8 +313,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         )}
 
         <NewsletterWidget variant="banner" />
-      </main>
-      <Footer />
-    </>
+    </SiteLayout>
   );
 }

@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
-import { Header } from "@/components/layout/header";
-import { Footer } from "@/components/layout/footer";
+import { SiteLayout } from "@/components/layout/site-layout";
 import { HeroSection } from "@/components/home/hero-section";
 import { LatestNewsSection } from "@/components/home/latest-news-section";
 import { TrendingSection } from "@/components/home/trending-section";
@@ -16,9 +15,7 @@ export const metadata: Metadata = {
 
 export default function HomePage() {
   return (
-    <>
-      <Header />
-      <main>
+    <SiteLayout>
         {/* Hero */}
         <HeroSection />
 
@@ -58,8 +55,6 @@ export default function HomePage() {
 
         {/* Newsletter banner */}
         <NewsletterWidget variant="banner" />
-      </main>
-      <Footer />
-    </>
+    </SiteLayout>
   );
 }

@@ -3,8 +3,7 @@
 import { useSearchParams } from "next/navigation";
 import { Suspense } from "react";
 import { ARTICLES, CATEGORIES, formatDateShort } from "@/lib/data";
-import { Header } from "@/components/layout/header";
-import { Footer } from "@/components/layout/footer";
+import { SiteLayout } from "@/components/layout/site-layout";
 import { ArticleCard } from "@/components/articles/article-card";
 import { Search } from "lucide-react";
 
@@ -90,9 +89,7 @@ function SearchResults() {
 
 export default function SearchPage() {
   return (
-    <>
-      <Header />
-      <main>
+    <SiteLayout>
         <Suspense
           fallback={
             <div className="bg-navy text-white py-10">
@@ -104,8 +101,6 @@ export default function SearchPage() {
         >
           <SearchResults />
         </Suspense>
-      </main>
-      <Footer />
-    </>
+    </SiteLayout>
   );
 }
