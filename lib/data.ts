@@ -110,13 +110,13 @@ export const CATEGORIES: Record<Category, { label: string; description: string; 
 // ─── Authors ─────────────────────────────────────────────────────────────────
 
 export const AUTHORS: Author[] = [
-  { id: "a1", name: "James Whitfield", title: "Editor-in-Chief", avatar: "https://i.pravatar.cc/150?img=11" },
+  { id: "a1", name: "James Whitfield", title: "Editor-in-Chief", avatar: "/team/james-whitfield.jpg" },
   { id: "a6", name: "Illia Lisovskyy", title: "Senior Editor", avatar: "/team/illia-lisovskyy.jpg" },
   { id: "a7", name: "Alex Biliy", title: "Senior Editor", avatar: "/team/alex-biliy.jpg" },
-  { id: "a2", name: "Sofia Eriksson", title: "Senior Reporter", avatar: "https://i.pravatar.cc/150?img=5" },
-  { id: "a3", name: "Marcus De Luca", title: "Regulation Correspondent", avatar: "https://i.pravatar.cc/150?img=12" },
-  { id: "a4", name: "Priya Sharma", title: "Fintech Editor", avatar: "https://i.pravatar.cc/150?img=9" },
-  { id: "a5", name: "Anton Voronov", title: "B2B Analyst", avatar: "https://i.pravatar.cc/150?img=15" },
+  { id: "a2", name: "Sofia Eriksson", title: "Senior Reporter", avatar: "/team/sofia-eriksson.jpg" },
+  { id: "a3", name: "Marcus De Luca", title: "Regulation Correspondent", avatar: "/team/marcus-de-luca.jpg" },
+  { id: "a4", name: "Priya Sharma", title: "Fintech Editor", avatar: "/team/priya-sharma.jpg" },
+  { id: "a5", name: "Anton Voronov", title: "B2B Analyst", avatar: "/team/anton-voronov.jpg" },
 ];
 
 // ─── Demo Articles ────────────────────────────────────────────────────────────
@@ -459,7 +459,7 @@ export const ARTICLES: Article[] = [
     excerpt:
       "The US online sports betting market posted record full-year GGR of $14.2 billion in 2025, with FanDuel maintaining market leadership at 43% but DraftKings closing in at 35%.",
     content: `The United States online sports betting market generated a record $14.2 billion in gross gaming revenue in 2025, according to the American Gaming Association's annual market report. FanDuel retained the market leadership position with a 43% share, while DraftKings continued its consistent market share recovery to reach 35%, narrowing the gap that had widened significantly following FanDuel's integration with Flutter Entertainment's global data infrastructure.\n\nThe remaining 22% of the market is split between BetMGM, ESPN Bet, Caesars Sportsbook, and a long tail of state-specific operators.\n\nNoteworthy in the 2025 data is ESPN Bet's continued underperformance relative to expectations following its 2023 rebrand from Barstool Sportsbook. Despite Disney's marketing muscle, the platform sits at approximately 4% national market share, prompting industry speculation about Penn Entertainment's long-term commitment to the branded product.\n\nWith online sports betting now legal in 38 states plus Washington D.C., market growth is increasingly dependent on deeper penetration of existing customer bases rather than new state launches.`,
-    featuredImage: "https://images.unsplash.com/photo-1518893883800-45cd0954f44b?w=800&q=80",
+    featuredImage: "/images/articles/us-sports-betting-market.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-03-20T10:00:00Z",
     category: "operators",
