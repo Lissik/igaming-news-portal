@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { HeroSection } from "@/components/home/hero-section";
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
 export default function HomePage() {
   return (
     <>
-      <Header />
+      <Suspense fallback={null}><Header /></Suspense>
       <main>
         {/* Hero */}
         <HeroSection />

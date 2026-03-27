@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { useState, Suspense } from "react";
 import { Search, Menu, X, Globe, ChevronDown } from "lucide-react";
 import { CATEGORIES } from "@/lib/data";
@@ -97,9 +98,14 @@ export function Header() {
           <div className="flex items-center justify-between h-16">
             {/* Logo */}
             <Link href="/en" className="flex items-center gap-2 shrink-0">
-              <div className="w-8 h-8 bg-navy rounded flex items-center justify-center">
-                <span className="text-white font-serif font-bold text-sm leading-none">iG</span>
-              </div>
+              <Image
+                src="/logo.png"
+                alt="iGaming Pulse Media waveform"
+                width={36}
+                height={36}
+                className="w-9 h-9 object-contain"
+                priority
+              />
               <div className="hidden sm:block">
                 <span className="font-serif font-bold text-navy text-xl leading-none tracking-tight">
                   iGaming<span className="text-amber">Pulse</span>

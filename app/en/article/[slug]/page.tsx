@@ -9,6 +9,7 @@ import {
   CATEGORIES,
   formatDate,
 } from "@/lib/data";
+import { Suspense } from "react";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { ArticleCard } from "@/components/articles/article-card";
@@ -53,7 +54,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   return (
     <>
-      <Header />
+      <Suspense fallback={null}><Header /></Suspense>
       <main>
         {/* Article header */}
         <div className="bg-navy text-white py-10">

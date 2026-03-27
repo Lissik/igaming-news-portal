@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import { notFound } from "next/navigation";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
@@ -41,7 +42,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
 
   return (
     <>
-      <Header />
+      <Suspense fallback={null}><Header /></Suspense>
       <main>
         {/* Category header */}
         <div className="bg-navy text-white py-10">

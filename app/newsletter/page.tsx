@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import Link from "next/link";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
@@ -63,7 +64,7 @@ const PAST_ISSUES = [
 export default function NewsletterPage() {
   return (
     <>
-      <Header />
+      <Suspense fallback={null}><Header /></Suspense>
       <main>
         {/* Hero */}
         <div className="bg-navy text-white py-16">

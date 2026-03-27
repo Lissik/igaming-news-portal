@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { Header } from "@/components/layout/header";
@@ -22,7 +23,7 @@ const STATS = [
 export default function AboutPage() {
   return (
     <>
-      <Header />
+      <Suspense fallback={null}><Header /></Suspense>
       <main>
         {/* Page header */}
         <div className="bg-navy text-white py-14">

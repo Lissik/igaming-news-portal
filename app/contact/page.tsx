@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, Suspense } from "react";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { Mail, Send, CheckCircle, Newspaper, BarChart2, CalendarDays } from "lucide-react";
@@ -69,7 +69,7 @@ export default function ContactPage() {
 
   return (
     <>
-      <Header />
+      <Suspense fallback={null}><Header /></Suspense>
       <main>
         {/* Page header */}
         <div className="bg-navy text-white py-12">

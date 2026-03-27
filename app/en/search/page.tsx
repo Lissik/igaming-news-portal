@@ -91,7 +91,7 @@ function SearchResults() {
 export default function SearchPage() {
   return (
     <>
-      <Header />
+      <Suspense fallback={null}><Header /></Suspense>
       <main>
         <Suspense
           fallback={
