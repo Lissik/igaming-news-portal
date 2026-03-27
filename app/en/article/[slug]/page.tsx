@@ -116,7 +116,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   width={32}
                   height={32}
                   className="rounded-full shrink-0"
-                  style={{ width: 32, height: "auto", objectFit: "cover", objectPosition: "top" }}
+                  style={{ objectFit: "cover", objectPosition: "top" }}
                 />
                 <div>
                   <p className="text-white font-semibold text-sm leading-tight">{article.author.name}</p>
@@ -215,7 +215,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   width={56}
                   height={56}
                   className="rounded-full shrink-0"
-                  style={{ width: 56, height: "auto", objectFit: "cover", objectPosition: "top" }}
+                  style={{ objectFit: "cover", objectPosition: "top" }}
                 />
                 <div>
                   <p className="font-serif font-bold text-navy text-base">{article.author.name}</p>
