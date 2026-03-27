@@ -14,6 +14,7 @@ import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { ArticleCard } from "@/components/articles/article-card";
 import { NewsletterWidget } from "@/components/newsletter-widget";
+import { ArticleInteractions } from "@/components/articles/article-interactions";
 import { ExternalLink, Heart, MessageCircle, Clock, Tag } from "lucide-react";
 
 interface ArticlePageProps {
@@ -159,6 +160,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   className="object-cover"
                   sizes="(max-width: 768px) 100vw, 75vw"
                   priority
+                  loading="eager"
                 />
               </div>
 
@@ -229,32 +231,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 </div>
               </div>
 
-              {/* Comments */}
-              {article.comments.length > 0 && (
-                <div className="mt-10">
-                  <h2 className="font-serif text-xl font-bold text-navy mb-5 pb-3 border-b-2 border-navy">
-                    Comments ({article.comments.length})
-                  </h2>
-                  <div className="flex flex-col gap-5">
-                    {article.comments.map((comment) => (
-                      <div
-                        key={comment.id}
-                        className="bg-white border border-border rounded-sm p-5"
-                      >
-                        <div className="flex items-center justify-between mb-2">
-                          <span className="font-sans font-semibold text-sm text-foreground">
-                            {comment.author}
-                          </span>
-                          <time className="text-xs text-muted-foreground font-sans">
-                            {formatDate(comment.publishedAt)}
-                          </time>
-                        </div>
-                        <p className="text-sm text-foreground/80 leading-relaxed">{comment.content}</p>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              )}
+              {/* Likes & Comments */}
+              <ArticleInteractions
+                initialLikes={article.likes}
+                initialComments={article.comments}
+              />
             </article>
 
             {/* Sidebar */}

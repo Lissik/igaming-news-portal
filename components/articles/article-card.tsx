@@ -22,6 +22,7 @@ export function ArticleCard({ article, variant = "default" }: ArticleCardProps) 
           className="object-cover transition-transform duration-500 group-hover:scale-105 opacity-50"
           sizes="(max-width: 768px) 100vw, 60vw"
           priority
+          loading="eager"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-navy via-navy/60 to-transparent" />
         <div className="absolute inset-0 flex flex-col justify-end p-6 md:p-8">
