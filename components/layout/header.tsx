@@ -81,7 +81,7 @@ export function Header() {
       <div className="bg-navy text-primary-foreground text-xs py-1.5 hidden md:block">
         <div className="max-w-7xl mx-auto px-4 flex items-center justify-between">
           <span className="text-white/60 font-sans tracking-wide">
-            Independent iGaming Industry Media — Est. January 2026
+            Independent iGaming Industry Media
           </span>
           <div className="flex items-center gap-4">
             <span className="text-white/60">Newsletter</span>
