@@ -35,11 +35,6 @@ export const metadata: Metadata = {
   authors: [{ name: "iGaming Pulse Editorial Team" }],
   creator: "iGaming Pulse",
   publisher: "iGaming Pulse",
-  icons: {
-    icon: "/logo.png",
-    shortcut: "/logo.png",
-    apple: "/logo.png",
-  },
   openGraph: {
     type: "website",
     locale: "en_GB",

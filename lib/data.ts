@@ -115,6 +115,8 @@ export const AUTHORS: Author[] = [
   { id: "a3", name: "Marcus De Luca", title: "Regulation Correspondent", avatar: "https://i.pravatar.cc/150?img=12" },
   { id: "a4", name: "Priya Sharma", title: "Fintech Editor", avatar: "https://i.pravatar.cc/150?img=9" },
   { id: "a5", name: "Anton Voronov", title: "B2B Analyst", avatar: "https://i.pravatar.cc/150?img=15" },
+  { id: "a6", name: "Illia Lisovskyy", title: "Senior Editor", avatar: "/team/illia-lisovskyy.jpg" },
+  { id: "a7", name: "Alex Biliy", title: "Senior Editor", avatar: "/team/alex-biliy.jpg" },
 ];
 
 // ─── Demo Articles ────────────────────────────────────────────────────────────
