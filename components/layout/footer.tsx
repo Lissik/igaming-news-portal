@@ -19,7 +19,7 @@ export function Footer() {
                 alt="iGaming Pulse Media waveform"
                 width={36}
                 height={36}
-                className="w-9 h-9 object-contain brightness-0 invert"
+                className="w-9 h-9 object-contain rounded"
               />
               <span className="font-serif font-bold text-xl text-white">
                 iGaming<span className="text-amber">Pulse</span>
