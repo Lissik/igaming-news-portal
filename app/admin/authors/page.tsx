@@ -33,7 +33,7 @@ export default function AdminAuthorsPage() {
                     width={52}
                     height={52}
                     className="rounded-full shrink-0"
-                    style={{ width: 52, height: 52, objectFit: "cover", objectPosition: "top" }}
+                    style={{ width: 52, height: "auto", objectFit: "cover", objectPosition: "top" }}
                   />
                   <div>
                     <p className="font-serif font-bold text-navy text-lg leading-tight">{author.name}</p>
