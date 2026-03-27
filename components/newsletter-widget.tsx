@@ -60,7 +60,7 @@ export function NewsletterWidget({ variant = "banner" }: NewsletterWidgetProps) 
     return (
       <div className="bg-surface border border-border rounded-sm p-4">
         <p className="text-sm font-sans font-semibold text-foreground mb-3">
-          Get iGaming Wire in your inbox
+          Get iGaming Pulse in your inbox
         </p>
         {submitted ? (
           <p className="text-amber text-sm font-medium">Thank you! You&apos;re subscribed.</p>

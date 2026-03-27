@@ -17,7 +17,7 @@ export function Footer() {
                 <span className="text-navy font-serif font-bold text-sm leading-none">iG</span>
               </div>
               <span className="font-serif font-bold text-xl text-white">
-                iGaming<span className="text-amber">Wire</span>
+                iGaming<span className="text-amber">Pulse</span>
               </span>
             </Link>
             <p className="text-white/60 text-sm leading-relaxed mb-5">
@@ -126,7 +126,7 @@ export function Footer() {
                 href="/contact"
                 className="text-sm text-white/60 hover:text-amber transition-colors"
               >
-                Partner with iGaming Wire &rarr;
+                Partner with iGaming Pulse &rarr;
               </Link>
             </div>
           </div>
@@ -137,7 +137,7 @@ export function Footer() {
       <div className="border-t border-white/10">
         <div className="max-w-7xl mx-auto px-4 py-4 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-white/40 font-sans">
-            &copy; {currentYear} iGaming Wire. All rights reserved. Independent editorial media.
+            &copy; {currentYear} iGaming Pulse. All rights reserved. Independent editorial media.
           </p>
           <div className="flex items-center gap-4">
             <Link href="/privacy" className="text-xs text-white/40 hover:text-white/70 transition-colors">

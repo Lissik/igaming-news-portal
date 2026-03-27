@@ -6,9 +6,9 @@ import { CheckCircle, Save } from "lucide-react";
 
 export default function AdminSettingsPage() {
   const [saved, setSaved] = useState(false);
-  const [siteName, setSiteName] = useState("iGaming Wire");
+  const [siteName, setSiteName] = useState("iGaming Pulse");
   const [tagline, setTagline] = useState("Independent iGaming Industry News");
-  const [contactEmail, setContactEmail] = useState("editorial@igamingwire.com");
+  const [contactEmail, setContactEmail] = useState("editorial@igamingpulse.com");
   const [articlesPerPage, setArticlesPerPage] = useState("12");
   const [enableComments, setEnableComments] = useState(true);
   const [maintenanceMode, setMaintenanceMode] = useState(false);
@@ -27,7 +27,7 @@ export default function AdminSettingsPage() {
         <div className="bg-white border-b border-border px-8 py-4 flex items-center justify-between sticky top-0 z-30">
           <div>
             <h1 className="font-serif text-xl font-bold text-navy">Site Settings</h1>
-            <p className="text-xs text-muted-foreground font-sans">Global configuration for iGaming Wire</p>
+            <p className="text-xs text-muted-foreground font-sans">Global configuration for iGaming Pulse</p>
           </div>
           {saved && (
             <span className="flex items-center gap-1.5 text-sm text-green-600 font-sans">

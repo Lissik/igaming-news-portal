@@ -1,10 +1,9 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useState, Suspense } from "react";
 import { Search, Menu, X, Globe, ChevronDown } from "lucide-react";
 import { CATEGORIES } from "@/lib/data";
-import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { useRouter } from "next/navigation";
 
@@ -33,10 +32,11 @@ const LANGUAGES = [
   { code: "ru", label: "RU", active: false },
 ];
 
-export function Header() {
-  const [mobileOpen, setMobileOpen] = useState(false);
-  const [searchOpen, setSearchOpen] = useState(false);
-  const [moreOpen, setMoreOpen] = useState(false);
+function SearchForm({
+  onClose,
+}: {
+  onClose: () => void;
+}) {
   const [searchQuery, setSearchQuery] = useState("");
   const router = useRouter();
 
@@ -44,10 +44,35 @@ export function Header() {
     e.preventDefault();
     if (searchQuery.trim()) {
       router.push(`/en/search?q=${encodeURIComponent(searchQuery.trim())}`);
-      setSearchOpen(false);
+      onClose();
       setSearchQuery("");
     }
   }
+
+  return (
+    <form onSubmit={handleSearch} className="flex items-center gap-2">
+      <Input
+        autoFocus
+        value={searchQuery}
+        onChange={(e) => setSearchQuery(e.target.value)}
+        placeholder="Search articles..."
+        className="h-8 w-48 text-sm"
+      />
+      <button
+        type="button"
+        onClick={onClose}
+        className="p-1.5 text-muted-foreground hover:text-navy"
+      >
+        <X className="w-4 h-4" />
+      </button>
+    </form>
+  );
+}
+
+export function Header() {
+  const [mobileOpen, setMobileOpen] = useState(false);
+  const [searchOpen, setSearchOpen] = useState(false);
+  const [moreOpen, setMoreOpen] = useState(false);
 
   return (
     <>
@@ -77,7 +102,7 @@ export function Header() {
               </div>
               <div className="hidden sm:block">
                 <span className="font-serif font-bold text-navy text-xl leading-none tracking-tight">
-                  iGaming<span className="text-amber">Wire</span>
+                  iGaming<span className="text-amber">Pulse</span>
                 </span>
               </div>
             </Link>
@@ -125,22 +150,9 @@ export function Header() {
             <div className="flex items-center gap-2">
               {/* Search */}
               {searchOpen ? (
-                <form onSubmit={handleSearch} className="flex items-center gap-2">
-                  <Input
-                    autoFocus
-                    value={searchQuery}
-                    onChange={(e) => setSearchQuery(e.target.value)}
-                    placeholder="Search articles..."
-                    className="h-8 w-48 text-sm"
-                  />
-                  <button
-                    type="button"
-                    onClick={() => setSearchOpen(false)}
-                    className="p-1.5 text-muted-foreground hover:text-navy"
-                  >
-                    <X className="w-4 h-4" />
-                  </button>
-                </form>
+                <Suspense fallback={null}>
+                  <SearchForm onClose={() => setSearchOpen(false)} />
+                </Suspense>
               ) : (
                 <button
                   onClick={() => setSearchOpen(true)}

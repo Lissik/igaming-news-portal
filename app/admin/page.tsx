@@ -46,7 +46,7 @@ export default function AdminDashboardPage() {
           <div>
             <h1 className="font-serif text-xl font-bold text-navy">Dashboard</h1>
             <p className="text-xs text-muted-foreground font-sans">
-              Overview of iGaming Wire content and performance
+              Overview of iGaming Pulse content and performance
             </p>
           </div>
           <Link

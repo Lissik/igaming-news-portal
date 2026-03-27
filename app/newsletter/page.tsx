@@ -6,9 +6,9 @@ import { NewsletterWidget } from "@/components/newsletter-widget";
 import { CheckCircle, Clock, Users, Globe } from "lucide-react";
 
 export const metadata: Metadata = {
-  title: "Newsletter — iGaming Wire",
+  title: "Newsletter — iGaming Pulse",
   description:
-    "Subscribe to the iGaming Wire newsletter. Weekly B2B iGaming industry briefings delivered free to your inbox every Thursday.",
+    "Subscribe to the iGaming Pulse newsletter. Weekly B2B iGaming industry briefings delivered free to your inbox every Thursday.",
 };
 
 const BENEFITS = [
@@ -22,7 +22,7 @@ const BENEFITS = [
     icon: <Users className="w-5 h-5 text-amber" />,
     title: "5,000+ subscribers",
     description:
-      "Join operators, affiliates, suppliers, regulators, and investors who read iGaming Wire each week.",
+      "Join operators, affiliates, suppliers, regulators, and investors who read iGaming Pulse each week.",
   },
   {
     icon: <Globe className="w-5 h-5 text-amber" />,
@@ -72,7 +72,7 @@ export default function NewsletterPage() {
               Free newsletter
             </p>
             <h1 className="font-serif text-3xl md:text-4xl lg:text-5xl font-bold mb-5 text-balance">
-              The iGaming Wire Weekly
+              The iGaming Pulse Weekly
             </h1>
             <p className="text-white/70 text-lg leading-relaxed max-w-xl mx-auto mb-8">
               The week&apos;s most important iGaming B2B news, curated and delivered to your inbox

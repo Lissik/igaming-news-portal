@@ -7,9 +7,9 @@ import { AUTHORS } from "@/lib/data";
 import { NewsletterWidget } from "@/components/newsletter-widget";
 
 export const metadata: Metadata = {
-  title: "About iGaming Wire",
+  title: "About iGaming Pulse",
   description:
-    "iGaming Wire is an independent B2B media platform covering the global iGaming industry. Learn about our editorial team, mission, and values.",
+    "iGaming Pulse is an independent B2B media platform covering the global iGaming industry. Learn about our editorial team, mission, and values.",
 };
 
 const STATS = [
@@ -28,7 +28,7 @@ export default function AboutPage() {
         <div className="bg-navy text-white py-14">
           <div className="max-w-4xl mx-auto px-4 text-center">
             <h1 className="font-serif text-3xl md:text-4xl lg:text-5xl font-bold mb-5 text-balance">
-              About iGaming Wire
+              About iGaming Pulse
             </h1>
             <p className="text-white/70 text-lg leading-relaxed max-w-2xl mx-auto">
               Independent editorial media for the global iGaming industry — operators, affiliates,
@@ -45,7 +45,7 @@ export default function AboutPage() {
                 Our mission
               </h2>
               <p className="text-foreground/80 leading-relaxed mb-4">
-                iGaming Wire was founded in January 2026 to fill a gap in B2B iGaming media: a
+                iGaming Pulse was founded in January 2026 to fill a gap in B2B iGaming media: a
                 publisher committed to independent, factually rigorous reporting without commercial
                 conflicts or operator-sponsored editorial.
               </p>
@@ -63,7 +63,7 @@ export default function AboutPage() {
             <div className="relative h-72 rounded-sm overflow-hidden bg-surface">
               <Image
                 src="https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80"
-                alt="iGaming Wire newsroom"
+                alt="iGaming Pulse newsroom"
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 50vw"
@@ -143,7 +143,7 @@ export default function AboutPage() {
           {/* CTA */}
           <div className="bg-surface border border-border rounded-sm p-8 text-center">
             <h2 className="font-serif text-2xl font-bold text-navy mb-3">
-              Work with iGaming Wire
+              Work with iGaming Pulse
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-6 max-w-xl mx-auto">
               We offer advertising placements, sponsored content packages, event media partnerships,

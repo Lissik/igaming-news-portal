@@ -9,7 +9,7 @@ import { EventsSection } from "@/components/home/events-section";
 import { NewsletterWidget } from "@/components/newsletter-widget";
 
 export const metadata: Metadata = {
-  title: "iGaming Wire — Independent iGaming Industry News",
+  title: "iGaming Pulse — Independent iGaming Industry News",
   description:
     "The latest iGaming industry news for operators, affiliates, game providers, regulators, and payment companies. Independent editorial since January 2026.",
 };
@@ -45,7 +45,7 @@ export default function HomePage() {
           <div className="border border-dashed border-border rounded-sm p-4 flex items-center justify-center bg-surface h-24">
             <div className="text-center">
               <p className="text-xs text-muted-foreground font-sans uppercase tracking-wider">Advertisement — 970 × 90 Leaderboard</p>
-              <a href="/contact" className="text-xs text-amber hover:underline mt-1 block">Advertise with iGaming Wire</a>
+              <a href="/contact" className="text-xs text-amber hover:underline mt-1 block">Advertise with iGaming Pulse</a>
             </div>
           </div>
         </div>

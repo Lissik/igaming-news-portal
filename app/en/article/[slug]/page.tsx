@@ -218,7 +218,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   <p className="font-serif font-bold text-navy text-base">{article.author.name}</p>
                   <p className="text-sm text-amber font-sans font-medium mb-2">{article.author.title}</p>
                   <p className="text-sm text-muted-foreground leading-relaxed">
-                    Member of the iGaming Wire editorial team. Covering industry news, analysis, and
+                    Member of the iGaming Pulse editorial team. Covering industry news, analysis, and
                     B2B developments across the global iGaming sector.
                   </p>
                 </div>
@@ -278,7 +278,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 </h3>
                 <div className="flex flex-col gap-2">
                   <a
-                    href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(`https://igamingwire.com/en/article/${article.slug}`)}&text=${encodeURIComponent(article.title)}`}
+                    href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(`https://igamingpulse.com/en/article/${article.slug}`)}&text=${encodeURIComponent(article.title)}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-xs font-sans font-medium text-foreground/70 border border-border rounded-sm px-3 py-2 hover:border-navy hover:text-navy transition-colors flex items-center gap-2"
@@ -286,7 +286,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     Share on X (Twitter)
                   </a>
                   <a
-                    href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(`https://igamingwire.com/en/article/${article.slug}`)}`}
+                    href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(`https://igamingpulse.com/en/article/${article.slug}`)}`}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-xs font-sans font-medium text-foreground/70 border border-border rounded-sm px-3 py-2 hover:border-navy hover:text-navy transition-colors flex items-center gap-2"

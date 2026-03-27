@@ -59,7 +59,7 @@ export function AdminSidebar() {
           </div>
           <div>
             <span className="font-serif font-bold text-white text-base leading-none">iGaming</span>
-            <span className="text-amber font-serif font-bold text-base leading-none">Wire</span>
+            <span className="text-amber font-serif font-bold text-base leading-none">Pulse</span>
             <span className="text-white/40 text-xs font-sans ml-1.5">CMS</span>
           </div>
         </Link>

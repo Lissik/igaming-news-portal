@@ -2,10 +2,10 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: {
-    default: "Admin — iGaming Wire CMS",
-    template: "%s | Admin — iGaming Wire",
+    default: "Admin — iGaming Pulse CMS",
+    template: "%s | Admin — iGaming Pulse",
   },
-  description: "iGaming Wire editorial dashboard",
+  description: "iGaming Pulse editorial dashboard",
   robots: { index: false, follow: false },
 };
 

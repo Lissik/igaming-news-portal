@@ -74,7 +74,7 @@ export default function ContactPage() {
         {/* Page header */}
         <div className="bg-navy text-white py-12">
           <div className="max-w-4xl mx-auto px-4">
-            <h1 className="font-serif text-3xl md:text-4xl font-bold mb-3">Contact iGaming Wire</h1>
+            <h1 className="font-serif text-3xl md:text-4xl font-bold mb-3">Contact iGaming Pulse</h1>
             <p className="text-white/65 leading-relaxed max-w-xl">
               For press releases, advertising enquiries, event partnerships, or editorial matters — get in touch with our team.
             </p>
@@ -203,11 +203,11 @@ export default function ContactPage() {
                   <h3 className="font-sans font-semibold text-sm text-foreground">Direct contact</h3>
                 </div>
                 <p className="text-sm text-muted-foreground mb-1">Editorial</p>
-                <p className="text-sm font-medium text-navy mb-3">editorial@igamingwire.com</p>
+                <p className="text-sm font-medium text-navy mb-3">editorial@igamingpulse.com</p>
                 <p className="text-sm text-muted-foreground mb-1">Advertising</p>
-                <p className="text-sm font-medium text-navy mb-3">advertising@igamingwire.com</p>
+                <p className="text-sm font-medium text-navy mb-3">advertising@igamingpulse.com</p>
                 <p className="text-sm text-muted-foreground mb-1">Press releases</p>
-                <p className="text-sm font-medium text-navy">press@igamingwire.com</p>
+                <p className="text-sm font-medium text-navy">press@igamingpulse.com</p>
               </div>
 
               <div>
@@ -235,7 +235,7 @@ export default function ContactPage() {
           {/* Advertising options */}
           <div className="mt-14">
             <h2 className="font-serif text-2xl font-bold text-navy mb-6 pb-3 border-b-2 border-navy">
-              Advertising with iGaming Wire
+              Advertising with iGaming Pulse
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {ADVERTISING_OPTIONS.map((opt) => (

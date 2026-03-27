@@ -17,11 +17,11 @@ const playfair = Playfair_Display({
 
 export const metadata: Metadata = {
   title: {
-    default: "iGaming Wire — Independent iGaming Industry News",
-    template: "%s | iGaming Wire",
+    default: "iGaming Pulse — Independent iGaming Industry News",
+    template: "%s | iGaming Pulse",
   },
   description:
-    "iGaming Wire is an independent B2B media platform covering the global iGaming industry. News, analysis, and insights for operators, affiliates, game providers, and regulators.",
+    "iGaming Pulse is an independent B2B media platform covering the global iGaming industry. News, analysis, and insights for operators, affiliates, game providers, and regulators.",
   keywords: [
     "iGaming news",
     "online gambling industry",
@@ -32,20 +32,20 @@ export const metadata: Metadata = {
     "sports betting",
     "B2B iGaming",
   ],
-  authors: [{ name: "iGaming Wire Editorial Team" }],
-  creator: "iGaming Wire",
-  publisher: "iGaming Wire",
+  authors: [{ name: "iGaming Pulse Editorial Team" }],
+  creator: "iGaming Pulse",
+  publisher: "iGaming Pulse",
   openGraph: {
     type: "website",
     locale: "en_GB",
-    siteName: "iGaming Wire",
-    title: "iGaming Wire — Independent iGaming Industry News",
+    siteName: "iGaming Pulse",
+    title: "iGaming Pulse — Independent iGaming Industry News",
     description:
       "Independent B2B media covering the global iGaming industry — operators, affiliates, game providers, regulation, and fintech.",
   },
   twitter: {
     card: "summary_large_image",
-    title: "iGaming Wire",
+    title: "iGaming Pulse",
     description: "Independent iGaming industry news and analysis.",
   },
   robots: {
