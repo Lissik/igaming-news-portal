@@ -27,15 +27,14 @@ export default function AdminAuthorsPage() {
             {authorsWithCounts.map((author) => (
               <div key={author.id} className="bg-white border border-border rounded-sm p-6">
                 <div className="flex items-center gap-4 mb-5">
-                  <span className="relative block rounded-full overflow-hidden shrink-0 w-[52px] h-[52px]">
-                    <Image
-                      src={author.avatar}
-                      alt={author.name}
-                      fill
-                      sizes="52px"
-                      className="object-cover object-top"
-                    />
-                  </span>
+                  <Image
+                    src={author.avatar}
+                    alt={author.name}
+                    width={52}
+                    height={52}
+                    className="rounded-full shrink-0 object-cover object-top"
+                    style={{ width: 52, height: 52 }}
+                  />
                   <div>
                     <p className="font-serif font-bold text-navy text-lg leading-tight">{author.name}</p>
                     <p className="text-xs text-amber font-sans font-semibold mt-0.5">{author.title}</p>
