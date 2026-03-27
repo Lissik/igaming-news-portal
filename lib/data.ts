@@ -110,13 +110,13 @@ export const CATEGORIES: Record<Category, { label: string; description: string; 
 // ─── Authors ─────────────────────────────────────────────────────────────────
 
 export const AUTHORS: Author[] = [
-  { id: "a1", name: "James Whitfield", title: "Editor-in-Chief", avatar: "/team/james-whitfield.jpg" },
+  { id: "a1", name: "James Whitfield", title: "Editor-in-Chief", avatar: "https://i.pravatar.cc/150?img=11" },
   { id: "a6", name: "Illia Lisovskyy", title: "Senior Editor", avatar: "/team/illia-lisovskyy.jpg" },
   { id: "a7", name: "Alex Biliy", title: "Senior Editor", avatar: "/team/alex-biliy.jpg" },
-  { id: "a2", name: "Sofia Eriksson", title: "Senior Reporter", avatar: "/team/sofia-eriksson.jpg" },
-  { id: "a3", name: "Marcus De Luca", title: "Regulation Correspondent", avatar: "/team/marcus-de-luca.jpg" },
-  { id: "a4", name: "Priya Sharma", title: "Fintech Editor", avatar: "/team/priya-sharma.jpg" },
-  { id: "a5", name: "Anton Voronov", title: "B2B Analyst", avatar: "/team/anton-voronov.jpg" },
+  { id: "a2", name: "Sofia Eriksson", title: "Senior Reporter", avatar: "https://i.pravatar.cc/150?img=5" },
+  { id: "a3", name: "Marcus De Luca", title: "Regulation Correspondent", avatar: "https://i.pravatar.cc/150?img=12" },
+  { id: "a4", name: "Priya Sharma", title: "Fintech Editor", avatar: "https://i.pravatar.cc/150?img=9" },
+  { id: "a5", name: "Anton Voronov", title: "B2B Analyst", avatar: "https://i.pravatar.cc/150?img=15" },
 ];
 
 // ─── Demo Articles ────────────────────────────────────────────────────────────
@@ -459,7 +459,7 @@ export const ARTICLES: Article[] = [
     excerpt:
       "The US online sports betting market posted record full-year GGR of $14.2 billion in 2025, with FanDuel maintaining market leadership at 43% but DraftKings closing in at 35%.",
     content: `The United States online sports betting market generated a record $14.2 billion in gross gaming revenue in 2025, according to the American Gaming Association's annual market report. FanDuel retained the market leadership position with a 43% share, while DraftKings continued its consistent market share recovery to reach 35%, narrowing the gap that had widened significantly following FanDuel's integration with Flutter Entertainment's global data infrastructure.\n\nThe remaining 22% of the market is split between BetMGM, ESPN Bet, Caesars Sportsbook, and a long tail of state-specific operators.\n\nNoteworthy in the 2025 data is ESPN Bet's continued underperformance relative to expectations following its 2023 rebrand from Barstool Sportsbook. Despite Disney's marketing muscle, the platform sits at approximately 4% national market share, prompting industry speculation about Penn Entertainment's long-term commitment to the branded product.\n\nWith online sports betting now legal in 38 states plus Washington D.C., market growth is increasingly dependent on deeper penetration of existing customer bases rather than new state launches.`,
-    featuredImage: "/images/articles/draftkings-us-sports-betting.jpg",
+    featuredImage: "https://images.unsplash.com/photo-1518893883800-45cd0954f44b?w=800&q=80",
     author: AUTHORS[0],
     publishedAt: "2026-03-20T10:00:00Z",
     category: "operators",
@@ -728,7 +728,7 @@ export const ARTICLES: Article[] = [
     title: "BetMGM Expands into Four New US States as Operator Wars Intensify",
     excerpt: "BetMGM has launched in four additional US states in Q1 2026, pushing its total market footprint to 28 states and signalling the next phase of the American sports betting land-grab.",
     content: `BetMGM, the joint venture between MGM Resorts International and Entain, has announced the simultaneous launch of its sportsbook and iCasino products in four additional US states during Q1 2026, bringing its total regulated footprint to 28 states and Washington D.C.\n\nThe expansion — covering Nebraska, Vermont, Missouri, and Kentucky — marks BetMGM's most aggressive single-quarter growth push since the operator first launched following the Supreme Court's PASPA repeal in 2018. The company cited favourable regulatory timelines, established banking partnerships, and localised marketing spend as key enablers of the simultaneous rollout.\n\n"We have consistently said that our ambition is to be the number-one online gaming operator in North America. These four launches are a direct expression of that ambition," said Adam Greenblatt, CEO of BetMGM, in a statement accompanying the announcement.\n\nThe operator reported that its active customer base grew 34% year-on-year in the twelve months to December 2025, with iCasino revenue now accounting for 41% of total net gaming revenue — a shift that reflects the broader US market's growing comfort with online casino products beyond sports betting.\n\nBetMGM's expansion comes as the US online sports betting market continues to consolidate around a handful of dominant players. FanDuel and DraftKings together hold approximately 65% of the national market by gross gaming revenue, leaving BetMGM, ESPN Bet, and Fanatics competing for the remaining share in a market that analysts estimate will exceed $14 billion GGR by year-end 2026.\n\nThe operator has invested heavily in its loyalty integration with MGM Rewards, a differentiator it believes gives it structural advantages that pure-play digital competitors cannot easily replicate.`,
-    featuredImage: "/images/articles/draftkings-us-sports-betting.jpg",
+    featuredImage: "https://images.unsplash.com/photo-1518893883800-45cd0954f44b?w=800&q=80",
     author: AUTHORS[2],
     publishedAt: "2026-01-08T09:00:00Z",
     category: "operators",
