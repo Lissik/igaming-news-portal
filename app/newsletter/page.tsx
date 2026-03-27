@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { SiteLayout } from "@/components/layout/site-layout";
+import { Header } from "@/components/layout/header";
+import { Footer } from "@/components/layout/footer";
 import { NewsletterWidget } from "@/components/newsletter-widget";
 import { CheckCircle, Clock, Users, Globe } from "lucide-react";
 
@@ -61,7 +62,9 @@ const PAST_ISSUES = [
 
 export default function NewsletterPage() {
   return (
-    <SiteLayout>
+    <>
+      <Header />
+      <main>
         {/* Hero */}
         <div className="bg-navy text-white py-16">
           <div className="max-w-3xl mx-auto px-4 text-center">
@@ -159,6 +162,8 @@ export default function NewsletterPage() {
             </Link>
           </div>
         </div>
-    </SiteLayout>
+      </main>
+      <Footer />
+    </>
   );
 }
