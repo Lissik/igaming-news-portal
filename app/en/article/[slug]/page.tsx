@@ -110,7 +110,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             {/* Meta row */}
             <div className="flex flex-wrap items-center gap-4 text-sm text-white/60 font-sans border-t border-white/15 pt-5">
               <div className="flex items-center gap-2.5">
-                <span className="shrink-0 rounded-full overflow-hidden inline-block relative" style={{ width: 32, height: 32, minWidth: 32 }}>
+                <span className="shrink-0 rounded-full overflow-hidden block relative w-8 h-8">
                   <Image
                     src={article.author.avatar}
                     alt={article.author.name}
@@ -210,7 +210,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
               {/* Author box */}
               <div className="mt-10 p-6 bg-surface border border-border rounded-sm flex gap-5">
-                <span className="shrink-0 rounded-full overflow-hidden inline-block relative" style={{ width: 56, height: 56, minWidth: 56 }}>
+                <span className="shrink-0 rounded-full overflow-hidden block relative w-14 h-14">
                   <Image
                     src={article.author.avatar}
                     alt={article.author.name}

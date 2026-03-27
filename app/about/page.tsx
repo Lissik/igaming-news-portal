@@ -125,7 +125,7 @@ export default function AboutPage() {
                   key={author.id}
                   className="bg-white border border-border rounded-sm p-5 flex gap-4 items-center"
                 >
-                  <span className="shrink-0 rounded-full overflow-hidden inline-block relative" style={{ width: 52, height: 52 }}>
+                  <span className="shrink-0 rounded-full overflow-hidden block relative w-[52px] h-[52px]">
                     <Image
                       src={author.avatar}
                       alt={author.name}
