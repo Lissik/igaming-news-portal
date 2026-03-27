@@ -35,19 +35,6 @@ export const metadata: Metadata = {
   authors: [{ name: "iGaming Pulse Editorial Team" }],
   creator: "iGaming Pulse",
   publisher: "iGaming Pulse",
-  openGraph: {
-    type: "website",
-    locale: "en_GB",
-    siteName: "iGaming Pulse",
-    title: "iGaming Pulse — Independent iGaming Industry News",
-    description:
-      "Independent B2B media covering the global iGaming industry — operators, affiliates, game providers, regulation, and fintech.",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "iGaming Pulse",
-    description: "Independent iGaming industry news and analysis.",
-  },
   robots: {
     index: true,
     follow: true,

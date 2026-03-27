@@ -130,7 +130,8 @@ export default function AboutPage() {
                     alt={author.name}
                     width={52}
                     height={52}
-                    className="rounded-full shrink-0 object-cover object-top w-[52px] h-[52px]"
+                    className="rounded-full shrink-0 object-cover object-top"
+                    style={{ width: 52, height: 52 }}
                   />
                   <div>
                     <p className="font-serif font-bold text-navy leading-tight">{author.name}</p>
