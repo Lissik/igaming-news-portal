@@ -125,13 +125,13 @@ export default function AboutPage() {
                   key={author.id}
                   className="bg-white border border-border rounded-sm p-5 flex gap-4 items-center"
                 >
-                  <span className="shrink-0 rounded-full overflow-hidden inline-block" style={{ width: 52, height: 52 }}>
+                  <span className="shrink-0 rounded-full overflow-hidden inline-block relative" style={{ width: 52, height: 52 }}>
                     <Image
                       src={author.avatar}
                       alt={author.name}
-                      width={52}
-                      height={52}
-                      className="object-cover object-top w-full h-full"
+                      fill
+                      sizes="52px"
+                      className="object-cover object-top"
                     />
                   </span>
                   <div>
