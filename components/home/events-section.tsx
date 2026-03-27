@@ -3,10 +3,10 @@ import Link from "next/link";
 import { ArrowRight, CalendarDays } from "lucide-react";
 
 const UPCOMING_EVENTS = [
-  { name: "ICE London 2026", date: "Feb 24-26, 2026", location: "London, UK", href: "/en/article/ice-london-2026-preview-key-themes" },
-  { name: "Affiliate Summit Europe", date: "May 12-14, 2026", location: "Barcelona, Spain", href: "/en/article/affiliate-summit-europe-2026-agenda" },
-  { name: "Gaming Malta Forum", date: "Oct 14-16, 2026", location: "Malta", href: "/en/article/gaming-malta-forum-2026-announcement" },
-  { name: "SiGMA Europe", date: "Nov 2026", location: "Malta", href: "/en/category/conferences-events" },
+  { name: "SBC Summit Malta 2026", date: "Apr 21–23, 2026", location: "Malta", href: "/en/article/sbc-summit-malta-2026-preview" },
+  { name: "iGB Live! 2026", date: "Jul 14–17, 2026", location: "Amsterdam, Netherlands", href: "/en/article/igb-live-2026-amsterdam-preview" },
+  { name: "SBC Summit Lisbon 2026", date: "Sep 22–24, 2026", location: "Lisbon, Portugal", href: "/en/article/sbc-summit-lisbon-2026-announcement" },
+  { name: "SiGMA Europe 2026", date: "Nov 16–20, 2026", location: "Malta", href: "/en/article/sigma-europe-2026-preview" },
 ];
 
 export function EventsSection() {

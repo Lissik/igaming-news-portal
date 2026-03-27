@@ -110,14 +110,15 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             {/* Meta row */}
             <div className="flex flex-wrap items-center gap-4 text-sm text-white/60 font-sans border-t border-white/15 pt-5">
               <div className="flex items-center gap-2.5">
-                <Image
-                  src={article.author.avatar}
-                  alt={article.author.name}
-                  width={32}
-                  height={32}
-                  className="rounded-full object-cover object-top"
-                  style={{ width: 32, height: 32 }}
-                />
+                <span className="shrink-0 rounded-full overflow-hidden inline-block" style={{ width: 32, height: 32, minWidth: 32 }}>
+                  <Image
+                    src={article.author.avatar}
+                    alt={article.author.name}
+                    width={32}
+                    height={32}
+                    className="object-cover object-top w-full h-full"
+                  />
+                </span>
                 <div>
                   <p className="text-white font-semibold text-sm leading-tight">{article.author.name}</p>
                   <p className="text-white/50 text-xs">{article.author.title}</p>
@@ -209,14 +210,15 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
               {/* Author box */}
               <div className="mt-10 p-6 bg-surface border border-border rounded-sm flex gap-5">
-                <Image
-                  src={article.author.avatar}
-                  alt={article.author.name}
-                  width={56}
-                  height={56}
-                  className="rounded-full shrink-0 object-cover object-top"
-                  style={{ width: 56, height: 56 }}
-                />
+                <span className="shrink-0 rounded-full overflow-hidden inline-block" style={{ width: 56, height: 56, minWidth: 56 }}>
+                  <Image
+                    src={article.author.avatar}
+                    alt={article.author.name}
+                    width={56}
+                    height={56}
+                    className="object-cover object-top w-full h-full"
+                  />
+                </span>
                 <div>
                   <p className="font-serif font-bold text-navy text-base">{article.author.name}</p>
                   <p className="text-sm text-amber font-sans font-medium mb-2">{article.author.title}</p>
