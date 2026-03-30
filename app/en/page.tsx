@@ -15,6 +15,14 @@ export const metadata: Metadata = {
   title: "iGaming Pulse — Independent iGaming Industry News",
   description:
     "The latest iGaming industry news for operators, affiliates, game providers, regulators, and payment companies. Independent editorial since January 2026.",
+  alternates: { canonical: "https://igamingpulse.media/en" },
+  openGraph: {
+    title: "iGaming Pulse — Independent iGaming Industry News",
+    description:
+      "The latest iGaming industry news for operators, affiliates, game providers, regulators, and payment companies.",
+    url: "https://igamingpulse.media/en",
+    type: "website",
+  },
 };
 
 export default function HomePage() {

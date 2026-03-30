@@ -25,9 +25,22 @@ export async function generateMetadata({ params }: CategoryPageProps): Promise<M
   const { slug } = await params;
   const category = CATEGORIES[slug as Category];
   if (!category) return {};
+  const title = `Latest ${category.label} News | iGaming Pulse`;
+  const description = category.description;
   return {
-    title: `${category.label} News`,
-    description: category.description,
+    title: `Latest ${category.label} News`,
+    description,
+    openGraph: {
+      title,
+      description,
+      type: "website",
+      url: `https://igamingpulse.media/en/category/${slug}`,
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+    },
   };
 }
 

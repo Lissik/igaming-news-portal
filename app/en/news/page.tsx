@@ -8,9 +8,17 @@ import { getAllArticles, getLatestArticles, CATEGORIES } from "@/lib/data";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "All News — iGaming Pulse",
+  title: "All News",
   description:
     "Browse all iGaming industry news from iGaming Pulse — operators, affiliates, game providers, regulation, payments, and more. Sorted newest first.",
+  alternates: { canonical: "https://igamingpulse.media/en/news" },
+  openGraph: {
+    title: "All iGaming News | iGaming Pulse",
+    description:
+      "Browse all iGaming industry news from iGaming Pulse — operators, affiliates, game providers, regulation, payments, and more.",
+    url: "https://igamingpulse.media/en/news",
+    type: "website",
+  },
 };
 
 const PAGE_SIZE = 18;

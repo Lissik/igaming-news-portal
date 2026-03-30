@@ -11,6 +11,14 @@ export const metadata: Metadata = {
   title: "About iGaming Pulse",
   description:
     "iGaming Pulse is an independent B2B media platform covering the global iGaming industry. Learn about our editorial team, mission, and values.",
+  alternates: { canonical: "https://igamingpulse.media/about" },
+  openGraph: {
+    title: "About iGaming Pulse | Independent iGaming Industry News",
+    description:
+      "iGaming Pulse is an independent B2B media platform covering the global iGaming industry. Learn about our editorial team, mission, and values.",
+    url: "https://igamingpulse.media/about",
+    type: "website",
+  },
 };
 
 const STATS = [

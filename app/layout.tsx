@@ -17,6 +17,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://igamingpulse.media"),
   title: {
     default: "iGaming Pulse — Independent iGaming Industry News",
     template: "%s | iGaming Pulse",
@@ -39,6 +40,28 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+  },
+  openGraph: {
+    type: "website",
+    siteName: "iGaming Pulse",
+    title: "iGaming Pulse — Independent iGaming Industry News",
+    description:
+      "iGaming Pulse is an independent B2B media platform covering the global iGaming industry.",
+    images: [
+      {
+        url: "/images/og-default.jpg",
+        width: 1200,
+        height: 630,
+        alt: "iGaming Pulse — Independent iGaming Industry News",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "iGaming Pulse — Independent iGaming Industry News",
+    description:
+      "Independent iGaming industry news for operators, affiliates, game providers, and regulators.",
+    images: ["/images/og-default.jpg"],
   },
 };
 

@@ -29,16 +29,29 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   const { slug } = await params;
   const article = getArticleBySlug(slug);
   if (!article) return {};
+  const url = `https://igamingpulse.media/en/article/${slug}`;
+  const image = article.featuredImage.startsWith("http")
+    ? article.featuredImage
+    : `https://igamingpulse.media${article.featuredImage}`;
   return {
     title: article.seoTitle,
     description: article.metaDescription,
+    alternates: { canonical: url },
     openGraph: {
       title: article.seoTitle,
       description: article.metaDescription,
-      images: [{ url: article.featuredImage, width: 1200, height: 630 }],
+      url,
+      images: [{ url: image, width: 1200, height: 630, alt: article.title }],
       type: "article",
       publishedTime: article.publishedAt,
       authors: [article.author.name],
+      siteName: "iGaming Pulse",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.seoTitle,
+      description: article.metaDescription,
+      images: [image],
     },
   };
 }
@@ -50,11 +63,48 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   const related = getRelatedArticles(article, 3);
   const category = CATEGORIES[article.category];
-
   const readingTime = Math.max(1, Math.ceil(article.content.split(" ").length / 200));
+
+  const articleUrl = `https://igamingpulse.media/en/article/${slug}`;
+  const articleImage = article.featuredImage.startsWith("http")
+    ? article.featuredImage
+    : `https://igamingpulse.media${article.featuredImage}`;
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    headline: article.title,
+    description: article.excerpt,
+    url: articleUrl,
+    datePublished: article.publishedAt,
+    dateModified: article.publishedAt,
+    image: [articleImage],
+    author: {
+      "@type": "Person",
+      name: article.author.name,
+      jobTitle: article.author.title,
+    },
+    publisher: {
+      "@type": "Organization",
+      name: "iGaming Pulse",
+      url: "https://igamingpulse.media",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://igamingpulse.media/images/og-default.jpg",
+      },
+    },
+    mainEntityOfPage: {
+      "@type": "WebPage",
+      "@id": articleUrl,
+    },
+  };
 
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <Suspense fallback={null}><Header /></Suspense>
       <main>
         {/* Article header */}
