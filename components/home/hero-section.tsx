@@ -1,15 +1,15 @@
 import { ArticleCard } from "@/components/articles/article-card";
-import { getFeaturedArticles, getLatestArticles } from "@/lib/data";
+import { getTrendingArticles, getLatestArticles } from "@/lib/data";
 import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 
 export function HeroSection() {
-  const featured = getFeaturedArticles();
+  const trending = getTrendingArticles();
   // Always pull from latest for the sidebar — sorted newest-first
   const latest = getLatestArticles(10);
 
-  // Hero: most-recent featured article, or most-recent overall
-  const hero = featured[0] ?? latest[0];
+  // Hero: most-recent trending article, or most-recent overall
+  const hero = trending[0] ?? latest[0];
 
   // Secondaries: 3 most-recent articles that are not the hero
   const secondaries = latest.filter((a) => a.id !== hero?.id).slice(0, 3);
