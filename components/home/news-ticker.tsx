@@ -20,8 +20,8 @@ export function NewsTicker({ items }: NewsTickerProps) {
   useEffect(() => {
     if (trackRef.current) {
       const width = trackRef.current.scrollWidth / 2; // divided by 2 because we duplicate
-      // ~80px per second
-      setDuration(Math.max(20, width / 80));
+      // ~160px per second (2x speed)
+      setDuration(Math.max(10, width / 160));
     }
   }, [items]);
 
