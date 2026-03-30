@@ -7,13 +7,13 @@ export function LatestNewsSection() {
   const articles = getLatestArticles(9);
 
   return (
-    <section aria-labelledby="latest-news-heading" className="max-w-7xl mx-auto px-4 py-8">
+    <section id="latest-news" aria-labelledby="latest-news-heading" className="max-w-7xl mx-auto px-4 py-8">
       <div className="flex items-center justify-between mb-6 pb-3 border-b-2 border-navy">
         <h2 id="latest-news-heading" className="font-serif text-2xl font-bold text-navy">
           Latest News
         </h2>
         <Link
-          href="/en"
+          href="/en/news"
           className="text-sm font-sans font-medium text-amber hover:text-amber/80 flex items-center gap-1 transition-colors"
         >
           View all <ArrowRight className="w-3.5 h-3.5" />

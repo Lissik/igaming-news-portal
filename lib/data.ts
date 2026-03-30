@@ -1584,6 +1584,12 @@ export function getLatestArticles(limit = 10): Article[] {
     .slice(0, limit);
 }
 
+export function getAllArticles(): Article[] {
+  return [...ARTICLES].sort(
+    (a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime()
+  );
+}
+
 export function getArticleBySlug(slug: string): Article | undefined {
   return ARTICLES.find((a) => a.slug === slug);
 }
