@@ -8,6 +8,8 @@ import { TrendingSection } from "@/components/home/trending-section";
 import { CategoryBlocks } from "@/components/home/category-blocks";
 import { EventsSection } from "@/components/home/events-section";
 import { NewsletterWidget } from "@/components/newsletter-widget";
+import { NewsTicker } from "@/components/home/news-ticker";
+import { getLatestArticles } from "@/lib/data";
 
 export const metadata: Metadata = {
   title: "iGaming Pulse — Independent iGaming Industry News",
@@ -16,6 +18,11 @@ export const metadata: Metadata = {
 };
 
 export default function HomePage() {
+  const tickerItems = getLatestArticles(12).map((a) => ({
+    title: a.title,
+    slug: a.slug,
+  }));
+
   return (
     <>
       <Suspense fallback={null}><Header /></Suspense>
@@ -23,17 +30,8 @@ export default function HomePage() {
         {/* Hero */}
         <HeroSection />
 
-        {/* Ticker / breaking news strip */}
-        <div className="bg-navy text-white py-2 overflow-hidden">
-          <div className="max-w-7xl mx-auto px-4 flex items-center gap-4">
-            <span className="shrink-0 bg-amber text-navy text-xs font-sans font-bold uppercase tracking-wider px-2 py-0.5 rounded-sm">
-              Latest
-            </span>
-            <p className="text-sm text-white/80 font-sans truncate">
-              iGaming B2B M&amp;A Activity Surges in Q1 2026 &nbsp;&middot;&nbsp; Flutter Reports $6.2B 2025 Revenue &nbsp;&middot;&nbsp; Google Expands Gambling Ads to Brazil, Colombia &amp; Argentina &nbsp;&middot;&nbsp; EU Proposes Unified Licensing Framework
-            </p>
-          </div>
-        </div>
+        {/* Scrolling news ticker */}
+        <NewsTicker items={tickerItems} />
 
         {/* Latest news grid */}
         <LatestNewsSection />

@@ -5,16 +5,14 @@ import { ArrowRight } from "lucide-react";
 
 export function HeroSection() {
   const featured = getFeaturedArticles();
-  const latest = getLatestArticles(4);
+  // Always pull from latest for the sidebar — sorted newest-first
+  const latest = getLatestArticles(10);
 
-  // Use featured articles if available, otherwise fall back to the latest published
-  const pool = featured.length >= 1 ? featured : latest;
-  const hero = pool[0];
-  // Fill secondaries: prefer featured slots 1-3, fill gaps with latest (excluding hero)
-  const secondaries = pool
-    .slice(1, 4)
-    .concat(latest.filter((a) => a.id !== hero?.id && !pool.slice(1, 4).find((p) => p.id === a.id)))
-    .slice(0, 3);
+  // Hero: most-recent featured article, or most-recent overall
+  const hero = featured[0] ?? latest[0];
+
+  // Secondaries: 3 most-recent articles that are not the hero
+  const secondaries = latest.filter((a) => a.id !== hero?.id).slice(0, 3);
 
   if (!hero) return null;
 
