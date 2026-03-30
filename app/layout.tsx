@@ -49,7 +49,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${inter.variable} ${playfair.variable}`} suppressHydrationWarning>
-      <head>
+      <body className="font-sans antialiased bg-background text-foreground" suppressHydrationWarning>
+        {children}
+        <Analytics />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-V51KQ9HCBM"
           strategy="afterInteractive"
@@ -60,10 +62,6 @@ export default function RootLayout({
           gtag('js', new Date());
           gtag('config', 'G-V51KQ9HCBM');
         `}</Script>
-      </head>
-      <body className="font-sans antialiased bg-background text-foreground" suppressHydrationWarning>
-        {children}
-        <Analytics />
       </body>
     </html>
   );
