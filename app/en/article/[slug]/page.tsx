@@ -165,12 +165,44 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               </div>
 
               {/* Prose content */}
-              <div className="prose prose-lg max-w-none font-sans text-foreground leading-relaxed">
-                {article.content.split("\n\n").map((paragraph, i) => (
-                  <p key={i} className="mb-5 text-base leading-relaxed text-foreground/90">
-                    {paragraph}
-                  </p>
-                ))}
+              <div className="max-w-none font-sans text-foreground leading-relaxed">
+                {article.content.split("\n\n").map((block, i) => {
+                  const trimmed = block.trim();
+                  if (!trimmed) return null;
+
+                  // ## Heading
+                  if (trimmed.startsWith("## ")) {
+                    return (
+                      <h2 key={i} className="font-serif text-xl font-bold text-navy mt-8 mb-3 pb-2 border-b border-border">
+                        {trimmed.replace(/^## /, "")}
+                      </h2>
+                    );
+                  }
+                  // ### Subheading
+                  if (trimmed.startsWith("### ")) {
+                    return (
+                      <h3 key={i} className="font-serif text-lg font-bold text-navy mt-6 mb-2">
+                        {trimmed.replace(/^### /, "")}
+                      </h3>
+                    );
+                  }
+
+                  // Render inline **bold** within paragraphs
+                  const renderInline = (text: string) => {
+                    const parts = text.split(/(\*\*[^*]+\*\*)/g);
+                    return parts.map((part, j) =>
+                      part.startsWith("**") && part.endsWith("**")
+                        ? <strong key={j} className="font-semibold text-foreground">{part.slice(2, -2)}</strong>
+                        : part
+                    );
+                  };
+
+                  return (
+                    <p key={i} className="mb-5 text-base leading-relaxed text-foreground/90">
+                      {renderInline(trimmed)}
+                    </p>
+                  );
+                })}
               </div>
 
               {/* Source citation */}
