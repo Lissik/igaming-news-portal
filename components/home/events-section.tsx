@@ -4,7 +4,7 @@ import { ArrowRight, CalendarDays } from "lucide-react";
 
 const UPCOMING_EVENTS = [
   { name: "SBC Summit Malta 2026", date: "Apr 28–30, 2026", location: "Malta", href: "/en/article/sbc-summit-malta-2026-preview" },
-  { name: "iGB Live! 2026", date: "Jul 14–17, 2026", location: "Amsterdam, Netherlands", href: "/en/article/igb-live-2026-amsterdam-preview" },
+  { name: "iGB Live! 2026", date: "Jul 01–02, 2026", location: "London, UK", href: "/en/article/igb-live-2026-amsterdam-preview" },
   { name: "SBC Summit Lisbon 2026", date: "Sep 22–24, 2026", location: "Lisbon, Portugal", href: "/en/article/sbc-summit-lisbon-2026-announcement" },
   { name: "SiGMA Europe 2026", date: "Nov 16–20, 2026", location: "Malta", href: "/en/article/sigma-europe-2026-preview" },
 ];
