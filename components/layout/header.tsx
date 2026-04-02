@@ -169,8 +169,8 @@ export function Header() {
                 </button>
               )}
 
-              {/* Language switcher */}
-              <div className="hidden md:flex items-center gap-1 border-l border-border pl-2 ml-1">
+              {/* Language switcher — hidden until localization is ready */}
+              {/* <div className="hidden md:flex items-center gap-1 border-l border-border pl-2 ml-1">
                 <Globe className="w-3.5 h-3.5 text-muted-foreground" />
                 {LANGUAGES.map((lang) => (
                   <button
@@ -186,7 +186,7 @@ export function Header() {
                     {lang.label}
                   </button>
                 ))}
-              </div>
+              </div> */}
 
               {/* Mobile menu toggle */}
               <button
@@ -223,7 +223,8 @@ export function Header() {
               <Link href="/contact" onClick={() => setMobileOpen(false)} className="py-2.5 px-2 text-sm font-medium text-foreground/70 hover:text-navy">
                 Contact
               </Link>
-              <div className="pt-3 flex items-center gap-2">
+              {/* Mobile language switcher — hidden until localization is ready */}
+              {/* <div className="pt-3 flex items-center gap-2">
                 <Globe className="w-3.5 h-3.5 text-muted-foreground" />
                 <span className="text-xs text-muted-foreground">Languages:</span>
                 {LANGUAGES.map((lang) => (
@@ -234,7 +235,7 @@ export function Header() {
                     {lang.label}
                   </span>
                 ))}
-              </div>
+              </div> */}
             </nav>
           </div>
         )}
