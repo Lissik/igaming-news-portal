@@ -1,28 +1,21 @@
 "use server";
 
+const ACCESS_KEY = "a69e661a-d15b-4f55-b7dc-2ae06acc4368";
+
 export async function submitNewsletter(email: string) {
-  try {
-    const key = process.env.WEB3FORMS_ACCESS_KEY;
-    console.log("[v0] submitNewsletter key present:", !!key);
-    const res = await fetch("https://api.web3forms.com/submit", {
-      method: "POST",
-      headers: { "Content-Type": "application/json", Accept: "application/json" },
-      body: JSON.stringify({
-        access_key: key,
-        subject: "New Newsletter Subscription — iGaming Pulse",
-        from_name: "iGaming Pulse Newsletter",
-        replyto: email,
-        email: "illia@virtuwise.io",
-        message: `New newsletter subscription request.\n\nEmail: ${email}`,
-      }),
-    });
-    const data = await res.json();
-    console.log("[v0] submitNewsletter response:", JSON.stringify(data));
-    return { success: data.success === true };
-  } catch (err) {
-    console.log("[v0] submitNewsletter error:", err);
-    return { success: false };
-  }
+  const formData = new FormData();
+  formData.append("access_key", ACCESS_KEY);
+  formData.append("subject", "New Newsletter Subscription — iGaming Pulse");
+  formData.append("from_name", "iGaming Pulse Newsletter");
+  formData.append("email", email);
+  formData.append("message", `New newsletter subscription request.\n\nEmail: ${email}`);
+
+  const res = await fetch("https://api.web3forms.com/submit", {
+    method: "POST",
+    body: formData,
+  });
+  const data = await res.json();
+  return { success: data.success === true };
 }
 
 export async function submitContact(fields: {
@@ -32,32 +25,27 @@ export async function submitContact(fields: {
   enquiryType: string;
   message: string;
 }) {
-  try {
-    const key = process.env.WEB3FORMS_ACCESS_KEY;
-    console.log("[v0] submitContact key present:", !!key);
-    const res = await fetch("https://api.web3forms.com/submit", {
-      method: "POST",
-      headers: { "Content-Type": "application/json", Accept: "application/json" },
-      body: JSON.stringify({
-        access_key: key,
-        subject: `Contact Form: ${fields.enquiryType} — iGaming Pulse`,
-        from_name: fields.name,
-        replyto: fields.email,
-        email: "illia@virtuwise.io",
-        message: `Name: ${fields.name}
+  const formData = new FormData();
+  formData.append("access_key", ACCESS_KEY);
+  formData.append("subject", `Contact Form: ${fields.enquiryType} — iGaming Pulse`);
+  formData.append("from_name", fields.name);
+  formData.append("replyto", fields.email);
+  formData.append("email", fields.email);
+  formData.append(
+    "message",
+    `Name: ${fields.name}
 Company: ${fields.company || "—"}
 Email: ${fields.email}
 Enquiry type: ${fields.enquiryType}
 
 Message:
-${fields.message}`,
-      }),
-    });
-    const data = await res.json();
-    console.log("[v0] submitContact response:", JSON.stringify(data));
-    return { success: data.success === true };
-  } catch (err) {
-    console.log("[v0] submitContact error:", err);
-    return { success: false };
-  }
+${fields.message}`
+  );
+
+  const res = await fetch("https://api.web3forms.com/submit", {
+    method: "POST",
+    body: formData,
+  });
+  const data = await res.json();
+  return { success: data.success === true };
 }
