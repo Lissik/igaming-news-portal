@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Mail, ArrowRight } from "lucide-react";
+import { submitNewsletter } from "@/lib/actions";
 
 interface NewsletterWidgetProps {
   variant?: "banner" | "sidebar" | "compact";
@@ -10,16 +11,29 @@ interface NewsletterWidgetProps {
 export function NewsletterWidget({ variant = "banner" }: NewsletterWidgetProps) {
   const [email, setEmail] = useState("");
   const [submitted, setSubmitted] = useState(false);
+  const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
       setError("Please enter a valid email address.");
       return;
     }
     setError("");
-    setSubmitted(true);
+    setLoading(true);
+    try {
+      const result = await submitNewsletter(email);
+      if (result.success) {
+        setSubmitted(true);
+      } else {
+        setError("Something went wrong. Please try again.");
+      }
+    } catch {
+      setError("Network error. Please try again.");
+    } finally {
+      setLoading(false);
+    }
   }
 
   if (variant === "sidebar") {
@@ -46,9 +60,10 @@ export function NewsletterWidget({ variant = "banner" }: NewsletterWidgetProps) 
             {error && <p className="text-red-400 text-xs">{error}</p>}
             <button
               type="submit"
-              className="w-full bg-amber text-navy text-sm font-semibold py-2 rounded-sm hover:bg-amber/90 transition-colors flex items-center justify-center gap-2"
+              disabled={loading}
+              className="w-full bg-amber text-navy text-sm font-semibold py-2 rounded-sm hover:bg-amber/90 transition-colors flex items-center justify-center gap-2 disabled:opacity-60"
             >
-              Subscribe <ArrowRight className="w-3.5 h-3.5" />
+              {loading ? "Subscribing…" : <><span>Subscribe</span> <ArrowRight className="w-3.5 h-3.5" /></>}
             </button>
           </form>
         )}
@@ -75,9 +90,10 @@ export function NewsletterWidget({ variant = "banner" }: NewsletterWidgetProps) 
             />
             <button
               type="submit"
-              className="bg-navy text-white text-sm font-semibold px-4 py-2 rounded-sm hover:bg-navy-light transition-colors shrink-0"
+              disabled={loading}
+              className="bg-navy text-white text-sm font-semibold px-4 py-2 rounded-sm hover:bg-navy-light transition-colors shrink-0 disabled:opacity-60"
             >
-              Subscribe
+              {loading ? "…" : "Subscribe"}
             </button>
           </form>
         )}
@@ -122,9 +138,10 @@ export function NewsletterWidget({ variant = "banner" }: NewsletterWidgetProps) 
               />
               <button
                 type="submit"
-                className="bg-amber text-navy font-semibold px-6 py-3 rounded-sm hover:bg-amber/90 transition-colors flex items-center justify-center gap-2 text-sm whitespace-nowrap"
+                disabled={loading}
+                className="bg-amber text-navy font-semibold px-6 py-3 rounded-sm hover:bg-amber/90 transition-colors flex items-center justify-center gap-2 text-sm whitespace-nowrap disabled:opacity-60"
               >
-                Subscribe Free <ArrowRight className="w-4 h-4" />
+                {loading ? "Subscribing…" : <><span>Subscribe Free</span> <ArrowRight className="w-4 h-4" /></>}
               </button>
             </form>
           )}

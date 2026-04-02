@@ -4,6 +4,7 @@ import { useState, Suspense } from "react";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { Mail, Send, CheckCircle, Newspaper, BarChart2, CalendarDays } from "lucide-react";
+import { submitContact } from "@/lib/actions";
 
 const ENQUIRY_TYPES = [
   { value: "press-release", label: "Press release submission" },
@@ -43,7 +44,9 @@ export default function ContactPage() {
     message: "",
   });
   const [submitted, setSubmitted] = useState(false);
+  const [loading, setLoading] = useState(false);
   const [errors, setErrors] = useState<Record<string, string>>({});
+  const [serverError, setServerError] = useState("");
 
   function validate() {
     const newErrors: Record<string, string> = {};
@@ -56,7 +59,7 @@ export default function ContactPage() {
     return newErrors;
   }
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     const v = validate();
     if (Object.keys(v).length > 0) {
@@ -64,7 +67,20 @@ export default function ContactPage() {
       return;
     }
     setErrors({});
-    setSubmitted(true);
+    setServerError("");
+    setLoading(true);
+    try {
+      const result = await submitContact(form);
+      if (result.success) {
+        setSubmitted(true);
+      } else {
+        setServerError("Something went wrong. Please try again or email us directly.");
+      }
+    } catch {
+      setServerError("Network error. Please try again.");
+    } finally {
+      setLoading(false);
+    }
   }
 
   return (
@@ -185,11 +201,15 @@ export default function ContactPage() {
                     {errors.message && <p className="text-xs text-red-500">{errors.message}</p>}
                   </div>
 
+                  {serverError && (
+                    <p className="text-red-500 text-sm">{serverError}</p>
+                  )}
                   <button
                     type="submit"
-                    className="bg-navy text-white font-sans font-semibold text-sm px-8 py-3 rounded-sm hover:bg-navy-light transition-colors flex items-center gap-2 self-start"
+                    disabled={loading}
+                    className="bg-navy text-white font-sans font-semibold text-sm px-8 py-3 rounded-sm hover:bg-navy-light transition-colors flex items-center gap-2 self-start disabled:opacity-60"
                   >
-                    Send message <Send className="w-4 h-4" />
+                    {loading ? "Sending…" : <><span>Send message</span> <Send className="w-4 h-4" /></>}
                   </button>
                 </form>
               )}
