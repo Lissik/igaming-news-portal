@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { Mail, ArrowRight } from "lucide-react";
-import { submitNewsletter } from "@/lib/actions";
+const WEB3FORMS_KEY = "a69e661a-d15b-4f55-b7dc-2ae06acc4368";
 
 interface NewsletterWidgetProps {
   variant?: "banner" | "sidebar" | "compact";
@@ -23,14 +23,25 @@ export function NewsletterWidget({ variant = "banner" }: NewsletterWidgetProps) 
     setError("");
     setLoading(true);
     try {
-      const result = await submitNewsletter(email);
-      if (result.success) {
+      const res = await fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify({
+          access_key: WEB3FORMS_KEY,
+          subject: "New Newsletter Subscription — iGaming Pulse",
+          from_name: "iGaming Pulse Newsletter",
+          replyto: email,
+          message: `New newsletter subscription.\n\nEmail: ${email}`,
+        }),
+      });
+      const data = await res.json();
+      if (data.success) {
         setSubmitted(true);
       } else {
-        setError("Something went wrong. Please try again.");
+        setError(data.message || "Something went wrong. Please try again.");
       }
     } catch {
-      setError("Network error. Please try again.");
+      setError("Something went wrong. Please try again.");
     } finally {
       setLoading(false);
     }

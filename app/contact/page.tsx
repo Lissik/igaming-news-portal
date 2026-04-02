@@ -4,7 +4,7 @@ import { useState, Suspense } from "react";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { Mail, Send, CheckCircle, Newspaper, BarChart2, CalendarDays } from "lucide-react";
-import { submitContact } from "@/lib/actions";
+const WEB3FORMS_KEY = "a69e661a-d15b-4f55-b7dc-2ae06acc4368";
 
 const ENQUIRY_TYPES = [
   { value: "press-release", label: "Press release submission" },
@@ -70,14 +70,25 @@ export default function ContactPage() {
     setServerError("");
     setLoading(true);
     try {
-      const result = await submitContact(form);
-      if (result.success) {
+      const res = await fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify({
+          access_key: WEB3FORMS_KEY,
+          subject: `Contact Form: ${form.enquiryType} — iGaming Pulse`,
+          from_name: form.name,
+          replyto: form.email,
+          message: `Name: ${form.name}\nCompany: ${form.company || "—"}\nEmail: ${form.email}\nEnquiry type: ${form.enquiryType}\n\nMessage:\n${form.message}`,
+        }),
+      });
+      const data = await res.json();
+      if (data.success) {
         setSubmitted(true);
       } else {
-        setServerError("Something went wrong. Please try again or email us directly.");
+        setServerError(data.message || "Something went wrong. Please try again.");
       }
     } catch {
-      setServerError("Network error. Please try again.");
+      setServerError("Something went wrong. Please try again.");
     } finally {
       setLoading(false);
     }
