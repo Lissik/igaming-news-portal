@@ -233,7 +233,7 @@ export default function ContactPage() {
                   <Mail className="w-4 h-4 text-amber" />
                   <h3 className="font-sans font-semibold text-sm text-foreground">Direct contact</h3>
                 </div>
-                <p className="text-sm text-muted-foreground mb-1">Partnerships &amp; General inquiries</p>
+                <p className="text-sm text-muted-foreground mb-1">Partnerships &amp; General enquiries</p>
                 <a href="mailto:partnerships@igamingpulse.com" className="text-sm font-medium text-navy hover:underline mb-3 block">partnerships@igamingpulse.com</a>
                 <p className="text-sm text-muted-foreground mb-1">Press releases &amp; accreditation</p>
                 <a href="mailto:press@igamingpulse.com" className="text-sm font-medium text-navy hover:underline block">press@igamingpulse.com</a>
