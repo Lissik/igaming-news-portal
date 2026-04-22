@@ -57,18 +57,20 @@ export function TrendingSection() {
           <div className="lg:col-span-1 flex flex-col gap-6">
             <NewsletterWidget variant="sidebar" />
 
-            {/* Ad placeholder */}
-            <div className="border border-dashed border-border rounded-sm p-6 text-center bg-white">
-              <p className="text-xs text-muted-foreground font-sans uppercase tracking-wider mb-1">Advertisement</p>
-              <div className="h-40 flex items-center justify-center">
-                <div className="text-center">
-                  <p className="text-sm text-muted-foreground font-sans">300 × 250 Banner</p>
-                  <Link href="/contact" className="text-xs text-amber hover:underline mt-1 block">
-                    Advertise here
-                  </Link>
-                </div>
-              </div>
-            </div>
+            {/* Ad banner */}
+            <a
+              href="https://virtuwise.io/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="block overflow-hidden rounded-sm"
+              aria-label="Virtuwise — B2B Lead Generation"
+            >
+              <img
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%D1%8C%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BA%20%281200%20x%20600%20%D0%BF%D0%B8%D0%BA%D1%81.%29-HmTPXQXfRBtlhauj5rALajIvGL51rg.png"
+                alt="Virtuwise — B2B Lead Generation: Not Leads. Real Clients."
+                className="w-full h-auto object-cover"
+              />
+            </a>
           </div>
         </div>
       </div>
