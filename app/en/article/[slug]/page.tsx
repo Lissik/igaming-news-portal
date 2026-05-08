@@ -237,14 +237,16 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     );
                   }
 
-                  // Render inline **bold** within paragraphs
+                  // Render inline **bold** and *italic* within paragraphs
                   const renderInline = (text: string) => {
-                    const parts = text.split(/(\*\*[^*]+\*\*)/g);
-                    return parts.map((part, j) =>
-                      part.startsWith("**") && part.endsWith("**")
-                        ? <strong key={j} className="font-semibold text-foreground">{part.slice(2, -2)}</strong>
-                        : part
-                    );
+                    const parts = text.split(/(\*\*[^*]+\*\*|\*[^*]+\*)/g);
+                    return parts.map((part, j) => {
+                      if (part.startsWith("**") && part.endsWith("**"))
+                        return <strong key={j} className="font-semibold text-foreground">{part.slice(2, -2)}</strong>;
+                      if (part.startsWith("*") && part.endsWith("*"))
+                        return <em key={j}>{part.slice(1, -1)}</em>;
+                      return part;
+                    });
                   };
 
                   return (
