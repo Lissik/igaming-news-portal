@@ -9,13 +9,13 @@ import {
   CATEGORIES,
   formatDate,
 } from "@/lib/data";
-import { Suspense } from "react";
+import React, { Suspense } from "react";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { ArticleCard } from "@/components/articles/article-card";
 import { NewsletterWidget } from "@/components/newsletter-widget";
 import { ArticleInteractions } from "@/components/articles/article-interactions";
-import { ExternalLink, Heart, MessageCircle, Clock, Tag } from "lucide-react";
+import { ExternalLink, Heart, MessageCircle, Clock, Tag, ArrowRight } from "lucide-react";
 
 interface ArticlePageProps {
   params: Promise<{ slug: string }>;
@@ -216,9 +216,41 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
               {/* Prose content */}
               <div className="max-w-none font-sans text-foreground leading-relaxed">
-                {article.content.split("\n\n").map((block, i) => {
+                {(() => {
+                  // Render inline tokens: **bold**, *italic*, [text](url)
+                  const renderInline = (text: string): React.ReactNode[] => {
+                    const parts = text.split(/(\*\*[^*]+\*\*|\*[^*]+\*|\[[^\]]+\]\([^)]+\))/g);
+                    return parts.map((part, j) => {
+                      if (part.startsWith("**") && part.endsWith("**"))
+                        return <strong key={j} className="font-semibold text-foreground">{part.slice(2, -2)}</strong>;
+                      if (part.startsWith("*") && part.endsWith("*") && !part.startsWith("**"))
+                        return <em key={j}>{part.slice(1, -1)}</em>;
+                      const linkMatch = part.match(/^\[(.+?)\]\((.+?)\)$/);
+                      if (linkMatch) {
+                        const [, label, href] = linkMatch;
+                        const isInternal = href.startsWith("/");
+                        return isInternal ? (
+                          <Link key={j} href={href} className="text-amber hover:text-amber/80 underline underline-offset-2 transition-colors">
+                            {label}
+                          </Link>
+                        ) : (
+                          <a key={j} href={href} target="_blank" rel="noopener noreferrer" className="text-amber hover:text-amber/80 underline underline-offset-2 transition-colors">
+                            {label}
+                          </a>
+                        );
+                      }
+                      return part;
+                    });
+                  };
+
+                  return article.content.split("\n\n").map((block, i) => {
                   const trimmed = block.trim();
                   if (!trimmed) return null;
+
+                  // Horizontal rule
+                  if (trimmed === "---") {
+                    return <hr key={i} className="my-6 border-border" />;
+                  }
 
                   // ## Heading
                   if (trimmed.startsWith("## ")) {
@@ -237,24 +269,57 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     );
                   }
 
-                  // Render inline **bold** and *italic* within paragraphs
-                  const renderInline = (text: string) => {
-                    const parts = text.split(/(\*\*[^*]+\*\*|\*[^*]+\*)/g);
-                    return parts.map((part, j) => {
-                      if (part.startsWith("**") && part.endsWith("**"))
-                        return <strong key={j} className="font-semibold text-foreground">{part.slice(2, -2)}</strong>;
-                      if (part.startsWith("*") && part.endsWith("*"))
-                        return <em key={j}>{part.slice(1, -1)}</em>;
-                      return part;
-                    });
-                  };
+                  // Bullet list block (lines starting with "- ")
+                  if (trimmed.split("\n").every((line) => line.startsWith("- ") || line.trim() === "")) {
+                    const items = trimmed.split("\n").filter((l) => l.startsWith("- "));
+                    return (
+                      <ul key={i} className="mb-5 space-y-1.5 pl-5 list-disc marker:text-amber">
+                        {items.map((item, j) => (
+                          <li key={j} className="text-base leading-relaxed text-foreground/90">
+                            {renderInline(item.slice(2))}
+                          </li>
+                        ))}
+                      </ul>
+                    );
+                  }
+
+                  // Standalone markdown link block: [label](url) — render as a pill-style link
+                  const standaloneLink = trimmed.match(/^\[(.+?)\]\((.+?)\)$/);
+                  if (standaloneLink) {
+                    const [, label, href] = standaloneLink;
+                    const isInternal = href.startsWith("/");
+                    return (
+                      <div key={i} className="mb-4">
+                        {isInternal ? (
+                          <Link
+                            href={href}
+                            className="inline-flex items-center gap-1.5 text-sm font-medium text-amber hover:text-amber/80 transition-colors underline underline-offset-2"
+                          >
+                            {label}
+                            <ArrowRight className="w-3.5 h-3.5 shrink-0" />
+                          </Link>
+                        ) : (
+                          <a
+                            href={href}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="inline-flex items-center gap-1.5 text-sm font-medium text-amber hover:text-amber/80 transition-colors underline underline-offset-2"
+                          >
+                            {label}
+                            <ExternalLink className="w-3.5 h-3.5 shrink-0" />
+                          </a>
+                        )}
+                      </div>
+                    );
+                  }
 
                   return (
                     <p key={i} className="mb-5 text-base leading-relaxed text-foreground/90">
                       {renderInline(trimmed)}
                     </p>
                   );
-                })}
+                });
+                })()}
               </div>
 
               {/* Source citation */}
