@@ -9,7 +9,8 @@ interface ArticleCardProps {
 }
 
 export function ArticleCard({ article, variant = "default" }: ArticleCardProps) {
-  const category = CATEGORIES[article.category];
+  if (!article) return null;
+  const category = CATEGORIES[article.category] ?? { label: article.category, slug: article.category, description: "" };
   const articleUrl = `/en/article/${article.slug}`;
 
   if (variant === "featured") {
