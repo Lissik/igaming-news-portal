@@ -4361,7 +4361,7 @@ export const ARTICLES: Article[] = [
     translationGroupId: "tg-157",
     title: "Brazil Blocks 27 Prediction Market Platforms Including Kalshi and Polymarket — Effective May 4, Central Bank Deadline of May 25 for Bank Enforcement Norms",
     excerpt: "Brazil blocked 27 prediction market platforms including Kalshi and Polymarket effective May 4, with the Central Bank facing a May 25 deadline to publish the financial norms that will force banks and fintechs to execute payment blocks — making Brazil the first major regulated gambling market to comprehensively close off prediction market access through both law and payment infrastructure.",
-    content: `## Brazil Shuts Down Prediction Markets — Kalshi and Polymarket Among 27 Platforms Blocked\n\nBrazil's government has executed the world's most sweeping government action against prediction market platforms, blocking at least 27 operators including Kalshi and Polymarket with effect from May 4, 2026 — and setting a Central Bank deadline that will force the country's banking and fintech sector to actively prevent payment flows to blocked platforms.\n\n### What Happened\n\nBrazil's National Monetary Council issued regulations prohibiting the offering and trading of derivative agreements whose underlying assets are linked to sports events, political events, and electoral outcomes ������������������������������������������� the core product categories of Kalshi, Polymarket, and similar platforms. The Secretariat for Prizes and Betting (SPA) is the primary enforcement authority. As a direct consequence, at least 27 prediction market platforms have been blocked for Brazilian users.\n\nThe Central Bank of Brazil has been given until May 25, 2026 to publish the specific technical norms that will require Brazilian banks, payment processors, and fintechs to execute financial blocks on the identified platforms — a payment-level enforcement mechanism modelled on Brazil's existing illegal sports betting platform blocking system, which has been used against over 2,000 unlicensed operators since the regulated market launched in January 2025.\n\n### Why It Matters\n\nBrazil's approach is more sophisticated than a simple platform ban. By combining a legal prohibition with a payment-level enforcement mandate directed at the banking sector, Brazil is building the same infrastructure that has made its illegal sports betting crackdown unusually effective. When the Central Bank norms are published on May 25, Brazilian banks and fintechs face formal regulatory obligation to block deposits to 27 named platforms — removing the payment pathway that allows grey-market operators to continue operating despite nominal bans.\n\nBrazil's prediction market ban is the world's most comprehensive government action against Kalshi-style platforms to date. With 78 licensed operators and a market that generated billions in GGR in its first year of regulation, Brazil represents a tier-1 commercial market where prediction platforms had been building user bases without licences. For Brazil's licensed operators and their B2B suppliers, the ban removes a direct unregulated competitor from the country's most commercially important wagering audience.\n\n### Industry Context\n\nThe Brazilian model — legal ban plus payment infrastructure enforcement — is likely to be studied by other regulators as a template for effective prediction market restriction. Unlike domain blocking (which is easily circumvented by VPN) or app store removal (which addresses only mobile access), payment blocking creates a structural barrier at the financial infrastructure level. Brazil's existing experience executing payment blocks against over 2,000 illegal sports betting sites means the administrative machinery for the prediction market enforcement already exists.`,
+    content: `## Brazil Shuts Down Prediction Markets — Kalshi and Polymarket Among 27 Platforms Blocked\n\nBrazil's government has executed the world's most sweeping government action against prediction market platforms, blocking at least 27 operators including Kalshi and Polymarket with effect from May 4, 2026 — and setting a Central Bank deadline that will force the country's banking and fintech sector to actively prevent payment flows to blocked platforms.\n\n### What Happened\n\nBrazil's National Monetary Council issued regulations prohibiting the offering and trading of derivative agreements whose underlying assets are linked to sports events, political events, and electoral outcomes ��������������������������������������������� the core product categories of Kalshi, Polymarket, and similar platforms. The Secretariat for Prizes and Betting (SPA) is the primary enforcement authority. As a direct consequence, at least 27 prediction market platforms have been blocked for Brazilian users.\n\nThe Central Bank of Brazil has been given until May 25, 2026 to publish the specific technical norms that will require Brazilian banks, payment processors, and fintechs to execute financial blocks on the identified platforms — a payment-level enforcement mechanism modelled on Brazil's existing illegal sports betting platform blocking system, which has been used against over 2,000 unlicensed operators since the regulated market launched in January 2025.\n\n### Why It Matters\n\nBrazil's approach is more sophisticated than a simple platform ban. By combining a legal prohibition with a payment-level enforcement mandate directed at the banking sector, Brazil is building the same infrastructure that has made its illegal sports betting crackdown unusually effective. When the Central Bank norms are published on May 25, Brazilian banks and fintechs face formal regulatory obligation to block deposits to 27 named platforms — removing the payment pathway that allows grey-market operators to continue operating despite nominal bans.\n\nBrazil's prediction market ban is the world's most comprehensive government action against Kalshi-style platforms to date. With 78 licensed operators and a market that generated billions in GGR in its first year of regulation, Brazil represents a tier-1 commercial market where prediction platforms had been building user bases without licences. For Brazil's licensed operators and their B2B suppliers, the ban removes a direct unregulated competitor from the country's most commercially important wagering audience.\n\n### Industry Context\n\nThe Brazilian model — legal ban plus payment infrastructure enforcement — is likely to be studied by other regulators as a template for effective prediction market restriction. Unlike domain blocking (which is easily circumvented by VPN) or app store removal (which addresses only mobile access), payment blocking creates a structural barrier at the financial infrastructure level. Brazil's existing experience executing payment blocks against over 2,000 illegal sports betting sites means the administrative machinery for the prediction market enforcement already exists.`,
     featuredImage: "/images/articles/brazil-prediction-markets-ban-27-platforms-may-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-05-09T12:00:00Z",
@@ -7506,7 +7506,7 @@ Virtuwise helps iGaming B2B companies build and execute outreach campaigns that 
     comments: [],
   },
 
-  // ── June 22, 2026 ────────────────────────────────────��────────────────────
+  // ── June 22, 2026 ──────────────────────────────────��─��────────────────────
   {
     id: "262",
     slug: "london-igaming-regcom-summit-2026",
@@ -7681,6 +7681,105 @@ Virtuwise helps iGaming B2B companies build and execute outreach campaigns that 
     seoTitle: "Colombia Council of State Strikes Down Coljuegos Online Gambling Ad Spending Caps 2026 | iGaming Pulse",
     metaDescription: "Colombia's Council of State suspends Coljuegos' marketing budget restrictions on licensed online gambling operators — a landmark ruling that delivers immediate commercial relief, levels the field against offshore operators, and sets a precedent for proportionality in Latin American advertising regulation.",
     likes: 25,
+    comments: [],
+  },
+
+  // ── June 23, 2026 ─────────────────────────────────────────────────────────
+  {
+    id: "268",
+    slug: "openslot-daniela-lanzolla-ai-igaming-mindset-2026",
+    language: "en",
+    translationGroupId: "tg-268",
+    title: "AI Won't Fix Your Business: Why Most iGaming Companies Are Thinking About AI the Wrong Way",
+    excerpt: "OpenSlot's Daniela Lanzolla explains why most iGaming AI strategies fail — and why the real competitive advantage belongs to companies that learn faster, not those that buy the newest tools.",
+    content: `*Expert interview with Daniela Lanzolla, Director of Product — AI & Slot Production at OpenSlot.*
+
+---
+
+Artificial Intelligence has become one of the most discussed topics across the iGaming industry. Every conference has multiple AI panels. Every company has an AI strategy. Every executive seems to be exploring how AI can improve efficiency, reduce costs, or accelerate growth.
+
+Yet after speaking with operators, product leaders and technology providers across Europe, one thing has become increasingly clear: the biggest challenge is not the technology itself. It is the mindset behind it.
+
+During a recent conversation with Daniela Lanzolla, Director of Product — AI & Slot Production at OpenSlot, one particular statement stood out:
+
+> *"The biggest mistake is when a CEO wakes up one morning and says: everybody should use AI."*
+
+At first glance, that sounds reasonable. In reality, it is often where AI adoption starts to fail.
+
+## AI Is Not a Project. It Is a Change in How People Work
+
+Many companies approach AI as if it were another software implementation. They buy licences. Run a workshop. Give employees access to ChatGPT. And consider the job done.
+
+But successful AI adoption rarely works that way.
+
+According to Daniela, the most effective transformations start from the bottom up. People need time to experiment. They need to understand how these tools improve their own workflows. They need to see personal value before AI becomes part of their daily routine.
+
+Technology can be introduced overnight. Behaviour cannot.
+
+## Why Legacy Companies Have a Harder Time
+
+One of the most interesting parts of our discussion focused on the concept of AI-native businesses. Today, many companies describe themselves as AI-first. However, most established organisations carry significant legacy:
+
+- Existing software infrastructure
+- Technical debt
+- Established teams and operational processes
+- Customer commitments
+- Internal politics and decision-making structures
+
+This makes transformation significantly more difficult. A startup launched today can design its workflows around AI from day one. An established operator has to redesign existing systems while continuing to serve customers and maintain performance. These are completely different challenges.
+
+## The Most Important AI KPI Is Not Cost Reduction
+
+Like many business leaders, I kept returning to the same question: what are the actual KPIs? How much money can companies save? What ROI should they expect?
+
+The answer surprised me. The first KPI is time.
+
+If a feature that previously required three months can now be tested in two weeks, that alone creates a competitive advantage. If a concept that once took weeks to prototype can now be explored within hours, companies can validate significantly more ideas.
+
+The real value of AI is not automation. It is faster learning. And faster learning leads to better business decisions.
+
+## AI-Native Operators Will Change the Industry
+
+Perhaps the most provocative prediction from our conversation was this: if an operator were launched from scratch today, it could potentially operate with a fraction of the headcount required just a few years ago.
+
+Not because AI replaces people. But because AI amplifies productivity. Teams can move faster. Products can evolve faster. Ideas can be tested faster.
+
+As a result, established operators will increasingly compete not only against each other, but also against a new generation of AI-native companies built around entirely different operating models.
+
+## Who Will Actually Win?
+
+The companies that benefit most from AI will not necessarily be the ones talking about it the most. Nor will they be the ones buying the newest tools.
+
+The winners will be those that learn faster. Adapt faster. Experiment faster. And redesign their workflows around speed and continuous learning.
+
+AI is not a magic solution. It is an accelerator. And accelerators amplify both strengths and weaknesses.
+
+Which means the most important question for business leaders today is not: *"Are we using AI?"*
+
+But rather: *"Are we ready to work differently?"*
+
+---
+
+*Special thanks to Frank Ritter for sharing his experience and insights during our conversation.*`,
+    featuredImage: "/images/articles/openslot-daniela-lanzolla-ai-igaming-mindset-2026.jpg",
+    author: AUTHORS[2],
+    publishedAt: "2026-06-23T09:00:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t985", label: "AI iGaming Strategy", slug: "ai-igaming-strategy-2026" },
+      { id: "t986", label: "Daniela Lanzolla OpenSlot", slug: "daniela-lanzolla-openslot" },
+      { id: "t987", label: "AI Adoption Mindset", slug: "ai-adoption-mindset-igaming" },
+      { id: "t988", label: "AI-Native Operators", slug: "ai-native-igaming-operators" },
+      { id: "t989", label: "Expert Interview iGaming", slug: "expert-interview-igaming-2026" },
+    ],
+    sourceName: "iGaming Pulse",
+    sourceUrl: "https://igamingpulse.com",
+    featured: true,
+    trending: true,
+    sponsored: false,
+    seoTitle: "AI Won't Fix Your Business: Why iGaming Companies Are Thinking About AI the Wrong Way — Daniela Lanzolla, OpenSlot | iGaming Pulse",
+    metaDescription: "OpenSlot's Daniela Lanzolla challenges top-down AI mandates and explains why the real competitive advantage in iGaming belongs to companies that learn faster — not those with the biggest AI budgets. Key insights on mindset, speed, and decision-making for iGaming leaders in 2026.",
+    likes: 41,
     comments: [],
   },
 ];
