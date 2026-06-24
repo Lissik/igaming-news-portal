@@ -202,7 +202,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             {/* Main article content */}
             <article className="lg:col-span-3">
               {/* Featured image */}
-              <div className="relative w-full h-64 md:h-96 rounded-sm overflow-hidden mb-8">
+              <div className="relative w-full aspect-video rounded-sm overflow-hidden mb-8">
                 <Image
                   src={article.featuredImage}
                   alt={article.title}
