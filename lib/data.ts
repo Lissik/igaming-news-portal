@@ -2423,7 +2423,7 @@ export const ARTICLES: Article[] = [
     translationGroupId: "tg-90",
     title: "DraftKings Settles MLBPA NIL Lawsuit as Federal Judge Formally Dismisses Case",
     excerpt: "A federal judge in Philadelphia has formally dismissed the MLB Players Association's NIL lawsuit against DraftKings and Bet365, following a private settlement whose financial terms remain undisclosed — ending a case that centred on the unauthorised use of MLB player imagery in sportsbook promotions.",
-    content: `## DraftKings Settles MLBPA Player Imagery Lawsuit — NIL Licensing Now an Operator Cost\n\nDraftKings has reached a private settlement with MLB Players Inc., leading a federal judge in Philadelphia to formally dismiss the right of publicity case — effectively closing the last major unresolved NIL dispute between a top-tier US sportsbook and a major professional sports league.\n\n### What Happened\n\nUS District Judge Karen Spencer Marston dismissed the case on approximately April 6–10, 2026, after both parties notified the court of a resolution. The MLBPA had alleged that DraftKings, alongside Bet365, used the names, images, and likenesses of nearly every active MLB player in sportsbook apps and social media marketing campaigns without a licence ��� in violation of Pennsylvania's right of publicity statute and common law misappropriation. Judge Marston had previously rejected DraftKings' argument that the player imagery use was journalistic rather than commercial. Settlement terms, including any licensing fees, player payments, or prospective advertising commitments, were not made public.\n\n### Why It Matters\n\nFanDuel settled an equivalent MLBPA claim in November 2024 for undisclosed terms and entered a licensing agreement to formalise its use of player likenesses going forward. DraftKings' settlement almost certainly follows a similar template — which means both of the US sportsbook duopoly now have licensing arrangements with the MLBPA. This sets a clear precedent: using professional athlete imagery in sportsbook marketing without a direct licence is legally untenable. For operators across the US market, the DraftKings and FanDuel outcomes together establish a new cost baseline for marketing to sports fans — league NIL licensing fees must be budgeted alongside media spend.\n\n### Industry Context\n\nThe MLBPA has filed parallel NIL suits against FanDuel and Underdog Fantasy in New York, which remain pending. As those cases progress, the DraftKings and FanDuel settlements will function as implicit benchmarks for negotiated resolution — meaning the cost and structure of operator NIL arrangements with major US sports leagues is becoming an industry-standard compliance issue rather than an exceptional legal risk.`,
+    content: `## DraftKings Settles MLBPA Player Imagery Lawsuit — NIL Licensing Now an Operator Cost\n\nDraftKings has reached a private settlement with MLB Players Inc., leading a federal judge in Philadelphia to formally dismiss the right of publicity case — effectively closing the last major unresolved NIL dispute between a top-tier US sportsbook and a major professional sports league.\n\n### What Happened\n\nUS District Judge Karen Spencer Marston dismissed the case on approximately April 6–10, 2026, after both parties notified the court of a resolution. The MLBPA had alleged that DraftKings, alongside Bet365, used the names, images, and likenesses of nearly every active MLB player in sportsbook apps and social media marketing campaigns without a licence ����� in violation of Pennsylvania's right of publicity statute and common law misappropriation. Judge Marston had previously rejected DraftKings' argument that the player imagery use was journalistic rather than commercial. Settlement terms, including any licensing fees, player payments, or prospective advertising commitments, were not made public.\n\n### Why It Matters\n\nFanDuel settled an equivalent MLBPA claim in November 2024 for undisclosed terms and entered a licensing agreement to formalise its use of player likenesses going forward. DraftKings' settlement almost certainly follows a similar template — which means both of the US sportsbook duopoly now have licensing arrangements with the MLBPA. This sets a clear precedent: using professional athlete imagery in sportsbook marketing without a direct licence is legally untenable. For operators across the US market, the DraftKings and FanDuel outcomes together establish a new cost baseline for marketing to sports fans — league NIL licensing fees must be budgeted alongside media spend.\n\n### Industry Context\n\nThe MLBPA has filed parallel NIL suits against FanDuel and Underdog Fantasy in New York, which remain pending. As those cases progress, the DraftKings and FanDuel settlements will function as implicit benchmarks for negotiated resolution — meaning the cost and structure of operator NIL arrangements with major US sports leagues is becoming an industry-standard compliance issue rather than an exceptional legal risk.`,
     featuredImage: "/images/articles/draftkings-mlbpa-nil-settlement-april-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-04-10T09:00:00Z",
@@ -8371,7 +8371,7 @@ But rather: *"Are we ready to work differently?"*
     comments: [],
   },
 
-  // ── July 1, 2026 ───────────────────────────────────────────────���──────────
+  // ── July 1, 2026 ───────────────────────────────────────────���───���──────────
   {
     id: "289",
     slug: "election-betting-scandal-guilty-pleas-2026",
@@ -9630,6 +9630,81 @@ And for regulated markets, that may become the difference between growth that la
     seoTitle: "Michael Burry Takes Long Positions in DraftKings and Flutter Entertainment 2026 | iGaming Pulse",
     metaDescription: "Michael Burry's Scion Asset Management discloses long positions in DraftKings (DKNG) and Flutter Entertainment (FLUT) during a period of peak regulatory noise — signalling that the 'Big Short' investor sees near-term headwinds as a contrarian buying opportunity in US sports wagering.",
     likes: 44,
+    comments: [],
+  },
+
+  {
+    id: "316",
+    slug: "liga-summit-2026-lima-peru-prediction-markets-affiliate",
+    language: "en",
+    translationGroupId: "tg-316",
+    title: "Two Months Until LiGA Summit 2026 & the Debut of Prediction Markets Summit Americas in Lima, Peru",
+    excerpt: "The inaugural LATAM iGaming Affiliate Summit arrives in Lima, Peru on 17–18 September 2026, featuring the first-ever Prediction Markets Summit Americas as a dedicated half-day stream.",
+    content: `In just over two months, the inaugural LatAm iGaming Affiliate (LiGA) Summit 2026 will welcome renowned regional and international gaming stakeholders to Lima, Peru on **17–18 September 2026** at the El Pardo Lima — A DoubleTree by Hilton Hotel.
+
+Alongside the main summit programme, the **Prediction Markets Summit Americas** will debut as a dedicated half-day stream on 18 September, covering prediction markets, forecasting infrastructure, and event-based products within regulated gaming markets.
+
+The upcoming summit follows Peru's rollout of a new licensing framework and comes amid structural change across Latin America's gaming sector. With increased regulatory clarity in place, the main agenda will spotlight the practical realities of market growth, including affiliate compliance, responsible marketing, AML and KYC obligations, and player protection frameworks.
+
+## Highlights on the Agenda
+
+### Day One | Thursday, 17 September
+
+- Peru's New Licensing Era and Its Impact on Market Stability
+- Peru at the Centre of LatAm iGaming: From Regulation to Profitability
+- The Rise of Creator Affiliates in Latin America: TikTok, YouTube, and Short-Form Performance Marketing
+
+### Day Two | Friday, 18 September – Main Summit
+
+- Regulatory Cooperation Across Latin America – Pathways to Regional Alignment
+- The New Age of AML and KYC in Peru's Digital Betting Market
+- Responsible Marketing: Maintaining Growth While Meeting New Compliance Standards
+
+### Day Two | Friday, 18 September – Prediction Markets, Forecasting & Event-Based Products
+
+- Building Trust in Event-Based Products: Fraud Prevention, Cybersecurity and Market Integrity
+- Brazil's Regulatory Signal: What LatAm Can Learn from Prediction Market Regulation
+- Beyond Betting: Forecasting Tools for Media, Business Intelligence and Public Decision-Making
+
+## Hear from LatAm's Renowned Gaming Leaders
+
+Confirmed contributors include:
+
+- **Celeste Arredondo**, Founder, International Gaming Women
+- **Israel Vasquez**, Brand & Content Manager, Azar Latino
+- **Jonathan Felix**, CEO, GLOBAL BUSINESS COMPANY DE PERU S.A.C.
+- **Renzo Escalante**, CEO, Clases Play
+- **Sergio Poves Vidal**, LatAm Gaming, Regulatory Affairs & Compliance Advisor, Betsson Group
+
+*And many more.*
+
+## Join Discussions on Latest Regulatory, Compliance & Prediction Market Developments
+
+The upcoming LiGA Summit is the ideal opportunity to understand how regulation is being implemented across Latin America's gaming markets, alongside dedicated insight into prediction markets — one of the most talked-about emerging opportunities in iGaming right now.
+
+Register: [https://www.eventus-international.com/liga](https://www.eventus-international.com/liga)
+
+**Sponsorship Enquiries:** Lou-Mari Burnett, Chief Operating Officer, Eventus International — [loumari@eventus-international.com](mailto:loumari@eventus-international.com)`,
+    featuredImage: "/images/articles/liga-summit-2026-lima-peru-prediction-markets.jpg",
+    author: AUTHORS[0],
+    publishedAt: "2026-07-08T13:00:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t1223", label: "LiGA Summit 2026 Lima", slug: "liga-summit-2026-lima-peru" },
+      { id: "t1224", label: "Prediction Markets Summit Americas", slug: "prediction-markets-summit-americas-2026" },
+      { id: "t1225", label: "LATAM iGaming Affiliate", slug: "latam-igaming-affiliate-summit" },
+      { id: "t1226", label: "Peru iGaming Regulation", slug: "peru-igaming-regulation-2026" },
+      { id: "t1227", label: "Eventus International LiGA", slug: "eventus-international-liga-summit" },
+      { id: "t1228", label: "LatAm Affiliate Compliance", slug: "latam-affiliate-compliance-marketing" },
+    ],
+    sourceName: "Eventus International",
+    sourceUrl: "https://www.eventus-international.com/liga",
+    featured: true,
+    trending: true,
+    sponsored: false,
+    seoTitle: "LiGA Summit 2026 Lima Peru: Inaugural LATAM iGaming Affiliate Summit & Prediction Markets Debut | iGaming Pulse",
+    metaDescription: "The inaugural LiGA Summit arrives in Lima, Peru on 17–18 September 2026 at El Pardo Lima – DoubleTree by Hilton, featuring Peru regulatory sessions, affiliate compliance panels, and the first-ever Prediction Markets Summit Americas half-day stream on 18 September.",
+    likes: 33,
     comments: [],
   },
 ];
