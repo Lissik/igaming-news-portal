@@ -4361,7 +4361,7 @@ export const ARTICLES: Article[] = [
     translationGroupId: "tg-157",
     title: "Brazil Blocks 27 Prediction Market Platforms Including Kalshi and Polymarket — Effective May 4, Central Bank Deadline of May 25 for Bank Enforcement Norms",
     excerpt: "Brazil blocked 27 prediction market platforms including Kalshi and Polymarket effective May 4, with the Central Bank facing a May 25 deadline to publish the financial norms that will force banks and fintechs to execute payment blocks — making Brazil the first major regulated gambling market to comprehensively close off prediction market access through both law and payment infrastructure.",
-    content: `## Brazil Shuts Down Prediction Markets — Kalshi and Polymarket Among 27 Platforms Blocked\n\nBrazil's government has executed the world's most sweeping government action against prediction market platforms, blocking at least 27 operators including Kalshi and Polymarket with effect from May 4, 2026 — and setting a Central Bank deadline that will force the country's banking and fintech sector to actively prevent payment flows to blocked platforms.\n\n### What Happened\n\nBrazil's National Monetary Council issued regulations prohibiting the offering and trading of derivative agreements whose underlying assets are linked to sports events, political events, and electoral outcomes ����������������������������������������������������������� the core product categories of Kalshi, Polymarket, and similar platforms. The Secretariat for Prizes and Betting (SPA) is the primary enforcement authority. As a direct consequence, at least 27 prediction market platforms have been blocked for Brazilian users.\n\nThe Central Bank of Brazil has been given until May 25, 2026 to publish the specific technical norms that will require Brazilian banks, payment processors, and fintechs to execute financial blocks on the identified platforms — a payment-level enforcement mechanism modelled on Brazil's existing illegal sports betting platform blocking system, which has been used against over 2,000 unlicensed operators since the regulated market launched in January 2025.\n\n### Why It Matters\n\nBrazil's approach is more sophisticated than a simple platform ban. By combining a legal prohibition with a payment-level enforcement mandate directed at the banking sector, Brazil is building the same infrastructure that has made its illegal sports betting crackdown unusually effective. When the Central Bank norms are published on May 25, Brazilian banks and fintechs face formal regulatory obligation to block deposits to 27 named platforms — removing the payment pathway that allows grey-market operators to continue operating despite nominal bans.\n\nBrazil's prediction market ban is the world's most comprehensive government action against Kalshi-style platforms to date. With 78 licensed operators and a market that generated billions in GGR in its first year of regulation, Brazil represents a tier-1 commercial market where prediction platforms had been building user bases without licences. For Brazil's licensed operators and their B2B suppliers, the ban removes a direct unregulated competitor from the country's most commercially important wagering audience.\n\n### Industry Context\n\nThe Brazilian model — legal ban plus payment infrastructure enforcement — is likely to be studied by other regulators as a template for effective prediction market restriction. Unlike domain blocking (which is easily circumvented by VPN) or app store removal (which addresses only mobile access), payment blocking creates a structural barrier at the financial infrastructure level. Brazil's existing experience executing payment blocks against over 2,000 illegal sports betting sites means the administrative machinery for the prediction market enforcement already exists.`,
+    content: `## Brazil Shuts Down Prediction Markets — Kalshi and Polymarket Among 27 Platforms Blocked\n\nBrazil's government has executed the world's most sweeping government action against prediction market platforms, blocking at least 27 operators including Kalshi and Polymarket with effect from May 4, 2026 — and setting a Central Bank deadline that will force the country's banking and fintech sector to actively prevent payment flows to blocked platforms.\n\n### What Happened\n\nBrazil's National Monetary Council issued regulations prohibiting the offering and trading of derivative agreements whose underlying assets are linked to sports events, political events, and electoral outcomes ������������������������������������������������������������� the core product categories of Kalshi, Polymarket, and similar platforms. The Secretariat for Prizes and Betting (SPA) is the primary enforcement authority. As a direct consequence, at least 27 prediction market platforms have been blocked for Brazilian users.\n\nThe Central Bank of Brazil has been given until May 25, 2026 to publish the specific technical norms that will require Brazilian banks, payment processors, and fintechs to execute financial blocks on the identified platforms — a payment-level enforcement mechanism modelled on Brazil's existing illegal sports betting platform blocking system, which has been used against over 2,000 unlicensed operators since the regulated market launched in January 2025.\n\n### Why It Matters\n\nBrazil's approach is more sophisticated than a simple platform ban. By combining a legal prohibition with a payment-level enforcement mandate directed at the banking sector, Brazil is building the same infrastructure that has made its illegal sports betting crackdown unusually effective. When the Central Bank norms are published on May 25, Brazilian banks and fintechs face formal regulatory obligation to block deposits to 27 named platforms — removing the payment pathway that allows grey-market operators to continue operating despite nominal bans.\n\nBrazil's prediction market ban is the world's most comprehensive government action against Kalshi-style platforms to date. With 78 licensed operators and a market that generated billions in GGR in its first year of regulation, Brazil represents a tier-1 commercial market where prediction platforms had been building user bases without licences. For Brazil's licensed operators and their B2B suppliers, the ban removes a direct unregulated competitor from the country's most commercially important wagering audience.\n\n### Industry Context\n\nThe Brazilian model — legal ban plus payment infrastructure enforcement — is likely to be studied by other regulators as a template for effective prediction market restriction. Unlike domain blocking (which is easily circumvented by VPN) or app store removal (which addresses only mobile access), payment blocking creates a structural barrier at the financial infrastructure level. Brazil's existing experience executing payment blocks against over 2,000 illegal sports betting sites means the administrative machinery for the prediction market enforcement already exists.`,
     featuredImage: "/images/articles/brazil-prediction-markets-ban-27-platforms-may-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-05-09T12:00:00Z",
@@ -8809,6 +8809,138 @@ But rather: *"Are we ready to work differently?"*
     seoTitle: "Sentosa Island Gets Nintendo World & Expanded Resorts World Casino — Singapore 2026 | iGaming Pulse",
     metaDescription: "Singapore's Sentosa Development Corporation unveils a multi-year island transformation featuring Super Nintendo World and a major Resorts World casino upgrade — reinforcing Asia-Pacific integrated resort leadership and demonstrating how IP-driven non-gaming attractions enhance gaming destination appeal.",
     likes: 38,
+    comments: [],
+  },
+
+  {
+    id: "304",
+    slug: "why-companies-fail-german-betting-market-imam-elci-2026",
+    language: "en",
+    translationGroupId: "tg-304",
+    title: "Why Most Companies Fail Entering the German Betting Market",
+    excerpt: "A conversation with Imam Elci, Sales Director at sportwetten.de, on trust, retail, omnichannel and why Germany punishes shallow market entry.",
+    content: `*Based on a conversation with Imam Elci, Sales Director at sportwetten.de.*
+
+---
+
+Imam Elci is not a market theorist.
+
+He is one of the people who sees the German betting market from the inside — every day.
+
+Today, he works as Sales Director at sportwetten.de, one of the established names in the German sports betting market. In this role, he is responsible for a retail network of around 240 betting shops across Germany and manages the connection between sales teams, shop operations, compliance, marketing and product.
+
+Before that, Imam spent years in senior sales roles at Playtech BGT Sports Germany and more than a decade at mybet.
+
+That background matters.
+
+Because Germany is a market many companies try to understand from reports, lawyers, conferences and outside assumptions. Imam understands it from the street level — from betting shops, from customers, from franchise partners, from retail behaviour, from payout expectations, from the gap between regulation and commercial reality.
+
+That is why I wanted to speak with him. Not to ask another generic question about German regulation. But to understand why so many companies enter Germany with money, product and ambition — and still fail.
+
+## Germany is attractive, but not simple
+
+From the outside, Germany looks like one of the most attractive betting markets in Europe. It is large, wealthy, has more than 80 million people, a strong sports culture, and a regulated market structure. For international operators, it looks like a market where serious money can be made.
+
+That part is true.
+
+But it is also one of the markets where operators can burn millions before understanding what they actually got wrong. Most people explain this with one word: regulation. And yes, regulation matters. But after speaking with Imam, I think many companies over-focus on regulation and under-focus on the customer. A company can have lawyers, capital, product, licence strategy and a marketing budget — and still be commercially wrong.
+
+## Know Your Customer is not only compliance
+
+One of Imam's strongest points was simple: Know Your Customer is not only a regulatory concept. It is also a commercial concept. It means understanding how German players think, behave, deposit, withdraw, trust, hesitate, switch and stay.
+
+Many companies enter Germany with a product, brand or marketing strategy that worked somewhere else — the UK, Spain, Turkey, Malta — and assume they can bring the same logic to Germany. But German betting behaviour is different. The customer is different. The trust barrier is different. The role of retail is different. The relationship with cash is different.
+
+## Trust comes before product
+
+The most important word in our conversation was not regulation. It was trust.
+
+In Germany, betting is not only entertainment. It is also a financial trust transaction. A player is not only asking: "Can I place a bet?" He is asking: "If I win, will I receive my money?"
+
+That question defines the market.
+
+German players are often conservative when it comes to money, payments and institutions. They want reliability. They want confidence. If a payout takes too long, trust breaks quickly. If a company looks unstable, trust breaks quickly. For many German players, the first layer of trust is not the app — it is the feeling that the company can and will pay.
+
+That is why retail still matters.
+
+## Retail is not dead. Retail is trust infrastructure.
+
+A common outside assumption is that retail betting is slowly becoming irrelevant. Germany shows a more complex picture.
+
+In Germany, betting shops are not only places where bets are placed. They are physical trust points. Customers know the shop. They know the people behind the counter. They know where to deposit cash. They know where to go if something does not feel right. Retail customers can be much more loyal than online-only customers. Online users may switch quickly. Retail customers can stay connected to the same shop for years.
+
+Retail should not only be viewed as an old distribution channel. In Germany, retail can become a trust layer for online growth.
+
+## Germany is omnichannel
+
+One of the most important points from our conversation was that Germany cannot be reduced to "retail versus online." The market is increasingly omnichannel.
+
+The betting shop, customer card, online account, app, website, cash deposit, payout experience and customer support need to work together. For retail customers, the bridge into online often comes through the member card — the shop creates trust, the card creates continuity, the online account creates digital usage.
+
+This is why a serious German strategy cannot treat retail and online as completely separate worlds. The physical presence can support digital confidence. That is the real meaning of omnichannel in Germany.
+
+## Copying market leaders with less money does not work
+
+Many new entrants make the same expensive mistake. They look at established brands and copy what they see — same bonus logic, same football angle, same celebrity ambassador approach — but with less money.
+
+Imam's point was direct: doing the same marketing as the market leaders, but with a smaller budget, is not a strategy. It is a weak copy.
+
+If a German player has been using the same betting brand for years, knows the interface, trusts the payout process and feels comfortable with the brand — why should he switch to a new company offering almost the same thing?
+
+The deeper problem is that many companies build marketing from the boardroom, not from the customer. They ask what worked elsewhere and which football personality to use. But they do not ask the most important question: why should a German customer trust us and change behaviour?
+
+Without a strong answer, marketing becomes expensive noise.
+
+## Starting from zero may be the wrong strategy
+
+Perhaps the strongest strategic point from the conversation was this: for many serious entrants, starting from zero may be the wrong strategy.
+
+Getting a licence takes time. Building trust takes time. Building a brand takes time. And in Germany, time is expensive.
+
+Imam's view was practical: instead of starting from scratch, some international companies should consider acquiring or investing in an existing licensed operator. A new entrant can spend years on licensing, setup, hiring, marketing and customer acquisition before reaching serious traction. By contrast, an existing operator may already have a licence, product, customers, brand presence and local knowledge.
+
+For companies serious about Germany, "buy then grow" may be more rational than "build from zero." The real cost is not only the acquisition price. The real cost is lost time.
+
+## Germany requires a long-term horizon
+
+Germany is not a quick-win market. A company entering Germany needs to think in years, not months. Operators that expect fast returns often become frustrated.
+
+According to Imam, many companies enter with unrealistic expectations. They think they can invest heavily, take market share quickly and see fast returns. Then they discover that Germany does not move that way. A serious German strategy needs a five-year view. In many cases, even ten years is more realistic.
+
+## The real lesson
+
+After speaking with Imam, my conclusion is simple: Germany is not impossible. Germany is misunderstood.
+
+Many companies fail not because the market has no potential, but because they enter it with the wrong assumptions. They think regulation is the main problem. They copy market leaders with less money. They underestimate trust. They underestimate retail. They underestimate local behaviour. They underestimate the time horizon.
+
+The German betting market is a trust-driven market. It is a customer-behaviour market. It is a retail and omnichannel market where product, marketing, compliance, payments and local knowledge need to work together.
+
+For companies looking at Germany, the first question should not only be: "How do we get a licence?" The better question is: "Do we really understand how this market works?"
+
+Because if the answer is no, Germany can become very expensive very quickly.
+
+---
+
+*Imam Elci is Sales Director at sportwetten.de, responsible for a retail network of around 240 betting shops across Germany.*`,
+    featuredImage: "/images/articles/imam-elci-german-betting-market-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-07-06T13:00:00Z",
+    category: "operators",
+    tags: [
+      { id: "t1160", label: "German Betting Market", slug: "german-betting-market-entry-2026" },
+      { id: "t1161", label: "Imam Elci sportwetten.de", slug: "imam-elci-sportwetten-interview" },
+      { id: "t1162", label: "Germany Omnichannel", slug: "germany-omnichannel-betting-strategy" },
+      { id: "t1163", label: "Retail Betting Germany", slug: "retail-betting-germany-trust" },
+      { id: "t1164", label: "Market Entry Strategy EU", slug: "market-entry-strategy-germany-igaming" },
+    ],
+    sourceName: "iGaming Pulse",
+    sourceUrl: "https://igamingpulse.com",
+    featured: true,
+    trending: true,
+    sponsored: false,
+    seoTitle: "Why Most Companies Fail Entering the German Betting Market — Imam Elci Interview 2026 | iGaming Pulse",
+    metaDescription: "Imam Elci, Sales Director at sportwetten.de and manager of 240 betting shops, explains why international operators repeatedly fail in Germany — underestimating trust, retail's role as trust infrastructure, omnichannel strategy, and the five-to-ten-year time horizon the market demands.",
+    likes: 47,
     comments: [],
   },
 ];
