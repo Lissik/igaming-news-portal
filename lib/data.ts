@@ -1325,7 +1325,7 @@ export const ARTICLES: Article[] = [
     translationGroupId: "tg-53",
     title: "888 Holdings Confirms William Hill Brand Will Lead UK and US Strategy Following Portfolio Rationalisation",
     excerpt: "888 Holdings has confirmed that the William Hill brand will take primacy across its UK retail and online operations and in the United States, with the 888 consumer brand progressively retired in core markets.",
-    content: `888 Holdings plc has confirmed a major brand strategy update that will see the William Hill name take primacy across its UK retail and online operations and in the United States, with the 888 consumer brand progressively retired in those markets as the company seeks to concentrate brand investment and reduce marketing fragmentation.\n\nThe announcement, made at 888's Capital Markets Day in London, marks the culmination of a brand rationalisation process that has been underway since 888's £2.2 billion acquisition of William Hill's non-US assets from Caesars Entertainment in 2022 — a deal that gave 888 access to one of the most recognised gambling brand names in the UK but left the group operating two competing consumer brands in the same market.\n\n"William Hill is one of the most trusted names in British gambling. When we have that brand, it makes no sense to split our investment between it and a second consumer brand. We are concentrating on what wins," said 888 CEO Per Widerström.\n\nThe 888 brand will be retained for the company's international B2C operations across markets where William Hill has limited brand awareness, including its operations in Italy, Spain, and Denmark. The company's B2B platform business — which operates under the 888 Infrastructure brand — will also retain the 888 name.\n\nIn the United States, William Hill's sports betting and casino products are currently live in 16 states through 888's acquisition of the brand's US assets. The company said it remains committed to the US market but is reviewing its state-by-state strategy in light of the competitive environment and will provide an update at its H1 2026 results presentation.`,
+    content: `888 Holdings plc has confirmed a major brand strategy update that will see the William Hill name take primacy across its UK retail and online operations and in the United States, with the 888 consumer brand progressively retired in those markets as the company seeks to concentrate brand investment and reduce marketing fragmentation.\n\nThe announcement, made at 888's Capital Markets Day in London, marks the culmination of a brand rationalisation process that has been underway since 888's £2.2 billion acquisition of William Hill's non-US assets from Caesars Entertainment in 2022 — a deal that gave 888 access to one of the most recognised gambling brand names in the UK but left the group operating two competing consumer brands in the same market.\n\n"William Hill is one of the most trusted names in British gambling. When we have that brand, it makes no sense to split our investment between it and a second consumer brand. We are concentrating on what wins," said 888 CEO Per Widerström.\n\nThe 888 brand will be retained for the company's international B2C operations across markets where William Hill has limited brand awareness, including its operations in Italy, Spain, and Denmark. The company's B2B platform business — which operates under the 888 Infrastructure brand ��� will also retain the 888 name.\n\nIn the United States, William Hill's sports betting and casino products are currently live in 16 states through 888's acquisition of the brand's US assets. The company said it remains committed to the US market but is reviewing its state-by-state strategy in light of the competitive environment and will provide an update at its H1 2026 results presentation.`,
     featuredImage: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
     author: AUTHORS[0],
     publishedAt: "2026-03-14T09:00:00Z",
@@ -4361,7 +4361,7 @@ export const ARTICLES: Article[] = [
     translationGroupId: "tg-157",
     title: "Brazil Blocks 27 Prediction Market Platforms Including Kalshi and Polymarket — Effective May 4, Central Bank Deadline of May 25 for Bank Enforcement Norms",
     excerpt: "Brazil blocked 27 prediction market platforms including Kalshi and Polymarket effective May 4, with the Central Bank facing a May 25 deadline to publish the financial norms that will force banks and fintechs to execute payment blocks — making Brazil the first major regulated gambling market to comprehensively close off prediction market access through both law and payment infrastructure.",
-    content: `## Brazil Shuts Down Prediction Markets — Kalshi and Polymarket Among 27 Platforms Blocked\n\nBrazil's government has executed the world's most sweeping government action against prediction market platforms, blocking at least 27 operators including Kalshi and Polymarket with effect from May 4, 2026 — and setting a Central Bank deadline that will force the country's banking and fintech sector to actively prevent payment flows to blocked platforms.\n\n### What Happened\n\nBrazil's National Monetary Council issued regulations prohibiting the offering and trading of derivative agreements whose underlying assets are linked to sports events, political events, and electoral outcomes ������������������������������������������������������������� the core product categories of Kalshi, Polymarket, and similar platforms. The Secretariat for Prizes and Betting (SPA) is the primary enforcement authority. As a direct consequence, at least 27 prediction market platforms have been blocked for Brazilian users.\n\nThe Central Bank of Brazil has been given until May 25, 2026 to publish the specific technical norms that will require Brazilian banks, payment processors, and fintechs to execute financial blocks on the identified platforms — a payment-level enforcement mechanism modelled on Brazil's existing illegal sports betting platform blocking system, which has been used against over 2,000 unlicensed operators since the regulated market launched in January 2025.\n\n### Why It Matters\n\nBrazil's approach is more sophisticated than a simple platform ban. By combining a legal prohibition with a payment-level enforcement mandate directed at the banking sector, Brazil is building the same infrastructure that has made its illegal sports betting crackdown unusually effective. When the Central Bank norms are published on May 25, Brazilian banks and fintechs face formal regulatory obligation to block deposits to 27 named platforms — removing the payment pathway that allows grey-market operators to continue operating despite nominal bans.\n\nBrazil's prediction market ban is the world's most comprehensive government action against Kalshi-style platforms to date. With 78 licensed operators and a market that generated billions in GGR in its first year of regulation, Brazil represents a tier-1 commercial market where prediction platforms had been building user bases without licences. For Brazil's licensed operators and their B2B suppliers, the ban removes a direct unregulated competitor from the country's most commercially important wagering audience.\n\n### Industry Context\n\nThe Brazilian model — legal ban plus payment infrastructure enforcement — is likely to be studied by other regulators as a template for effective prediction market restriction. Unlike domain blocking (which is easily circumvented by VPN) or app store removal (which addresses only mobile access), payment blocking creates a structural barrier at the financial infrastructure level. Brazil's existing experience executing payment blocks against over 2,000 illegal sports betting sites means the administrative machinery for the prediction market enforcement already exists.`,
+    content: `## Brazil Shuts Down Prediction Markets — Kalshi and Polymarket Among 27 Platforms Blocked\n\nBrazil's government has executed the world's most sweeping government action against prediction market platforms, blocking at least 27 operators including Kalshi and Polymarket with effect from May 4, 2026 — and setting a Central Bank deadline that will force the country's banking and fintech sector to actively prevent payment flows to blocked platforms.\n\n### What Happened\n\nBrazil's National Monetary Council issued regulations prohibiting the offering and trading of derivative agreements whose underlying assets are linked to sports events, political events, and electoral outcomes ��������������������������������������������������������������� the core product categories of Kalshi, Polymarket, and similar platforms. The Secretariat for Prizes and Betting (SPA) is the primary enforcement authority. As a direct consequence, at least 27 prediction market platforms have been blocked for Brazilian users.\n\nThe Central Bank of Brazil has been given until May 25, 2026 to publish the specific technical norms that will require Brazilian banks, payment processors, and fintechs to execute financial blocks on the identified platforms — a payment-level enforcement mechanism modelled on Brazil's existing illegal sports betting platform blocking system, which has been used against over 2,000 unlicensed operators since the regulated market launched in January 2025.\n\n### Why It Matters\n\nBrazil's approach is more sophisticated than a simple platform ban. By combining a legal prohibition with a payment-level enforcement mandate directed at the banking sector, Brazil is building the same infrastructure that has made its illegal sports betting crackdown unusually effective. When the Central Bank norms are published on May 25, Brazilian banks and fintechs face formal regulatory obligation to block deposits to 27 named platforms — removing the payment pathway that allows grey-market operators to continue operating despite nominal bans.\n\nBrazil's prediction market ban is the world's most comprehensive government action against Kalshi-style platforms to date. With 78 licensed operators and a market that generated billions in GGR in its first year of regulation, Brazil represents a tier-1 commercial market where prediction platforms had been building user bases without licences. For Brazil's licensed operators and their B2B suppliers, the ban removes a direct unregulated competitor from the country's most commercially important wagering audience.\n\n### Industry Context\n\nThe Brazilian model — legal ban plus payment infrastructure enforcement — is likely to be studied by other regulators as a template for effective prediction market restriction. Unlike domain blocking (which is easily circumvented by VPN) or app store removal (which addresses only mobile access), payment blocking creates a structural barrier at the financial infrastructure level. Brazil's existing experience executing payment blocks against over 2,000 illegal sports betting sites means the administrative machinery for the prediction market enforcement already exists.`,
     featuredImage: "/images/articles/brazil-prediction-markets-ban-27-platforms-may-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-05-09T12:00:00Z",
@@ -4737,7 +4737,7 @@ export const ARTICLES: Article[] = [
     language: "en",
     translationGroupId: "tg-170",
     title: "Evoke Extends Bally's Intralot Acquisition Deadline to June 8 as All-Share Combination at 50p Per Share Remains Under Negotiation",
-    excerpt: "Evoke plc extended the deadline for Bally's Intralot's potential acquisition offer by three weeks to June 8, 2026, after the original May 18 deadline arrived with no firm announcement — keeping alive a deal that would combine William Hill's UK operations with Bally's US casino footprint at a proposed 50p per share all-share structure.",
+    excerpt: "Evoke plc extended the deadline for Bally's Intralot's potential acquisition offer by three weeks to June 8, 2026, after the original May 18 deadline arrived with no firm announcement �� keeping alive a deal that would combine William Hill's UK operations with Bally's US casino footprint at a proposed 50p per share all-share structure.",
     content: `## Evoke Extends Bally's Intralot Acquisition Deadline to June 8\n\nEvoke plc, the London Stock Exchange-listed operator behind William Hill, has extended the deadline for Bally's Intralot to confirm whether it intends to make a formal acquisition offer. The new deadline is June 8, 2026 — three weeks beyond the May 18 date that had been set when Evoke first disclosed the discussions on April 20.\n\nThe extension was announced minutes before the 5pm UK deadline on May 18, a timing detail that industry observers read as a sign that negotiations on specific deal terms are active and unresolved.\n\n### The Proposed Transaction\n\nBally's Intralot — a joint venture between US casino and sports betting operator Bally's Corporation and Greek gaming technology company Intralot — first approached Evoke in April 2026. The proposed structure is an all-share combination with a partial cash alternative, at a price of 50 pence per share for Evoke's entire issued and to be issued share capital.\n\nThe 50p price represents a significant premium to Evoke's market price at the time discussions were disclosed in late April. Evoke's shares have remained below the offer price throughout the process, reflecting the market's assessment of deal completion risk.\n\n### Evoke's Financial Context\n\nEvoke published its FY 2025 results in April 2026, reporting total group revenue of £1.78 billion — up 2% year-on-year ��� with EBITDA surging 43% to £301.3 million. However, the company remains loss-making at the net level, weighed down by interest costs and UK gambling tax changes that took effect in 2025. Q1 2026 trading showed 5% growth in UK online revenue to £170 million but a 2% decline in international revenue to £148 million.\n\nEvoke also announced the closure of 270 underperforming William Hill retail shops, citing growing black market penetration in UK horse racing as a drag on retail sports performance.\n\n### Why It Matters\n\nAn Evoke acquisition by Bally's Intralot would create one of the largest cross-Atlantic iGaming groups, combining William Hill's UK high street and digital presence with Bally's US casino and sports betting footprint and Intralot's lottery and gaming technology infrastructure. The June 8 deadline extension and the all-share structure suggest that valuation and financing remain the sticking points — with Evoke's shares trading well below the 50p proposed offer price reflecting market scepticism about whether a firm offer materialises.`,
     featuredImage: "/images/articles/evoke-ballys-intralot-acquisition-deadline-june-2026.jpg",
     author: AUTHORS[1],
@@ -5129,7 +5129,7 @@ Virtuwise helps iGaming B2B companies build and execute outreach campaigns that 
     translationGroupId: "tg-181",
     title: "Light & Wonder Launches COSMIC DUAL in Australia as #1-Ranked Multi-Screen Cabinet Expands Beyond North America with 45+ Titles Per Year Pipeline",
     excerpt: "Light & Wonder's COSMIC DUAL cabinet — ranked #1 multi-screen product in North America by Eilers & Krejcik Gaming — has made its Australian debut, with installations live in New South Wales venues and a 45+ annual titles pipeline from four Sydney-based studios serving the ANZ market.",
-    content: `## Light & Wonder Brings Its #1-Ranked Multi-Screen Cabinet to Australia\n\nLight & Wonder's COSMIC DUAL has crossed into the Asia-Pacific market, making its Australian debut with installations now live across venues in New South Wales. The launch follows the cabinet's strong North American performance: in March 2026 rankings published by Eilers & Krejcik Gaming — the industry's most closely watched independent hardware performance tracker — COSMIC DUAL was named the number-one multi-screen cabinet in the North American market.\n\n### Cabinet Specifications\n\nCOSMIC DUAL is built around a dual 27-inch HD display configuration with minimal bezel between screens, designed to deliver seamless content presentation across what players experience as a single wide visual field. The cabinet's signature feature is its floating AR-1 iDECK — a 15.6-inch LCD button panel that floats at an ergonomically optimised angle, giving players a larger and more intuitive control interface than previous-generation button panels.\n\nBoth displays are Wide Color Gamut-enabled, supporting richer colour reproduction and smoother animations across a growing catalogue of titles designed specifically for the dual-screen format. The cabinet also incorporates Light & Wonder's cosmic lighting system, which provides programmable ambient lighting that games can trigger dynamically during bonus events and jackpot sequences.\n\n### ANZ-Specific Content Pipeline\n\nThe COSMIC DUAL ANZ launch is not a simple hardware export. Light & Wonder's Sydney headquarters houses four domestic development studios, all of which will contribute to a pipeline of more than 45 new titles per year designed specifically for the ANZ market. This local studio commitment reflects a recognition that ANZ player preferences — which skew toward high-hold-and-spin mechanics, franchise continuations, and culturally specific themes — differ from North American preferences in ways that require original content development rather than localised ports.\n\nLaunch titles available on COSMIC DUAL in ANZ venues include Jin Chan, Big Steam, Huff N' Puff Rebuild, and Wolves Night Out — a mix of franchise continuations and new IP.\n\n### Why the ANZ Launch Matters\n\nLight & Wonder's COSMIC DUAL ANZ launch is a case study in how a hardware product validated in one regulated market can be efficiently deployed into a second major regulated market using an existing local studio footprint. The 45+ annual titles commitment from Sydney-based studios gives ANZ venue operators a product pipeline tailored to local player preferences rather than repurposed North American content.\n\nFor B2B equipment and content suppliers tracking APAC market entry, the COSMIC DUAL rollout illustrates the leverage available when hardware design decisions are made with multi-market deployment in mind from the outset.\n\n*Sources: iGaming Business, ASGAM, BestInSlot, G3 Newswire. Compiled May 22, 2026.*`,
+    content: `## Light & Wonder Brings Its #1-Ranked Multi-Screen Cabinet to Australia\n\nLight & Wonder's COSMIC DUAL has crossed into the Asia-Pacific market, making its Australian debut with installations now live across venues in New South Wales. The launch follows the cabinet's strong North American performance: in March 2026 rankings published by Eilers & Krejcik Gaming �� the industry's most closely watched independent hardware performance tracker — COSMIC DUAL was named the number-one multi-screen cabinet in the North American market.\n\n### Cabinet Specifications\n\nCOSMIC DUAL is built around a dual 27-inch HD display configuration with minimal bezel between screens, designed to deliver seamless content presentation across what players experience as a single wide visual field. The cabinet's signature feature is its floating AR-1 iDECK — a 15.6-inch LCD button panel that floats at an ergonomically optimised angle, giving players a larger and more intuitive control interface than previous-generation button panels.\n\nBoth displays are Wide Color Gamut-enabled, supporting richer colour reproduction and smoother animations across a growing catalogue of titles designed specifically for the dual-screen format. The cabinet also incorporates Light & Wonder's cosmic lighting system, which provides programmable ambient lighting that games can trigger dynamically during bonus events and jackpot sequences.\n\n### ANZ-Specific Content Pipeline\n\nThe COSMIC DUAL ANZ launch is not a simple hardware export. Light & Wonder's Sydney headquarters houses four domestic development studios, all of which will contribute to a pipeline of more than 45 new titles per year designed specifically for the ANZ market. This local studio commitment reflects a recognition that ANZ player preferences — which skew toward high-hold-and-spin mechanics, franchise continuations, and culturally specific themes — differ from North American preferences in ways that require original content development rather than localised ports.\n\nLaunch titles available on COSMIC DUAL in ANZ venues include Jin Chan, Big Steam, Huff N' Puff Rebuild, and Wolves Night Out — a mix of franchise continuations and new IP.\n\n### Why the ANZ Launch Matters\n\nLight & Wonder's COSMIC DUAL ANZ launch is a case study in how a hardware product validated in one regulated market can be efficiently deployed into a second major regulated market using an existing local studio footprint. The 45+ annual titles commitment from Sydney-based studios gives ANZ venue operators a product pipeline tailored to local player preferences rather than repurposed North American content.\n\nFor B2B equipment and content suppliers tracking APAC market entry, the COSMIC DUAL rollout illustrates the leverage available when hardware design decisions are made with multi-market deployment in mind from the outset.\n\n*Sources: iGaming Business, ASGAM, BestInSlot, G3 Newswire. Compiled May 22, 2026.*`,
     featuredImage: "/images/articles/light-wonder-cosmic-dual-australia-anz-launch-2026.jpg",
     author: AUTHORS[2],
     publishedAt: "2026-05-22T09:00:00Z",
@@ -6333,7 +6333,7 @@ Virtuwise helps iGaming B2B companies build and execute outreach campaigns that 
     language: "en",
     translationGroupId: "tg-227",
     title: "MGM Grand Detroit Faces Disability Discrimination Lawsuit After Former Security Officer Alleges Cerebral Palsy Led to Wrongful Termination",
-    excerpt: "A former security officer at MGM Grand Detroit has filed a disability discrimination lawsuit claiming the casino denied workplace accommodations for his cerebral palsy and used a fabricated investigation to justify termination — a case with ADA compliance implications for casino operators industry-wide.",
+    excerpt: "A former security officer at MGM Grand Detroit has filed a disability discrimination lawsuit claiming the casino denied workplace accommodations for his cerebral palsy and used a fabricated investigation to justify termination �� a case with ADA compliance implications for casino operators industry-wide.",
     content: `## Disability Discrimination Case Against MGM Grand Detroit Raises Industry Compliance Questions\n\nA former security officer employed at MGM Grand Detroit has initiated legal proceedings against the property, alleging that casino management terminated his employment based on disability-related discrimination stemming from his diagnosis of cerebral palsy. The lawsuit claims the casino systematically denied reasonable workplace accommodations and leveraged false allegations to justify termination.\n\n## Context\n\nThe Americans with Disabilities Act (ADA) requires employers to provide reasonable accommodations to qualified employees with disabilities, unless doing so creates undue hardship. The gaming industry, like all major employment sectors, operates under these federal protections and parallel state-level disability employment laws.\n\nThis case emerges amid broader industry scrutiny of workplace practices. Gaming properties employ thousands of workers in high-stakes operational environments, and disputes over disability accommodations — particularly in safety-sensitive roles like security — frequently raise complex legal questions about operational requirements versus employee rights.\n\n## What This Means\n\nThe allegations in this case encompass multiple employment law concerns:\n\n**Accommodation Denial**: The plaintiff alleges MGM denied necessary accommodations, potentially violating ADA obligations. The specific nature of requested accommodations and the casino's response will be critical to case outcomes.\n\n**Pretextual Termination**: The lawsuit suggests false allegations during an investigation were used as cover for disability-based termination — a common pattern in discrimination claims that courts scrutinise carefully.\n\n**Workplace Harassment**: Beyond the termination claim, allegations of harassment based on disability status add additional legal exposure for the operator.\n\nFor the gaming industry broadly, this litigation emphasises the need for robust HR processes, documented accommodation request reviews, and clear separation between investigation procedures and protected employment status. A significant adverse judgement could establish precedent affecting accommodation obligations across casino properties nationally.\n\n## What to Watch\n\nMonitor discovery proceedings for evidence about MGM Grand Detroit's accommodation review procedures and the specific nature of the investigation allegations. Internal HR documentation will be pivotal. If the case proceeds to trial rather than settlement, any jury verdict — particularly if punitive damages are awarded — will reverberate through gaming industry HR and compliance functions.\n\n---\n\n**What this means for B2B outreach:** HR technology vendors, employment law compliance platforms, and workforce management solution providers can use this case to open conversations with casino operators about the adequacy of their accommodation request tracking, investigation documentation, and ADA compliance audit processes.\n\n*Source: Casino.org. Published 2026-06-10.*`,
     featuredImage: "/images/articles/mgm-grand-detroit-disability-discrimination-lawsuit-2026.png",
     author: AUTHORS[2],
@@ -7930,7 +7930,7 @@ But rather: *"Are we ready to work differently?"*
     comments: [],
   },
 
-  // ── June 25, 2026 ───────────────────────────────────────────���──���──────────
+  // ── June 25, 2026 ─────────────────────────────��─────────────���──���──────────
   {
     id: "274",
     slug: "curacao-crypto-gambling-compliance-deadline-2026",
@@ -8941,6 +8941,401 @@ Because if the answer is no, Germany can become very expensive very quickly.
     seoTitle: "Why Most Companies Fail Entering the German Betting Market — Imam Elci Interview 2026 | iGaming Pulse",
     metaDescription: "Imam Elci, Sales Director at sportwetten.de and manager of 240 betting shops, explains why international operators repeatedly fail in Germany — underestimating trust, retail's role as trust infrastructure, omnichannel strategy, and the five-to-ten-year time horizon the market demands.",
     likes: 47,
+    comments: [],
+  },
+
+  // ── July 8, 2026 ──────────────────────────────────────────────────────────
+  {
+    id: "305",
+    slug: "london-igaming-regcom-2026-compliance-operating-system-igaming",
+    language: "en",
+    translationGroupId: "tg-305",
+    title: "Compliance Is Becoming the Operating System of Regulated iGaming: Key Insights from London iGaming RegCom 2026",
+    excerpt: "London iGaming RegCom 2026 brought together regulators, operators, legal experts and compliance leaders to discuss regulation, AI, AML, responsible gaming, black market pressure and the future of sustainable growth in iGaming.",
+    content: `London iGaming RegCom 2026 showed that the future of regulated iGaming will not be defined by growth alone. It will be defined by how well operators, regulators and technology providers can connect compliance, player protection, AML, AI governance, market integrity and commercial sustainability into one operating model.
+
+London iGaming RegCom 2026, organised by Eventus International, brought together a focused group of regulators, operators, legal experts, compliance leaders, consultants, technology providers and industry advisors in London to discuss one of the most important questions facing the sector:
+
+How can regulated iGaming markets protect players, remain commercially attractive and continue growing without pushing demand towards the black market?
+
+This question appeared in different forms throughout the day.
+
+It appeared in discussions about UK regulation and the future of the Gambling Act reforms. It appeared in conversations around responsible gaming, AML, prediction markets, sports betting integrity and AI-driven compliance. It appeared in debates about Germany, Malta, Gibraltar, Latin America, the UK, the US and emerging regulatory models.
+
+But underneath all of these panels was one central message:
+
+**Compliance is no longer just a support function. It is becoming part of the operating system of regulated iGaming.**
+
+## A smaller room, but a bigger conversation
+
+One of the most valuable aspects of London iGaming RegCom was its format.
+
+This was not a mass exhibition where conversations happen in short bursts between loud booths, busy corridors and rushed introductions. It was a smaller, senior-level environment where people could actually speak to each other properly.
+
+That matters.
+
+In regulated industries, market access is not only about having a product, a licence, a sales team or a pitch deck. It is about understanding who shapes the market, who influences regulation, who advises operators, who understands risk, who sees where companies usually fail and who can explain how the market really works from the inside.
+
+Events like London iGaming RegCom create value because they compress this access into one room.
+
+Regulators, lawyers, operators, compliance experts, consultants, technology providers and market advisors were not separated by layers of distance. They were in the same conversations, asking the same questions from different angles.
+
+For companies trying to enter or scale in regulated markets, that kind of access is difficult to replicate through desk research or cold outreach alone.
+
+This is the difference between networking and market access.
+
+## From reform to implementation
+
+A major theme of the event was the shift from regulatory reform to regulatory implementation.
+
+For years, the UK market has been at the centre of debates around gambling reform, safer gambling, affordability checks, advertising restrictions, tax, compliance expectations and the relationship between the legal and illegal market.
+
+But the conversation is now moving beyond policy announcements.
+
+The real question is no longer only what regulation looks like on paper. The question is whether reforms work in practice.
+
+- Do they protect consumers?
+- Do they support a sustainable regulated market?
+- Do they create better player outcomes?
+- Do they allow operators to remain commercially viable?
+- Do they reduce harm without creating new risks?
+- Do they keep players inside the licensed market?
+
+This distinction is critical.
+
+Regulation can be well-intentioned and still create unintended consequences. A rule designed to protect consumers can also increase friction. If that friction becomes too high, some players may not stop gambling. They may simply move to unlicensed operators who offer fewer checks, fewer restrictions and no meaningful player protection.
+
+This tension shaped many of the discussions at the summit.
+
+The industry is not debating whether player protection matters. It clearly does. The harder question is how to design regulation that protects players while keeping the legal market attractive enough to compete.
+
+## The legal market must remain attractive
+
+One of the strongest themes across the event was the importance of market attractiveness.
+
+A regulated market cannot protect players who leave it.
+
+This point came through especially strongly in discussions around the UK, Germany and black market pressure. When restrictions become too heavy, when tax pressure reduces product quality, when affordability checks feel intrusive, when players face friction that they do not understand, the black market becomes more attractive.
+
+This is not just a commercial problem for operators. It is a regulatory problem.
+
+If players move to unlicensed environments, regulators lose visibility. Operators lose the ability to intervene. Responsible gaming tools become irrelevant. AML controls disappear. Sports betting integrity becomes harder to monitor. Tax revenue is lost. Player protection becomes weaker, not stronger.
+
+The legal market therefore has to compete not only on compliance, but also on product quality, user experience, trust and accessibility.
+
+That does not mean weakening regulation. It means making regulation workable.
+
+The future of regulated iGaming depends on finding the right balance between protection and participation.
+
+## Compliance versus growth is the wrong question
+
+Another important theme was the relationship between compliance and growth.
+
+The traditional view often frames compliance as a blocker. Marketing wants to move faster. Product wants to launch. Commercial teams want to enter new markets. Compliance slows everything down.
+
+But London iGaming RegCom showed that this framing is becoming outdated.
+
+The better question is not whether compliance and growth can coexist. The better question is whether compliance can become part of the growth infrastructure.
+
+In mature regulated markets, companies cannot separate commercial execution from regulatory execution. Product, marketing, payments, AML, responsible gaming, player protection and legal review are all connected.
+
+If compliance is involved too late, companies waste time, money and momentum. Campaigns get rejected. Product ideas get delayed. Market launches become slower. Risk increases. Teams become frustrated. Compliance becomes the "no" function.
+
+But when compliance is built earlier into workflows, it can reduce friction instead of creating it.
+
+This is especially important for operators working across multiple jurisdictions. The complexity of regulation is increasing, but so is the need for speed. Operators need processes that allow commercial teams to move quickly without bypassing risk controls.
+
+In that sense, compliance is not simply a cost centre.
+
+Done properly, it becomes a capacity advantage.
+
+## AI in compliance: speed without blind automation
+
+AI was one of the most important topics of the day, particularly in the context of compliance, marketing review, safer gambling, internal workflows and governance.
+
+The core message was clear:
+
+**AI can support compliance, but it cannot replace judgment.**
+
+This distinction is essential.
+
+AI can help teams process larger volumes of content, detect patterns, review marketing assets, flag risk, organise decisions, monitor regulatory changes and create better audit trails. It can reduce repetitive work and help compliance teams focus on higher-value decisions.
+
+But AI also creates new risks.
+
+Hallucinations at scale, invisible decision chains, weak oversight, overreliance on generic models and unclear accountability can all create serious problems in regulated environments.
+
+A regulator will not accept "the AI told us it was fine" as a defence.
+
+That is why explainability matters. Audit trails matter. Human oversight matters. Governance matters. Model training matters. The ability to understand why a decision was made matters.
+
+The best use of AI in regulated iGaming will not be full automation. It will be structured support for human decision-making.
+
+AI should help teams move faster, but it should not remove responsibility.
+
+The future compliance function will likely be AI-enabled, but still human-led.
+
+This creates a major opportunity for operators. Those that build proper AI governance now may gain a significant operational advantage. They will be able to review more content, respond to regulatory changes faster, maintain stronger documentation and reduce internal friction between marketing, legal and compliance teams.
+
+But companies that adopt AI without governance may simply scale their mistakes faster.
+
+## Responsible gaming needs evidence, not just interaction
+
+Responsible gaming was another major theme, especially around customer interactions, affordability, behavioural monitoring, intervention frameworks and player education.
+
+One important insight from the discussions was that having responsible gaming processes in place is not enough.
+
+Operators must understand whether those processes actually work.
+
+A customer interaction is not valuable simply because it happened. The question is whether it changed behaviour, reduced risk or helped the operator make a better decision.
+
+This means evaluation has to go beyond box-ticking.
+
+Operators need to understand what happens after an interaction. Did the player reduce spend? Did the player change behaviour? Did the risk profile improve? Did the interaction escalate the issue? Was the right threshold applied? Was the follow-up meaningful?
+
+This is where responsible gaming becomes both an operational and analytical challenge.
+
+It requires data, but not only data. It also requires interpretation. It requires context. It requires understanding of player behaviour. It requires a balance between automation and human judgment.
+
+Another important theme was education.
+
+Players often do not understand why checks, limits or interventions exist. If these measures feel like punishment or unnecessary friction, players may resist them or move elsewhere.
+
+This creates a communication challenge for the industry.
+
+Responsible gaming cannot only be imposed. It also has to be explained.
+
+The regulated market needs to help players understand why protection mechanisms exist and how they support a safer environment.
+
+## AML must move from documents to behaviour
+
+The AML discussion showed another important shift: compliance cannot live only in documents, policies and annual reviews.
+
+Risk assessments may look strong on paper, but the real issue is whether they are embedded into day-to-day operations.
+
+Operators need teams that understand who the MLRO is, how to escalate concerns, what unusual behaviour looks like, how fraud and AML overlap, how customer risk changes over time and how technology should be configured according to actual risk.
+
+One of the strongest practical points from the AML discussions was that many failures are not caused by lack of policies. They are caused by lack of operational understanding.
+
+A company may have a policy, but if the person reviewing an account does not ask the right questions, configure the right tool, understand the jurisdictional nuance or escalate the issue correctly, the policy does not protect the business.
+
+This is especially relevant for multi-jurisdictional operators.
+
+A group operating across the UK, Malta, Gibraltar or other regulated markets cannot simply copy one compliance framework across every jurisdiction without understanding local expectations. The fundamentals may be similar, but guidance, enforcement behaviour, national risk assessments and regulatory priorities can differ.
+
+AML also has to become more dynamic.
+
+Risk changes as products change, payment methods change, fraud methods evolve, new technologies appear and customer behaviour shifts.
+
+The best operators are not those with the longest documents. They are those that understand their risks deeply enough to adapt their controls continuously.
+
+## Germany as a warning signal
+
+Germany was repeatedly discussed as an example of what can happen when regulation makes the legal market less attractive.
+
+The German market faces significant challenges around channelisation, black market competition, product restrictions, deposit limits, game approval processes and regulatory speed.
+
+The intention behind regulation may be player protection, but if the regulated product becomes too unattractive, too slow, too restricted or too difficult to use, players may choose illegal alternatives.
+
+This creates a difficult paradox.
+
+The more restrictive the legal market becomes, the more attractive the black market can look.
+
+This does not mean that regulation should disappear. It means that regulation needs to be designed with actual player behaviour in mind.
+
+Players compare products. They compare friction. They compare limits. They compare RTP. They compare payment experience. They compare convenience.
+
+If the legal offer becomes visibly worse than the illegal offer, regulation loses effectiveness.
+
+Germany therefore provides an important lesson for other jurisdictions:
+
+**Regulation must not only be strict. It must also be functional.**
+
+## Prediction markets expose regulatory gaps
+
+Prediction markets were another major topic at London iGaming RegCom.
+
+The debate around prediction markets is complex because they sit between several regulatory categories: gambling, betting exchange models, financial products, trading platforms, sports betting and emerging digital speculation.
+
+Some speakers argued that prediction markets are not entirely new. Similar models have existed in different forms for many years. What is new is the scale, branding, technology, user demographics and regulatory attention.
+
+The key question is classification.
+
+- Are prediction markets gambling products?
+- Are they financial products?
+- Are they betting intermediaries?
+- Should they sit in a separate regulatory category?
+- Should they be restricted, regulated or allowed under specific conditions?
+
+The risk of not answering these questions is that demand does not disappear. It moves elsewhere.
+
+If regulators refuse to create workable frameworks for products that users clearly want, black market or offshore alternatives may fill the gap.
+
+Prediction markets also raise serious concerns around integrity, insider information, manipulation, financial risk and younger audiences. But ignoring the category may not be enough.
+
+The broader lesson is that regulation has to keep up with product innovation.
+
+When new models emerge, the industry needs faster dialogue between regulators, operators, lawyers, financial authorities and technology providers.
+
+Otherwise, innovation will not stop. It will simply move outside the regulated perimeter.
+
+## Sports betting integrity is now a global data problem
+
+The sports betting integrity discussion made another point clear: integrity can no longer be treated as a local issue.
+
+Betting markets are global. Data flows across borders. Customers can access offshore operators. Suspicious betting can appear in one jurisdiction while the sporting event takes place in another. Black market platforms and Telegram-based betting environments make monitoring harder.
+
+This creates a major challenge for regulators, operators, sports bodies, data providers and integrity organisations.
+
+Integrity requires collaboration.
+
+Operators need to report suspicious activity. Sports bodies need to educate athletes and participants. Data providers need to understand market risk. Regulators need clear frameworks. Law enforcement needs to take match fixing seriously. Monitoring organisations need access to reliable data.
+
+The black market creates a major blind spot.
+
+In the regulated market, suspicious betting can be tracked, reported and investigated. In the unregulated market, those audit trails may not exist or may not be shared.
+
+This makes market integrity another reason why channelisation matters.
+
+A strong regulated market is not only better for tax and consumer protection. It is also better for protecting sport itself.
+
+## The black market is now the defining pressure point
+
+Almost every major topic at London iGaming RegCom eventually connected back to the black market.
+
+- Tax connects to the black market.
+- Advertising connects to the black market.
+- Affordability checks connect to the black market.
+- Product restrictions connect to the black market.
+- Sports integrity connects to the black market.
+- Responsible gaming connects to the black market.
+- Prediction markets connect to the black market.
+- Germany connects to the black market.
+- The UK connects to the black market.
+
+This is why the black market is no longer a side topic.
+
+It is becoming the central pressure point in regulated iGaming.
+
+The legal market is expected to protect players, pay taxes, follow rules, monitor behaviour, invest in safer gambling, comply with AML, respond to enforcement, restrict certain products, control advertising and maintain integrity systems.
+
+The illegal market does none of this.
+
+If regulation weakens the competitiveness of licensed operators too much, the illegal market benefits.
+
+This is the core challenge for the next phase of iGaming regulation:
+
+**How do you raise standards without making the regulated market structurally less attractive than the unregulated one?**
+
+There is no simple answer. But the industry cannot avoid the question.
+
+## The new model: trust infrastructure
+
+The strongest conclusion from London iGaming RegCom is that the future of regulated iGaming will depend on trust infrastructure.
+
+This includes:
+
+- Compliance systems
+- AML controls
+- Responsible gaming frameworks
+- AI governance
+- Player protection mechanisms
+- Market integrity monitoring
+- Regulatory intelligence
+- Evidence-based decision-making
+- Transparent audit trails
+- Legal interpretation
+- Internal governance
+- Trusted relationships with regulators, advisors and industry bodies
+
+The companies that succeed in regulated markets will not simply be those with the strongest acquisition budgets or the most aggressive growth strategies.
+
+They will be the companies that can grow while proving that they understand risk, responsibility and regulatory expectations.
+
+Growth will still matter. Product will still matter. Marketing will still matter. Payments will still matter. Partnerships will still matter.
+
+But in regulated iGaming, none of these can operate separately from compliance anymore.
+
+The future belongs to operators and suppliers that can connect commercial growth with regulatory maturity.
+
+## Why events like London iGaming RegCom matter
+
+This is why the format of London iGaming RegCom matters.
+
+The industry needs spaces where the right people can sit in the same room and discuss the real problems without reducing them to slogans.
+
+- Regulation cannot be solved by regulators alone.
+- Compliance cannot be solved by compliance teams alone.
+- Responsible gaming cannot be solved by tools alone.
+- AI governance cannot be solved by technology alone.
+- Market integrity cannot be solved by operators alone.
+- Black market pressure cannot be solved by enforcement alone.
+
+The market needs conversation between all of these groups.
+
+That is the value of focused, senior-level events.
+
+They create access to context.
+
+They help companies understand not only what is changing, but why it is changing, who is shaping it and where the next risks are likely to appear.
+
+For companies entering or scaling in regulated markets, that kind of context can be more valuable than a hundred surface-level meetings.
+
+London iGaming RegCom 2026 showed that smaller industry rooms can create deeper market understanding.
+
+And in regulated iGaming, understanding the market may be just as important as entering it.
+
+## Conclusion
+
+The future of regulated iGaming will not be decided only by who has the best product, the strongest brand or the largest marketing budget.
+
+It will increasingly be decided by who can build and operate trust infrastructure.
+
+- That means compliance that supports growth rather than blocking it.
+- AI that improves workflows without removing human judgment.
+- Responsible gaming that is evaluated, not just documented.
+- AML that is behaviour-based, not just policy-based.
+- Regulation that protects players without weakening the legal market.
+- Integrity systems that can operate across global betting ecosystems.
+- And market access built through credible relationships, not just visibility.
+
+London iGaming RegCom 2026 made one thing clear:
+
+Regulated growth is becoming more complex, but also more strategic.
+
+The companies that understand this early will have an advantage.
+
+Because in the next phase of iGaming, compliance will not sit behind the business.
+
+It will sit inside the business.
+
+And for regulated markets, that may become the difference between growth that lasts and growth that fails.
+
+---
+
+*For more information about Eventus International and upcoming events, please visit the official website: [https://www.eventus-international.com/](https://www.eventus-international.com/) or follow Eventus International on LinkedIn: [https://www.linkedin.com/company/eventus-international-ltd-/](https://www.linkedin.com/company/eventus-international-ltd-/)*`,
+    featuredImage: "/images/articles/eventus-international-london-igaming-regcom-2026.jpg",
+    author: AUTHORS[6],
+    publishedAt: "2026-07-08T09:00:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t1165", label: "London iGaming RegCom 2026", slug: "london-igaming-regcom-2026" },
+      { id: "t1166", label: "Eventus International", slug: "eventus-international-events" },
+      { id: "t1167", label: "iGaming Compliance Operating System", slug: "igaming-compliance-operating-system" },
+      { id: "t1168", label: "AI Compliance iGaming", slug: "ai-compliance-igaming-2026" },
+      { id: "t1169", label: "Black Market Channelisation", slug: "black-market-channelisation-igaming" },
+      { id: "t1170", label: "Responsible Gaming Evidence", slug: "responsible-gaming-evidence-based" },
+      { id: "t1171", label: "AML Operational Understanding", slug: "aml-operational-understanding-igaming" },
+      { id: "t1172", label: "Trust Infrastructure iGaming", slug: "trust-infrastructure-regulated-igaming" },
+    ],
+    sourceName: "iGaming Pulse",
+    sourceUrl: "https://igamingpulse.com",
+    featured: true,
+    trending: true,
+    sponsored: false,
+    seoTitle: "Compliance Is Becoming the Operating System of Regulated iGaming - London iGaming RegCom 2026 Insights | iGaming Pulse",
+    metaDescription: "London iGaming RegCom 2026 brought together regulators, operators, legal experts and compliance leaders to discuss regulation, AI, AML, responsible gaming, black market pressure and the future of sustainable growth in iGaming.",
+    likes: 54,
     comments: [],
   },
 ];
