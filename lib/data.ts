@@ -12263,6 +12263,35 @@ Secure a place: [https://www.spiceseries.com/ssea](https://www.spiceseries.com/s
     likes: 57,
     comments: [],
   },
+
+  {
+    id: "405",
+    slug: "spice-central-asia-2026-gga-tbilisi-september",
+    language: "en",
+    translationGroupId: "tg-405",
+    title: "SPiCE Central Asia 2026: Georgian Gambling Association Backs 3rd Annual Tbilisi Summit",
+    excerpt: "The 3rd annual SPiCE Central Asia returns to The Biltmore Hotel Tbilisi on 24–25 September 2026, now with official support from the Georgian Gambling Association and a keynote on combating illegal gambling.",
+    content: `## SPiCE Central Asia 2026 Secures GGA Official Support\n\nEventus International has announced that the 3rd annual SPiCE Central Asia 2026 has received the official support of the Georgian Gambling Association (GGA), elevating the summit's regional standing ahead of its return to The Biltmore Hotel Tbilisi on 24–25 September 2026.\n\nThe event will convene regulators, operators, investors, technology providers, and payment companies from across the Caucasus and Central Asia to address the policy questions and commercial opportunities shaping the region's fast-developing gaming sector. Agenda themes include regulatory reform, investment confidence, technological advancement, and cross-border cooperation.\n\n## Georgia's New International Online Gaming Permit Regime\n\nGeorge Mamulaishvili, Head of Administration at the GGA, provided an exclusive preview of the key regulatory development that will anchor much of the September agenda: Georgia's newly proposed international online gaming licence framework.\n\n"Georgia's gaming market is currently being shaped by digitalisation, mobile-first products, data-driven compliance, stronger responsible gambling standards and an increasing focus on combating illegal offshore operators.\n\nAn important recent development is the introduction of Georgia's new international online gaming permit regime," Mamulaishvili explained. "The new framework allows international online casino, slot and sports betting operations to be licensed from Georgia exclusively for foreign players, while participation by Georgian citizens is prohibited."\n\nThe framework is designed to attract international operators, platform providers, compliance specialists, and payment companies, leveraging Georgia's regulatory experience and its strategic position on the Middle Corridor between Europe and Asia. As Mamulaishvili summarised: "The future of the Georgian market will therefore depend not only on domestic growth, but also on Georgia's ability to develop into a credible international licensing, technology and operational hub."\n\n## Regional Regulatory Trends: From Prohibition to Formal Licensing\n\nBeyond Georgia, the SPiCE Central Asia 2026 programme will explore the broader regulatory shift underway across the Caucasus and Central Asia, including Kazakhstan's changing licensing environment.\n\n"The main regional trend is the transition from prohibition or fragmented oversight towards formal licensing, stronger digital supervision and more structured regulation of online gaming," Mamulaishvili noted. Regulators across the region are paying greater attention to player identification, AML and KYC requirements, self-exclusion, advertising restrictions, payment monitoring, technical certification, and the blocking of illegal websites.\n\nGeorgia's combination of digitally active populations, growing internet penetration, widespread mobile payment use, and a long-established regulated gambling market gives it a unique position to serve as both a blueprint and a regional hub for this transformation.\n\n## Keynote: Combating Illegal Gambling in the Digital Age\n\nMamulaishvili will deliver a keynote address at the summit focusing on the practical methods and coordinated ecosystem required to combat illegal online gambling — one of the most pressing challenges facing the region's regulators.\n\n"I will examine how illegal operators attract and retain players through affiliate networks, social media, search engines, messaging platforms, mirror websites, mobile applications, alternative payment methods and cryptocurrencies," he previewed. "Website blocking alone is not sufficient. Illegal operators can quickly change domains, payment channels and advertising methods. Effective enforcement therefore requires a coordinated ecosystem combining technology, financial controls, AML and KYC mechanisms, platform accountability, regulatory cooperation and continuous market monitoring."\n\nHis central message: the most effective way to combat illegal gambling is not only to block illegal operators, but also to maintain a competitive, reliable, and well-regulated licensed market that provides players with a credible legal alternative.\n\n## Join the Summit\n\nSPiCE Central Asia 2026 takes place on **24–25 September 2026** at **The Biltmore Hotel, Tbilisi, Georgia**. Registration is open at [spiceseries.com/sca](https://www.spiceseries.com/sca). Sponsorship enquiries: Lou-Mari Burnett, Chief Operating Officer, Eventus International — loumari@eventus-international.com.`,
+    featuredImage: "/images/articles/spice-central-asia-2026-gga-tbilisi.jpg",
+    author: AUTHORS[6],
+    publishedAt: "2026-07-28T07:00:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t1493", label: "SPiCE Central Asia", slug: "spice-central-asia" },
+      { id: "t1494", label: "Georgia", slug: "georgia" },
+      { id: "t1495", label: "GGA", slug: "gga" },
+      { id: "t1496", label: "Conference", slug: "conference" },
+    ],
+    sourceName: "Eventus International",
+    sourceUrl: "https://www.spiceseries.com/sca",
+    featured: true,
+    trending: true,
+    sponsored: false,
+    seoTitle: "SPiCE Central Asia 2026: GGA Backs 3rd Annual Tbilisi iGaming Summit | iGaming Pulse",
+    metaDescription: "The Georgian Gambling Association officially backs SPiCE Central Asia 2026, returning to The Biltmore Hotel Tbilisi on 24–25 September. GGA's George Mamulaishvili previews Georgia's new international online gaming permit regime.",
+    likes: 41,
+    comments: [],
+  },
 ];
 
 // ─── Helper Functions ────────────────────────────────────────────────��────────
