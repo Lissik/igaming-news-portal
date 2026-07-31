@@ -3144,7 +3144,7 @@ export const ARTICLES: Article[] = [
     translationGroupId: "tg-115",
     title: "EGT Returns as Platinum Sponsor for Casino Operations Summit 2026 in Thessaloniki as 400 Land-Based Professionals Gather",
     excerpt: "Euro Games Technology is returning as platinum sponsor of the Casino Operations Summit 2026 — held April 21-23 in Thessaloniki — where it will showcase new cabinet hardware for an audience of 300-400 land-based casino operators from across Europe and Africa.",
-    content: `## Casino Operations Summit 2026 Opens in Thessaloniki with EGT as Headline Sponsor\n\nThe Casino Operations Summit (COS) 2026 is bringing together land-based casino professionals from across Europe and Africa at the Hyatt Regency Conference Center, Hotel & Casino in Thessaloniki, Greece, from April 21 to 23 — with Euro Games Technology (EGT) serving as the event's platinum sponsor.\n\n### What Happened\n\nEGT confirmed its platinum sponsorship on April 20, 2026, ahead of the Summit's opening on April 21. The Bulgarian gaming equipment manufacturer will exhibit at the Hyatt Regency venue with a showcase centred on its S 32-32 ST gaming cabinet, featuring content including Supreme Buy Bonus Prize Selection, Supreme Red Selection, and Mega Supreme Fruits Selection. The Casino Operations Summit is a focused land-based industry event targeting casino operations managers, general managers, and C-suite executives from European and African land-based casino groups, with an expected attendance of 300 to 400 industry professionals. The 2026 programme covers operational strategy, technology integration, regulatory updates affecting land-based casinos, and trend-driven discussions on player experience design.\n\n### Why It Matters\n\nGreece is a strategically relevant location for EGT and for the Summit's focus market. The Hellenic Gaming Commission (HGC) oversees a large domestic casino market, and Greece's regulated land-based sector has been undergoing consolidation and modernisation. EGT's equipment is widely deployed across Greek casinos, and sponsoring a summit held at an operating casino in Thessaloniki provides direct product-placement access to operations decision-makers who influence slot floor purchasing decisions.\n\n### Industry Context\n\nThe Casino Operations Summit is one of the few focused B2B events specifically targeting land-based casino operations executives rather than the broader iGaming or sports betting market. EGT's platinum sponsorship ��������� and choice of Greece as the venue — reflects the Bulgarian manufacturer's strong position in Southern and Eastern European casino markets, where its hardware and content are widely deployed in land-based properties.`,
+    content: `## Casino Operations Summit 2026 Opens in Thessaloniki with EGT as Headline Sponsor\n\nThe Casino Operations Summit (COS) 2026 is bringing together land-based casino professionals from across Europe and Africa at the Hyatt Regency Conference Center, Hotel & Casino in Thessaloniki, Greece, from April 21 to 23 — with Euro Games Technology (EGT) serving as the event's platinum sponsor.\n\n### What Happened\n\nEGT confirmed its platinum sponsorship on April 20, 2026, ahead of the Summit's opening on April 21. The Bulgarian gaming equipment manufacturer will exhibit at the Hyatt Regency venue with a showcase centred on its S 32-32 ST gaming cabinet, featuring content including Supreme Buy Bonus Prize Selection, Supreme Red Selection, and Mega Supreme Fruits Selection. The Casino Operations Summit is a focused land-based industry event targeting casino operations managers, general managers, and C-suite executives from European and African land-based casino groups, with an expected attendance of 300 to 400 industry professionals. The 2026 programme covers operational strategy, technology integration, regulatory updates affecting land-based casinos, and trend-driven discussions on player experience design.\n\n### Why It Matters\n\nGreece is a strategically relevant location for EGT and for the Summit's focus market. The Hellenic Gaming Commission (HGC) oversees a large domestic casino market, and Greece's regulated land-based sector has been undergoing consolidation and modernisation. EGT's equipment is widely deployed across Greek casinos, and sponsoring a summit held at an operating casino in Thessaloniki provides direct product-placement access to operations decision-makers who influence slot floor purchasing decisions.\n\n### Industry Context\n\nThe Casino Operations Summit is one of the few focused B2B events specifically targeting land-based casino operations executives rather than the broader iGaming or sports betting market. EGT's platinum sponsorship ����������� and choice of Greece as the venue — reflects the Bulgarian manufacturer's strong position in Southern and Eastern European casino markets, where its hardware and content are widely deployed in land-based properties.`,
     featuredImage: "/images/articles/egt-casino-operations-summit-thessaloniki-april-2026.jpg",
     author: AUTHORS[1],
     publishedAt: "2026-04-20T14:00:00Z",
@@ -5762,7 +5762,7 @@ Virtuwise helps iGaming B2B companies build and execute outreach campaigns that 
     trending: false,
     sponsored: false,
     seoTitle: "Pennsylvania Self-Exclusion Jackpot Forfeiture 2026: Enforcement Case Study | iGaming Pulse",
-    metaDescription: "A self-excluded Pennsylvania gambler forfeited a significant slot jackpot under state regulations, with funds redirected to problem gambling programmes — a landmark enforcement case highlighting mature US self-exclusion system capabilities.",
+    metaDescription: "A self-excluded Pennsylvania gambler forfeited a significant slot jackpot under state regulations, with funds redirected to problem gambling programmes ��� a landmark enforcement case highlighting mature US self-exclusion system capabilities.",
     likes: 22,
     comments: [],
   },
@@ -8371,7 +8371,7 @@ But rather: *"Are we ready to work differently?"*
     comments: [],
   },
 
-  // ── July 1, 2026 ─────────────────────────────────���─���─���──���──���───���──────────
+  // ── July 1, 2026 ───────────────────────���─────────���─���─���──���──���───���──────────
   {
     id: "289",
     slug: "election-betting-scandal-guilty-pleas-2026",
@@ -10360,7 +10360,7 @@ Secure a place: [https://www.spiceseries.com/ssea](https://www.spiceseries.com/s
     comments: [],
   },
 
-  // ── July 16 batch ──────────────────────────────��───────���─────────────────────
+  // ── July 16 batch ─────────────────��────────────��───────���─────────────────────
   {
     id: "338",
     slug: "dcms-unlicensed-sponsorship-ban-non-sport-2026",
@@ -12290,6 +12290,75 @@ Secure a place: [https://www.spiceseries.com/ssea](https://www.spiceseries.com/s
     seoTitle: "SPiCE Central Asia 2026: GGA Backs 3rd Annual Tbilisi iGaming Summit | iGaming Pulse",
     metaDescription: "The Georgian Gambling Association officially backs SPiCE Central Asia 2026, returning to The Biltmore Hotel Tbilisi on 24–25 September. GGA's George Mamulaishvili previews Georgia's new international online gaming permit regime.",
     likes: 41,
+    comments: [],
+  },
+
+  {
+    id: "406",
+    slug: "liga-summit-2026-global-business-peru-lima-september",
+    language: "en",
+    translationGroupId: "tg-406",
+    title: "LiGA Summit 2026: Peru's Jonathan Felix on 49 Licensed Operators, Prediction Markets, and LatAm Collaboration",
+    excerpt: "With the inaugural LiGA Summit less than two months away, Global Business Company de Peru CEO Jonathan Felix shares exclusive insights into Peru's fully regulated gaming market, the entry challenges facing new operators, and what to expect at Lima's first major iGaming summit.",
+    content: `## Inaugural LiGA Summit Counts Down to Lima
+
+With just under two months remaining until the inaugural **LiGA Summit 2026**, the Latin American gaming industry is converging on Lima, Peru, for what promises to be the region's most significant new iGaming event of the year. Operators, regulators, affiliates, suppliers, and technology providers will gather at the El Pardo Lima — A DoubleTree by Hilton Hotel on **17–18 September 2026**.
+
+As part of the pre-summit momentum, Eventus International is hosting a LinkedIn Live webinar on **4 August at 11:00 Peru time (18:00 CEST)**, giving speakers and attendees an early opportunity to examine the key market developments and regulatory trends shaping Peru's gaming sector. Register via the [LiGA Summit LinkedIn event](https://www.linkedin.com/events/7484984855672471553?viewAsMember=true).
+
+A major agenda centrepiece is the **Prediction Markets Summit Americas 2026**, a dedicated half-day stream on 18 September running alongside the main LiGA programme. The stream will host open discussions on prediction markets, forecasting infrastructure, and event-based products within regulated gaming contexts.
+
+## Exhibitor Spotlight: Global Business Company de Peru S.A.C.
+
+Among the exhibitors at LiGA Summit's debut edition is **Global Business Company de Peru S.A.C.**, a Lima-based advisory firm with a decade of experience across the LatAm region. The company provides advisory services in business development, investment promotion, and project management spanning the gambling, regulatory, financial services, and value-added services sectors.
+
+Its client roster spans companies from the United States, Europe, and Asia, and its public-sector credentials are substantial. In Colombia, the firm advised **COLJUEGOS** on the technical and commercial regulation of instant lottery games (Scratch & Win), bingo, and online lottery products. In Peru, it has worked directly with the **General Directorate of Casino Games and Slot Machines of MINCETUR** on sports betting and online gaming regulation, while also delivering training and coaching programmes. Visit: [globalbusinesslatam.com](https://www.globalbusinesslatam.com/)
+
+## Jonathan Felix: Peru Is Fully Regulated and Ready for Disruption
+
+The company's CEO, **Jonathan Felix** — international speaker, industry commentator, and experienced executive — will take the stage in Lima. In an exclusive preview ahead of the summit, he offered a candid assessment of Peru's market.
+
+On the state of the Peruvian market, Felix stated:
+
+> "Currently, the Peruvian market is 100% regulated across the entire gambling and games of chance sector. It is a mature and highly competitive market with games that have more than 240 years of history, development, and evolution, such as lottery games. Over the past nearly 20 years, the evolution and growth of sports betting and online games have broken paradigms, driving sector growth and creating an active community of millions of players throughout the country."
+
+On the opportunities and challenges for new operators and investors:
+
+> "Peru is one of the seven attractive markets in the LatAm region, along with Brazil, Mexico, Argentina, Venezuela, Colombia, and Chile. It has friendly laws and regulations that promote investment and the entry of new stakeholders. For this reason, there are currently **49 B2C-licensed companies** authorised by MINCETUR to operate sports betting and online games, **4 B2C-licensed companies** authorised by the Ministry of Women to operate lottery games, and other companies about to commence operations. There are also over **600 land-based casinos** authorised by MINCETUR. The challenge for new operators is to design disruptive business plans that break existing paradigms, open the market for new brands, and gain significant participation in the coming years."
+
+## Regulatory Collaboration: Progress, but a Long Way to Go
+
+On cross-border cooperation between regulators and private sector players, Felix emphasised that while there are encouraging signs, structural gaps remain:
+
+> "We see that regulators are starting to move towards greater collaboration and experience sharing in the region, but there is still a long way to go to develop more specific actions like fighting illegal gambling, preventing problem gambling, and constantly adapting according to market evolution and consumer behaviour. B2B and B2C companies are involved in this task — through which valuable experience is gained regarding market evolution, new trends, fraud prevention, and key feedback for regulators regarding illegal gambling and ways to minimise problem gambling."
+
+## Advice for International Operators Entering LatAm
+
+For companies considering entry into Latin American markets, Felix offered a structured framework:
+
+> "First, study and analyse each market to identify opportunities for developing new businesses, looking at the stakeholders already operating and their reference profitability. Second, thoroughly review the laws and rules that regulate each market, or their absence. Third, define the business plan and commercial strategy adapted to the reality and opportunities of each market to achieve entry with calculated risks and a medium- to long-term profitability projection."
+
+## Join the Summit
+
+The **LiGA Summit 2026** takes place on **17–18 September 2026** at El Pardo Lima — A DoubleTree by Hilton Hotel, Lima, Peru. Register at [eventus-international.com/liga](https://www.eventus-international.com/liga). Sponsorship enquiries: Lou-Mari Burnett, COO, Eventus International — loumari@eventus-international.com.`,
+    featuredImage: "/images/articles/liga-summit-2026-global-business-peru-spotlight.jpg",
+    author: AUTHORS[0],
+    publishedAt: "2026-07-28T06:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t1497", label: "LiGA Summit", slug: "liga-summit" },
+      { id: "t1498", label: "Peru", slug: "peru" },
+      { id: "t1499", label: "Latin America", slug: "latin-america" },
+      { id: "t1500", label: "MINCETUR", slug: "mincetur" },
+    ],
+    sourceName: "Eventus International",
+    sourceUrl: "https://www.eventus-international.com/liga",
+    featured: true,
+    trending: true,
+    sponsored: false,
+    seoTitle: "LiGA Summit 2026 Lima: Global Business Peru CEO Jonathan Felix on 49 Licensed Operators | iGaming Pulse",
+    metaDescription: "Global Business Company de Peru CEO Jonathan Felix previews Peru's fully regulated market of 49 licensed online operators ahead of the inaugural LiGA Summit, Lima, 17–18 September 2026.",
+    likes: 37,
     comments: [],
   },
 ];
