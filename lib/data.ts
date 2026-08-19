@@ -4161,7 +4161,7 @@ export const ARTICLES: Article[] = [
     translationGroupId: "tg-150",
     title: "Flutter Posts $4.3B Q1 Revenue, Ousts FanDuel CEO Amy Howe, and Signals Likely London Stock Exchange Exit — Three Seismic Moves in One Week",
     excerpt: "Flutter Entertainment's Q1 2026 week delivered three simultaneous shocks: group revenue of $4.3B (+17%) beat expectations, FanDuel CEO Amy Howe was ousted with a $4.37M package and replaced by legal insider Christian Genetski, and Flutter confirmed it may fully delist from the London Stock Exchange by mid-year — compressing months of strategic decision-making into a single earnings cycle.",
-    content: `## Flutter's Biggest Week Since the NYSE Switch: $4.3B Revenue, a CEO Exit, and a Likely London Farewell\n\nFlutter Entertainment's Q1 2026 earnings week was unlike any in the company's recent history — not because of the financial results, which beat expectations, but because of the two structural decisions delivered simultaneously with the numbers.\n\n### What Happened\n\nFlutter reported Q1 2026 group revenue of $4.304 billion, up 17% year-on-year. The iGaming segment drove the outperformance, growing 28% globally, as online casino's superior margin profile and prediction-market resilience continued to justify Flutter's diversified vertical strategy. US revenue reached $1.763 billion (+6% YoY), with FanDuel's iGaming arm delivering $564 million (+19%) while US sportsbook grew only 1% as betting handle declined 9% ��� a direct consequence of prediction market CPA inflation that has compressed the sportsbook new-player pipeline. Adjusted EBITDA guidance for H1 2026 was revised down from $2.97 billion to $2.86 billion.\n\nOn the same day as the Q1 release, Flutter announced that Amy Howe has left her role as FanDuel CEO, effective immediately. Howe, who joined FanDuel in 2021 and guided it through rapid US expansion to the market leadership position, will receive $4.37 million in severance — equivalent to 24 months of salary and bonus. Christian Genetski, FanDuel's President with responsibility for corporate strategy, regulatory affairs, and legal since 2015, assumes operational leadership. Dan Taylor, previously CEO of Flutter's International division, takes the newly created role of President of Flutter Entertainment with a remit covering the global brand portfolio.\n\nFlutter simultaneously confirmed that it has commenced a review of its secondary London Stock Exchange listing, noting the outcome "may result in a decision to cancel the listing" with shareholders to be updated by end of Q2 2026.\n\n### Why It Matters\n\nThe FanDuel CEO change is the most significant leadership transition in US online gambling since DraftKings' own management evolution in 2022. Amy Howe led FanDuel through its ascent to US market leadership; her abrupt departure — effective immediately, with 24-month severance — signals that Flutter's board has concluded FanDuel's 6% US revenue growth in Q1 is not acceptable given the parent-level 17% result. Christian Genetski's appointment is a regulatory and legal insider taking operational control at a moment when prediction market regulation, Alberta expansion, and the World Cup sportsbook cycle all require deep government-relations capability. The LSE delisting review, driven by minimal UK trading volume since the 2024 NYSE primary switch, removes the administrative and compliance overhead of a secondary listing that serves an increasingly small shareholder base.\n\n### Industry Context\n\nFull-year 2026 group revenue guidance was trimmed to $18.3 billion from $18.4 billion. For the broader iGaming industry, Flutter's simultaneous earnings, leadership, and capital markets announcements compress what would normally be three separate major news events into a single week — reflecting the pace at which strategic decisions are being forced on the sector's largest operators by the prediction market disruption cycle.`,
+    content: `## Flutter's Biggest Week Since the NYSE Switch: $4.3B Revenue, a CEO Exit, and a Likely London Farewell\n\nFlutter Entertainment's Q1 2026 earnings week was unlike any in the company's recent history — not because of the financial results, which beat expectations, but because of the two structural decisions delivered simultaneously with the numbers.\n\n### What Happened\n\nFlutter reported Q1 2026 group revenue of $4.304 billion, up 17% year-on-year. The iGaming segment drove the outperformance, growing 28% globally, as online casino's superior margin profile and prediction-market resilience continued to justify Flutter's diversified vertical strategy. US revenue reached $1.763 billion (+6% YoY), with FanDuel's iGaming arm delivering $564 million (+19%) while US sportsbook grew only 1% as betting handle declined 9% ����� a direct consequence of prediction market CPA inflation that has compressed the sportsbook new-player pipeline. Adjusted EBITDA guidance for H1 2026 was revised down from $2.97 billion to $2.86 billion.\n\nOn the same day as the Q1 release, Flutter announced that Amy Howe has left her role as FanDuel CEO, effective immediately. Howe, who joined FanDuel in 2021 and guided it through rapid US expansion to the market leadership position, will receive $4.37 million in severance — equivalent to 24 months of salary and bonus. Christian Genetski, FanDuel's President with responsibility for corporate strategy, regulatory affairs, and legal since 2015, assumes operational leadership. Dan Taylor, previously CEO of Flutter's International division, takes the newly created role of President of Flutter Entertainment with a remit covering the global brand portfolio.\n\nFlutter simultaneously confirmed that it has commenced a review of its secondary London Stock Exchange listing, noting the outcome "may result in a decision to cancel the listing" with shareholders to be updated by end of Q2 2026.\n\n### Why It Matters\n\nThe FanDuel CEO change is the most significant leadership transition in US online gambling since DraftKings' own management evolution in 2022. Amy Howe led FanDuel through its ascent to US market leadership; her abrupt departure — effective immediately, with 24-month severance — signals that Flutter's board has concluded FanDuel's 6% US revenue growth in Q1 is not acceptable given the parent-level 17% result. Christian Genetski's appointment is a regulatory and legal insider taking operational control at a moment when prediction market regulation, Alberta expansion, and the World Cup sportsbook cycle all require deep government-relations capability. The LSE delisting review, driven by minimal UK trading volume since the 2024 NYSE primary switch, removes the administrative and compliance overhead of a secondary listing that serves an increasingly small shareholder base.\n\n### Industry Context\n\nFull-year 2026 group revenue guidance was trimmed to $18.3 billion from $18.4 billion. For the broader iGaming industry, Flutter's simultaneous earnings, leadership, and capital markets announcements compress what would normally be three separate major news events into a single week — reflecting the pace at which strategic decisions are being forced on the sector's largest operators by the prediction market disruption cycle.`,
     featuredImage: "/images/articles/flutter-q1-2026-fanduel-ceo-howe-exit-lse-review.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-05-07T15:00:00Z",
@@ -4275,7 +4275,7 @@ export const ARTICLES: Article[] = [
     translationGroupId: "tg-154",
     title: "Evolution Q1 2026 Revenue Falls Below €520M for First Time in Six Quarters — European Saturation Bites as Americas Outpace the Core Market",
     excerpt: "Evolution AB posted Q1 2026 net revenue of €513M — a 1.5% year-on-year decline from €520.9M — its first quarterly revenue drop in recent memory, as regulatory headwinds and market saturation in UK, Netherlands, Sweden, and Germany outweigh Americas growth, raising structural questions about the live casino category's growth rate in its most mature markets.",
-    content: `## Evolution's Revenue Drops for the First Time in Years — Europe's Growth Ceiling Is Showing\n\nEvolution AB's Q1 2026 results delivered the iGaming supply chain's most closely watched earnings moment of the season — and the outcome was a modest but historically significant miss.\n\n### What Happened\n\nQ1 2026 net revenue fell to €513 million from €520.9 million in Q1 2025 ��� a 1.5% year-on-year decline. EBITDA dropped to €335.3 million. The results came in below analyst expectations and represented the company's first year-on-year quarterly revenue decline in multiple years. Management attributed the underperformance to regulatory headwinds in core European markets — principally the UK (affordability check rollout, deposit limits), the Netherlands (CRUKS enforcement, player protection rules), Sweden (government-imposed deposit caps), and Germany (continuing market access restrictions) — offset partially by Americas growth across US iGaming and Brazil post-regulation. Evolution did not provide specific regional revenue breakdowns but noted that the Americas trajectory remains positive.\n\n### Why It Matters\n\nEvolution's European dominance in live dealer — with estimated market shares above 60% in most regulated markets — is both the asset and the liability. In markets where the regulatory environment tightens deposit limits, slows game pacing, or introduces mandatory session breaks, live casino revenue is structurally constrained in ways that slot revenue is not. The saturation dynamic is equally important: the UK, Netherlands, and Sweden are mature markets where the active live casino player base has been growing slowly for two years.\n\nWithout new market opening or product category innovation, European revenue growth has reached a natural plateau. The Americas trajectory — particularly US iGaming in Michigan, New Jersey, and Pennsylvania, plus Brazil's first full year of regulated operation — is real but not yet large enough in absolute terms to offset European deceleration.\n\n### Industry Context\n\nFor B2B game studios and aggregators benchmarking against Evolution, the decline validates the thesis that the live casino growth rate has normalised and future outperformance requires either geographic expansion into emerging markets or product innovation beyond standard live table formats. The Q1 result will intensify pressure on Evolution to demonstrate a product roadmap that can re-accelerate European revenue — whether through game show formats, hybrid RNG/live products, or further investment in regulated market expansion in Asia and Latin America.`,
+    content: `## Evolution's Revenue Drops for the First Time in Years — Europe's Growth Ceiling Is Showing\n\nEvolution AB's Q1 2026 results delivered the iGaming supply chain's most closely watched earnings moment of the season — and the outcome was a modest but historically significant miss.\n\n### What Happened\n\nQ1 2026 net revenue fell to ���513 million from €520.9 million in Q1 2025 ��� a 1.5% year-on-year decline. EBITDA dropped to €335.3 million. The results came in below analyst expectations and represented the company's first year-on-year quarterly revenue decline in multiple years. Management attributed the underperformance to regulatory headwinds in core European markets — principally the UK (affordability check rollout, deposit limits), the Netherlands (CRUKS enforcement, player protection rules), Sweden (government-imposed deposit caps), and Germany (continuing market access restrictions) — offset partially by Americas growth across US iGaming and Brazil post-regulation. Evolution did not provide specific regional revenue breakdowns but noted that the Americas trajectory remains positive.\n\n### Why It Matters\n\nEvolution's European dominance in live dealer — with estimated market shares above 60% in most regulated markets — is both the asset and the liability. In markets where the regulatory environment tightens deposit limits, slows game pacing, or introduces mandatory session breaks, live casino revenue is structurally constrained in ways that slot revenue is not. The saturation dynamic is equally important: the UK, Netherlands, and Sweden are mature markets where the active live casino player base has been growing slowly for two years.\n\nWithout new market opening or product category innovation, European revenue growth has reached a natural plateau. The Americas trajectory — particularly US iGaming in Michigan, New Jersey, and Pennsylvania, plus Brazil's first full year of regulated operation — is real but not yet large enough in absolute terms to offset European deceleration.\n\n### Industry Context\n\nFor B2B game studios and aggregators benchmarking against Evolution, the decline validates the thesis that the live casino growth rate has normalised and future outperformance requires either geographic expansion into emerging markets or product innovation beyond standard live table formats. The Q1 result will intensify pressure on Evolution to demonstrate a product roadmap that can re-accelerate European revenue — whether through game show formats, hybrid RNG/live products, or further investment in regulated market expansion in Asia and Latin America.`,
     featuredImage: "/images/articles/evolution-q1-2026-revenue-decline-europe-americas.jpg",
     author: AUTHORS[2],
     publishedAt: "2026-05-09T11:00:00Z",
@@ -8371,7 +8371,7 @@ But rather: *"Are we ready to work differently?"*
     comments: [],
   },
 
-  // ── July 1, 2026 ───────────────────���───���─────────���─���─���──���──���───���──────────
+  // ── July 1, 2026 ───────────────���───���───���─────────���─���─���──���──���───���──────────
   {
     id: "289",
     slug: "election-betting-scandal-guilty-pleas-2026",
@@ -10360,7 +10360,7 @@ Secure a place: [https://www.spiceseries.com/ssea](https://www.spiceseries.com/s
     comments: [],
   },
 
-  // ── July 16 batch ─────────────────��────────────��───────���─────────────────────
+  // ── July 16 batch ──���──────────────��────────────��───────���─────────────────────
   {
     id: "338",
     slug: "dcms-unlicensed-sponsorship-ban-non-sport-2026",
@@ -14649,6 +14649,110 @@ Operators should treat Borzunov's guardrail framework as a technical reference a
     seoTitle: "CTOs Debate AI Reliability in iGaming Production Environments at 2026 Summit | iGaming Pulse",
     metaDescription: "Maincard CTO explains how careful guardrails can make AI production-ready in iGaming—balancing innovation potential with operational safety requirements.",
     likes: 28,
+    comments: [],
+  },
+
+  {
+    id: "459",
+    slug: "ai-igaming-compliance-human-oversight-neil-dillon-solas",
+    language: "en",
+    translationGroupId: "tg-459",
+    title: "AI Won't Replace Compliance Teams. But Compliance Teams Using AI Will Move Faster",
+    excerpt: "Neil Dillon, CEO of Solas Compliance, explains how AI is reshaping compliance in regulated iGaming — why human judgment remains critical and how operators can move faster without adding risk.",
+    content: `## How artificial intelligence is changing the future of compliance in regulated iGaming
+
+Artificial intelligence is rapidly changing the way regulated industries operate. In iGaming, where companies must balance commercial growth with strict regulatory requirements, AI creates both opportunities and new challenges.
+
+Marketing teams can now create more content, faster than ever before. Operators are expanding into more jurisdictions. Regulatory expectations continue to increase. This creates a fundamental question: how can regulated companies increase speed without increasing risk?
+
+According to Neil Dillon, CEO & Founder of Solas Compliance, the future is not about replacing compliance professionals with artificial intelligence. It is about giving compliance teams better tools to make better decisions.
+
+> "With the prevalence of AI, critical thinking has never been more critical." — Neil Dillon, CEO & Founder of Solas Compliance
+
+For an industry built around trust, regulation and player protection, this may become one of the defining questions of the next few years.
+
+## The old compliance model is struggling in the AI era
+
+Traditionally, the workflow inside many regulated businesses looked like this: marketing creates content, compliance reviews it, and compliance approves or rejects it. This model worked when the amount of content was manageable. But AI has changed the scale completely.
+
+Today, marketing teams can create advertising concepts, social media campaigns, promotional materials, affiliate content and customer communications at a speed that was impossible before. The problem is that compliance processes in many companies remain largely manual.
+
+AI is accelerating content creation. Compliance needs to accelerate decision-making. The challenge is not that compliance has become less important — it is that companies need new ways to maintain control while operating at a much higher speed.
+
+## AI should support human judgment, not replace it
+
+One of the biggest misconceptions around AI is that companies must choose between automation and human expertise. The reality is different.
+
+AI can help compliance teams review large volumes of content, identify potential risks, compare materials against regulations, monitor changes, create audit trails and improve internal workflows. But regulated industries cannot simply outsource responsibility to technology.
+
+The key question is not only "what answer did AI provide?" but "why did AI provide this answer?" This is where human expertise remains critical. A compliance decision often depends on market context, regulatory interpretation, customer behaviour, company risk appetite and previous enforcement actions.
+
+> "Confidence is not the same as correctness." — Neil Dillon, CEO & Founder of Solas Compliance
+
+The more powerful AI systems become, the more important critical thinking becomes.
+
+## From compliance as a blocker to compliance as a growth function
+
+For many years, compliance has often been viewed as a department that slows business down. Marketing wants to move faster, product teams want innovation, commercial teams want growth — and compliance asks more questions. This creates friction.
+
+However, AI has the potential to change this relationship. Instead of compliance entering at the end of the process, it can become part of the process from the beginning. A future workflow could look different: a marketing team creates a campaign, AI reviews potential issues immediately, teams fix problems earlier, and compliance focuses on complex decisions that require expertise.
+
+The result: fewer delays, fewer revisions, faster launches and lower regulatory risk. Compliance stops being the function that only says "no". It becomes a function that helps companies move faster with confidence.
+
+## Why AI compliance is becoming a business issue
+
+One of the biggest changes is that AI compliance affects multiple departments. For marketing teams, the priority is speed — they want to launch campaigns faster and reduce unnecessary rework. For compliance teams, the challenge is scale — they need to review more material without becoming a bottleneck. For leadership teams, the priority is risk management — they need confidence that the company can demonstrate a strong process if regulators ask questions.
+
+This is why AI compliance is becoming a business infrastructure topic, not just a compliance topic.
+
+## Different markets, different rules
+
+One of the biggest challenges in iGaming is that compliance is never universal. The UK is different from Germany. Germany is different from Malta. Europe is different from the US.
+
+Operators expanding internationally need to manage different advertising rules, different responsible gaming requirements, different AML expectations and different regulatory interpretations. This means AI compliance systems cannot simply be generic tools — they need to understand jurisdiction-specific regulations, internal company policies, brand guidelines, regulatory decisions and company risk appetite.
+
+The future of AI compliance will depend not only on technology, but on the quality of knowledge behind it.
+
+## Buy versus build: the strategic AI question for operators
+
+Many large operators are asking the same question: should we build our own AI capabilities internally, or should we work with specialised technology providers?
+
+Building AI systems requires data, engineering resources, testing, governance and continuous improvement. AI is not something companies simply activate — it requires ongoing optimisation. For many operators, the question becomes whether AI compliance is a core competitive advantage they need to build themselves, or a specialised capability where working with experts creates more value.
+
+## The future compliance professional will be AI-native
+
+AI will not eliminate the need for compliance professionals, but it will change their role. The strongest compliance specialists of the future will understand both regulation and technology. They will know where AI is reliable, where AI creates risk, how to challenge AI decisions and how to use technology responsibly.
+
+Compliance teams may become more efficient and potentially smaller in some areas, but their strategic importance will increase. The future compliance professional will not compete with AI — they will know how to use it better than others.
+
+## The future of compliance is trust infrastructure
+
+The biggest lesson from the AI discussion is that technology alone is not enough. Successful regulated companies will need a combination of AI capability, human expertise, strong governance, transparent decision-making and regulatory understanding.
+
+The future is not AI replacing people. The future is AI helping people make better decisions faster. For regulated iGaming, this distinction is critical — because compliance is not only about avoiding problems, it is about building the trust infrastructure that allows companies to grow sustainably.
+
+## About Neil Dillon
+
+Neil Dillon is CEO & Founder of Solas Compliance, an AI-powered compliance technology company focused on helping regulated businesses improve marketing compliance, governance and operational efficiency.`,
+    featuredImage: "/images/articles/ai-igaming-compliance-human-oversight-neil-dillon-solas.png",
+    author: AUTHORS[2],
+    publishedAt: "2026-08-17T09:00:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t1734", label: "AI Compliance", slug: "ai-compliance" },
+      { id: "t1735", label: "Solas Compliance", slug: "solas-compliance" },
+      { id: "t1736", label: "RegTech", slug: "regtech" },
+      { id: "t1737", label: "Responsible Gaming", slug: "responsible-gaming" },
+      { id: "t1738", label: "AML", slug: "aml" },
+    ],
+    sourceName: "Solas Compliance",
+    sourceUrl: "https://solascompliance.com",
+    featured: true,
+    trending: true,
+    sponsored: false,
+    seoTitle: "AI in iGaming Compliance: Why Human Judgment Matters More Than Ever",
+    metaDescription: "Neil Dillon, CEO of Solas Compliance, explains how AI is changing compliance in iGaming, why human oversight remains critical and how operators can use AI to improve speed, governance and risk management.",
+    likes: 22,
     comments: [],
   },
 ];
