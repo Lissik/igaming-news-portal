@@ -3,10 +3,36 @@ import Link from "next/link";
 import { ArrowRight, CalendarDays } from "lucide-react";
 
 const UPCOMING_EVENTS = [
-  { name: "SBC Summit Malta 2026", date: "Apr 28–30, 2026", location: "Malta", href: "/en/article/sbc-summit-malta-2026-preview" },
-  { name: "iGB Live! 2026", date: "Jul 01–02, 2026", location: "London, UK", href: "/en/article/igb-live-2026-amsterdam-preview" },
-  { name: "SBC Summit Lisbon 2026", date: "Sep 22–24, 2026", location: "Lisbon, Portugal", href: "/en/article/sbc-summit-lisbon-2026-announcement" },
-  { name: "SiGMA Europe 2026", date: "Nov 16–20, 2026", location: "Malta", href: "/en/article/sigma-europe-2026-preview" },
+  {
+    name: "SiGMA North America 2026",
+    date: "Sep 01–03, 2026",
+    location: "Mexico City, Mexico",
+    href: "https://sigma.world/summits/north-america",
+  },
+  {
+    name: "Affiliate World Americas 2026",
+    date: "Sep 07–08, 2026",
+    location: "Cancún, Mexico",
+    href: "https://affiliateworldconferences.com/americas",
+  },
+  {
+    name: "Global Gaming Expo (G2E) 2026",
+    date: "Sep 28–Oct 01, 2026",
+    location: "Las Vegas, USA",
+    href: "https://globalgamingexpo.com/en-us/attend/attendee-resources.html",
+  },
+  {
+    name: "SBC Summit 2026",
+    date: "Sep 29–Oct 01, 2026",
+    location: "Lisbon, Portugal",
+    href: "https://sbcevents.com/sbc-summit",
+  },
+  {
+    name: "SiGMA World 2026",
+    date: "Nov 02–05, 2026",
+    location: "Rome, Italy",
+    href: "https://sigma.world/summits",
+  },
 ];
 
 export function EventsSection() {
@@ -64,9 +90,11 @@ export function EventsSection() {
           </div>
           <div className="flex flex-col gap-3">
             {UPCOMING_EVENTS.map((event) => (
-              <Link
+              <a
                 key={event.name}
                 href={event.href}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="group flex flex-col bg-white border border-border rounded-sm p-4 hover:shadow-sm hover:border-amber/50 transition-all"
               >
                 <span className="text-xs font-sans font-semibold text-amber uppercase tracking-wider">
@@ -76,7 +104,7 @@ export function EventsSection() {
                   {event.name}
                 </span>
                 <span className="text-xs text-muted-foreground font-sans mt-0.5">{event.location}</span>
-              </Link>
+              </a>
             ))}
           </div>
         </div>
