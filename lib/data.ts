@@ -17652,6 +17652,70 @@ Attendees traveling to SBC Summit are invited to join Bazoom on Monday, Septembe
     likes: 14,
     comments: [],
   },
+
+  {
+    id: "513",
+    slug: "big-betty-partners-affiliate-leaders-awards-2026-shortlist",
+    language: "en",
+    translationGroupId: "tg-513",
+    title: "Big Betty Partners Shortlisted for Digital Marketing Campaign of the Year at Affiliate Leaders Awards 2026",
+    excerpt: "Big Betty Partners has been shortlisted for Digital Marketing Campaign of the Year at the Affiliate Leaders Awards 2026, following a year marked by large-scale creative campaigns and new approaches to affiliate engagement.",
+    content: `## A place among the finalists
+
+Big Betty Partners has officially secured a place among the five finalists in the **Digital Marketing Campaign of the Year** category at the Affiliate Leaders Awards 2026.
+
+The Affiliate Leaders Awards celebrate companies, teams and professionals shaping affiliate and performance marketing. This year's program includes 20 categories, with winners determined through a combination of industry voting and scores from an expert judging panel. Around 400 industry professionals are expected to attend the ceremony at Lisbon's MEO Arena on **30 September 2026**, during the second day of the Affiliate Leaders Summit.
+
+For Big Betty Partners, the shortlist follows a year focused on making affiliate marketing more engaging for partners, with Big Deal Show becoming one of the team's largest marketing projects to date.
+
+> "This shortlist belongs to every team behind Big Betty. Marketing, affiliate management, design and communications all work toward one goal: creating experiences that partners genuinely enjoy and remember. Being recognized at the Affiliate Leaders Awards is an important milestone for us, and we already have more projects in development." — Valeriia, Head of Brand Marketing at Big Betty Partners
+
+## Big Deal Show: Three Months of Partner Engagement
+
+Big Deal Show was a three-month campaign that combined partner performance, gamification, and entertainment, culminating in a live broadcast on 5 June 2026.
+
+Inspired by 1960s television shopping shows, the campaign turned Big Betty's retro identity into an interactive format. Partners earned Betty Points through campaign activity and used them during the show to claim prizes, with retro rewards upgraded to modern alternatives.
+
+## From Creative Concept to Measurable Results
+
+The campaign reactivated around **57% of inactive partners** within the target database. Active partners also increased traffic and FTD activity, while new partner acquisition became one of the strongest-performing areas of the project.
+
+Big Deal Show has also gained industry recognition, including a place on the shortlist for the SiGMA Europe Awards 2026. The Affiliate Leaders Awards nomination marks another milestone for the campaign and the team behind it.
+
+## Big Betty Is Bringing the Next Move to Lisbon
+
+The Affiliate Leaders Awards will take place during the Affiliate Leaders Summit 2026, co-located with SBC Summit in Lisbon from **29 September to 1 October 2026**. The three-day event is expected to bring together more than 10,000 delegates from 150+ countries from across the affiliate ecosystem.
+
+And Big Betty has plans beyond the awards night. During SBC Summit week, the team is preparing an invitation-only Big Betty private party in Lisbon, continuing its approach to creating partner experiences beyond the exhibition floor. Details will be revealed closer to the event.
+
+As Betty would put it: keep it big, darling. Lisbon is only getting started.
+
+## About Big Betty Partners
+
+Founded in 2021, Big Betty Partners is an iGaming affiliate program focused on direct partnerships, flexible commercial models, marketing tools and personalized partner support. The company works with affiliates across multiple markets and builds its partner strategy around long-term relationships, campaign performance and brand-led experiences.
+
+Big Betty Partners regularly participates in major international industry events and develops its own partner activations, campaigns and networking formats.`,
+    featuredImage: "/images/articles/big-betty-partners-affiliate-leaders-awards-2026-shortlist.png",
+    author: AUTHORS[2],
+    publishedAt: "2026-08-20T09:00:00Z",
+    category: "affiliates",
+    tags: [
+      { id: "t2004", label: "Big Betty Partners", slug: "big-betty-partners" },
+      { id: "t2005", label: "Affiliate Leaders Awards", slug: "affiliate-leaders-awards-2026" },
+      { id: "t2006", label: "Affiliate Marketing", slug: "affiliate-marketing" },
+      { id: "t2007", label: "Big Deal Show", slug: "big-deal-show" },
+      { id: "t2008", label: "SBC Summit Lisbon", slug: "sbc-summit-lisbon" },
+    ],
+    sourceName: "Big Betty Partners",
+    sourceUrl: "https://bigbettypartners.com",
+    featured: false,
+    trending: true,
+    sponsored: false,
+    seoTitle: "Big Betty Partners Shortlisted for Digital Marketing Campaign of the Year at Affiliate Leaders Awards 2026 | iGaming Pulse",
+    metaDescription: "Big Betty Partners is a finalist for Digital Marketing Campaign of the Year at the Affiliate Leaders Awards 2026 in Lisbon, recognized for its Big Deal Show campaign that reactivated 57% of inactive partners.",
+    likes: 16,
+    comments: [],
+  },
 ];
 
 // ─── Helper Functions ────────────────────────────────────────────────��────────
