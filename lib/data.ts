@@ -8371,7 +8371,7 @@ But rather: *"Are we ready to work differently?"*
     comments: [],
   },
 
-  // ── July 1, 2026 ─────────���─���───���───���───���─────────���─���─���──���──���───���──────────
+  // ── July 1, 2026 ────���────���─���───���───���───���─────────���─���─���──���──���───���──────────
   {
     id: "289",
     slug: "election-betting-scandal-guilty-pleas-2026",
@@ -17817,6 +17817,62 @@ Games Valley is a dynamic and innovative team with decades of experience and fir
     seoTitle: "Games Valley to Showcase Smarter Aggregation at SBC Summit in Exhibition Debut | iGaming Pulse",
     metaDescription: "Games Valley makes its exhibition debut at SBC Summit (Stand B123), showcasing Smarter Aggregation with 150+ providers, 13,000+ casino games, sub-24-hour integrations and Revenue Intelligence.",
     likes: 15,
+    comments: [],
+  },
+
+  {
+    id: "516",
+    slug: "kiss-gaming-sbc-summit-lisbon-2026",
+    language: "en",
+    translationGroupId: "tg-516",
+    title: "KISS Gaming Heads to Lisbon for SBC Summit 2026 with Virtual Live Casino and Outside Lounge",
+    excerpt: "Game studio KISS Gaming confirms its presence at SBC Summit 2026 with a 60+ game portfolio, a first-of-its-kind virtual live casino, live demos at Stand B248 and a dedicated Outside Lounge at B827.",
+    content: `## KISS Gaming confirmed for SBC Summit 2026
+
+September 2026 — KISS Gaming, the iGaming game studio and content provider behind a growing portfolio of **60+ slot, crash, instant, and virtual live casino games**, has confirmed its presence at SBC Summit 2026.
+
+At the forefront of its portfolio is its first of its kind virtual live casino, featuring virtual dealers available 24/7 in multiple languages and designed to deliver an engaging 3D live casino experience in a mesmerizing digital format.
+
+The company will welcome operators, affiliates, and partners at **Stand B248**, alongside a dedicated Outside Lounge at **B827** built for the event.
+
+## A Diverse, Exclusive Casino Games Portfolio at Stand B248
+
+At KISS Gaming's stand, visitors can explore an extensive range of casino games, including engaging slots, crash and instant games, and live casino experiences featuring virtual dealers, alongside exclusive branded titles and other casino content for operators.
+
+Live demos will run throughout the event, allowing operators to explore the mechanics and features of each title before discussing integration and partnership opportunities. Several giveaways will also take place, with prizes for potential clients visiting the stand.
+
+Business Development Executive Preni Davtyan and Head of Sales Arman Kirakosyan will lead the KISS Gaming presence at Stand B248, presenting the company's portfolio and meeting with operators and partners to discuss business opportunities.
+
+## An Outside Lounge Built for Networking
+
+Beyond the stand, KISS Gaming will host a dedicated Outside Lounge at B827, offering a relaxed setting for networking away from the main exhibition floor.
+
+The lounge will feature soft seating, high tables, and a signature open bar serving four to five KISS Gaming-branded cocktails, alongside wine, beer, soft drinks, water, and coffee. Hostesses, waitstaff, and bartenders will support the lounge, with chocolates and snacks also available for guests.
+
+## Cocktail Shows Add an Element of Entertainment
+
+The Outside Lounge will feature professional cocktail shows several times a day, with mixologists performing cocktail shaking and flair techniques. A DJ will provide lounge music, while guests can enjoy food, branded gifts, and a mystery gift.
+
+Visitors can also have their photo taken and receive a printed picture featuring the KISS Gaming logo via QR code.`,
+    featuredImage: "/images/articles/kiss-gaming-sbc-summit-lisbon-2026.png",
+    author: AUTHORS[2],
+    publishedAt: "2026-08-25T09:00:00Z",
+    category: "slots-game-providers",
+    tags: [
+      { id: "t2018", label: "KISS Gaming", slug: "kiss-gaming" },
+      { id: "t2019", label: "SBC Summit Lisbon", slug: "sbc-summit-lisbon" },
+      { id: "t2020", label: "Virtual Live Casino", slug: "virtual-live-casino" },
+      { id: "t2021", label: "Slot Games", slug: "slot-games" },
+      { id: "t2022", label: "Game Studio", slug: "game-studio" },
+    ],
+    sourceName: "KISS Gaming",
+    sourceUrl: "https://kissgaming.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "KISS Gaming Heads to Lisbon for SBC Summit 2026 with Virtual Live Casino and Outside Lounge | iGaming Pulse",
+    metaDescription: "KISS Gaming brings its 60+ game portfolio and first-of-its-kind virtual live casino to SBC Summit 2026, with live demos at Stand B248 and a dedicated Outside Lounge with cocktail shows at B827.",
+    likes: 11,
     comments: [],
   },
 ];
