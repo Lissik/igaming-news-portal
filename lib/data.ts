@@ -5914,7 +5914,7 @@ Virtuwise helps iGaming B2B companies build and execute outreach campaigns that 
     comments: [],
   },
 
-  // ── June 4, 2026 (batch 1) ────────────────────────────────���───────────────
+  // ── June 4, 2026 (batch 1) ────────────────────────────────������──────────────
   {
     id: "208",
     slug: "world-cup-illegal-betting-surge-2026",
@@ -17714,6 +17714,51 @@ Big Betty Partners regularly participates in major international industry events
     seoTitle: "Big Betty Partners Shortlisted for Digital Marketing Campaign of the Year at Affiliate Leaders Awards 2026 | iGaming Pulse",
     metaDescription: "Big Betty Partners is a finalist for Digital Marketing Campaign of the Year at the Affiliate Leaders Awards 2026 in Lisbon, recognized for its Big Deal Show campaign that reactivated 57% of inactive partners.",
     likes: 16,
+    comments: [],
+  },
+
+  {
+    id: "514",
+    slug: "fastspin-sbc-summit-lisbon-2026",
+    language: "en",
+    translationGroupId: "tg-514",
+    title: "Olá Lisboa! Fastspin Brings 'Spin to Win' Challenge and Daily Grand Draws to SBC Summit 2026",
+    excerpt: "Slot studio Fastspin heads to SBC Summit 2026 in Lisbon with an interactive 'Spin to Win' Challenge, daily live Grand Draws at Booth A445, and a showcase of its newest and upcoming slot games.",
+    content: `## Excitement and innovation head to Lisbon
+
+Lisbon, Portugal — Fastspin is set to bring excitement, innovation, and rewarding experiences to **SBC Summit 2026**, taking place from **29 September to 1 October 2026** at Feira Internacional de Lisboa & MEO Arena. Visitors are invited to **Booth A445** to discover Fastspin's latest gaming innovations while taking part in the exciting "Spin to Win" Challenge, where every spin could lead to instant rewards and even bigger prizes.
+
+## Spin to Win Challenge
+
+Designed to combine entertainment with engagement, the Spin to Win Challenge offers delegates the opportunity to test their luck in just a few simple steps. After following Fastspin on Instagram and LinkedIn, visitors will receive one chance to spin the slot machine.
+
+## Daily Grand Draws
+
+The excitement doesn't stop there. Every day at **4:00 PM**, Fastspin will host a live Grand Draw at Booth A445, where lucky participants stand a chance to win premium prizes.
+
+## A showcase of new games
+
+Beyond the prizes, delegates can explore Fastspin's newest portfolio of innovative slot games, discover upcoming releases, and meet the team behind the studio's rapidly growing global success.
+
+Explore more at [www.fast-spin.com](https://www.fast-spin.com).`,
+    featuredImage: "/images/articles/fastspin-sbc-summit-lisbon-2026.png",
+    author: AUTHORS[2],
+    publishedAt: "2026-08-21T09:00:00Z",
+    category: "slots-game-providers",
+    tags: [
+      { id: "t2009", label: "Fastspin", slug: "fastspin-studio" },
+      { id: "t2010", label: "SBC Summit Lisbon", slug: "sbc-summit-lisbon" },
+      { id: "t2011", label: "Slot Games", slug: "slot-games" },
+      { id: "t2012", label: "Game Studio", slug: "game-studio" },
+    ],
+    sourceName: "Fastspin",
+    sourceUrl: "https://www.fast-spin.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Fastspin Brings 'Spin to Win' Challenge and Daily Grand Draws to SBC Summit 2026 in Lisbon | iGaming Pulse",
+    metaDescription: "Fastspin heads to SBC Summit 2026 in Lisbon (29 Sept–1 Oct) with a 'Spin to Win' Challenge, daily 4 PM live Grand Draws at Booth A445, and a showcase of its newest slot games.",
+    likes: 12,
     comments: [],
   },
 ];
