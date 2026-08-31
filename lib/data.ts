@@ -5914,7 +5914,7 @@ Virtuwise helps iGaming B2B companies build and execute outreach campaigns that 
     comments: [],
   },
 
-  // ── June 4, 2026 (batch 1) ────────────────────────────────────────────────
+  // ── June 4, 2026 (batch 1) ────────────────────────────────���───────────────
   {
     id: "208",
     slug: "world-cup-illegal-betting-surge-2026",
@@ -17546,6 +17546,60 @@ For sponsorship or exhibition enquiries, contact Lou-Mari Burnett, Chief Operati
     seoTitle: "SPiCE International 2026: Asia's Premier iGaming Exhibition Returns to Cebu, 12–13 November | iGaming Pulse",
     metaDescription: "SPiCE International 2026 by Eventus International takes place 12–13 November in Cebu, Philippines, uniting Asia's operators, suppliers, investors, regulators and technology innovators for a dynamic exhibition, executive conference and the Gaming Leadership Forum. iGaming Pulse reports.",
     likes: 26,
+    comments: [],
+  },
+
+  {
+    id: "511",
+    slug: "alea-sbc-awards-2026-shortlist-lisbon",
+    language: "en",
+    translationGroupId: "tg-511",
+    title: "Alea Shortlisted for Two SBC Awards Ahead of SBC Summit Lisbon",
+    excerpt: "iGaming aggregator Alea has been shortlisted for Aggregator of the Year and Employer of the Year (Supplier) at the upcoming SBC Awards in Lisbon, building on Founder Alexandre Tomic's Leader of the Year win in Malta earlier this year.",
+    content: `## Double recognition ahead of SBC Summit
+
+Barcelona, August 2026 — Alea has been shortlisted for **Aggregator of the Year** and **Employer of the Year (Supplier)** at the upcoming SBC Awards in Lisbon.
+
+Together, the two categories reflect the strength of Alea's aggregation solution and the culture supporting teams across the business.
+
+The recognition follows Alea Founder Alexandre Tomic's Leader of the Year win at the SBC Awards in Malta earlier this year, adding further momentum ahead of the company's return to SBC Summit.
+
+> "Winning Leader of the Year in Malta was a great moment, but the important part is the work that leads to it. You don't build a company alone. It comes from having people who care about what they do, take ownership, and are not afraid to challenge things when they can be better. These nominations recognise that effort and the people who make it possible." — Alexandre Tomic, Founder of Alea
+
+## Alea at SBC Summit
+
+Alea will also attend SBC Summit, where the team will be available at **Booth B213** to meet with operators, studios, and partners.
+
+On Thursday, 1 October at 12:00, Alea CEO Jordi Sendra will participate in the panel **"Brazil Unfiltered: What Leaders Actually Think"** on the Global & Emerging Markets Stage – Latin America, Stage 2.
+
+The session will bring together industry leaders to discuss the realities of operating in Brazil and the continued development of the country's regulated iGaming market.
+
+## About Alea
+
+Alea is a leading iGaming aggregator, offering a customizable platform that provides operators worldwide with seamless access to over 23,000 games from 170+ top-tier providers through a single API integration. Known for its innovative technology, Alea simplifies the integration journey and delivers a flexible, scalable solution designed to enhance game variety, player experience, and operational efficiency. Alea is highly committed to a security-first infrastructure, ensuring reliability and trust at every level. In 2024, the company strengthened its cybersecurity framework through a strategic partnership with Continent 8 and achieved VAPT certification.
+
+In addition to game aggregation, Alea has expanded its product offering with Alea Jackpot, an agnostic jackpot solution that gives operators full control over their campaigns across multiple providers, and Alea Pay, an exclusive payment gateway designed to optimize financial transactions. With a strong focus on security, compliance, and ongoing support, Alea continues to empower operators with cutting-edge tools to thrive in the evolving iGaming market.
+
+For more information, visit [www.alea.com](https://www.alea.com).`,
+    featuredImage: "/images/articles/alea-sbc-awards-2026-shortlist-lisbon.png",
+    author: AUTHORS[2],
+    publishedAt: "2026-08-12T09:00:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t1994", label: "Alea", slug: "alea-aggregator" },
+      { id: "t1995", label: "SBC Awards", slug: "sbc-awards-2026" },
+      { id: "t1996", label: "SBC Summit Lisbon", slug: "sbc-summit-lisbon" },
+      { id: "t1997", label: "Game Aggregation", slug: "game-aggregation" },
+      { id: "t1998", label: "Alexandre Tomic", slug: "alexandre-tomic" },
+    ],
+    sourceName: "Alea",
+    sourceUrl: "https://www.alea.com",
+    featured: false,
+    trending: true,
+    sponsored: false,
+    seoTitle: "Alea Shortlisted for Two SBC Awards Ahead of SBC Summit Lisbon | iGaming Pulse",
+    metaDescription: "Alea is shortlisted for Aggregator of the Year and Employer of the Year (Supplier) at the SBC Awards in Lisbon, following Founder Alexandre Tomic's Leader of the Year win in Malta. The aggregator will meet partners at Booth B213 during SBC Summit.",
+    likes: 19,
     comments: [],
   },
 ];
