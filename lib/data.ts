@@ -17761,6 +17761,64 @@ Explore more at [www.fast-spin.com](https://www.fast-spin.com).`,
     likes: 12,
     comments: [],
   },
+
+  {
+    id: "515",
+    slug: "games-valley-sbc-summit-lisbon-2026",
+    language: "en",
+    translationGroupId: "tg-515",
+    title: "Games Valley to Showcase Smarter Aggregation at SBC Summit in Exhibition Debut",
+    excerpt: "Game aggregation platform Games Valley will make its first-ever exhibition appearance at SBC Summit, showcasing rapid integrations, Revenue Intelligence and one of the industry's most comprehensive casino content portfolios at Stand B123.",
+    content: `## A milestone exhibition debut
+
+September 2026 — Games Valley will make its exhibition debut at **SBC Summit** this September, marking the company's first-ever stand at one of the world's largest iGaming events. The milestone reflects the company's continued growth and provides the perfect opportunity to showcase its vision for **Smarter Aggregation** to operators, suppliers and partners from across the global gaming industry.
+
+Visitors to **Stand B123** will discover how Games Valley is helping operators simplify game aggregation through a modern platform built around speed, flexibility and intelligence. Combining premium casino content, integrations in under 24 hours and Revenue Intelligence, Games Valley enables operators to launch faster, optimise game performance and unlock greater value from a single integration.
+
+## A comprehensive content portfolio
+
+The Games Valley platform provides access to more than **150 game providers and over 13,000 casino games**, including one of the industry's most comprehensive live casino aggregation offerings. Designed to reduce technical complexity while accelerating time to market, the platform gives operators the flexibility to build and manage competitive casino portfolios through a single API.
+
+Throughout 2026, Games Valley has continued to expand its content offering by partnering with leading game studios, including BGaming, SPRIBE, Imagine Live and Amusnet, while strengthening relationships with operators across regulated markets. The company is already welcoming new customers in Brazil and is preparing to expand its presence into Germany, Peru and South Africa, reflecting its commitment to supporting operators in some of the industry's most exciting growth markets.
+
+## Smarter Aggregation in focus
+
+Ariel Reem, CEO of Games Valley, said:
+
+> "SBC Summit marks an exciting milestone for Games Valley as we showcase our platform from our very first exhibition stand. It's a fantastic opportunity to connect with operators, suppliers and partners from across the industry and demonstrate how our platform has evolved.
+>
+> At Games Valley, we believe aggregation should do much more than simply connect content. Through our Smarter Aggregation approach, we combine premium games, rapid integrations and Revenue Intelligence to help our partners launch faster, optimise performance and make more informed business decisions.
+>
+> We're looking forward to welcoming visitors to our stand, sharing our latest developments and discussing how Games Valley can help operators unlock new opportunities in both established and emerging regulated markets."
+
+The Games Valley team will be available throughout the event at Stand B123 for meetings, live platform demonstrations and discussions around rapid integrations, Revenue Intelligence and how Smarter Aggregation is helping operators unlock greater value from their casino content.
+
+To find out more, please visit [gamesvalley.com](https://gamesvalley.com/).
+
+## About Games Valley
+
+Games Valley is a dynamic and innovative team with decades of experience and first-hand knowledge of all aspects of the iGaming space. With a deep understanding of what it takes for operators to be successful, the company has built a strong and advanced IT infrastructure as a solid foundation. On top of this foundation, Games Valley has developed a suite of products and services to meet the demands of any dynamic gaming organization. Its goal of empowering partners led to the creation of one of the most advanced self-serve platforms, where clients can manage their entire organization from an intuitive dashboard, backed by a range of powerful tools and ongoing support.`,
+    featuredImage: "/images/articles/games-valley-sbc-summit-lisbon-2026.png",
+    author: AUTHORS[2],
+    publishedAt: "2026-08-24T09:00:00Z",
+    category: "slots-game-providers",
+    tags: [
+      { id: "t2013", label: "Games Valley", slug: "games-valley" },
+      { id: "t2014", label: "Game Aggregation", slug: "game-aggregation" },
+      { id: "t2015", label: "SBC Summit Lisbon", slug: "sbc-summit-lisbon" },
+      { id: "t2016", label: "Live Casino", slug: "live-casino" },
+      { id: "t2017", label: "Ariel Reem", slug: "ariel-reem" },
+    ],
+    sourceName: "Games Valley",
+    sourceUrl: "https://gamesvalley.com",
+    featured: false,
+    trending: true,
+    sponsored: false,
+    seoTitle: "Games Valley to Showcase Smarter Aggregation at SBC Summit in Exhibition Debut | iGaming Pulse",
+    metaDescription: "Games Valley makes its exhibition debut at SBC Summit (Stand B123), showcasing Smarter Aggregation with 150+ providers, 13,000+ casino games, sub-24-hour integrations and Revenue Intelligence.",
+    likes: 15,
+    comments: [],
+  },
 ];
 
 // ─── Helper Functions ────────────────────────────────────────────────��────────
