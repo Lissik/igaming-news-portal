@@ -8371,7 +8371,7 @@ But rather: *"Are we ready to work differently?"*
     comments: [],
   },
 
-  // ── July 1, 2026 ───────────────���───���───���─────────���─���─���──���──���───���──────────
+  // ── July 1, 2026 ───────────���───���───���───���─────────���─���─���──���──���───���──────────
   {
     id: "289",
     slug: "election-betting-scandal-guilty-pleas-2026",
@@ -17470,6 +17470,82 @@ For B2B suppliers tracking this story, iGaming B2B outreach strategies that alig
     seoTitle: "NFL Multi-Operator Strategy Reshapes Sports Betting Competition for 2026 Season | iGaming Pulse",
     metaDescription: "The NFL's multi-operator betting strategy with Fanatics, DraftKings, and FanDuel creates a competitive marketplace that prioritizes revenue and fan choice over exclusive partnerships.",
     likes: 35,
+    comments: [],
+  },
+
+  {
+    id: "510",
+    slug: "spice-international-2026-cebu-eventus-asia-igaming",
+    language: "en",
+    translationGroupId: "tg-510",
+    title: "SPiCE International Returns to Cebu as Asia's Premier iGaming Exhibition and Conference",
+    excerpt: "Eventus International brings SPiCE International 2026 back to Cebu, Philippines on 12–13 November, uniting Asia's operators, suppliers, investors, regulators and technology innovators for two days of exhibition, conference and high-value business connections.",
+    content: `## Connecting Asia's Gaming Ecosystem in Cebu
+
+Eventus International is proud to announce the return of **SPiCE International 2026**, taking place on **12–13 November 2026 in Cebu, Philippines**. Bringing together the region's leading operators, suppliers, investors, regulators and technology innovators, the SPiCE Series has become one of Asia's leading B2B gaming events, combining a dynamic exhibition with an executive conference programme that delivers market intelligence, product discovery and high-value business connections.
+
+Positioned as Asia's iGaming product knowledge and market-access event, SPiCE International is built around a simple proposition: where gaming innovation, technology and capital meet Asia's market demand. More than a conference, it is a business marketplace where exhibitors showcase the latest products and solutions, buyers discover new technologies, investors identify opportunities and industry leaders forge partnerships that drive commercial growth.
+
+## A Defining Period of Growth for Asia
+
+Asia is entering a defining period of gaming growth. Operators are investing heavily in digital transformation while responding to increasing demands around localisation, compliance, infrastructure, and player acquisition. At the same time, rapid advances in artificial intelligence, esports, social gaming, creator-led entertainment and prediction markets are creating new opportunities across the region. SPiCE International provides a platform where these market trends are explored, demonstrated, and translated into business opportunities.
+
+The Philippines continues to play a pivotal role in shaping Asia's gaming landscape, making Cebu the ideal destination for the industry's leading stakeholders to connect and collaborate.
+
+> "The Philippine gaming industry is evolving at a rapid pace and the changes made here could signal what's next for emerging markets in the Southeast Asian Region. SPiCE International in Cebu could give you crucial insight into the future of the region." — Jonas Diego, Senior Gaming Consultant
+
+## Two Business-Focused Days
+
+Across two business-focused days, attendees will experience far more than keynote presentations and panel discussions. A vibrant exhibition floor will feature leading gaming suppliers, platform providers, payment companies, AI specialists, fintech innovators and technology businesses showcasing the latest products and services shaping the future of gaming. Buyers will meet suppliers, products will be demonstrated, new technologies will be unveiled, and commercial conversations will take place throughout the event.
+
+Complementing the exhibition is a conference programme designed around the industry's most pressing commercial priorities. Sessions will explore artificial intelligence, payments, infrastructure, product market fit, market access, investment, regulation, emerging entertainment verticals and the technologies transforming gaming across Asia. Every discussion is designed to provide attendees with practical insight into what operators are buying, how suppliers can scale across markets in Asia and where the region's greatest commercial opportunities are emerging.
+
+## Industry Leaders Confirmed
+
+Industry leaders already confirmed to participate include Akili Polee (CEO, DeFiX/Gwallet), Alex Czajkowski (CEO, Players Today), Amandine Vu (Product Manager, MediaPro), Crystal Nadal (Head of Business Development, Asia, Tom Horn Gaming), Harmen Brenninkmeijer (Executive Chairman, NYCE International Plc), Jared Valarao (Managing Director, Lakandula Holdings Pte. Ltd.), Joe Pisano (CEO, Jade Group of Companies), John Ross Calderon (Senior Gaming Consultant), Jonas Diego (Senior Gaming Consultant) and Krishna Tanwani (Founder & CEO, Analytiks Inc.), with additional speakers to be announced soon.
+
+> "Great to see Eventus International returning to Cebu, Philippines, and bringing the industry together once again. It's a strong vote of confidence in the country's thriving gaming sector and its growing importance in Asia." — Joe Pisano, CEO, Jade Group of Companies
+
+> "SPiCE is a highly interactive conference where you can dive deeper with presenters on stage or easily afterwards. You can get real answers here." — Alex Czajkowski, CEO, Players Today
+
+## Championing Diversity and Leadership
+
+The event also continues its commitment to fostering diversity, innovation, and leadership across the industry. One of this year's highlights is the **Gaming Leadership Forum**, which explores the growing influence of women as players, creators, entrepreneurs and executives shaping the future of gaming.
+
+> "Excited to be part of SPiCE International, where I'll be joining the Gaming Leadership Forum panel to explore how women are not just participating in gaming but are redefining it as players, creators, entrepreneurs, and industry leaders. I look forward to sharing ideas on building a more innovative and inclusive future for our industry." — Crystal Nadal, Head of Business Development, Asia, Tom Horn Gaming
+
+## Who Attends
+
+SPiCE International attracts senior decision-makers from across the gaming ecosystem, including operators, regulators, government officials, investors, gaming software providers, payment and fintech companies, AI and technology firms, affiliates, consultants and business development professionals. The event will bring together a dynamic exhibition, industry-leading content and strategic networking to connect buyers with suppliers, showcase innovation and accelerate commercial growth across Asia's gaming industry.
+
+For exhibitors, SPiCE International offers direct access to senior buyers actively seeking new products, technologies, and commercial partners. For attendees, it provides an unrivalled opportunity to discover the latest innovations, gain market intelligence, and build meaningful relationships with the people shaping the future of gaming in Asia.
+
+This November, Cebu will become the meeting place for Asia's gaming industry. From the exhibition floor and conference stage to networking functions and business meetings, SPiCE International 2026 is where innovation meets investment, products meet buyers and partnerships drive growth.
+
+## Attend, Sponsor or Exhibit
+
+Delegate, sponsorship and exhibition packages are available for organisations looking to put their brand in front of the region's gaming community, connect with potential partners and build relationships with key industry contacts. To secure a place, register at [spiceseries.com/si](https://www.spiceseries.com/si).
+
+For sponsorship or exhibition enquiries, contact Lou-Mari Burnett, Chief Operating Officer, Eventus International — loumari@eventus-international.com.`,
+    featuredImage: "/images/articles/spice-international-2026-cebu-eventus-asia-igaming.png",
+    author: AUTHORS[2],
+    publishedAt: "2026-08-18T09:00:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t1989", label: "SPiCE International 2026", slug: "spice-international-2026" },
+      { id: "t1990", label: "Eventus International", slug: "eventus-international-events" },
+      { id: "t1991", label: "Cebu Philippines", slug: "cebu-philippines-igaming" },
+      { id: "t1992", label: "Asia iGaming", slug: "asia-igaming-market" },
+      { id: "t1993", label: "Gaming Leadership Forum", slug: "gaming-leadership-forum" },
+    ],
+    sourceName: "iGaming Pulse",
+    sourceUrl: "https://igamingpulse.com",
+    featured: true,
+    trending: true,
+    sponsored: false,
+    seoTitle: "SPiCE International 2026: Asia's Premier iGaming Exhibition Returns to Cebu, 12–13 November | iGaming Pulse",
+    metaDescription: "SPiCE International 2026 by Eventus International takes place 12–13 November in Cebu, Philippines, uniting Asia's operators, suppliers, investors, regulators and technology innovators for a dynamic exhibition, executive conference and the Gaming Leadership Forum. iGaming Pulse reports.",
+    likes: 26,
     comments: [],
   },
 ];
