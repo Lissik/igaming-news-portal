@@ -17875,6 +17875,56 @@ Visitors can also have their photo taken and receive a printed picture featuring
     likes: 11,
     comments: [],
   },
+
+  {
+    id: "517",
+    slug: "smartico-vibe-studio-sbc-summit-lisbon-2026",
+    language: "en",
+    translationGroupId: "tg-517",
+    title: "Smartico Brings Vibe Studio to SBC Summit 2026",
+    excerpt: "Smartico heads to SBC Summit in Lisbon with its newest launch, Vibe Studio — an AI-powered design studio that lets iGaming operators build player-facing gamification pages simply by describing them in plain English.",
+    content: `## A new launch heads to Lisbon
+
+Smartico is heading to **SBC Summit** in Lisbon, and this year it arrives with its newest launch in hand. The show runs **September 29 to October 1, 2026**, and the Smartico team will be at **Stand B228** throughout.
+
+## Vibe Studio: describe your page, AI builds it
+
+The centerpiece of Smartico's stand is **Vibe Studio**, the company's latest release. Vibe Studio is a design studio for player-facing gamification that lets iGaming operators build pages simply by describing them. An operator types what they want in plain English, an AI assistant builds it, a live preview updates as they go, and one click takes it live. There is no code to write and no designer queue to wait in.
+
+It builds widgets embedded in your site, dedicated pages for a single promotion, and public landing pages that turn visitors into players, all running on your existing Smartico data. At SBC, the team will be demonstrating Vibe Studio live, building real pages on the spot so visitors can watch an idea become a published, on-brand experience in minutes.
+
+## Built on the wider Smartico platform
+
+Vibe Studio sits on top of the wider Smartico platform, which will also be on show at Stand B228: CRM automation, a flexible bonus engine, gamification, jackpots and raffles, free-to-play mini-games such as the Loyalty Wheel, Scratch Cards, and Daily Loot Boxes, and AI models that predict churn and lifetime value. All of it runs in one place, on top of whatever platform an operator already uses.
+
+## The right stage for the launch
+
+SBC Summit has become one of the industry's biggest gatherings, putting C-level leaders, founders, and the heads of product and marketing in one room to see where the market is heading and the technology shaping it. It is a fitting place for Smartico to show operators how much of the daily grind the platform, and Vibe Studio in particular, can take off their plate.
+
+For a proper walkthrough rather than a quick hello, operators can book a slot with the Smartico team in advance at [smartico.ai/request-a-demo](https://www.smartico.ai/request-a-demo). Otherwise, the team welcomes visitors at Stand B228 at any time during the show.
+
+See you in Lisbon!`,
+    featuredImage: "/images/articles/smartico-vibe-studio-sbc-summit-lisbon-2026.png",
+    author: AUTHORS[2],
+    publishedAt: "2026-08-26T09:00:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t2023", label: "Smartico", slug: "smartico" },
+      { id: "t2024", label: "Vibe Studio", slug: "vibe-studio" },
+      { id: "t2025", label: "SBC Summit Lisbon", slug: "sbc-summit-lisbon" },
+      { id: "t2026", label: "CRM & Gamification", slug: "crm-gamification" },
+      { id: "t2027", label: "AI Technology", slug: "ai-technology" },
+    ],
+    sourceName: "Smartico",
+    sourceUrl: "https://www.smartico.ai",
+    featured: false,
+    trending: true,
+    sponsored: false,
+    seoTitle: "Smartico Brings Vibe Studio to SBC Summit 2026 in Lisbon | iGaming Pulse",
+    metaDescription: "Smartico launches Vibe Studio at SBC Summit 2026 (Stand B228) — an AI-powered design studio that lets iGaming operators build gamification widgets, promo pages and landing pages just by describing them in plain English.",
+    likes: 17,
+    comments: [],
+  },
 ];
 
 // ─── Helper Functions ────────────────────────────────────────────────��────────
