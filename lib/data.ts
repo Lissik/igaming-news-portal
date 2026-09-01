@@ -17925,6 +17925,219 @@ See you in Lisbon!`,
     likes: 17,
     comments: [],
   },
+
+  {
+    id: "518",
+    slug: "liga-summit-2026-lima-peru-regulatory-discussions",
+    language: "en",
+    translationGroupId: "tg-518",
+    title: "3 Weeks Until Gaming Leaders Head to LiGA Summit 2026 to Address LatAm's Key Regulatory Questions",
+    excerpt: "Peru's newly implemented iGaming licensing framework takes centre stage as the inaugural LiGA Summit 2026 approaches, with compliance, commercial strategy and prediction markets on the agenda in Lima on 17–18 September.",
+    content: `## Peru's new licensing era in focus
+
+Peru's recently implemented iGaming licensing framework is bringing a host of new questions into focus for operators, regulators and suppliers. In just 3 weeks, those questions will form part of the highly anticipated discussions at the inaugural **LiGA Summit 2026**, with the agenda covering compliance, commercial strategy and responsible growth on **17–18 September 2026** at the El Pardo Lima – A DoubleTree by Hilton Hotel in Lima, Peru.
+
+The conversation will extend into one of the industry's most closely watched emerging areas through the **Prediction Markets Summit Americas 2026**. Taking place on 18 September as a dedicated half-day stream alongside the main conference, the open discussion will explore prediction markets, forecasting infrastructure and the growing influence of event-based products across regulated gaming markets.
+
+## Highlights on the Agenda
+
+The upcoming summit's agenda spans some of the most relevant developments in Peru and the broader Latin American gaming industry, from regulatory reform and affiliate marketing to the emergence of prediction markets.
+
+### LiGA Summit 2026 – Main Programme
+
+**Day One | Thursday, 17 September**
+- Peru's New Gaming Licensing Era: Impact on Online and Land-Based Market Stability
+- Peru at the Centre of LatAm iGaming: From Regulation to Profitability
+- The Rise of Creator Affiliates in Latin America: TikTok, YouTube, and Short-Form Performance Marketing
+
+**Day Two | Friday, 18 September**
+- The New Age of AML and KYC in Peru's Digital Betting Market
+- Responsible Marketing: Maintaining Growth While Meeting New Compliance Standards
+- Representation Matters: Shaping Gaming Through Diversity
+
+### Prediction Markets Summit Americas 2026 – Half-Day Stream
+
+**Day Two | Friday, 18 September** — discussion themes will include:
+- **Building Trust in Event-Based Products** – fraud prevention, cybersecurity, market integrity and consumer protection
+- **Regulation & Market Development** – Brazil's regulatory approach, evolving frameworks across Latin America, and where prediction markets fit within betting, fintech and digital assets
+- **Product Innovation & User Engagement** – lessons from sportsbooks and affiliates, user experience, sustainable growth, and the role of AI and emerging technologies
+
+## Hear from LatAm's Most Established Gaming Leaders
+
+A wide range of renowned industry stakeholders will participate in LiGA Summit 2026, including leading operators, affiliates, legal experts and technology providers. Confirmed contributors:
+
+- Carlos Alberto Fonseca Sarmiento, Managing Partner, GAMING LAW S.A.C.
+- Celeste Arredondo, Founder, International Gaming Women
+- Gabriel Bazza, Senior Affiliate Manager, Betnix
+- Lucas Tapia Luna, CRM Marketing Manager – Sportsbook & Casino, Apuesto.com | Rojabet | Latribet
+- Milagros Gabriela Seijas Peralta, Head of Legal and Compliance, La Tinka S.A.
+
+And many more.
+
+## Attend, Sponsor or Exhibit
+
+Delegate, sponsorship and exhibition packages are available for organisations looking to increase their visibility and connect with prominent stakeholders from across Latin America's gaming market. To secure a place, register at [eventus-international.com/liga](https://www.eventus-international.com/liga).
+
+For sponsorship or exhibition enquiries, contact Lou-Mari Burnett, Chief Operating Officer, Eventus International (loumari@eventus-international.com).`,
+    featuredImage: "/images/articles/liga-summit-lima-peru-2026-regulatory.png",
+    author: AUTHORS[2],
+    publishedAt: "2026-08-24T10:00:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t2028", label: "LiGA Summit", slug: "liga-summit-2026" },
+      { id: "t2029", label: "Eventus International", slug: "eventus-international" },
+      { id: "t2030", label: "Peru", slug: "peru-igaming" },
+      { id: "t2031", label: "Prediction Markets", slug: "prediction-markets" },
+      { id: "t2032", label: "LatAm", slug: "latam-igaming" },
+    ],
+    sourceName: "Eventus International",
+    sourceUrl: "https://www.eventus-international.com/liga",
+    featured: false,
+    trending: true,
+    sponsored: false,
+    seoTitle: "3 Weeks Until LiGA Summit 2026 in Lima to Address LatAm's Key Regulatory Questions | iGaming Pulse",
+    metaDescription: "The inaugural LiGA Summit 2026 arrives in Lima, Peru on 17–18 September, tackling Peru's new iGaming licensing framework, AML/KYC, affiliate marketing and prediction markets across Latin America.",
+    likes: 13,
+    comments: [],
+  },
+
+  {
+    id: "519",
+    slug: "scandinavian-nordic-gaming-show-2026-copenhagen",
+    language: "en",
+    translationGroupId: "tg-519",
+    title: "2 Months Until Nordic Regulators & Operators Meet at the Scandinavian & Nordic Gaming Show 2026",
+    excerpt: "New licensing frameworks and stronger enforcement are reshaping Nordic gaming as the 8th annual Scandinavian & Nordic Gaming Show heads to Copenhagen on 22–23 October to examine what the changes mean for the market.",
+    content: `## A region in regulatory transition
+
+Across the Nordics and wider European market, gaming regulation is undergoing significant change, with new licensing frameworks, strengthened enforcement and evolving approaches to market oversight reshaping the industry. These developments will be central to the **8th annual Scandinavian & Nordic Gaming Show (SNGS) 2026**, held on **22–23 October** at the Radisson Blu Scandinavia Hotel in Copenhagen, Denmark, where regulators, operators, providers and investors will examine what these changes mean for the market.
+
+Among the major changes taking place across the region are Finland's preparations to open its market under a new licensing framework, Sweden's strengthening of its regulatory approach, Denmark's continued refinement of its oversight, and Norway's stepped-up enforcement. With reform discussions also progressing in markets including Iceland and Ireland, these developments are creating new considerations around market access, compliance, channelisation and sustainable growth.
+
+## Highlights on the Agenda
+
+**Day 1 | Thursday, 22 October 2026**
+- The Future of iGaming in Europe: Trends, Tensions, and Game-Changing Opportunities
+- Regulation in Motion: UK Fees, Global Tax Shifts, and Platform Controls
+- Sweden and Denmark: Two Neighbours, Two Regulatory Paths
+
+**Day 2 | Friday, 23 October 2026**
+- From Land-Based to Online: Sweden's Casino Exit
+- Winning Early in Finland's New Regime
+- The Nordic Vision: From Channelisation Gaps to Global Leadership
+
+## What the Region's Industry Leaders Will Be Covering
+
+Representing Hippos ATG, **Antti Koivula**, Chief Compliance Officer, will examine the latest developments in Finland's gambling reform and what the upcoming licensed market means for the industry:
+
+> "I can't wait to join the discussion and analyse the latest developments in Finland's gambling reform alongside a great group of industry experts. With the opening of the licensed market fast approaching, there will certainly be no shortage of important topics to explore."
+
+**Gustaf Hoffstedt**, Secretary General of BOS – The Swedish Trade Association for Online Gambling, will compare the Nordic regulatory model with the UK approach and consider whether the Nordics could emerge as Europe's next regulatory leaders:
+
+> "No jurisdiction has influenced the way Nordic gambling license markets have been regulated and developed like the UK. The UK has been a beacon of light in Europe, thanks to its balanced gambling regulation and high channelisation. Now we are faced with other signals from the UK. Despite these signals, will the UK continue to be Europe's leading gambling market when it comes to well-balanced regulation, or do the Nordics have the opportunity to take over the leadership role? That's what I want to talk about with my panellists."
+
+**Marko Arpiainen**, Co-Founder & CEO of LVL UP LABZ, will focus on how operators can prepare for Finland's 2027 market opening:
+
+> "I'll share actionable insights on where to focus at both an operational and marketing level, including a realistic timeline for operators that haven't yet taken major steps, and how to approach visibility, local partnerships, brand, product and customer experience ahead of the 2027 market opening."
+
+The role of AI in player support will be explored by **Uliana Korobeynikova**, PR & Communications Executive:
+
+> "I look forward to discussing how practical AI tools are reshaping player support today. I'll focus on how automated checks and behavioural monitoring help streamline daily operations without compromising on regulatory standards."
+
+**Mika Kuismanen**, CEO of Rahapeliala Ry, will offer further insight into the practical considerations surrounding Finland's upcoming market opening:
+
+> "The Finnish licence market will open in July 2027. In my presentation, I will go through essential practical issues, such as the regulations and guidelines of the National Police Board."
+
+## Attend, Sponsor or Exhibit
+
+Delegate, sponsorship and exhibition opportunities are available for the 8th annual SNGS 2026, offering organisations the opportunity to raise their profile, connect with the region's gaming community and build relationships with key industry stakeholders. To secure a place, register at [eventus-international.com/sngs](https://www.eventus-international.com/sngs).
+
+For sponsorship or exhibition enquiries, contact Lou-Mari Burnett, Chief Operating Officer, Eventus International (loumari@eventus-international.com).`,
+    featuredImage: "/images/articles/scandinavian-nordic-gaming-show-2026-copenhagen.png",
+    author: AUTHORS[2],
+    publishedAt: "2026-08-24T09:30:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t2033", label: "Scandinavian & Nordic Gaming Show", slug: "sngs-2026" },
+      { id: "t2034", label: "Eventus International", slug: "eventus-international" },
+      { id: "t2035", label: "Nordic Regulation", slug: "nordic-regulation" },
+      { id: "t2036", label: "Finland", slug: "finland-igaming" },
+      { id: "t2037", label: "Copenhagen", slug: "copenhagen" },
+    ],
+    sourceName: "Eventus International",
+    sourceUrl: "https://www.eventus-international.com/sngs",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "2 Months Until the Scandinavian & Nordic Gaming Show 2026 in Copenhagen | iGaming Pulse",
+    metaDescription: "The 8th annual Scandinavian & Nordic Gaming Show 2026 heads to Copenhagen on 22–23 October, examining Finland's market opening, Sweden's reforms and the Nordic region's regulatory future.",
+    likes: 10,
+    comments: [],
+  },
+
+  {
+    id: "520",
+    slug: "spice-central-asia-2026-tbilisi-georgia",
+    language: "en",
+    translationGroupId: "tg-520",
+    title: "1 Month Until SPiCE Central Asia 2026: Georgia's iGaming Export Model, Localisation & Market Sustainability",
+    excerpt: "The 3rd annual SPiCE Central Asia 2026 brings the region's gaming community to Tbilisi on 24–25 September, spotlighting Georgia's export-only online gaming model, localisation strategies and market sustainability.",
+    content: `## The region's gaming community gathers in Tbilisi
+
+Across Central Asia and the Caucasus, gaming markets continue to evolve alongside regulatory developments, investment activity and technological innovation, creating new opportunities for operators, suppliers and other industry stakeholders. In one month, the **3rd annual SPiCE Central Asia 2026** will bring the region's gaming community together at The Biltmore Hotel Tbilisi, in Tbilisi, Georgia, on **24–25 September 2026**.
+
+Attendees can look forward to two days of industry discussion, knowledge exchange and networking, with policymakers, regulators, operators, affiliates, investors and technology providers set to attend. The event will examine the changing regulatory and commercial landscape, alongside developments in technology, payments, responsible gaming, affiliate marketing and market growth.
+
+## Highlights on the Agenda
+
+**Day 1 | Thursday, 24 September**
+- **Channelisation & Market Sustainability in Emerging Gaming Jurisdictions** – reducing illegal gambling, strengthening player protection and supporting regulated market participation
+- **Responsible Gaming & Consumer Protection in the Digital Era** – responsible gaming frameworks, affordability measures, behavioural monitoring and player protection
+- **Georgia's Export-Only Online Gaming Model: A New Opportunity for International Operators** – Georgia's proposed export-only online gaming licence, its commercial appeal, compliance requirements and the challenges of preventing domestic player access
+
+**Day 2 | Friday, 25 September**
+- **Localisation Strategies That Drive Player Engagement** – language preferences, cultural nuances, mobile-first behaviour, customer retention and personalised gaming experiences
+- **Women in Gaming: Building Inclusive Leadership & Future Talent** – diversity, workforce development, leadership pipelines, mentorship and empowering the next generation of women across gaming and technology
+- **Prediction Markets & the Future of Digital Wagering: Where Are We Heading?** – prediction markets, event-based trading platforms, decentralised wagering models, regulatory considerations and emerging digital entertainment ecosystems
+
+## Hear from the Region's Most Established Gaming Leaders
+
+A strong line-up of industry voices is set to take the stage at SPiCE Central Asia 2026, including:
+
+- Alona Mamulaishvili, Managing Director, Gambling Consulting Authority
+- Dimitri Tchitchinadze, SEO Manager, Leverage
+- George Mamulaishvili, Head of Administration, Georgian Gambling Association
+- Maka Gorgadze, CMO, Casino Adjara
+- Sergei Mosolov, Head of Sportsbook, Deep Games
+
+And many more.
+
+## Attend, Sponsor or Exhibit
+
+Whether it's through attending, sponsoring or exhibiting, SPiCE Central Asia 2026 offers organisations opportunities to raise their profile, connect with the region's gaming community and build valuable relationships with potential partners and key industry contacts. Register at [spiceseries.com/sca](https://www.spiceseries.com/sca).
+
+For sponsorship and exhibition enquiries, contact Lou-Mari Burnett, Chief Operating Officer, Eventus International (loumari@eventus-international.com).`,
+    featuredImage: "/images/articles/spice-central-asia-2026-tbilisi.png",
+    author: AUTHORS[2],
+    publishedAt: "2026-08-24T09:00:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t2038", label: "SPiCE Central Asia", slug: "spice-central-asia-2026" },
+      { id: "t2039", label: "Eventus International", slug: "eventus-international" },
+      { id: "t2040", label: "Georgia", slug: "georgia-igaming" },
+      { id: "t2041", label: "Central Asia", slug: "central-asia-gaming" },
+      { id: "t2042", label: "Localisation", slug: "localisation" },
+    ],
+    sourceName: "Eventus International",
+    sourceUrl: "https://www.spiceseries.com/sca",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "1 Month Until SPiCE Central Asia 2026 in Tbilisi: Georgia's iGaming Export Model & Localisation | iGaming Pulse",
+    metaDescription: "The 3rd annual SPiCE Central Asia 2026 takes place in Tbilisi, Georgia on 24–25 September, spotlighting Georgia's export-only online gaming model, localisation strategies, responsible gaming and prediction markets.",
+    likes: 9,
+    comments: [],
+  },
 ];
 
 // ─── Helper Functions ────────────────────────────────────────────────��────────
