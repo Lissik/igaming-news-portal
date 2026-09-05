@@ -6856,7 +6856,7 @@ Virtuwise helps iGaming B2B companies build and execute outreach campaigns that 
     comments: [],
   },
 
-  // ── June 16, 2026 ─────────────────────────────────────────────────────────
+  // ── June 16, 2026 ───────────────────────────────────────────────────���─────
   {
     id: "240",
     slug: "nevada-california-kalshi-legal-pressure-2026",
@@ -14770,7 +14770,7 @@ The injunction represents a significant escalation in regulatory oversight of pa
 
 ## What This Means
 
-The action against Inpay signals that payment firms cannot rely on generic compliance frameworks—they must implement gambling-specific KYC and AML procedures tailored to iGaming's higher-risk profile. Operators working with payment providers should expect increased scrutiny of their payment chains.
+The action against Inpay signals that payment firms cannot rely on generic compliance frameworks���they must implement gambling-specific KYC and AML procedures tailored to iGaming's higher-risk profile. Operators working with payment providers should expect increased scrutiny of their payment chains.
 
 For companies focused on B2B iGaming outreach and fintech service delivery, this ruling establishes a new compliance baseline. Payment processors will need to invest heavily in enhanced due diligence systems, potentially increasing transaction costs for operators.
 
@@ -18774,7 +18774,7 @@ The Money Train franchise represents one of iGaming's most successful slot serie
     metaDescription: "Relax Gaming has released Money Train 5, a post-apocalyptic-themed slot that launches players into a brutal dystopian world where each spin fuels high-stakes action with the potential for massive rewards. The game continues the popular Money Train franchise with evolved mechanics and immersive st...",
     likes: 13,
     comments: [],
-  },,
+  },
 
   {
     id: "531",
