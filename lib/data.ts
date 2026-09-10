@@ -19377,7 +19377,7 @@ Monitor SIGA's organizational announcements and technology investments. Watch th
     metaDescription: "Saskatchewan extends SIGA's exclusive iGaming rights until September 2029 while approving a First Nations gaming centre pilot.",
     likes: 8,
     comments: [],
-  },,
+  },
 
   {
     id: "541",
