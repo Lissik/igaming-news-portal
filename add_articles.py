@@ -204,6 +204,20 @@ def main():
     subprocess.run(["git", "commit", "-m", msg], check=True)
     subprocess.run(["git", "push"], check=True)
     print(f"\nDone! Committed and pushed: '{msg}'")
+
+    # Merge v0 image branch if it has new commits
+    subprocess.run(["git", "fetch", "origin"], check=False)
+    merge = subprocess.run(
+        ["git", "merge", "origin/v0/article-featured-images", "--no-edit"],
+        capture_output=True, text=True
+    )
+    if merge.returncode == 0 and "Already up to date" not in merge.stdout:
+        subprocess.run(["git", "push"], check=False)
+        print("v0 image branch merged and pushed.")
+    elif merge.returncode != 0:
+        subprocess.run(["git", "merge", "--abort"], check=False)
+        print("v0 image branch not available yet — will be merged on next run.")
+
     print("Vercel will deploy automatically.")
 
 if __name__ == "__main__":
