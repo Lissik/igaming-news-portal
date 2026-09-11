@@ -20364,10 +20364,349 @@ Finally, observe industry advocacy efforts from the Betting and Gaming Council a
     metaDescription: "Bet365 has announced plans to eliminate 340 positions amid mounting UK tax burdens and regulatory costs affecting the operator's profitability.",
     likes: 23,
     comments: [],
+  },
+
+  {
+    id: "556",
+    slug: "polymarket-celebrity-marketing-app-store-2026",
+    language: "en",
+    translationGroupId: "tg-556",
+    title: "LeBron James Drives Polymarket Downloads in Celebrity Prediction Market Push 2026",
+    excerpt: "LeBron James' move to Polymarket ignites app download surge, but RG concerns loom over celebrity prediction market campaigns.",
+    content: `## Celebrity Endorsements Reshape Prediction Market Competition
+
+Polymarket has achieved unprecedented traction on Apple's App Store, leveraging a celebrity-studded marketing campaign that positions the platform ahead of established prediction market competitors. The campaign's centerpiece features NBA superstar LeBron James, whose defection from DraftKings to Polymarket represents a significant shift in high-profile sports betting and prediction market endorsements.
+
+The timing of this marketing blitz coincides with renewed interest in prediction markets as alternative wagering platforms. Industry observers note that celebrity endorsements serve as powerful drivers of consumer engagement and app installation rates, particularly among younger demographics who actively follow athlete social media profiles.
+
+## Context: The Prediction Market Landscape Shifts
+
+Prediction markets have emerged as a distinct category within the broader gaming and wagering ecosystem, differentiated from traditional sports betting through their event-driven nature and crowd-sourced odds mechanisms. Polymarket, operating in the decentralized finance space, has positioned itself as an alternative to traditional betting operators.
+
+The company's decision to invest heavily in celebrity marketing reflects broader industry trends toward mainstream adoption of prediction platforms. By securing high-profile athletes as brand ambassadors, Polymarket signals confidence in long-term market expansion and consumer legitimacy.
+
+DraftKings' loss of the LeBron James endorsement marks a strategic recalibration in the sportsbook's marketing spend priorities. Industry analysts suggest the shift reflects Polymarket's aggressive market entry strategy and willingness to deploy substantial capital for brand visibility.
+
+## What This Means: Marketing Dollars Drive Platform Adoption
+
+The spike in Polymarket app downloads directly correlates with celebrity marketing spend, demonstrating the outsized influence of athlete endorsements on user acquisition metrics. For B2B platforms serving the iGaming ecosystem, this case study reveals the critical importance of influencer partnerships in competitive markets.
+
+However, the endorsement shift has generated scrutiny from responsible gambling organizations concerned about normalizing prediction market participation through celebrity promotion. These advocates argue that high-visibility campaigns may inadequately emphasize risk factors associated with wagering platforms.
+
+Operators and service providers focused on [reaching the right operators](https://virtuwise.io) through B2B marketing channels must carefully balance aggressive growth strategies with regulatory compliance and responsible gaming commitments. The Polymarket example demonstrates how celebrity endorsements can accelerate market penetration while simultaneously attracting regulatory scrutiny.
+
+## What to Watch: Regulatory Response and Market Consolidation
+
+As prediction market platforms scale through celebrity-driven marketing, regulatory bodies across multiple jurisdictions are likely to intensify oversight of these emerging wagering channels. State gaming regulators in particular may seek to clarify the legal status of prediction markets and impose additional compliance requirements.
+
+The success of Polymarket's celebrity strategy will likely prompt competitors to increase their own endorsement spending, potentially inflating marketing costs across the prediction market sector. This arms race dynamic could create barriers to entry for smaller platforms lacking substantial venture capital backing.
+
+Stakeholders should monitor whether responsible gambling organizations succeed in pressuring platforms and celebrities to include more prominent risk warnings in advertising campaigns. Enhanced disclosure requirements could materially impact the ROI of celebrity-driven campaigns.
+
+Additionally, watch for potential regulatory action against prediction markets themselves, particularly if state gaming commissions determine that these platforms constitute illegal gambling under existing state laws. Such determinations could rapidly reshape the competitive landscape and force platform operators to adjust their business models or geographic focus.
+
+The Polymarket case illustrates how traditional celebrity marketing strategies are increasingly applied to emerging financial and gaming technologies, with corresponding implications for regulatory compliance and responsible gambling practices.
+
+---
+
+*Analysis based on: igamingbusiness.com. Published 2026-09-11.*`,
+    featuredImage: "/images/articles/polymarket-celebrity-marketing-app-store-2026.png",
+    author: AUTHORS[3],
+    publishedAt: "2026-09-11T08:30:00Z",
+    category: "marketing-traffic",
+    tags: [
+      { id: "t2396", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t2397", label: "app marketing", slug: "app-marketing" },
+      { id: "t2398", label: "celebrity endorsements", slug: "celebrity-endorsements" },
+      { id: "t2399", label: "Polymarket", slug: "polymarket" },
+      { id: "t2400", label: "DraftKings", slug: "draftkings" },
+      { id: "t2401", label: "responsible gambling", slug: "responsible-gambling" },
+      { id: "t2402", label: "user acquisition", slug: "user-acquisition" },
+      { id: "t2403", label: "iOS App Store", slug: "ios-app-store" },
+    ],
+    sourceName: "igamingbusiness.com",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "LeBron James Drives Polymarket Downloads in Celebrity Prediction Market Push 2026 | iGaming Pulse",
+    metaDescription: "LeBron James' move to Polymarket ignites app download surge, but RG concerns loom over celebrity prediction market campaigns.",
+    likes: 5,
+    comments: [],
+  },
+
+  {
+    id: "557",
+    slug: "yokohama-casino-licensing-mayor-resignation-2026",
+    language: "en",
+    translationGroupId: "tg-557",
+    title: "Japan's Yokohama Returns to Casino Bidding After Mayor's Resignation 2026",
+    excerpt: "Yokohama's path to casino development clears as controversial Mayor Yamanaka resigns, potentially reshaping Japan's integrated resort licensing competition.",
+    content: `## Political Obstacles Removed in Japan's Casino Expansion Strategy
+
+The resignation of Yokohama Mayor Takeharu Yamanaka represents a significant development in Japan's ongoing integrated resort (IR) licensing process. Yamanaka's departure follows a third-party investigation that substantiated allegations of misconduct, removing a key political barrier to the city's potential re-entry into the national casino licensing competition.
+
+Yokohama, Japan's second-largest metropolitan area, had previously withdrawn from IR bidding under Yamanaka's administration. His resignation creates an opportunity for the city to reassess its position and potentially rejoin competing municipalities seeking to host integrated resorts under Japan's comprehensive regulatory framework.
+
+## Context: Japan's Integrated Resort Licensing Framework
+
+Japan's IR licensing process represents one of Asia's most significant gaming market opportunities, with multiple cities competing for limited available licenses. The framework was designed to generate tourism revenue and establish Japan as a premium destination gaming market.
+
+The investigation into Mayor Yamanaka's conduct was commissioned by the city government to address concerns about his management and decision-making processes. The third-party findings, published in July 2026, concluded that Yamanaka engaged in patterns of behavior inconsistent with public office standards.
+
+Yokohama's political hesitation regarding IR development stemmed partly from local community concerns about casino integration and Yamanaka's apparent skepticism toward the project's benefits. His administration's resistance effectively blocked the city from competing for licenses during the initial bidding phases.
+
+## What This Means: Strategic Opportunity for Operators and Cities
+
+Yokohama's potential re-entry into IR licensing creates new competitive opportunities for gaming operators seeking to establish presence in Japan's premium market segment. The city's size, geographic location, and economic importance make it an attractive venue for large-scale integrated resort development.
+
+For international operators evaluating IR investment strategies in Asia, Yokohama's changing political climate suggests the value of monitoring local governance transitions and their influence on regulatory timelines. Companies engaged in [operator engagement](https://virtuwise.io) efforts within Asia-Pacific markets should track municipal leadership changes as key indicators of shifting policy priorities.
+
+The removal of Yamanaka as a political obstacle potentially accelerates the city's licensing application process and shortens the timeline to operational status. This acceleration could influence broader market dynamics, potentially affecting the competitive positioning of other bidding cities.
+
+## What to Watch: Timeline and Competitive Positioning
+
+Stakeholders should closely monitor whether Yokohama's incoming political leadership formally announces the city's intention to re-enter IR licensing competition. The timing of such an announcement will provide clarity on the city's readiness to develop competitive proposals and infrastructure plans.
+
+Watch for expressions of interest from major international gaming operators, including Las Vegas-based companies and Asian regional operators, regarding Yokohama IR development opportunities. Operator positioning early in the re-entry process could signal confidence in the city's licensing prospects.
+
+Additionally, track how Yokohama's competitive positioning compares to other bidding cities, particularly in terms of proposed resort size, amenities, and community integration plans. The city's ability to differentiate its IR proposal will significantly influence licensing outcomes.
+
+Finally, monitor regulatory guidance from Japan's national gaming commission regarding any timeline adjustments for Yokohama's participation. Clarification on application deadlines and evaluation timelines will be essential for operators and municipalities planning IR investments.
+
+---
+
+*Analysis based on: casino.org. Published 2026-09-11.*`,
+    featuredImage: "/images/articles/yokohama-casino-licensing-mayor-resignation-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-09-11T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t2404", label: "integrated resorts", slug: "integrated-resorts" },
+      { id: "t2405", label: "Japan", slug: "japan" },
+      { id: "t2406", label: "Yokohama", slug: "yokohama" },
+      { id: "t2407", label: "licensing", slug: "licensing" },
+      { id: "t2408", label: "regulatory approval", slug: "regulatory-approval" },
+      { id: "t2409", label: "Asia-Pacific gaming", slug: "asia-pacific-gaming" },
+      { id: "t2410", label: "casino development", slug: "casino-development" },
+      { id: "t2411", label: "IR framework", slug: "ir-framework" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Japan's Yokohama Returns to Casino Bidding After Mayor's Resignation 2026 | iGaming Pulse",
+    metaDescription: "Yokohama's path to casino development clears as controversial Mayor Yamanaka resigns, potentially reshaping Japan's integrated resort licensing competition.",
+    likes: 24,
+    comments: [],
+  },
+
+  {
+    id: "558",
+    slug: "penn-entertainment-council-bluffs-casino-groundbreaking-2026",
+    language: "en",
+    translationGroupId: "tg-558",
+    title: "Penn Entertainment Breaks Ground on $200M Iowa Casino Resort Development 2026",
+    excerpt: "Penn Entertainment launches $200M Council Bluffs resort development, replacing 30-year-old Ameristar property with modern integrated destination.",
+    content: `## Major Capital Investment Signals Market Confidence in Midwest Gaming
+
+Penn Entertainment announced the groundbreaking of a $200 million integrated resort at Hollywood Casino Hotel Council Bluffs in Iowa, positioning the development as a strategic modernization of the company's regional property footprint. The September 14 groundbreaking marks the beginning of a comprehensive replacement project that will retire the legacy Ameristar Council Bluffs facility after 30 years of operation.
+
+The investment represents one of the most significant capital deployments in the Midwest gaming market and reflects Penn Entertainment's confidence in regional gaming demand and its competitive positioning strategy. The replacement resort will feature contemporary gaming, hospitality, and entertainment amenities designed to attract both regional players and destination visitors.
+
+## Context: Strategic Positioning in Competitive Regional Markets
+
+Council Bluffs occupies a strategic location on the Missouri River, directly across from Omaha, Nebraska, positioning the property to capture both local and regional gaming traffic. The city's geographic proximity to major metropolitan markets makes it an attractive venue for integrated resort development targeting multi-state visitor patterns.
+
+The decision to completely replace rather than renovate the Ameristar property reflects broader industry trends toward property rationalization and capital concentration on modernized facilities. Older gaming properties often require substantial ongoing maintenance investments, and replacement development can offer superior long-term economics through contemporary design and operational efficiency.
+
+Penn Entertainment's investment in Council Bluffs follows the company's broader strategic focus on enhancing its regional property portfolio. The operator has systematically upgraded facilities across its footprint, balancing new development with digital channel integration and sports betting expansion.
+
+## What This Means: Supplier and Partnership Opportunities
+
+The $200 million capital investment creates substantial opportunities for B2B gaming suppliers, hospitality technology providers, and construction-related service vendors. Resort development of this scale requires sophisticated partnerships across gaming systems, hotel management platforms, and entertainment technology.
+
+For operators and suppliers evaluating partnership opportunities with Penn Entertainment, the Council Bluffs project demonstrates the company's capital availability and commitment to modernization initiatives. Companies focused on [iGaming B2B pipeline](https://virtuwise.io) development can use major property investments as direct indicators of operator receptivity to new technology partnerships and supply relationships.
+
+The project's timeline will also influence Penn's priorities regarding feature development, system upgrades, and operational investments over the next 24-36 months. Vendors seeking to partner with the operator should align their product roadmaps with the company's likely focus on integration of new resort systems.
+
+## What to Watch: Timeline, Amenities, and Market Response
+
+Monitor Penn Entertainment's disclosure of specific project timelines, including estimated completion dates and phased opening schedules. The project timeline will influence when significant capital expenditures occur and when competitive gaming capacity enters the Council Bluffs market.
+
+Watch for detailed announcements regarding resort amenities, including gaming floor specifications, hotel room counts, entertainment venues, and technology infrastructure. These specifications will indicate Penn's strategic positioning relative to regional competitors and target customer demographics.
+
+Track customer response metrics as the new property opens, including gaming volume migration from the old facility and new customer acquisition patterns. Market performance data will provide insights into destination resort success and regional gaming demand dynamics.
+
+Additionally, monitor whether Penn Entertainment pursues similar replacement strategies at other legacy properties in its portfolio. The Council Bluffs success or challenges could influence investment decisions regarding other aging facilities.
+
+---
+
+*Analysis based on: casino.org. Published 2026-09-11.*`,
+    featuredImage: "/images/articles/penn-entertainment-council-bluffs-casino-groundbreaking-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-09-11T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t2412", label: "Penn Entertainment", slug: "penn-entertainment" },
+      { id: "t2413", label: "capital investment", slug: "capital-investment" },
+      { id: "t2414", label: "casino development", slug: "casino-development" },
+      { id: "t2415", label: "Iowa gaming", slug: "iowa-gaming" },
+      { id: "t2416", label: "property upgrade", slug: "property-upgrade" },
+      { id: "t2417", label: "integrated resort", slug: "integrated-resort" },
+      { id: "t2418", label: "hospitality", slug: "hospitality" },
+      { id: "t2419", label: "Midwest gaming", slug: "midwest-gaming" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Penn Entertainment Breaks Ground on $200M Iowa Casino Resort Development 2026 | iGaming Pulse",
+    metaDescription: "Penn Entertainment launches $200M Council Bluffs resort development, replacing 30-year-old Ameristar property with modern integrated destination.",
+    likes: 10,
+    comments: [],
+  },
+
+  {
+    id: "559",
+    slug: "playtech-h1-2026-ebitda-earnings-us-growth",
+    language: "en",
+    translationGroupId: "tg-559",
+    title: "Playtech H1 2026 EBITDA Surges 77% on Strong US Expansion Results",
+    excerpt: "Playtech's first-half 2026 earnings soar 77% as US market expansion drives technology services provider's strongest performance period.",
+    content: `## US Market Expansion Delivers Strong Financial Results for Playtech
+
+Playtech announced exceptional first-half 2026 financial results, reporting a 77% increase in EBITDA compared to the prior year period. The British gaming technology company attributed the strong performance primarily to accelerating growth in the US market, where digital adoption and operator partnerships have expanded significantly.
+
+The earnings results demonstrate sustained investor confidence in Playtech's strategic positioning and execution within North American gaming markets. The company's diversified technology platform, spanning sports betting, casino gaming, and player management systems, has positioned it to capture multiple revenue streams from expanding US operators.
+
+## Context: Technology Provider Performance in Expanding US Markets
+
+Playtech's H1 2026 performance reflects broader industry dynamics favoring established B2B technology and services providers. As US states continue to expand legal gaming frameworks and operators scale their digital operations, demand for sophisticated platform solutions has accelerated.
+
+The company's US growth acceleration follows years of investment in compliance infrastructure, state-specific regulatory solutions, and operator partnership development. Playtech's willingness to invest in localized compliance and operational models has positioned it advantageously relative to competitors less focused on North American market dynamics.
+
+The 77% EBITDA growth substantially outpaces typical industry growth rates, suggesting that Playtech has captured disproportionate market share gains or benefited from particularly lucrative contract arrangements with major operators. The magnitude of growth indicates consolidation of the B2B technology services market around leading providers.
+
+## What This Means: Market Consolidation and Technology Spending Priorities
+
+Playtech's strong financial performance signals that major operators continue to prioritize technology investment and platform modernization as core competitive strategies. The company's ability to deliver 77% growth indicates that operator spending on gaming platforms, sports betting integration, and digital solutions remains robust.
+
+For suppliers and service providers in the B2B iGaming ecosystem, Playtech's results provide important benchmarking data regarding technology investment levels and willingness to pay for premium platform solutions. Operators clearly prioritize sophisticated systems capable of managing complex regulatory requirements across multiple jurisdictions.
+
+The financial strength enables Playtech to continue investing in product development, regulatory compliance capabilities, and market expansion. Companies seeking [B2B operator engagement](https://virtuwise.io) opportunities should recognize that leading operators are actively investing in technology upgrades and capability expansion.
+
+## What to Watch: Product Roadmap and M&A Activity
+
+Monitor Playtech's guidance regarding future growth drivers and geographic expansion priorities. Management commentary will provide clarity on whether the company anticipates sustained US market growth or expects performance normalization in subsequent periods.
+
+Watch for Playtech to announce additional operator partnerships, particularly agreements with major regional gaming companies or new entrants to the US market. Partnership announcements will signal the company's continued market share gains and operator confidence in its platform capabilities.
+
+Track potential acquisitions or strategic investments Playtech announces, particularly transactions related to sports betting technology, player analytics, or regulatory compliance capabilities. Technology acquisitions would indicate the company's priorities regarding capability gaps or competitive positioning.
+
+Additionally, monitor regulatory developments affecting Playtech's US operations, including any changes to compliance requirements or gaming regulations that could impact platform functionality or contractual arrangements with operators. Regulatory shifts could materially affect the company's growth trajectory and competitive positioning.
+
+---
+
+*Analysis based on: casino.org. Published 2026-09-11.*`,
+    featuredImage: "/images/articles/playtech-h1-2026-ebitda-earnings-us-growth.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-09-11T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t2420", label: "Playtech", slug: "playtech" },
+      { id: "t2421", label: "EBITDA growth", slug: "ebitda-growth" },
+      { id: "t2422", label: "US expansion", slug: "us-expansion" },
+      { id: "t2423", label: "gaming technology", slug: "gaming-technology" },
+      { id: "t2424", label: "B2B services", slug: "b2b-services" },
+      { id: "t2425", label: "sports betting", slug: "sports-betting" },
+      { id: "t2426", label: "digital platforms", slug: "digital-platforms" },
+      { id: "t2427", label: "financial results", slug: "financial-results" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Playtech H1 2026 EBITDA Surges 77% on Strong US Expansion Results | iGaming Pulse",
+    metaDescription: "Playtech's first-half 2026 earnings soar 77% as US market expansion drives technology services provider's strongest performance period.",
+    likes: 19,
+    comments: [],
+  },
+
+  {
+    id: "560",
+    slug: "illinois-self-excluded-gamblers-marketing-protection-2026",
+    language: "en",
+    translationGroupId: "tg-560",
+    title: "Illinois Protects Former Self-Excluded Gamblers From Operator Marketing 2026",
+    excerpt: "Illinois tightens responsible gambling rules, barring operators from marketing to formerly self-excluded players for extended post-exclusion period.",
+    content: `## Regulatory Focus Intensifies on Vulnerable Gambler Protection
+
+The Illinois Gaming Board has implemented a new responsible gambling initiative that prohibits gaming operators from marketing to individuals who previously used the state's Self-Exclusion Program (SEP). The regulation recognizes that players exiting voluntary exclusion periods remain vulnerable to relapse and require enhanced protection from aggressive operator marketing tactics.
+
+The initiative represents an evolution in responsible gambling regulation, extending player protections beyond the active exclusion period and into the post-exclusion phase. By restricting operator access to self-excluded player data for marketing purposes, Illinois creates meaningful barriers to re-engagement with vulnerable populations.
+
+## Context: Self-Exclusion Programs and Responsible Gambling Frameworks
+
+State self-exclusion programs provide tools for players to voluntarily exclude themselves from gaming for specified periods, typically ranging from one year to permanent exclusion. These programs represent core responsible gambling infrastructure in regulated markets and are widely recognized as effective harm-reduction tools.
+
+Illinois' new initiative acknowledges that individuals completing exclusion periods face heightened relapse risk. Aggressive marketing from operators seeking to re-activate former customers during this vulnerable period undermines the protective intent of self-exclusion programs. The restriction creates a buffer period during which operators cannot directly solicit previously self-excluded players.
+
+The regulation reflects broader regulatory trends prioritizing player protection and restricting operator marketing practices targeting vulnerable populations. Jurisdictions including New Jersey, Michigan, and Pennsylvania have similarly strengthened responsible gambling frameworks through marketing restrictions and player data protections.
+
+## What This Means: Compliance Obligations for Operators and Platforms
+
+The Illinois initiative creates specific compliance obligations requiring operators to maintain segregated databases of formerly self-excluded players and implement technical controls preventing marketing outreach to these individuals. Operators must integrate SEP data into customer relationship management (CRM) systems and implement algorithmic restrictions on marketing campaign targeting.
+
+For B2B marketing technology and CRM platform providers, the regulation creates demand for self-exclusion data integration capabilities and compliance-focused targeting restrictions. Platforms serving Illinois operators must incorporate SEP exclusion lists and implement technical controls that prevent marketing to restricted player segments.
+
+The initiative also requires operators to document their compliance procedures and maintain audit trails demonstrating adherence to marketing restrictions. This documentation requirement creates opportunities for compliance software providers and audit services.
+
+Operators engaged in [reaching the right operators](https://virtuwise.io) through targeted marketing must now carefully segment their customer data and implement sophisticated exclusion logic. Non-compliance could result in substantial regulatory penalties and license revocation.
+
+## What to Watch: Broader State Adoption and Implementation Timelines
+
+Monitor whether other states adopt similar responsible gambling initiatives restricting marketing to formerly self-excluded players. Illinois' leadership could prompt regulatory developments in neighboring jurisdictions and influence broader industry standards.
+
+Watch for operator announcements regarding compliance procedures and technology investments required to meet the new restrictions. Implementation timelines and technical approaches will vary among operators, creating opportunities for compliance solution providers.
+
+Track enforcement actions by the Illinois Gaming Board, particularly any penalties assessed against operators for non-compliance. Enforcement outcomes will provide guidance regarding regulatory expectations and acceptable compliance approaches.
+
+Additionally, monitor industry advocacy regarding potential amendments or clarifications to the regulation. Operators may seek to narrow the scope of restrictions or extend allowable marketing periods, creating ongoing regulatory dialogue.
+
+---
+
+*Analysis based on: casino.org. Published 2026-09-11.*`,
+    featuredImage: "/images/articles/illinois-self-excluded-gamblers-marketing-protection-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-09-11T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t2428", label: "responsible gambling", slug: "responsible-gambling" },
+      { id: "t2429", label: "self-exclusion", slug: "self-exclusion" },
+      { id: "t2430", label: "Illinois Gaming Board", slug: "illinois-gaming-board" },
+      { id: "t2431", label: "marketing restrictions", slug: "marketing-restrictions" },
+      { id: "t2432", label: "regulatory compliance", slug: "regulatory-compliance" },
+      { id: "t2433", label: "problem gambling", slug: "problem-gambling" },
+      { id: "t2434", label: "player protection", slug: "player-protection" },
+      { id: "t2435", label: "CRM compliance", slug: "crm-compliance" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Illinois Protects Former Self-Excluded Gamblers From Operator Marketing 2026 | iGaming Pulse",
+    metaDescription: "Illinois tightens responsible gambling rules, barring operators from marketing to formerly self-excluded players for extended post-exclusion period.",
+    likes: 6,
+    comments: [],
   }
 ];
 
-// ─── Helper Functions ────────────────────────────────────────────────��────────
+// ─── Helper Functions ──────────────────────────────────────────────────────────
 
 export function getArticlesByCategory(category: Category): Article[] {
   return ARTICLES.filter((a) => a.category === category).sort(
