@@ -20703,6 +20703,348 @@ Additionally, monitor industry advocacy regarding potential amendments or clarif
     metaDescription: "Illinois tightens responsible gambling rules, barring operators from marketing to formerly self-excluded players for extended post-exclusion period.",
     likes: 6,
     comments: [],
+  },
+
+  {
+    id: "561",
+    slug: "lottomatica-cirsa-morocco-licensing-gap-2026",
+    language: "en",
+    translationGroupId: "tg-561",
+    title: "Lottomatica-Cirsa Deal Exposes Morocco Online Betting Void in 2026",
+    excerpt: "European gaming giant Lottomatica's Cirsa acquisition exposes critical online betting licensing gaps in Morocco and North Africa.",
+    content: `## Context
+
+Lottomatica, one of Europe's largest listed gambling groups, completed its agreement to absorb Spain-based gaming operator Cirsa on September 2, 2026. The transaction brings four operational casinos in Morocco under Lottomatica's expanding portfolio, signaling renewed interest in North African gaming markets despite regulatory uncertainty.
+
+Cirsa's Moroccan operations account for a modest but meaningful slice of the company's financials—approximately 2% of total revenue and roughly 4% of earnings. While these figures may seem marginal, they represent a foothold in a region with significant untapped potential for online gaming expansion.
+
+## What This Means
+
+The Lottomatica-Cirsa combination shines a spotlight on a critical gap in North Africa's regulatory infrastructure: the near-absence of formal online betting licensing frameworks in key jurisdictions like Morocco. Unlike Western European markets with established regulatory bodies and licensing regimes, Morocco operates in a licensing limbo where online gambling remains technically restricted but informally tolerated.
+
+For operators seeking growth in emerging markets, this creates a dual challenge. On one hand, the absence of clear regulations removes barriers to market entry and operational costs associated with compliance. On the other hand, it introduces significant legal and reputational risk, as regulatory frameworks could tighten at any moment, potentially invalidating current operations or confiscating assets.
+
+The deal reflects a broader trend where major European operators are betting on regulatory modernization in North Africa. Morocco, in particular, has shown early signs of moving toward regulated online gambling, and incumbents like Lottomatica are positioning themselves to benefit when formal licensing frameworks eventually emerge.
+
+Operators considering [operator engagement](https://virtuwise.io) in North Africa should prioritize jurisdictional monitoring and regulatory intelligence to anticipate future licensing regimes.
+
+## What to Watch
+
+Regulatory developments in Morocco over the next 12-24 months will be critical. Lottomatica's acquisition signals confidence that Morocco will eventually introduce formal online betting licenses, but timing and structure remain uncertain. Will the country adopt a competitive licensing model similar to Spain and Portugal, or will it grant monopoly rights?
+
+Additionally, monitor whether Lottomatica's European regulatory expertise translates into influence over Morocco's future framework design. European operators often work behind the scenes to shape emerging regulations, and Lottomatica's direct presence in Morocco gives it significant leverage.
+
+Finally, watch for competitive responses from other European operators. If Lottomatica's Moroccan position proves valuable, expect rival consolidation waves across North Africa as operators race to secure footholds before licensing regimes solidify.
+
+
+---
+
+*Analysis based on: iGaming Business. Published 2026-09-12.*`,
+    featuredImage: "/images/articles/lottomatica-cirsa-morocco-licensing-gap-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-09-12T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t2436", label: "M&A", slug: "m-a" },
+      { id: "t2437", label: "Morocco", slug: "morocco" },
+      { id: "t2438", label: "Lottomatica", slug: "lottomatica" },
+      { id: "t2439", label: "Cirsa", slug: "cirsa" },
+      { id: "t2440", label: "North Africa", slug: "north-africa" },
+      { id: "t2441", label: "licensing", slug: "licensing" },
+      { id: "t2442", label: "online betting", slug: "online-betting" },
+      { id: "t2443", label: "regulatory gaps", slug: "regulatory-gaps" },
+      { id: "t2444", label: "European expansion", slug: "european-expansion" },
+      { id: "t2445", label: "iGaming consolidation", slug: "igaming-consolidation" },
+    ],
+    sourceName: "iGaming Business",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Lottomatica-Cirsa Deal Exposes Morocco Online Betting Void in 2026 | iGaming Pulse",
+    metaDescription: "European gaming giant Lottomatica's Cirsa acquisition exposes critical online betting licensing gaps in Morocco and North Africa.",
+    likes: 13,
+    comments: [],
+  },
+
+  {
+    id: "562",
+    slug: "draftkings-nfl-prediction-market-57m-fees-2026",
+    language: "en",
+    translationGroupId: "tg-562",
+    title: "DraftKings Eyes $57M NFL Prediction Market Windfall in 2026 Season",
+    excerpt: "DraftKings prediction market exchange could rake in $57M from NFL betting this season, signaling explosive growth in high-margin exchange fee revenue.",
+    content: `## Context
+
+As the 2026 NFL season kicks off, prediction markets have emerged as one of the fastest-growing segments within the U.S. sports betting ecosystem. DraftKings, the market-leading sportsbook operator, is capitalizing on this trend through its proprietary prediction market exchange platform, DKeX.
+
+According to analysis published by Jefferies on September 10, 2026, the firm projects DraftKings could capture as much as $57 million in exchange fees from NFL prediction market activity alone during the 2026 season. This projection is based on early data from just two completed Week 1 games, suggesting that volume and engagement may exceed historical precedent.
+
+The NFL has consistently been the most wagered-on sport in the United States, and the emergence of prediction market exchanges appears to be amplifying that engagement even further. Unlike traditional fixed-odds betting, prediction markets allow users to trade contracts on specific outcomes, creating a dynamic secondary market where prices shift in real-time based on aggregate sentiment.
+
+## What This Means
+
+The projected $57 million in exchange fees represents a substantial revenue opportunity for DraftKings and underscores the commercial viability of prediction markets as a core operator strategy. Exchange fees are among the highest-margin revenue sources in sports betting because they require minimal marketing spend and no player acquisition costs—players bring liquidity to the market naturally.
+
+For the broader iGaming industry, DraftKings' DKeX performance validates a thesis that prediction markets can scale to mainstream adoption, particularly when tied to high-engagement events like NFL games. This success is likely to trigger competitive responses from rivals like FanDuel, Caesars, and international operators seeking U.S. market access.
+
+The timing is also significant. Prediction markets occupy a regulatory gray zone in many U.S. jurisdictions, with ongoing debates about whether they constitute gambling or financial derivatives trading. DraftKings' visible success could influence regulatory attitudes—policymakers may see prediction markets as a lower-risk alternative to traditional sportsbooks if they drive engagement without disproportionate problem gambling rates.
+
+Operators exploring [B2B iGaming outreach](https://virtuwise.io) focused on exchange-based models should prioritize DKeX's success as a case study for investor conversations and regulatory filings.
+
+## What to Watch
+
+First, monitor actual DKeX volume and fee data as the NFL season progresses. Will the $57 million projection hold, or will early enthusiasm fade? Sustained volume through Week 17 and the playoffs will indicate whether prediction markets are a durable revenue pillar or a seasonal phenomenon.
+
+Second, watch for regulatory responses from state gaming commissions. Some states have expressed skepticism about prediction markets, and high-profile success by DraftKings could prompt regulatory clarification or restrictions. Conversely, other states may accelerate licensing to capture tax revenue.
+
+Third, anticipate competitive product launches. FanDuel and Caesars have both indicated interest in expanding prediction market offerings, and a $57 million fee pool will attract rapid competitive responses. The prediction market segment could consolidate into a duopoly or oligopoly within 18 months.
+
+Finally, monitor whether NFL players and teams develop positions on prediction markets. Early concerns about integrity could influence the league's official stance on the product.
+
+
+---
+
+*Analysis based on: Casino.org, Jefferies. Published 2026-09-12.*`,
+    featuredImage: "/images/articles/draftkings-nfl-prediction-market-57m-fees-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-09-12T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t2446", label: "DraftKings", slug: "draftkings" },
+      { id: "t2447", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t2448", label: "NFL", slug: "nfl" },
+      { id: "t2449", label: "DKeX", slug: "dkex" },
+      { id: "t2450", label: "exchange fees", slug: "exchange-fees" },
+      { id: "t2451", label: "sports betting", slug: "sports-betting" },
+      { id: "t2452", label: "revenue model", slug: "revenue-model" },
+      { id: "t2453", label: "2026 season", slug: "2026-season" },
+      { id: "t2454", label: "sportsbook", slug: "sportsbook" },
+      { id: "t2455", label: "player activity", slug: "player-activity" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "DraftKings Eyes $57M NFL Prediction Market Windfall in 2026 Season | iGaming Pulse",
+    metaDescription: "DraftKings prediction market exchange could rake in $57M from NFL betting this season, signaling explosive growth in high-margin exchange fee revenue.",
+    likes: 7,
+    comments: [],
+  },
+
+  {
+    id: "563",
+    slug: "codere-online-nfl-mexico-partnership-2026",
+    language: "en",
+    translationGroupId: "tg-563",
+    title: "Codere Online Lands Official NFL Betting Deal in Mexico 2026",
+    excerpt: "Codere Online clinches exclusive multi-year NFL sports betting partnership in Mexico, gaining premium brand positioning and marketing rights in the region.",
+    content: `## Context
+
+Codere Online, the digital gaming arm of the Codere gaming company, announced on September 11, 2026, that it has secured an official multi-year sports betting partnership with the National Football League (NFL) in Mexico. The deal grants Codere prominent positioning as an authorized NFL sports betting operator in one of Latin America's largest and fastest-growing regulated gaming markets.
+
+Mexico's sports betting market has experienced significant growth over the past three years, fueled by regulatory modernization, increasing internet penetration, and rising sports engagement among younger demographics. The NFL, in particular, has invested heavily in Mexican market development, including Spanish-language broadcast partnerships, stadium events, and grassroots youth programs.
+
+Codere Online's Mexico partnership follows the operator's broader Latin American expansion strategy, which has included licensed operations in Argentina, Colombia, and other jurisdictions.
+
+## What This Means
+
+Official sports league partnerships are among the most valuable marketing assets in sports betting because they confer regulatory legitimacy, enable co-branded marketing, and often include exclusive or semi-exclusive product placement. For Codere, the NFL partnership in Mexico delivers multiple strategic benefits:
+
+**Brand Authority & Compliance Credibility**: Association with the NFL signals to Mexican regulators and players that Codere meets rigorous integrity and compliance standards. This positioning is critical in emerging markets where player trust in operators remains fragile.
+
+**Marketing & Customer Acquisition**: Official partnerships typically include rights to use NFL branding, player likenesses, and game footage in Codere's marketing campaigns. These assets generate organic traffic and reduce customer acquisition costs relative to paid advertising alone.
+
+**Content Exclusivity**: Codere likely gains some form of exclusive or priority rights to NFL betting content, odds innovation, and data feeds. This differentiation helps the operator compete against rivals who lack official status.
+
+**Sponsorship Reciprocity**: The NFL may commit to featuring Codere branding in stadium signage, broadcast overlays, or digital platforms, extending reach to casual fans who may not actively seek sports betting.
+
+For the broader Latin American sports betting ecosystem, Codere's NFL deal signals that official sports league partnerships remain a primary competitive lever. Operators without premium partnerships face increasing disadvantage in attracting brand-conscious players and securing regulatory favor.
+
+Operators pursuing [reaching the right operators](https://virtuwise.io) in Latin America should recognize official sports partnerships as table stakes for market competitiveness.
+
+## What to Watch
+
+First, monitor the financial structure and revenue share. Will Codere pay a fixed licensing fee, percentage of revenue, or a hybrid model? The deal structure will reveal how highly the NFL values the Mexico market and set pricing precedent for other Latin American partnerships.
+
+Second, track exclusivity terms. Is Codere the sole official NFL betting partner in Mexico, or does the NFL allow multiple licensed operators? Exclusivity significantly impacts Codere's competitive moat and profitability.
+
+Third, watch for competitive responses from FanDuel, DraftKings, or other international sportsbooks. If Codere secures exclusivity or near-exclusivity, rivals may pursue partnerships with Liga MX (Mexican professional soccer), other sports properties, or emerging entertainment properties.
+
+Finally, observe marketing execution. Will Codere effectively leverage the NFL partnership to acquire new players and increase market share? Operators often struggle to convert brand partnerships into measurable revenue uplift, and Codere's success will serve as a case study for partnership ROI in Latin America.
+
+
+---
+
+*Analysis based on: Casino.org. Published 2026-09-12.*`,
+    featuredImage: "/images/articles/codere-online-nfl-mexico-partnership-2026.png",
+    author: AUTHORS[3],
+    publishedAt: "2026-09-12T08:30:00Z",
+    category: "marketing-traffic",
+    tags: [
+      { id: "t2456", label: "Codere Online", slug: "codere-online" },
+      { id: "t2457", label: "NFL", slug: "nfl" },
+      { id: "t2458", label: "Mexico", slug: "mexico" },
+      { id: "t2459", label: "sports betting partnership", slug: "sports-betting-partnership" },
+      { id: "t2460", label: "Latin America", slug: "latin-america" },
+      { id: "t2461", label: "brand licensing", slug: "brand-licensing" },
+      { id: "t2462", label: "player acquisition", slug: "player-acquisition" },
+      { id: "t2463", label: "regulated markets", slug: "regulated-markets" },
+      { id: "t2464", label: "media rights", slug: "media-rights" },
+      { id: "t2465", label: "sportsbook", slug: "sportsbook" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Codere Online Lands Official NFL Betting Deal in Mexico 2026 | iGaming Pulse",
+    metaDescription: "Codere Online clinches exclusive multi-year NFL sports betting partnership in Mexico, gaining premium brand positioning and marketing rights in the region.",
+    likes: 25,
+    comments: [],
+  },
+
+  {
+    id: "564",
+    slug: "polymarket-warren-jenson-cfo-2026",
+    language: "en",
+    translationGroupId: "tg-564",
+    title: "Polymarket Hires Ex-Amazon CFO Warren Jenson to Lead 2026 Expansion",
+    excerpt: "Polymarket hires veteran Amazon CFO Warren Jenson as inaugural chief financial officer, signaling institutional growth and U.S. regulatory ambitions.",
+    content: `## Context
+
+Polymarket, the world's largest prediction market platform, announced on September 11, 2026, that it has appointed Warren Jenson as its first chief financial officer. Jenson brings a distinguished career spanning finance leadership roles at Amazon, NBC, and Delta Air Lines—three Fortune 100 companies with complex regulatory, compliance, and international business operations.
+
+Polymarket has operated since 2020 as an offshore prediction market platform, primarily serving U.S. traders through virtual private networks and proxy accounts. The platform has achieved significant scale, with billions of dollars in notional contract volume traded across political, sports, and financial prediction markets.
+
+However, Polymarket's legal status in the United States remains murky. The Commodity Futures Trading Commission (CFTC) has expressed skepticism about certain prediction market activities, and several states have initiated enforcement actions against platforms offering prediction markets without explicit state authorization.
+
+## What This Means
+
+Jenson's appointment signals that Polymarket is transitioning from a bootstrap, offshore startup to an institutionally-backed company seeking legitimate U.S. market access. Several strategic implications emerge:
+
+**Regulatory Navigation**: Jenson's experience navigating heavily-regulated industries (aviation at Delta, broadcast at NBC, cloud infrastructure at Amazon) positions him to architect a compliance framework that can withstand CFTC and state-level scrutiny. His appointment suggests Polymarket believes U.S. regulatory legitimacy is achievable, not merely aspirational.
+
+**Capital Strategy & Institutional Fundraising**: The appointment of a professional CFO typically precedes major capital raises or strategic exit discussions. Jenson's presence may signal that Polymarket is preparing Series C or D funding, a strategic partnership with a major brokerage or fintech firm, or eventual public market access.
+
+**Organizational Maturation**: Prediction markets operated in regulatory gray zones require sophisticated governance, audit controls, and compliance infrastructure. Jenson will implement institutional financial controls that distinguish Polymarket from unregulated competitors.
+
+**Competitive Implication for Operators**: Polymarket's professionalization threatens traditional sportsbook and casino operators by offering prediction markets as a standalone product category. If Polymarket succeeds in achieving U.S. regulatory legitimacy, DraftKings, FanDuel, and Caesars will face increased competitive pressure on prediction market volumes, potentially eroding exchange fee margins.
+
+For industry stakeholders, Jenson's move underscores that prediction markets are no longer a niche retail product—they are attracting institutional talent and capital, signaling sustained growth potential.
+
+## What to Watch
+
+First, monitor Polymarket's U.S. regulatory filings and communications. Will the company apply for CFTC approval, state-by-state licenses, or pursue a different regulatory pathway? Jenson's regulatory strategy will set precedent for other prediction market platforms.
+
+Second, track capital announcements. If Polymarket raises major funding within 12 months of Jenson's appointment, it signals accelerated U.S. expansion ambitions. Conversely, if fundraising stalls, regulatory barriers may be more formidable than expected.
+
+Third, watch for strategic partnerships or acquisition rumors. Polymarket's elevated institutional profile may attract acquisition interest from major sportsbooks, fintech platforms, or financial exchanges seeking prediction market capabilities.
+
+Finally, monitor how traditional sportsbook operators respond. Will DraftKings, FanDuel, or Caesars attempt to poach Polymarket talent, accelerate in-house prediction market development, or pursue acquisition/partnership strategies? Jenson's success at Polymarket will validate prediction markets as a high-growth opportunity, triggering competitive responses across the industry.
+
+
+For B2B suppliers tracking this story, [iGaming B2B outreach](https://virtuwise.io) strategies that align with these regulatory shifts tend to outperform generic approaches.
+
+---
+
+*Analysis based on: Casino.org. Published 2026-09-12.*`,
+    featuredImage: "/images/articles/polymarket-warren-jenson-cfo-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-09-12T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t2466", label: "Polymarket", slug: "polymarket" },
+      { id: "t2467", label: "CFO", slug: "cfo" },
+      { id: "t2468", label: "Warren Jenson", slug: "warren-jenson" },
+      { id: "t2469", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t2470", label: "leadership", slug: "leadership" },
+      { id: "t2471", label: "U.S. expansion", slug: "u-s-expansion" },
+      { id: "t2472", label: "compliance", slug: "compliance" },
+      { id: "t2473", label: "institutional finance", slug: "institutional-finance" },
+      { id: "t2474", label: "executive hire", slug: "executive-hire" },
+      { id: "t2475", label: "fintech", slug: "fintech" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Polymarket Hires Ex-Amazon CFO Warren Jenson to Lead 2026 Expansion | iGaming Pulse",
+    metaDescription: "Polymarket hires veteran Amazon CFO Warren Jenson as inaugural chief financial officer, signaling institutional growth and U.S. regulatory ambitions.",
+    likes: 18,
+    comments: [],
+  },
+
+  {
+    id: "565",
+    slug: "uk-election-betting-scandal-guilty-pleas-2026",
+    language: "en",
+    translationGroupId: "tg-565",
+    title: "UK Election Betting Scandal: Conservative Insiders Guilty Pleas Signal Integrity Gaps 2026",
+    excerpt: "UK election betting scandal deepens as Conservative insiders including former campaign director plead guilty to insider betting charges on 2024 General Election timing.",
+    content: `## Context
+
+On September 11, 2026, two prominent UK Conservative Party figures pleaded guilty to charges related to placing bets on the timing of the 2024 General Election based on non-public information. Anthony Lee, the Conservative Party's former director of campaigning, and his wife entered guilty pleas to cheating at gambling under the Gambling Act 2005.
+
+The scandal emerged in the months following the Labour Party's decisive victory in the July 2024 General Election. Subsequent investigations by the UK Gambling Commission and police revealed that multiple Conservative insiders had placed significant bets with bookmakers on the precise date the Prime Minister would call the election—information to which they had privileged access through their positions within the party and government.
+
+This represents the latest phase of an unfolding scandal that has implicated dozens of political figures across multiple parties, betting operators, and jurisdictions.
+
+## What This Means
+
+The guilty pleas underscore fundamental integrity challenges in political betting markets and expose significant gaps in operator compliance and regulatory oversight. Several implications emerge:
+
+**Information Asymmetry Risk**: Political betting markets are uniquely susceptible to insider trading because political decision-makers have non-public information about timing, policy announcements, and electoral strategy. Unlike securities markets, where insider trading is heavily regulated and prosecuted, political betting has historically operated with minimal guardrails.
+
+**Operator Liability & Reputational Risk**: Betting operators who accepted bets from known political insiders face potential regulatory sanctions, fines, and reputational damage. The scandal highlights that operators must implement robust customer due diligence (KYC) and beneficial ownership protocols to identify and refuse high-risk political figures.
+
+**Regulatory Escalation**: The Gambling Commission is likely to issue enhanced guidance on political betting risk management, potentially including restrictions on political figures or mandatory bet verification procedures. Some jurisdictions may consider banning political betting altogether.
+
+**Market Integrity**: If public confidence erodes that political betting markets are fair and untainted by insider information, trading volume and operator revenue will decline. The scandal threatens the viability of political prediction markets as a sustainable product category.
+
+For international operators, the UK scandal is particularly significant because many platforms offer political betting to U.S. and global customers, creating cross-border regulatory exposure. Operators offering [operator engagement](https://virtuwise.io) in political markets must establish governance frameworks that insulate them from jurisdictional integrity failures.
+
+## What to Watch
+
+First, monitor whether other political insiders are charged or plead guilty. The scandal may be broader than currently disclosed, with investigations potentially extending beyond the Conservative Party to Labour, Liberal Democrat, and other figures.
+
+Second, track UK Gambling Commission regulatory guidance and enforcement actions. Will the Commission restrict political betting, impose higher compliance requirements for political markets, or require operators to maintain segregated political betting accounts with enhanced monitoring?
+
+Third, observe whether international regulators (CFTC, state gaming commissions) address political betting in the U.S. context. If U.S. prediction market platforms offering political betting face scrutiny over insider risk, regulatory barriers to mainstream political prediction markets will increase.
+
+Finally, monitor betting operator responses. Will major operators voluntarily restrict political betting, implement stricter KYC for political figures, or exit political betting markets altogether? Industry-led guardrails may preempt regulatory mandates.
+
+
+---
+
+*Analysis based on: Casino.org. Published 2026-09-12.*`,
+    featuredImage: "/images/articles/uk-election-betting-scandal-guilty-pleas-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-09-12T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t2476", label: "UK election betting scandal", slug: "uk-election-betting-scandal" },
+      { id: "t2477", label: "Conservative Party", slug: "conservative-party" },
+      { id: "t2478", label: "insider betting", slug: "insider-betting" },
+      { id: "t2479", label: "regulatory risk", slug: "regulatory-risk" },
+      { id: "t2480", label: "political betting", slug: "political-betting" },
+      { id: "t2481", label: "integrity", slug: "integrity" },
+      { id: "t2482", label: "Gambling Commission", slug: "gambling-commission" },
+      { id: "t2483", label: "fraud", slug: "fraud" },
+      { id: "t2484", label: "compliance", slug: "compliance" },
+      { id: "t2485", label: "know-your-customer", slug: "know-your-customer" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "UK Election Betting Scandal: Conservative Insiders Guilty Pleas Signal Integrity Gaps 2026 | iGaming Pulse",
+    metaDescription: "UK election betting scandal deepens as Conservative insiders including former campaign director plead guilty to insider betting charges on 2024 General Election",
+    likes: 22,
+    comments: [],
   }
 ];
 
