@@ -269,6 +269,41 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     );
                   }
 
+                  // Markdown table block (lines starting with "|")
+                  if (trimmed.split("\n").filter((l) => l.trim()).every((line) => line.trim().startsWith("|"))) {
+                    const rows = trimmed.split("\n").filter((l) => l.trim());
+                    const parseRow = (line: string) =>
+                      line.trim().replace(/^\|/, "").replace(/\|$/, "").split("|").map((c) => c.trim());
+                    const headerCells = parseRow(rows[0]);
+                    const bodyRows = rows.slice(2).map(parseRow); // rows[1] is the |---|---| separator
+                    return (
+                      <div key={i} className="mb-6 overflow-x-auto">
+                        <table className="w-full text-sm border-collapse">
+                          <thead>
+                            <tr className="border-b-2 border-navy">
+                              {headerCells.map((cell, ci) => (
+                                <th key={ci} className="text-left font-semibold text-navy py-2 px-3 whitespace-nowrap">
+                                  {renderInline(cell)}
+                                </th>
+                              ))}
+                            </tr>
+                          </thead>
+                          <tbody>
+                            {bodyRows.map((row, ri) => (
+                              <tr key={ri} className="border-b border-border">
+                                {row.map((cell, ci) => (
+                                  <td key={ci} className="py-2 px-3 align-top text-foreground/90">
+                                    {renderInline(cell)}
+                                  </td>
+                                ))}
+                              </tr>
+                            ))}
+                          </tbody>
+                        </table>
+                      </div>
+                    );
+                  }
+
                   // Bullet list block (lines starting with "- ")
                   if (trimmed.split("\n").every((line) => line.startsWith("- ") || line.trim() === "")) {
                     const items = trimmed.split("\n").filter((l) => l.startsWith("- "));
