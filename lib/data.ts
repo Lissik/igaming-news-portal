@@ -23444,6 +23444,259 @@ Sources: [SOFTSWISS Casino Platform news](https://www.softswiss.com/news/casino-
     metaDescription: "SoftSwiss vs EveryMatrix compared for 2026: architecture, content aggregation, licensing, CRM and pricing to help operators pick the right PAM platform.",
     likes: 19,
     comments: [],
+  },
+
+  {
+    id: "605",
+    slug: "sngs-comm100-2026-ai-player-engagement",
+    language: "en",
+    translationGroupId: "tg-605",
+    title: "6 Weeks Until SNGS 2026: Comm100 Joins Line-Up With AI-Powered Player Engagement",
+    excerpt: "Comm100 joins the 8th annual Scandinavian & Nordic Gaming Show as an exhibitor, discussing AI-driven player engagement as Nordic regulators tighten oversight.",
+    content: `## 6 Weeks Until the Scandinavian & Nordic Gaming Show 2026: Comm100 on AI-Powered Player Engagement
+
+The Nordic gaming market is seeing regulatory developments in several key areas, from Finland's preparations for a new licensing framework to Sweden's stronger regulatory approach and Norway's increased enforcement. The highly anticipated 8th annual Scandinavian & Nordic Gaming Show (SNGS) 2026, taking place in just 6 weeks on 22-23 October at the Radisson Blu Scandinavia Hotel in Copenhagen, Denmark, will give regulators, operators, providers and investors a platform to discuss the implications of these developments for the industry.
+
+## Exhibitor Spotlight: Comm100
+
+SNGS 2026 welcomes Comm100 as an exhibitor for the event's 8th edition.
+
+Comm100 helps businesses level up their self-serve and human-assisted customer service with AI-driven speed and efficiency. The platform enables businesses to meet their customers where and when they prefer, accelerating resolution with powerful AI agents and enhancements that help everyone get on with their day.
+
+From automated, context-aware support to real-time human assistance, onboarding, and evaluation, Comm100's solutions are designed with a singular goal in mind: to shorten the path between question and answer.
+
+Learn more about Comm100: [comm100.com](https://www.comm100.com/)
+
+## Exclusive Insights with the Comm100 Team
+
+The team described how its platform supports gaming operators across different customer service channels and player interactions:
+
+"Comm100 is an AI-powered player engagement platform that unifies live chat, email, messaging apps, and ticketing.
+
+AI agents handle routine player queries as the first line of support, and complex cases and high-value players are escalated to live agents with full player context and gaming-specific response suggestions. The platform is used by more than 1,200 international operators, platform providers and BPOs."
+
+They also outlined the AI and automation tools available across the customer support lifecycle:
+
+"Comm100 offers a suite of AI solutions to empower CS teams across the full support lifecycle:
+
+- **AI Agent**: autonomous AI chatbot that can handle up to 80% of incoming queries
+- **AI Copilot**: offers suggestions, responses, and helpful actions to human agents
+- **AI Knowledge**: automates knowledge base management, including drafting new articles
+- **AI QA**: auto-scores conversations and turns the findings into coaching moments
+- **AI Training**: converts that material into simulation-based scenarios and quizzes
+- **AI Insights**: reads resolution, sentiment and churn signals across the whole operation
+- **Responsible gambling**: identifying markers of harm, live monitoring, and detailed reporting"
+
+On what Comm100 considers the biggest customer experience challenges facing gaming operators across the Scandinavian and Nordic markets today:
+
+"Regulatory divergence is the immediate pressure. Finland is moving from a state monopoly to a competitive licensing model, Sweden is tightening consumer protection rules inside an already licensed market, and Norway is further adding harm-prevention measures and doubling down on responsible gambling, so operators running across the region are supporting players under three different sets of obligations at once."
+
+The team further discussed where automation can take on routine player support tasks and where human involvement is still required:
+
+"The biggest upside gains for automation lie in high-volume, repeatable questions: account balances, game rules, promotion eligibility, withdrawal timelines and bonus activation. Automating those requests with no-code workflows frees agents to focus on VIP retention and the cases that need judgment.
+
+Human input stays essential wherever the outcome affects a player's money, their account status or their wellbeing."
+
+Lastly, Comm100 commented on the emerging customer service and AI trends they believe will have the biggest impact on the Nordic gaming industry:
+
+"Responsible gambling technology is shifting from retrospective analysis to real-time action, and support conversations are the richest untapped source of risk signals operators already hold. Integrating support systems with responsible gambling solutions is likely a barrier.
+
+The second shift is AI-assisted quality assurance, where every conversation can be reviewed against an operator's own guidelines."
+
+## Who Will Take Home an SNGS Eventus Award?
+
+Nominations are now open for the SNGS Eventus Awards 2026, taking place during SNGS 2026 on the evening of 22 October 2026.
+
+This is an opportunity to recognise the individuals and organisations making a notable contribution to the region's gaming industry through leadership, innovation and outstanding achievement.
+
+Entries close on 9 October 2026, ahead of the shortlist announcement on 14 October 2026.
+
+Nominate a leader: [eventus-international.com/sngs-award-nominations](https://www.eventus-international.com/sngs-award-nominations)
+
+## Attend, Sponsor or Exhibit
+
+Delegate, sponsorship and exhibition opportunities are available at the 8th annual SNGS 2026, offering organisations the opportunity to raise their profile, connect with the region's gaming community and build relationships with key industry stakeholders.
+
+To secure a place, register here: [eventus-international.com/sngs](https://www.eventus-international.com/sngs)
+
+For sponsorship or exhibition enquiries, contact:
+
+Lou-Mari Burnett, Chief Operating Officer, Eventus International
+[loumari@eventus-international.com](mailto:loumari@eventus-international.com)
++27 82 907 5850`,
+    featuredImage: "/images/articles/sngs-comm100-2026-ai-player-engagement.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-09-08T08:30:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t2850", label: "SNGS 2026", slug: "sngs-2026" },
+      { id: "t2851", label: "Comm100", slug: "comm100" },
+      { id: "t2852", label: "Nordic Gaming", slug: "nordic-gaming" },
+      { id: "t2853", label: "Scandinavian Gaming Show", slug: "scandinavian-gaming-show" },
+      { id: "t2854", label: "AI Player Engagement", slug: "ai-player-engagement" },
+      { id: "t2855", label: "Conferences & Events", slug: "conferences-events" },
+      { id: "t2856", label: "Eventus International", slug: "eventus-international" },
+      { id: "t2857", label: "Copenhagen", slug: "copenhagen" },
+    ],
+    sourceName: "Eventus International",
+    sourceUrl: "https://www.eventus-international.com/sngs",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "SNGS 2026: Comm100 on AI-Powered Player Engagement | iGaming Pulse",
+    metaDescription: "SNGS 2026 welcomes Comm100 as an exhibitor. The AI-powered player engagement platform discusses customer service trends ahead of the 22-23 October Copenhagen show.",
+    likes: 11,
+    comments: [],
+  },
+
+  {
+    id: "606",
+    slug: "spark-2026-six-weeks-away-sofia-bulgaria",
+    language: "en",
+    translationGroupId: "tg-606",
+    title: "SPARK 2026, 6 Weeks Away: Software, Payments, Affiliates and Revenue on the Agenda",
+    excerpt: "The inaugural SPARK 2026 lands in Sofia, Bulgaria on 19-20 October, with speakers previewing sessions on retention, compliance and post-SEO acquisition strategy.",
+    content: `## SPARK 2026, 6 Weeks Away: Software, Payments, Affiliates and Revenue on the Agenda
+
+For gaming businesses looking towards Southeast Europe, there is more to consider than simply market growth, and in just six weeks, the inaugural SPARK (Software, Payments, Affiliates, Revenue Kickoff) 2026 will put those questions directly to the operators, affiliates and providers navigating the region, when it takes place in Sofia, Bulgaria, on 19-20 October.
+
+## Day One: Product, Payments and Acquisition
+
+Proceedings open with a keynote on the trends, regulation and strategy shaping product, payments and affiliates across the region, a timely focus given that acquiring a new player can cost several times more than retaining an existing one, with payment experience alone remaining a leading factor in operator choice. Sessions across the day will then move through retention over acquisition, live ops as a revenue engine, the evolving role of retail gaming in a digital-first market, payments as a conversion lever, and the challenge of balancing compliance with user experience across multiple jurisdictions.
+
+## Day Two: Scaling With Confidence
+
+Confidence in scaling becomes the focus next, with an opening keynote on the shift from search engine optimisation to AI-driven answer engines. Sessions will explore the changing role of affiliates, post-SEO acquisition strategies, what's truly working in modern iGaming operations, responsible AI in marketing under the EU AI Act, and the balance between proactive and reactive compliance, before closing out with a session on translating this year's takeaways into lasting, resilient growth.
+
+## Speakers Weigh In
+
+Ahead of SPARK 2026, a number of this year's confirmed speakers shared insight into what they'll bring to the stage.
+
+On what Skyrocket Marketers Agency brings to the iGaming space, the company's CEO, Andreas Ioannou, said:
+
+*"We create AI chatbots for iGaming businesses that can handle customer questions, support players 24/7, and improve the overall player experience. Available in multiple languages and tailored to your business needs."*
+
+Hanna Plachkova (The Persona Lab) shared:
+
+*"So much is shifting right now - AI alone is rewriting the rules - and it's easy to fall behind. That's exactly why events like SPARK matter: they're where you catch the trends early, find real solutions, and take back things that help your company grow. What I'm most eager to do is help the audience make sense of the biggest insights from these two days and leave with specific, actionable next steps."*
+
+Retention, not acquisition, is where Henk Wolff (iGaming Consultant) believes the real money is being left on the table:
+
+*"New operators spend their entire budget acquiring players and nothing on keeping them. Then they wonder why the numbers don't add up.*
+
+*85%+ of casino revenue comes from recurring players. Not first deposits. Recurring players. And a player who hears nothing from you after signing up does not come back. He just moves on to the next operator that does talk to him.*
+
+*That is the biggest leak in the industry. New operators have it. Plenty of established ones have it too.*
+
+*At SPARK 2026, I'll be showing what retention marketing actually does to an operation's bottom line."*
+
+For Chrysothemi Valanidou (Startwise Ltd), compliance and growth aren't separate conversations:
+
+*"Regulation in iGaming is constantly evolving, and businesses need to do more than simply keep up, they need to understand how regulatory requirements translate into practical, sustainable business decisions. At SPARK 2026, I'm looking forward to sharing practical insights from my experience in AML, regulatory compliance and the betting industry, and discussing how businesses can approach compliance as part of their wider strategy and growth."*
+
+Governance built in from day one, not added later, is the case Mark McGuinness (CreateFuture) plans to make at SPARK 2026:
+
+*"Compliance rarely costs performance. Retrofitting does. The teams that design governance in from the start keep shipping, while the ones bolting it on later end up unpicking systems that already work. That is the conversation I want to have at SPARK 2026."*
+
+## Secure Your Package Now
+
+With six weeks remaining, there is still time for organisations to put their brand in front of Southeast Europe's gaming community, connect with potential partners and build valuable relationships with key industry contacts through the available delegate, sponsorship and exhibition packages.
+
+For sponsorship or exhibition enquiries, contact:
+
+Lou-Mari Burnett, Chief Operating Officer, Eventus International
+[loumari@eventus-international.com](mailto:loumari@eventus-international.com)
++27 82 907 5850
+
+Register here: [eventus-international.com/spark](https://www.eventus-international.com/spark)
+
+19-20 October 2026 | Sofia, Bulgaria`,
+    featuredImage: "/images/articles/spark-2026-six-weeks-away-sofia-bulgaria.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-09-08T08:30:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t2858", label: "SPARK 2026", slug: "spark-2026" },
+      { id: "t2859", label: "Sofia Bulgaria", slug: "sofia-bulgaria" },
+      { id: "t2860", label: "Southeast Europe iGaming", slug: "southeast-europe-igaming" },
+      { id: "t2861", label: "Conferences & Events", slug: "conferences-events" },
+      { id: "t2862", label: "Eventus International", slug: "eventus-international" },
+      { id: "t2863", label: "Player Retention", slug: "player-retention" },
+      { id: "t2864", label: "Affiliate Marketing", slug: "affiliate-marketing" },
+      { id: "t2865", label: "iGaming Compliance", slug: "igaming-compliance" },
+    ],
+    sourceName: "Eventus International",
+    sourceUrl: "https://www.eventus-international.com/spark",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "SPARK 2026 Preview: Sofia's Inaugural iGaming Summit | iGaming Pulse",
+    metaDescription: "SPARK 2026 takes place in Sofia, Bulgaria on 19-20 October. Confirmed speakers preview sessions on software, payments, affiliates and revenue growth.",
+    likes: 24,
+    comments: [],
+  },
+
+  {
+    id: "607",
+    slug: "spice-central-asia-awards-2026-nominations",
+    language: "en",
+    translationGroupId: "tg-607",
+    title: "SPiCE Central Asia Awards 2026 to Honour Industry Leaders & Standout Achievements",
+    excerpt: "SPiCE Central Asia returns to Tbilisi for its third year, with seven awards honouring technology, payments, innovation and operator excellence on 24 September.",
+    content: `## SPiCE Central Asia Awards 2026 to Honour Industry Leaders & Standout Achievements
+
+As SPiCE Central Asia returns to Tbilisi, Georgia, for its third year, Eventus International will recognise outstanding industry professionals and organisations with seven awards at this year's event. The SPiCE Central Asia Awards 2026 will take place on the first evening of the event, 24 September, at The Biltmore Hotel Tbilisi.
+
+## This Year's Award Categories
+
+**SPiCE Central Asia Technology Provider of the Year Award 2026**
+Recognising the technology provider that combines strong commercial performance with innovative thinking and a high-quality user experience.
+
+**SPiCE Central Asia Payment Provider of the Year Award 2026**
+Acknowledging the payment provider that delivers commercial success through innovative solutions and a seamless user experience.
+
+**SPiCE Central Asia Innovation of the Year Award 2026**
+Recognising an outstanding innovation for its commercial impact, originality and ability to improve the user experience.
+
+**SPiCE Central Asia Operator of the Year Award 2026**
+Applauding the operator that demonstrates strong commercial performance, innovation and a consistent focus on the user experience.
+
+**SPiCE Central Asia Speaker of the Year Award 2026**
+Recognising a speaker who connects with diverse audiences through engaging delivery, strong communication and demonstrable industry expertise.
+
+**SPiCE-IEST Expo Stand of the Year Award 2026**
+Awarded to the expo stand that makes the strongest visual and experiential impression, with the shortlist announced after the first day of the expo.
+
+**SPiCE Central Asia Honorary Award 2026**
+Recognising an individual for significant lifetime achievements, outstanding service or a lasting contribution to the gaming industry.
+
+## Key Dates
+
+Nominations for the Technology Provider of the Year, Payment Provider of the Year, Innovation of the Year and Operator of the Year awards close on 16 September. The shortlist will be announced on 18 September, and the winners will be revealed at the SPiCE Central Asia Awards 2026 ceremony on 24 September.
+
+Nominate a leader: [spiceseries.com/sca-award-nomination](https://www.spiceseries.com/sca-award-nomination)`,
+    featuredImage: "/images/articles/spice-central-asia-awards-2026-nominations.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-09-08T08:30:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t2866", label: "SPiCE Central Asia", slug: "spice-central-asia" },
+      { id: "t2867", label: "Eventus Awards", slug: "eventus-awards" },
+      { id: "t2868", label: "Tbilisi Georgia", slug: "tbilisi-georgia" },
+      { id: "t2869", label: "Conferences & Events", slug: "conferences-events" },
+      { id: "t2870", label: "Industry Awards", slug: "industry-awards" },
+      { id: "t2871", label: "Eventus International", slug: "eventus-international" },
+      { id: "t2872", label: "Central Asia iGaming", slug: "central-asia-igaming" },
+    ],
+    sourceName: "Eventus International",
+    sourceUrl: "https://www.spiceseries.com/sca-award-nomination",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "SPiCE Central Asia Awards 2026: Nominations Open | iGaming Pulse",
+    metaDescription: "SPiCE Central Asia Awards 2026 nominations are open across seven categories. Winners will be revealed 24 September at The Biltmore Hotel Tbilisi.",
+    likes: 23,
+    comments: [],
   }
 ];
 
