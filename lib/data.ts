@@ -26527,6 +26527,344 @@ Income Access, NetRefer, and Cellxpert use custom, sales-gated enterprise pricin
     metaDescription: "Compare the top 5 iGaming affiliate tracking platforms in 2026 — Income Access, NetRefer, Affilka, Scaleo, Cellxpert — on tracking, fraud and pricing.",
     likes: 23,
     comments: [],
+  },
+
+  {
+    id: "657",
+    slug: "sphere-wizard-oz-effects-upgrade-2026",
+    language: "en",
+    translationGroupId: "tg-657",
+    title: "Las Vegas Sphere Unveils Enhanced 'Wizard of Oz' Experience 2026",
+    excerpt: "Las Vegas Sphere unveils next-generation visual effects and production enhancements for its reimagined Wizard of Oz experience launching September 25.",
+    content: `The Las Vegas Sphere is upping the ante on experiential entertainment with a significant upgrade to its Wizard of Oz immersive production, marking a turning point in how the venue leverages its cutting-edge technology.
+
+The facility, which has positioned itself as the world's largest LED screen venue, revealed fresh details on the enhanced experience in a preview released Friday. Producer Ben Grossmann made clear that the refresh represents far more than cosmetic updates or minor tweaks to existing content.
+
+"It's not enough to just recreate," Grossmann stated in promotional materials, underscoring the venue's commitment to innovation rather than stagnation. The upgraded production will deploy the Sphere's full technological capabilities—including advanced projection mapping, immersive audio design, and enhanced visual storytelling that pushes beyond traditional screen-based entertainment.
+
+## What's Changing
+
+While the core Wizard of Oz narrative remains intact, the technical overhaul transforms how audiences experience the story. The Sphere's 580,000-square-foot exterior LED display and interior immersive environment will work in concert to create layered visual experiences that integrate Dorothy's journey across multiple sensory dimensions.
+
+The refresh leverages lessons learned during the venue's initial Sphere Entertainment experiences, allowing production teams to refine pacing, visual clarity, and emotional impact. Industry observers note this iterative approach to high-end attractions reflects broader trends in Las Vegas where venues must continuously upgrade signature experiences to maintain competitive positioning.
+
+## Market Implications
+
+For the iGaming and hospitality sector, the Sphere's continued investment signals confidence in experiential entertainment as a revenue driver. Premium venues increasingly recognize that immersive attractions command higher ticket prices and generate ancillary spending across food, beverage, and retail categories.
+
+The September 25 debut will test whether audiences perceive sufficient differentiation from the original Oz experience to justify return visits. Industry analysts will closely monitor initial attendance figures and review sentiment, as the Sphere's ability to refresh its marquee attraction successfully directly impacts the larger Las Vegas convention and entertainment ecosystem that supports iGaming properties.
+
+For resort operators considering their own entertainment investments, the Sphere's aggressive approach to technology and continuous content evolution provides a benchmark for maintaining visitor engagement and justifying premium positioning in an increasingly competitive market.`,
+    featuredImage: "/images/articles/sphere-wizard-oz-effects-upgrade-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-09-20T08:30:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t3340", label: "Las Vegas Sphere", slug: "las-vegas-sphere" },
+      { id: "t3341", label: "Wizard of Oz", slug: "wizard-of-oz" },
+      { id: "t3342", label: "immersive entertainment", slug: "immersive-entertainment" },
+      { id: "t3343", label: "venue upgrades", slug: "venue-upgrades" },
+      { id: "t3344", label: "experiential gaming", slug: "experiential-gaming" },
+      { id: "t3345", label: "premium attractions", slug: "premium-attractions" },
+      { id: "t3346", label: "visual effects", slug: "visual-effects" },
+      { id: "t3347", label: "entertainment technology", slug: "entertainment-technology" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Las Vegas Sphere Unveils Enhanced 'Wizard of Oz' Experience 2026 | iGaming Pulse",
+    metaDescription: "Las Vegas Sphere unveils next-generation visual effects and production enhancements for its reimagined Wizard of Oz experience launching September 25.",
+    likes: 5,
+    comments: [],
+  },
+
+  {
+    id: "658",
+    slug: "brock-bowers-status-raiders-chargers-2026",
+    language: "en",
+    translationGroupId: "tg-658",
+    title: "Brock Bowers' Game Status Impacts Raiders-Chargers Betting Interest 2026",
+    excerpt: "Brock Bowers' uncertain availability for Sunday's Raiders-Chargers game is creating significant betting volatility as oddsmakers wait for final injury determination.",
+    content: `The Las Vegas Raiders' injury status for star tight end Brock Bowers has become a critical factor in the sports betting ecosystem ahead of Sunday's AFC West clash against the Los Angeles Chargers.
+
+Coach Klint Kubiak's confirmation that the team plans to work out Bowers before the game at SoFi Stadium leaves the door open for the player to suit up despite returning from knee surgery. However, the decision uncertainty is creating ripple effects across the sportsbook industry.
+
+## Betting Market Volatility
+
+Player availability announcements, particularly involving high-profile offensive weapons like Bowers, routinely shift point spreads and over/under totals by half a point to a full point or more. Sharp bettors and professional handicappers begin moving money based on the probability of participation, forcing oddsmakers to adjust their initial numbers.
+
+Bowers' offensive role means his presence directly impacts offensive output projections. Sportsbooks must factor whether his limited snap count (if he plays) or full absence affects their over/under calculations and team total predictions. The uncertainty generates two distinct wagering scenarios that oddsmakers must price simultaneously.
+
+## What This Means for the Market
+
+The Raiders organization's incremental information releases—the pre-game workout announcement itself—demonstrate how NFL teams understand the interconnection between roster decisions and the broader Las Vegas wagering ecosystem. These decisions ripple through handle calculations, adjusted lines, and promotional positioning at major sportsbooks.
+
+For iGaming operators and sportsbooks, the Bowers situation exemplifies the operational complexity of real-time injury management during peak betting windows. Sports betting handle tends to concentrate around game-day decisions, particularly when involving high-profile players with uncertain participation status.
+
+Bettors will continue monitoring official team communications and practice participation reports throughout the week. Any update from Kubiak or the Raiders medical staff could trigger immediate line adjustments across major books, particularly as Sunday's kickoff approaches and the wagering window narrows.`,
+    featuredImage: "/images/articles/brock-bowers-status-raiders-chargers-2026.png",
+    author: AUTHORS[3],
+    publishedAt: "2026-09-20T08:30:00Z",
+    category: "marketing-traffic",
+    tags: [
+      { id: "t3348", label: "NFL", slug: "nfl" },
+      { id: "t3349", label: "Las Vegas Raiders", slug: "las-vegas-raiders" },
+      { id: "t3350", label: "sports betting", slug: "sports-betting" },
+      { id: "t3351", label: "injury status", slug: "injury-status" },
+      { id: "t3352", label: "Brock Bowers", slug: "brock-bowers" },
+      { id: "t3353", label: "player availability", slug: "player-availability" },
+      { id: "t3354", label: "odds movement", slug: "odds-movement" },
+      { id: "t3355", label: "wagering action", slug: "wagering-action" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Brock Bowers' Game Status Impacts Raiders-Chargers Betting Interest 2026 | iGaming Pulse",
+    metaDescription: "Brock Bowers' uncertain availability for Sunday's Raiders-Chargers game is creating significant betting volatility as oddsmakers wait for final injury determina",
+    likes: 13,
+    comments: [],
+  },
+
+  {
+    id: "659",
+    slug: "carrot-top-hospitalization-residency-2026",
+    language: "en",
+    translationGroupId: "tg-659",
+    title: "Las Vegas Entertainment Icon Carrot Top Hospitalized; Long-Running Residency Impacted",
+    excerpt: "Carrot Top, holder of Las Vegas' longest-running active comedy residency, was hospitalized Friday after an incident, raising questions about show continuity and performer wellbeing.",
+    content: `Las Vegas' entertainment industry confronted an unexpected crisis Friday with the hospitalization of Carrot Top, the comedy fixture whose residency tenure exceeds two decades—the longest currently active on the Las Vegas Strip.
+
+The comedian, known for his prop-based comedy style and multi-year venue partnerships, was transported to a local hospital following an incident on September 18. While Carrot Top's publicist Jami Schlicher confirmed his hospitalization and recovery status, specific details regarding the nature of the incident and projected timeline for his return to performing remain limited.
+
+The situation underscores vulnerabilities within Las Vegas' entertainment ecosystem and raises operational questions for venues maintaining long-term residencies.
+
+## Operational Implications for Venues
+
+Residencies like Carrot Top's represent anchor attractions for Las Vegas properties. These performances generate guaranteed foot traffic, reduce marketing costs compared to one-off touring acts, and create stable revenue streams for comedy clubs and entertainment venues. An unexpected absence creates immediate cascading effects: ticket refunds, promotional commitments to customers, and workforce scheduling complications for venue staff.
+
+Venues must maintain contingency plans for performer unavailability, including refund protocols, promotional communications, and audience management during gaps in their entertainment calendars. Extended absences can impact overall venue traffic and associated casino spending.
+
+## Industry Support and Dialogue
+
+Carrot Top's situation has prompted renewed discussion within Las Vegas' entertainment community regarding performer wellbeing, mental health resources, and the psychological pressures associated with extended residencies. Maintaining a high-frequency performance schedule—typical for successful residency artists—creates unique occupational stresses distinct from traditional touring performers.
+
+The Las Vegas hospitality and entertainment sector increasingly recognizes that performer mental health directly impacts business continuity. Venues, promoters, and industry organizations are evaluating what support infrastructure and resources should be available to entertainment professionals maintaining demanding residency commitments.
+
+## What Happens Next
+
+Carrot Top's publicist has not announced a return date or provided updates regarding future performance schedules. Depending on his recovery timeline, his venue partner faces decisions about promotional messaging, audience communication, and whether to book temporary replacement entertainment during an extended absence.
+
+The entertainment community is monitoring the situation closely, with industry figures and colleagues offering support during what remains a difficult personal situation for the performer and his family.`,
+    featuredImage: "/images/articles/carrot-top-hospitalization-residency-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-09-20T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t3356", label: "Las Vegas entertainment", slug: "las-vegas-entertainment" },
+      { id: "t3357", label: "performer health", slug: "performer-health" },
+      { id: "t3358", label: "Strip residency", slug: "strip-residency" },
+      { id: "t3359", label: "venue operations", slug: "venue-operations" },
+      { id: "t3360", label: "show cancellations", slug: "show-cancellations" },
+      { id: "t3361", label: "mental health", slug: "mental-health" },
+      { id: "t3362", label: "entertainment industry", slug: "entertainment-industry" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Las Vegas Entertainment Icon Carrot Top Hospitalized; Long-Running Residency Impacted | iGaming Pulse",
+    metaDescription: "Carrot Top, holder of Las Vegas' longest-running active comedy residency, was hospitalized Friday after an incident, raising questions about show continuity and",
+    likes: 24,
+    comments: [],
+  },
+
+  {
+    id: "660",
+    slug: "nevada-sports-betting-compliance-updates-2026",
+    language: "en",
+    translationGroupId: "tg-660",
+    title: "Nevada Tightens Sports Betting Compliance Standards for Digital Operators 2026",
+    excerpt: "Nevada regulators implement stricter compliance standards for digital sportsbooks, requiring enhanced verification and geolocation controls within 30 days.",
+    content: `The Nevada Gaming Control Board has raised the regulatory bar for digital sports betting operators, unveiling an updated compliance framework that tightens account verification procedures, expands geolocation requirements, and mandates enhanced responsible gambling monitoring across all platforms operating within state jurisdiction.
+
+The new standards, effective immediately with a 30-day implementation window, represent the Board's response to evolving concerns around underage participation, interstate wagering boundaries, and operator accountability.
+
+## Framework Components
+
+The updated guidance requires operators to implement multi-factor authentication for account access and implement continuous geolocation verification during active wagering sessions. Operators must now document customer verification attempts and maintain detailed logs of geolocation data throughout customer lifecycles.
+
+Responsible gambling provisions have expanded to include automated spend-tracking alerts, mandatory account cooling-off period offerings, and real-time flagging of accounts exhibiting rapid wagering acceleration or other behavioral patterns associated with problem gambling.
+
+Operators must also establish documentation trails proving compliance with these enhanced standards, creating audit-ready systems that demonstrate adherence to Board requirements.
+
+## Competitive Implications
+
+The compliance burden disproportionately impacts smaller operators and newer platforms with less established infrastructure. Larger sportsbooks with existing compliance departments and technology stacks may absorb compliance costs more efficiently than smaller competitors operating with leaner teams.
+
+Industry observers expect some smaller platforms to exit Nevada or consolidate with larger operators rather than invest in compliance system overhauls. This regulatory-driven consolidation mirrors patterns seen in other states where tightened compliance requirements accelerated market concentration among well-capitalized operators.
+
+## Industry Response
+
+Operator groups have requested clarification on specific geolocation accuracy standards and expressed concerns about the technical feasibility of real-time behavioral flagging without creating false positives that disrupt legitimate customer experiences.
+
+The Board has scheduled stakeholder meetings for mid-October to address implementation questions, though the 30-day compliance deadline remains firm. Late compliance may trigger licensing penalties or suspension provisions for non-compliant operators.
+
+Nevada's framework will likely influence other state regulators evaluating their own digital sports betting oversight approaches, making Board decisions particularly significant for operators managing multi-state compliance programs.`,
+    featuredImage: "/images/articles/nevada-sports-betting-compliance-updates-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-09-20T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t3363", label: "Nevada regulation", slug: "nevada-regulation" },
+      { id: "t3364", label: "compliance framework", slug: "compliance-framework" },
+      { id: "t3365", label: "digital sports betting", slug: "digital-sports-betting" },
+      { id: "t3366", label: "account verification", slug: "account-verification" },
+      { id: "t3367", label: "responsible gambling", slug: "responsible-gambling" },
+      { id: "t3368", label: "geolocation", slug: "geolocation" },
+      { id: "t3369", label: "regulatory requirements", slug: "regulatory-requirements" },
+      { id: "t3370", label: "operator compliance", slug: "operator-compliance" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Nevada Tightens Sports Betting Compliance Standards for Digital Operators 2026 | iGaming Pulse",
+    metaDescription: "Nevada regulators implement stricter compliance standards for digital sportsbooks, requiring enhanced verification and geolocation controls within 30 days.",
+    likes: 24,
+    comments: [],
+  },
+
+  {
+    id: "661",
+    slug: "las-vegas-resorts-entertainment-bookings-q4-2026",
+    language: "en",
+    translationGroupId: "tg-661",
+    title: "Las Vegas Resorts Report Strong Entertainment Booking Momentum Into Q4 2026",
+    excerpt: "Las Vegas resorts post record Q3 entertainment bookings, signaling strong fourth-quarter projections and elevated consumer spending confidence heading into peak season.",
+    content: `Las Vegas Strip resorts are entering the final quarter of 2026 with unprecedented entertainment booking momentum, setting the stage for what properties predict will be a strong holiday season highlighted by marquee performances and expanded special event programming.
+
+Recall bookings across major properties exceeded historical third-quarter benchmarks, with multiple resorts reporting sold-out or near-sold-out engagements well into November and December. This robust advance booking pattern indicates consumer confidence in Las Vegas travel and premium entertainment spending.
+
+## Entertainment as Revenue Driver
+
+Entertainment revenue represents a significant but often underestimated component of Las Vegas resort financial performance. While gaming remains the primary revenue driver, entertainment acts as a powerful traffic generator that fills hotel inventory, drives food and beverage spending, and increases overall casino floor engagement.
+
+When resorts successfully book marquee entertainment, associated hotel occupancy typically rises 8-12 percentage points during show weeks, with room rates commanding premium pricing during these periods. Guests attending entertainment events spend additional time and money within resort properties across restaurants, lounges, nightclubs, and gaming floors.
+
+## Strategic Positioning
+
+Major properties have employed strategic entertainment investment to differentiate themselves within an increasingly crowded marketplace. Rather than competing purely on gaming offerings or room quality, leading resorts recognize that exclusive entertainment experiences justify premium positioning and command customer loyalty.
+
+The strong Q3 booking activity reflects two years of accumulated pent-up demand for in-person entertainment experiences. Consumers who deferred travel during pandemic-adjacent years have returned with increased enthusiasm for premium Las Vegas experiences, and resorts have responded with expanded entertainment budgets and programming ambitions.
+
+## Fourth-Quarter Outlook
+
+Resort operators project Q4 will exceed Q3 performance across both entertainment bookings and overall visitation. Holiday season travel patterns, convention calendars, and New Year's Eve programming traditionally drive strong Q4 results, and advance metrics suggest this year will exceed recent historical patterns.
+
+For iGaming operators with sports betting integrations, strong resort traffic translates to increased sportsbook handle during major sporting events and holiday weekend schedules. Entertainment-driven visitation creates incremental betting opportunities through venue-specific promotions and premium customer experiences that combine entertainment and gaming offerings.
+
+Industry analysts are monitoring whether these record Q3 bookings translate into actual Q4 revenue performance, or whether advance bookings represent pent-up demand that may not sustain momentum throughout the quarter. Initial reports from late September visitation data will provide critical signals regarding whether strong bookings convert to actual traffic and spending across resort properties.`,
+    featuredImage: "/images/articles/las-vegas-resorts-entertainment-bookings-q4-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-09-20T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t3371", label: "Las Vegas resorts", slug: "las-vegas-resorts" },
+      { id: "t3372", label: "Q3 earnings", slug: "q3-earnings" },
+      { id: "t3373", label: "entertainment revenue", slug: "entertainment-revenue" },
+      { id: "t3374", label: "Strip properties", slug: "strip-properties" },
+      { id: "t3375", label: "booking momentum", slug: "booking-momentum" },
+      { id: "t3376", label: "headliner entertainment", slug: "headliner-entertainment" },
+      { id: "t3377", label: "resort operations", slug: "resort-operations" },
+      { id: "t3378", label: "hospitality", slug: "hospitality" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Las Vegas Resorts Report Strong Entertainment Booking Momentum Into Q4 2026 | iGaming Pulse",
+    metaDescription: "Las Vegas resorts post record Q3 entertainment bookings, signaling strong fourth-quarter projections and elevated consumer spending confidence heading into peak",
+    likes: 16,
+    comments: [],
+  },
+
+  {
+    id: "662",
+    slug: "igaming-conference-calendar-2026-autumn-b2b-suppliers",
+    language: "en",
+    translationGroupId: "tg-662",
+    title: "iGaming Conference Calendar 2026: What B2B Suppliers Should Prioritise This Autumn",
+    excerpt: "SBC Summit and G2E collide this year, SiGMA Europe follows in November, and ICE has left London. Here's how suppliers should prioritise autumn events.",
+    content: `Autumn is the iGaming industry's most congested trade show season, and 2026 is unusually tight: two flagship events land in the same week, a third major summit follows a month later, and the sector's traditional season-opener has permanently relocated. For B2B suppliers with finite travel budgets and a handful of senior staff who can credibly represent the brand on a show floor, the calendar this year forces real trade-offs rather than a simple "attend everything" approach.
+
+## The autumn squeeze
+
+Three events anchor the September-to-November window: [SBC Summit](https://sbcevents.com/sbc-summit/) in Lisbon (29 September – 1 October), [G2E](https://www.globalgamingexpo.com/) in Las Vegas (28 September – 1 October), and [SiGMA Europe](https://sigma.world/summits/europe/) in Malta (2–5 November). Layered on top of a full slate of regional iGB, ICE VOX, and national regulatory conferences, the result is a season where marketing and business-development teams have to make deliberate choices about which stage matters most for their specific customer base, rather than defaulting to whichever show has been on the calendar longest.
+
+## SBC Summit vs G2E: a scheduling collision suppliers can't ignore
+
+The headline problem this year is that SBC Summit and G2E overlap almost exactly, both running from the final days of September into October 1. For a B2B supplier selling into both European-facing operators and the US land-based and iGaming market, that overlap is not a scheduling inconvenience — it is a forced split of the sales team, the sponsorship budget, and the executive calendar.
+
+SBC Summit, held at Feira Internacional de Lisboa and drawing more than 40,000 attendees across a six-stage agenda, remains the broader European and LatAm-facing event: affiliates, payment providers, platform vendors, and regulators converge around sports betting and igaming commercial relationships. G2E, hosted at The Venetian Expo, is the established venue for US land-based operators, tribal gaming, and the suppliers who sell hardware, table games, and compliance technology into that market. The two audiences overlap less than the shared dates suggest, but any supplier with a foothold in both regions now has to decide which floor gets the A-team and which gets a smaller delegation or a local partner standing in.
+
+## SiGMA Europe: the November alternative
+
+A month later, [SiGMA Europe](https://sigma.world/summits/europe/) convenes in Malta (2–5 November, at the MFCC in Birkirkara), giving suppliers who skipped Lisbon or Las Vegas — or who want a second European touchpoint before year-end — a chance to reconnect with operators, affiliates, and regulators in a market long associated with licensing and back-office infrastructure. SiGMA's breadth across AI, affiliate marketing, and emerging-market tracks makes it a reasonable landing spot for suppliers whose September was consumed by SBC or G2E and who still need a Q4 pipeline-building event.
+
+## What this means for B2B suppliers
+
+The practical takeaway is that "which conference" is now a segmentation question, not a loyalty question. Suppliers selling platform, PAM, aggregation, or payments technology into European and LatAm operators should treat SBC Summit as close to mandatory and weigh G2E only if there's genuine US commercial activity to support the trip. Suppliers with US land-based, sports betting integration, or hardware/compliance offerings should lean toward G2E and consider SiGMA or a smaller regional event for European coverage. Affiliate-focused vendors have a case for attending both SBC and SiGMA, since affiliate and traffic-acquisition audiences show up in meaningful numbers at each.
+
+Budget-conscious teams should also factor in that sponsorship and speaking-slot costs at SBC Summit and G2E have both risen as attendance has grown, making the case for pre-booked meetings and targeted outreach rather than relying on booth traffic — a pattern that has become the norm at every major iGaming trade show as floors have gotten larger and more crowded.
+
+## Looking ahead: ICE's move to Barcelona
+
+Suppliers already planning early 2027 should note that [ICE](https://www.icegaming.com/) has permanently relocated from London to Fira de Barcelona Gran Via, with the next edition running 18–20 January 2027. For an event that anchored the industry's calendar in London for over a decade, the move to Barcelona changes travel logistics, venue capacity, and — for many European suppliers — the calculus of whether ICE remains the automatic first booking of the year or one option among several, alongside SBC Summit, G2E, and SiGMA's growing footprint.
+
+## FAQ
+
+**Do SBC Summit and G2E really overlap in 2026?**
+Yes. SBC Summit runs 29 September – 1 October in Lisbon, and G2E runs 28 September – 1 October in Las Vegas. The dates overlap almost completely, forcing suppliers active in both European and US markets to split their teams or prioritise one event.
+
+**Is ICE still held in London?**
+No. ICE has moved permanently to Fira de Barcelona Gran Via, with the next edition scheduled for 18–20 January 2027. Suppliers should update travel and budget planning accordingly, as Barcelona changes venue capacity and logistics compared with London's ExCeL.
+
+**Which autumn event is best for a smaller B2B supplier with limited budget?**
+It depends on the customer base. European- and LatAm-facing suppliers get the most concentrated audience at SBC Summit; US-focused suppliers should prioritise G2E; and affiliate- or emerging-market-focused vendors often find SiGMA Europe in November a cost-effective second touchpoint.
+
+## The bottom line
+
+There is no longer a single "must-attend" iGaming trade show for the autumn season — there's a portfolio decision. Suppliers that map SBC Summit, G2E, and SiGMA Europe against their actual customer geography, rather than defaulting to habit, will get more out of a compressed and increasingly expensive conference calendar than those who try to cover every stage with a thinner team.`,
+    featuredImage: "/images/articles/igaming-conference-calendar-2026-autumn-b2b-suppliers.png",
+    author: AUTHORS[1],
+    publishedAt: "2026-09-20T08:30:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t3379", label: "iGaming conferences", slug: "igaming-conferences" },
+      { id: "t3380", label: "SBC Summit", slug: "sbc-summit" },
+      { id: "t3381", label: "G2E", slug: "g2e" },
+      { id: "t3382", label: "SiGMA Europe", slug: "sigma-europe" },
+      { id: "t3383", label: "ICE Barcelona", slug: "ice-barcelona" },
+      { id: "t3384", label: "B2B iGaming events", slug: "b2b-igaming-events" },
+      { id: "t3385", label: "conference calendar", slug: "conference-calendar" },
+      { id: "t3386", label: "trade shows", slug: "trade-shows" },
+    ],
+    sourceName: "iGaming Pulse Editorial Desk",
+    sourceUrl: "https://igamingpulse.media",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "iGaming Conference Calendar 2026 | iGaming Pulse",
+    metaDescription: "SBC Summit, G2E and SiGMA Europe compete for B2B budgets this autumn 2026. See how iGaming suppliers should prioritise conference travel and sponsorship.",
+    likes: 15,
+    comments: [],
   }
 ];
 
