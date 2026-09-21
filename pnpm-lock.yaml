@@ -95,6 +95,9 @@ importers:
       '@vercel/analytics':
         specifier: 1.6.1
         version: 1.6.1(next@16.2.0(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(react@19.2.4)
+      '@vercel/kv':
+        specifier: ^3.0.0
+        version: 3.0.0
       autoprefixer:
         specifier: ^10.4.20
         version: 10.4.24(postcss@8.5.6)
@@ -1233,6 +1236,9 @@ packages:
   '@types/react@19.2.14':
     resolution: {integrity: sha512-ilcTH/UniCkMdtexkoCN0bI7pMcJDvmQFPvuPvmEaYA/NSfFTAgdUSLAoVjaRJm7+6PvcM+q1zYOwS4wTYMF9w==}
 
+  '@upstash/redis@1.38.4':
+    resolution: {integrity: sha512-ZX69mKReun/yieyHYLoBg0eSiF6hjCQjd8zUKkJ5eCHehDV6P8S8oZOHxGSfkH1spfOhGZk0EGerBrfUsXow8g==}
+
   '@vercel/analytics@1.6.1':
     resolution: {integrity: sha512-oH9He/bEM+6oKlv3chWuOOcp8Y6fo6/PSro8hEkgCW3pu9/OiCXiUpRUogDh3Fs3LH2sosDrx8CxeOLBEE+afg==}
     peerDependencies:
@@ -1258,6 +1264,11 @@ packages:
         optional: true
       vue-router:
         optional: true
+
+  '@vercel/kv@3.0.0':
+    resolution: {integrity: sha512-pKT8fRnfyYk2MgvyB6fn6ipJPCdfZwiKDdw7vB+HL50rjboEBHDVBEcnwfkEpVSp2AjNtoaOUH7zG+bVC/rvSg==}
+    engines: {node: '>=14.6'}
+    deprecated: 'Vercel KV is deprecated. If you had an existing KV store, it should have moved to Upstash Redis which you will see under Vercel Integrations. For new projects, install a Redis integration from Vercel Marketplace: https://vercel.com/marketplace?category=storage&search=redis'
 
   '@xmldom/xmldom@0.8.13':
     resolution: {integrity: sha512-KRYzxepc14G/CEpEGc3Yn+JKaAeT63smlDr+vjB8jRfgTBBI9wRj/nkQEO+ucV8p8I9bfKLWp37uHgFrbntPvw==}
@@ -1783,6 +1794,9 @@ packages:
     resolution: {integrity: sha512-84MVSjMEHP+FQRPy3pX9sTVV/INIex71s9TL2Gm5FG/WG1SqXeKyZ0k7/blY/4FdOzI12CBy1vGc4og/eus0fw==}
     engines: {node: '>=14.17'}
     hasBin: true
+
+  uncrypto@0.1.3:
+    resolution: {integrity: sha512-Ql87qFHB3s/De2ClA9e0gsnS6zXG27SkTiSJwjCc9MebbfapQfuPzumMIUMi38ezPZVNFcHI9sUIepeQfw8J8Q==}
 
   underscore@1.13.8:
     resolution: {integrity: sha512-DXtD3ZtEQzc7M8m4cXotyHR+FAS18C64asBYY5vqZexfYryNNnDc02W4hKg3rdQuqOYas1jkseX0+nZXjTXnvQ==}
@@ -2820,10 +2834,18 @@ snapshots:
     dependencies:
       csstype: 3.2.3
 
+  '@upstash/redis@1.38.4':
+    dependencies:
+      uncrypto: 0.1.3
+
   '@vercel/analytics@1.6.1(next@16.2.0(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(react@19.2.4)':
     optionalDependencies:
       next: 16.2.0(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       react: 19.2.4
+
+  '@vercel/kv@3.0.0':
+    dependencies:
+      '@upstash/redis': 1.38.4
 
   '@xmldom/xmldom@0.8.13': {}
 
@@ -3319,6 +3341,8 @@ snapshots:
   tw-animate-css@1.3.3: {}
 
   typescript@5.7.3: {}
+
+  uncrypto@0.1.3: {}
 
   underscore@1.13.8: {}
 
