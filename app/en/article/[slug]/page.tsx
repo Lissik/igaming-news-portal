@@ -15,7 +15,8 @@ import { Footer } from "@/components/layout/footer";
 import { ArticleCard } from "@/components/articles/article-card";
 import { NewsletterWidget } from "@/components/newsletter-widget";
 import { ArticleInteractions } from "@/components/articles/article-interactions";
-import { ExternalLink, Heart, MessageCircle, Clock, Tag, ArrowRight } from "lucide-react";
+import { ArticleHeaderStats } from "@/components/articles/article-header-stats";
+import { ExternalLink, Clock, Tag, ArrowRight } from "lucide-react";
 
 interface ArticlePageProps {
   params: Promise<{ slug: string }>;
@@ -184,14 +185,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 <Clock className="w-3.5 h-3.5" />
                 <span>{readingTime} min read</span>
               </div>
-              <div className="flex items-center gap-1.5">
-                <Heart className="w-3.5 h-3.5" />
-                <span>{article.likes}</span>
-              </div>
-              <div className="flex items-center gap-1.5">
-                <MessageCircle className="w-3.5 h-3.5" />
-                <span>{article.comments.length}</span>
-              </div>
+              <ArticleHeaderStats
+                slug={article.slug}
+                initialLikes={article.likes}
+                initialComments={article.comments.length}
+              />
             </div>
           </div>
         </div>
