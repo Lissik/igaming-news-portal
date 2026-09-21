@@ -417,6 +417,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
               {/* Likes & Comments */}
               <ArticleInteractions
+                slug={article.slug}
                 initialLikes={article.likes}
                 initialComments={article.comments}
               />

@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { Heart, MessageCircle, Send } from "lucide-react";
 import { formatDate } from "@/lib/data";
 
@@ -12,14 +12,18 @@ interface Comment {
 }
 
 interface ArticleInteractionsProps {
+  slug: string;
   initialLikes: number;
   initialComments: Comment[];
 }
 
 export function ArticleInteractions({
+  slug,
   initialLikes,
   initialComments,
 }: ArticleInteractionsProps) {
+  const likedKey = `liked:${slug}`;
+
   const [liked, setLiked] = useState(false);
   const [likes, setLikes] = useState(initialLikes);
   const [comments, setComments] = useState<Comment[]>(initialComments);
@@ -27,41 +31,73 @@ export function ArticleInteractions({
   const [text, setText] = useState("");
   const [error, setError] = useState<string | null>(null);
   const [submitted, setSubmitted] = useState(false);
+  const [posting, setPosting] = useState(false);
 
-  function handleLike() {
-    if (liked) {
-      setLikes((n) => n - 1);
-    } else {
-      setLikes((n) => n + 1);
+  // Load persisted state on mount
+  useEffect(() => {
+    const wasLiked = localStorage.getItem(likedKey) === "1";
+    setLiked(wasLiked);
+
+    // Fetch real counts from backend
+    fetch(`/api/articles/${slug}/likes?seed=${initialLikes}`)
+      .then((r) => r.json())
+      .then((d) => { if (typeof d.likes === "number") setLikes(d.likes); })
+      .catch(() => {});
+
+    fetch(`/api/articles/${slug}/comments`)
+      .then((r) => r.json())
+      .then((d) => { if (Array.isArray(d.comments) && d.comments.length > 0) setComments(d.comments); })
+      .catch(() => {});
+  }, [slug, initialLikes, likedKey]);
+
+  const handleLike = useCallback(async () => {
+    const next = !liked;
+    setLiked(next);
+    setLikes((n) => n + (next ? 1 : -1));
+    localStorage.setItem(likedKey, next ? "1" : "0");
+
+    try {
+      const res = await fetch(`/api/articles/${slug}/likes`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ action: next ? "like" : "unlike", seed: initialLikes }),
+      });
+      const d = await res.json();
+      if (typeof d.likes === "number") setLikes(d.likes);
+    } catch {
+      // revert on failure
+      setLiked(!next);
+      setLikes((n) => n + (next ? -1 : 1));
+      localStorage.setItem(likedKey, next ? "0" : "1");
     }
-    setLiked((v) => !v);
-  }
+  }, [liked, slug, initialLikes, likedKey]);
 
-  function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     setError(null);
 
-    if (!name.trim()) {
-      setError("Please enter your name.");
-      return;
-    }
-    if (!text.trim()) {
-      setError("Please enter a comment.");
-      return;
-    }
+    if (!name.trim()) { setError("Please enter your name."); return; }
+    if (!text.trim()) { setError("Please enter a comment."); return; }
 
-    const newComment: Comment = {
-      id: `c-${Date.now()}`,
-      author: name.trim(),
-      content: text.trim(),
-      publishedAt: new Date().toISOString(),
-    };
-
-    setComments((prev) => [...prev, newComment]);
-    setName("");
-    setText("");
-    setSubmitted(true);
-    setTimeout(() => setSubmitted(false), 3000);
+    setPosting(true);
+    try {
+      const res = await fetch(`/api/articles/${slug}/comments`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ author: name.trim(), content: text.trim() }),
+      });
+      if (!res.ok) throw new Error("Failed");
+      const d = await res.json();
+      setComments((prev) => [...prev, d.comment]);
+      setName("");
+      setText("");
+      setSubmitted(true);
+      setTimeout(() => setSubmitted(false), 3000);
+    } catch {
+      setError("Failed to post comment. Please try again.");
+    } finally {
+      setPosting(false);
+    }
   }
 
   return (
@@ -167,10 +203,11 @@ export function ArticleInteractions({
           <div>
             <button
               type="submit"
-              className="inline-flex items-center gap-2 px-5 py-2.5 bg-navy text-white text-sm font-sans font-semibold rounded-sm hover:bg-navy/90 active:scale-95 transition-all"
+              disabled={posting}
+              className="inline-flex items-center gap-2 px-5 py-2.5 bg-navy text-white text-sm font-sans font-semibold rounded-sm hover:bg-navy/90 active:scale-95 transition-all disabled:opacity-60"
             >
               <Send className="w-4 h-4" />
-              Post Comment
+              {posting ? "Posting…" : "Post Comment"}
             </button>
           </div>
         </form>
