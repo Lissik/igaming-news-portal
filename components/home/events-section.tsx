@@ -29,7 +29,7 @@ const UPCOMING_EVENTS = [
   },
   {
     name: "ICE 2027",
-    date: "Feb 03–05, 2027",
+    date: "Jan 18–20, 2027",
     location: "Barcelona, Spain",
     href: "https://www.icegaming.com",
   },
