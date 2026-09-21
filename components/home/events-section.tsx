@@ -4,22 +4,10 @@ import { ArrowRight, CalendarDays } from "lucide-react";
 
 const UPCOMING_EVENTS = [
   {
-    name: "SiGMA North America 2026",
-    date: "Sep 01–03, 2026",
-    location: "Mexico City, Mexico",
-    href: "https://sigma.world/summits/north-america",
-  },
-  {
-    name: "Affiliate World Americas 2026",
-    date: "Sep 07–08, 2026",
-    location: "Cancún, Mexico",
-    href: "https://affiliateworldconferences.com/americas",
-  },
-  {
     name: "Global Gaming Expo (G2E) 2026",
     date: "Sep 28–Oct 01, 2026",
     location: "Las Vegas, USA",
-    href: "https://globalgamingexpo.com/en-us/attend/attendee-resources.html",
+    href: "https://globalgamingexpo.com",
   },
   {
     name: "SBC Summit 2026",
@@ -28,10 +16,22 @@ const UPCOMING_EVENTS = [
     href: "https://sbcevents.com/sbc-summit",
   },
   {
+    name: "Betting on Sports Americas 2026",
+    date: "Oct 14–15, 2026",
+    location: "New York, USA",
+    href: "https://sbcevents.com/betting-on-sports-americas",
+  },
+  {
     name: "SiGMA World 2026",
     date: "Nov 02–05, 2026",
     location: "Rome, Italy",
     href: "https://sigma.world/summits",
+  },
+  {
+    name: "ICE 2027",
+    date: "Feb 03–05, 2027",
+    location: "Barcelona, Spain",
+    href: "https://www.icegaming.com",
   },
 ];
 
