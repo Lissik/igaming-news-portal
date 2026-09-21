@@ -16,10 +16,10 @@ const UPCOMING_EVENTS = [
     href: "https://sbcevents.com/sbc-summit",
   },
   {
-    name: "Warsaw Summit 2026",
+    name: "HIPTHER Warsaw Summit 2026",
     date: "Oct 27–28, 2026",
     location: "Warsaw, Poland",
-    href: "https://warsawsummit.eu",
+    href: "https://hipther.com",
   },
   {
     name: "SiGMA World 2026",
