@@ -16,10 +16,10 @@ const UPCOMING_EVENTS = [
     href: "https://sbcevents.com/sbc-summit",
   },
   {
-    name: "Betting on Sports Americas 2026",
-    date: "Oct 14–15, 2026",
-    location: "New York, USA",
-    href: "https://sbcevents.com/betting-on-sports-americas",
+    name: "Warsaw Summit 2026",
+    date: "Oct 27–28, 2026",
+    location: "Warsaw, Poland",
+    href: "https://warsawsummit.eu",
   },
   {
     name: "SiGMA World 2026",
