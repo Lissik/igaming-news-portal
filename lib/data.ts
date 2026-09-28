@@ -33443,6 +33443,86 @@ For most mid-sized and large US operators, the pragmatic path is to treat them a
     metaDescription: "GAN vs Light & Wonder compared for 2026: platform scope, content, US coverage, costs and risks — and which US online casino provider fits your operation.",
     likes: 13,
     comments: [],
+  },
+
+  {
+    id: "776",
+    slug: "sbc-summit-lisbon-2026-preview",
+    language: "en",
+    translationGroupId: "tg-776",
+    title: "SBC Summit 2026 Opens in Lisbon Tomorrow: 40,000 Delegates, Michael Jordan Keynote, and Record-Breaking Edition",
+    excerpt: "SBC Summit 2026 opens September 29 in Lisbon with 40,000 delegates, Michael Jordan on the Super Stage, a standalone Affiliate Leaders Summit, and the largest Big Tech presence in the event's history.",
+    content: `SBC Summit opens its doors in Lisbon tomorrow — and the 2026 edition is shaping up to be the most consequential gathering the iGaming industry has ever hosted. With 40,000 delegates confirmed from over 150 countries, the three-day event at Feira Internacional de Lisboa (FIL) and MEO Arena is entering its third consecutive year in the Portuguese capital as a record-breaker on every measurable axis.
+
+## Michael Jordan Headlines the Super Stage — and What It Actually Signals
+
+The marquee moment arrives Tuesday at noon: a Super Stage keynote featuring basketball icon and investor Michael Jordan, [DraftKings](https://www.draftkings.com/) co-founder and CEO Jason Robins, and [Sportradar](https://www.sportradar.com/) founder Carsten Koerl. It marks Jordan's first-ever European speaking appearance.
+
+The discussion — moderated by broadcaster Kirsty Gallacher — will cover leadership at scale, decision-making under pressure, and how sports betting and iGaming are converging. That is the official framing. The subtext is more significant: the world's most recognisable athlete sharing a stage with the two executives who arguably did the most to legitimise US sports betting as an institutional-grade industry tells you everything about where the sector stands in 2026.
+
+Football's transfer market authority Fabrizio Romano will also take the Super Stage, alongside UFC champion Charles Oliveira appearing as [Aviator](https://aviator.spribe.co/) brand ambassador for Spribe. The line-up is a deliberate blurring of sports culture and gaming commerce — and it reflects how iGaming companies are now competing for mainstream cultural relevance, not just market share.
+
+## Big Tech Has Arrived at iGaming's Biggest Conference
+
+The technology roster at SBC Summit 2026 is unlike anything the industry has assembled before. AWS, Google, Meta, **OpenAI**, **TikTok**, Tinder, and Snapchat are all participating in the six-stage conference programme. That list deserves a second read.
+
+A year ago, having OpenAI and TikTok represented at an iGaming industry event would have been unusual. Today it reflects a structural reality: the distribution, monetisation, and product challenges that iGaming operators are solving are the same challenges that the largest technology platforms in the world are building for. The conference sessions — spanning AI integration, player acquisition via short-form video, influencer marketing attribution, and CRM automation — are no longer niche iGaming discussions. They are technology conversations that happen to be set in a regulated gambling context.
+
+## Affiliate Leaders Summit: The Market Coming of Age
+
+Perhaps the most strategically meaningful addition to SBC Summit 2026 is the **standalone Affiliate Leaders Summit**, running concurrently with the main event and hosting 10,000 affiliate and performance marketing professionals under its own ticketing, programme, and awards ceremony.
+
+Previously integrated into the main summit, the decision to spin it out as a co-located but independent event signals something the industry has known for some time: affiliate and performance marketing is no longer a support function within iGaming. It is a multi-billion-euro sector with its own economics, technology stack, and talent market. Sessions at the Affiliate Leaders Summit address TikTok and Telegram distribution, AI-assisted creative production, and multi-channel attribution at scale.
+
+For operators: this is where your acquisition partners will be shaping strategy for Q4 2026 and beyond.
+
+## Regulation Gets Dedicated Infrastructure
+
+Regulatory engagement has historically been a single conference track at industry events. This year, SBC Summit is delivering **20 Regulatory Gaming Meetups** in partnership with the International Association of Gaming Regulators (IAGR) and the International Masters of Gaming Law (IMGL). These are structured, private-format sessions pairing operators and technology vendors directly with regulators — not panel discussions.
+
+Two new dedicated forums have also been added: the **Global Prediction Markets Forum**, tracking the growth of regulated prediction markets and their cross-border implications, and the **African Gaming Forum**, developed in partnership with the Gaming Regulators Africa Forum, iGaming AFRIKA, and GHASBO — reflecting the continent's emergence as one of the fastest-growing regulated gaming markets globally.
+
+## What the Scale Tells You
+
+800 exhibitors. 600 speakers. 11,000+ operators confirmed. 4 Tech Academies covering AI, Player Experience, Digital Marketing & CRM, and Web3. 3 Masterclasses in trading, casino operations, and responsible gaming. CPD-certified education tracks across all stages.
+
+The SBC CEO Rasmus Sojmark has called this edition "the Greatest Show in Gaming" — and for once, the marketing language is not an exaggeration. The event runs 29 September through 1 October, opening with The Script at the Opening Party (powered by 1xBet) and closing with DJ Tiësto at INFINITY Lisbon.
+
+For any iGaming operator, supplier, affiliate, or technology company not already in Lisbon — the business case for attendance is not the entertainment. It is the fact that 40,000 people who shape this sector's next chapter will be in one building making decisions. [Full event details at sbcevents.com](https://sbcevents.com/sbc-summit/).
+
+## FAQ
+
+**When and where is SBC Summit 2026?**
+September 29 to October 1, 2026, at Feira Internacional de Lisboa (FIL) and MEO Arena, Lisbon, Portugal.
+
+**Who is keynoting SBC Summit 2026?**
+Michael Jordan, DraftKings CEO Jason Robins, and Sportradar CEO Carsten Koerl headline the Super Stage on September 29. Over 600 speakers are featured across all stages.
+
+**What is the Affiliate Leaders Summit at SBC?**
+A standalone co-located event for 10,000 affiliate and performance marketing professionals, featuring its own conference programme, expo, and Affiliate Leaders Awards — running alongside the main SBC Summit for the first time as an independent event.`,
+    featuredImage: "/images/articles/sbc-summit-lisbon-2026-preview.png",
+    author: AUTHORS[1],
+    publishedAt: "2026-09-28T08:30:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t4448", label: "SBC Summit", slug: "sbc-summit" },
+      { id: "t4449", label: "Lisbon", slug: "lisbon" },
+      { id: "t4450", label: "iGaming conferences", slug: "igaming-conferences" },
+      { id: "t4451", label: "Michael Jordan", slug: "michael-jordan" },
+      { id: "t4452", label: "DraftKings", slug: "draftkings" },
+      { id: "t4453", label: "Affiliate Leaders Summit", slug: "affiliate-leaders-summit" },
+      { id: "t4454", label: "gaming events 2026", slug: "gaming-events-2026" },
+      { id: "t4455", label: "Sportradar", slug: "sportradar" },
+    ],
+    sourceName: "iGaming Pulse Editorial Desk",
+    sourceUrl: "https://igamingpulse.media",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "SBC Summit Lisbon 2026 Preview: Keynotes, Agenda & What to Expect | iGaming Pulse",
+    metaDescription: "SBC Summit 2026 opens September 29-October 1 in Lisbon. Michael Jordan, DraftKings CEO Jason Robins, OpenAI, TikTok, and 40,000 delegates. Full industry preview.",
+    likes: 24,
+    comments: [],
   }
 ];
 
