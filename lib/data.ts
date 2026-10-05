@@ -34176,6 +34176,251 @@ UK Gambling Commission licensing in 2026 rewards operators who treat compliance 
     metaDescription: "How to get and keep a UK Gambling Commission operating licence in 2026: application steps, fees, LCCP updates, and common compliance failures.",
     likes: 17,
     comments: [],
+  },
+
+  {
+    id: "788",
+    slug: "caesars-mgm-reject-prediction-markets-license-risk-2026",
+    language: "en",
+    translationGroupId: "tg-788",
+    title: "Caesars, MGM Reject Prediction Markets Over License Risk (2026)",
+    excerpt: "Major Las Vegas operators Caesars and MGM ruled out prediction market ventures, citing threats to their gaming licenses and regulatory compliance.",
+    content: `## Major Gaming Operators Sidestep Prediction Market Expansion
+
+Two of Las Vegas's largest casino operators have formally decided against entering the prediction market sector, citing unacceptable regulatory risks to their existing gaming licenses.
+
+Caesars Entertainment and MGM Resorts International both concluded that the potential upside of prediction market operations does not justify the compliance exposure and licensing jeopardy in their core jurisdictions.
+
+## License Protection as Priority
+
+The decision underscores how heavily traditional gaming operators weigh their state gaming licenses—arguably their most valuable corporate assets. Both companies maintain extensive operations across multiple states and territories where gaming regulators maintain strict oversight of any new revenue lines.
+
+Prediction markets operate in a legal gray zone in many U.S. jurisdictions. While platforms like Polymarket have grown significantly, their regulatory status remains contested, with federal authorities and state gaming boards still formulating enforcement priorities and compliance frameworks.
+
+## What This Means
+
+The pullback from industry titans suggests that prediction markets will likely develop as a separate ecosystem rather than as an extension of traditional casino operations. This could accelerate the emergence of pure-play prediction market specialists unburdened by gaming license obligations.
+
+For investors and operators watching the space, the cautious stance from Caesars and MGM reflects a broader calculus: licensing authorities may view prediction market operations as distinct risk factors that could complicate renewals or create political friction with state gaming commissions.
+
+The decision also implies that prediction markets will need to develop their own compliance and consumer protection infrastructure independently, without leverage from established casino operator frameworks.`,
+    featuredImage: "/images/articles/caesars-mgm-reject-prediction-markets-license-risk-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-02T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t4578", label: "prediction-markets", slug: "prediction-markets" },
+      { id: "t4579", label: "regulation", slug: "regulation" },
+      { id: "t4580", label: "gaming-licenses", slug: "gaming-licenses" },
+      { id: "t4581", label: "caesars-entertainment", slug: "caesars-entertainment" },
+      { id: "t4582", label: "mgm-resorts", slug: "mgm-resorts" },
+      { id: "t4583", label: "compliance", slug: "compliance" },
+      { id: "t4584", label: "las-vegas-strip", slug: "las-vegas-strip" },
+      { id: "t4585", label: "risk-management", slug: "risk-management" },
+      { id: "t4586", label: "market-entry", slug: "market-entry" },
+      { id: "t4587", label: "regulatory-uncertainty", slug: "regulatory-uncertainty" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Caesars, MGM Reject Prediction Markets Over License Risk (2026) | iGaming Pulse",
+    metaDescription: "Major Las Vegas operators Caesars and MGM ruled out prediction market ventures, citing threats to their gaming licenses and regulatory compliance.",
+    likes: 21,
+    comments: [],
+  },
+
+  {
+    id: "789",
+    slug: "polymarket-launches-trust-safety-center-responsible-trading-2026",
+    language: "en",
+    translationGroupId: "tg-789",
+    title: "Polymarket Launches Trust & Safety Center with Harm Reduction (2026)",
+    excerpt: "Prediction market giant Polymarket rolled out comprehensive responsible trading tools including deposit limits and self-exclusion options through its new Trust & Safety Center.",
+    content: `Polymarket has elevated its responsible trading posture by introducing a centralized Trust & Safety Center designed to give users granular control over their trading behavior and spending.
+
+The new platform hub consolidates deposit limits, self-exclusion functionality, and mental health resources into a single dashboard, signaling the prediction market operator's commitment to harm reduction as a core operational priority rather than a compliance checkbox.
+
+## Responsible Betting Infrastructure
+
+The suite of tools includes customizable deposit caps that prevent users from exceeding self-set spending thresholds, temporal self-exclusion options that allow users to lock accounts for specified periods, and integrated mental health resources.
+
+Polymarket's move mirrors frameworks long established in traditional sports betting and casino operations, but represents an important development for prediction markets, which have faced scrutiny from consumer advocates concerned about addictive mechanics and inadequate safeguarding.
+
+## Market Positioning
+
+By establishing these protections proactively, Polymarket is attempting to differentiate itself as a responsible actor in an increasingly scrutinized industry. The Trust & Safety Center may also serve as evidence of good-faith compliance efforts should regulators move toward formal prediction market licensing frameworks.
+
+Industry observers note that Polymarket's initiative could establish de facto standards that competing platforms feel compelled to implement, effectively raising the floor for consumer protection across the prediction market ecosystem.`,
+    featuredImage: "/images/articles/polymarket-launches-trust-safety-center-responsible-trading-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-10-02T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t4588", label: "responsible-gambling", slug: "responsible-gambling" },
+      { id: "t4589", label: "self-exclusion", slug: "self-exclusion" },
+      { id: "t4590", label: "deposit-limits", slug: "deposit-limits" },
+      { id: "t4591", label: "polymarket", slug: "polymarket" },
+      { id: "t4592", label: "player-protection", slug: "player-protection" },
+      { id: "t4593", label: "mental-health", slug: "mental-health" },
+      { id: "t4594", label: "harm-reduction", slug: "harm-reduction" },
+      { id: "t4595", label: "compliance", slug: "compliance" },
+      { id: "t4596", label: "trust-safety", slug: "trust-safety" },
+      { id: "t4597", label: "consumer-safeguards", slug: "consumer-safeguards" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Polymarket Launches Trust & Safety Center with Harm Reduction (2026) | iGaming Pulse",
+    metaDescription: "Prediction market giant Polymarket rolled out comprehensive responsible trading tools including deposit limits and self-exclusion options through its new Trust ",
+    likes: 15,
+    comments: [],
+  },
+
+  {
+    id: "790",
+    slug: "encore-boston-harbor-union-strike-operations-2026",
+    language: "en",
+    translationGroupId: "tg-790",
+    title: "Wynn's Encore Boston Operates Amid Labor Strike by 1,300 Workers (2026)",
+    excerpt: "Wynn's Encore Boston Harbor continues normal operations despite a month-long strike by 1,300 union workers demanding better wages and working conditions.",
+    content: `## Encore Boston Maintains Operations During Extended Labor Action
+
+The month-long strike at Wynn Resorts' Encore Boston Harbor casino resort has not disrupted operations at the $2.6 billion property, according to company officials, though more than 1,300 union-represented employees remain on the picket line.
+
+Wynn Resorts said the resort continues to operate at normal service levels, suggesting the company has deployed contingency staffing and operational adjustments to maintain revenue-generating activities and customer-facing services.
+
+## Labor Dynamics in High-Stakes Gaming
+
+The extended strike reflects broader labor tensions in the casino industry, where unionized workers have increasingly sought wage increases, improved benefits, and scheduling protections. Encore Boston Harbor represents one of New England's premier gaming destinations, generating significant revenue for both Wynn and the Commonwealth of Massachusetts.
+
+Union representatives argue that service workers in the gaming and hospitality sector have not seen adequate wage growth despite strong industry profitability in recent years. Wynn's ability to maintain operations amid the strike may actually strengthen management's negotiating position or, conversely, signal to union leadership that extended action has diminishing leverage.
+
+## Industry Implications
+
+The Boston strike comes at a time when major U.S. casino operators are scrutinizing labor costs and operational efficiency across their portfolios. How Wynn ultimately resolves this dispute may influence labor negotiations at other major properties and could affect hiring and scheduling practices industry-wide.`,
+    featuredImage: "/images/articles/encore-boston-harbor-union-strike-operations-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-02T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t4598", label: "labor-relations", slug: "labor-relations" },
+      { id: "t4599", label: "wynn-resorts", slug: "wynn-resorts" },
+      { id: "t4600", label: "encore-boston-harbor", slug: "encore-boston-harbor" },
+      { id: "t4601", label: "union-strike", slug: "union-strike" },
+      { id: "t4602", label: "casino-operations", slug: "casino-operations" },
+      { id: "t4603", label: "workforce", slug: "workforce" },
+      { id: "t4604", label: "labor-dispute", slug: "labor-dispute" },
+      { id: "t4605", label: "massachusetts", slug: "massachusetts" },
+      { id: "t4606", label: "operational-continuity", slug: "operational-continuity" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Wynn's Encore Boston Operates Amid Labor Strike by 1,300 Workers (2026) | iGaming Pulse",
+    metaDescription: "Wynn's Encore Boston Harbor continues normal operations despite a month-long strike by 1,300 union workers demanding better wages and working conditions.",
+    likes: 24,
+    comments: [],
+  },
+
+  {
+    id: "791",
+    slug: "westgate-las-vegas-themed-suites-holiday-season-2026",
+    language: "en",
+    translationGroupId: "tg-791",
+    title: "Westgate Las Vegas Launches Seasonal Themed Suite Portfolio (2026)",
+    excerpt: "Westgate Las Vegas unveiled four large-format themed suites capitalizing on Halloween, Día de los Muertos, Christmas, and NFR holiday seasons.",
+    content: `Westgate Las Vegas has expanded its accommodation portfolio with four immersive, seasonally-themed suites designed to capture premium visitation during the fall and winter holiday periods.
+
+The property's new suite offerings reflect a broader hospitality strategy focused on experiential theming—transforming guest accommodations from generic lodging into destination experiences that justify premium pricing and encourage repeat bookings tied to specific seasonal events.
+
+## Seasonal Revenue Optimization
+
+The four themed suite concepts include Halloween-inspired designs, Día de los Muertos cultural celebrations, Christmas holiday theming, and National Finals Rodeo-adjacent western aesthetics. Each suite features expanded layouts and immersive design elements that extend the experience beyond traditional casino-resort amenities.
+
+This approach targets distinct traveler segments: Halloween enthusiasts, Latino cultural travelers, holiday family groups, and rodeo enthusiasts attending the NFR. By packaging accommodations around these thematic anchors, Westgate can command premium rates while driving incremental casino floor visitation during historically strong periods.
+
+## Market Positioning
+
+The initiative positions Westgate as a lifestyle-focused alternative to mega-resorts, emphasizing cultural authenticity and experiential design over scale. For a mid-tier operator, themed accommodations create marketing differentiation in an increasingly crowded Las Vegas market while optimizing room inventory allocation across seasonal demand cycles.
+
+The strategy also generates ancillary revenue through themed dining, retail, and entertainment offerings that naturally complement each suite concept, effectively extending the immersive experience beyond the guest room.`,
+    featuredImage: "/images/articles/westgate-las-vegas-themed-suites-holiday-season-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-02T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t4607", label: "themed-suites", slug: "themed-suites" },
+      { id: "t4608", label: "westgate-las-vegas", slug: "westgate-las-vegas" },
+      { id: "t4609", label: "hospitality", slug: "hospitality" },
+      { id: "t4610", label: "seasonal-marketing", slug: "seasonal-marketing" },
+      { id: "t4611", label: "las-vegas-properties", slug: "las-vegas-properties" },
+      { id: "t4612", label: "holiday-promotions", slug: "holiday-promotions" },
+      { id: "t4613", label: "experiential-travel", slug: "experiential-travel" },
+      { id: "t4614", label: "revenue-optimization", slug: "revenue-optimization" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Westgate Las Vegas Launches Seasonal Themed Suite Portfolio (2026) | iGaming Pulse",
+    metaDescription: "Westgate Las Vegas unveiled four large-format themed suites capitalizing on Halloween, Día de los Muertos, Christmas, and NFR holiday seasons.",
+    likes: 16,
+    comments: [],
+  },
+
+  {
+    id: "792",
+    slug: "blue-chip-casino-sportsbook-fraud-caught-surveillance-2026",
+    language: "en",
+    translationGroupId: "tg-792",
+    title: "Sportsbook Fraud Attempt Caught on Camera at Blue Chip Casino (2026)",
+    excerpt: "Casino surveillance caught a woman attempting to cash a $1,400 winning sports betting ticket at Blue Chip Casino despite winnings having already been paid out.",
+    content: `Blue Chip Casino's surveillance system captured a fraudulent redemption attempt when a 36-year-old woman allegedly tried to cash a nearly $1,400 winning sports betting ticket after the winnings had already been distributed.
+
+Amanda Czarny of Valparaiso, Indiana presented the ticket at Blue Chip Casino in Michigan City, Indiana, seeking payment for what she claimed was an unpaid winning wager. Casino staff, referencing internal transaction records, determined the ticket had already been cashed and the winnings paid to the ticket holder.
+
+## Surveillance and Fraud Detection
+
+The incident was documented on casino surveillance systems, providing evidence that the attempted fraud was deliberate. Law enforcement was contacted, and the case has been referred for prosecution.
+
+The attempted scam highlights vulnerabilities in sportsbook redemption workflows where ticket validation and transaction verification systems must work seamlessly to prevent double-redemption schemes. Even sophisticated operations can face attempts at financial fraud if redemption protocols rely too heavily on customer honesty or lack robust cross-checking between physical tickets and digital payment records.
+
+## Industry Implications
+
+For sportsbook operators, this case reinforces the necessity of multi-layered verification at redemption counters. Best practices typically include: (1) barcode scanning that confirms ticket authenticity and payment status instantly, (2) transaction history verification against the player account database, and (3) surveillance documentation of all high-value redemptions.
+
+The incident also serves as a reminder that fraud attempts, while statistically rare at major casinos, occur regularly enough to justify continued investment in detection and prevention infrastructure.`,
+    featuredImage: "/images/articles/blue-chip-casino-sportsbook-fraud-caught-surveillance-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-02T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t4615", label: "sportsbook-fraud", slug: "sportsbook-fraud" },
+      { id: "t4616", label: "blue-chip-casino", slug: "blue-chip-casino" },
+      { id: "t4617", label: "ticket-verification", slug: "ticket-verification" },
+      { id: "t4618", label: "compliance", slug: "compliance" },
+      { id: "t4619", label: "surveillance", slug: "surveillance" },
+      { id: "t4620", label: "fraud-prevention", slug: "fraud-prevention" },
+      { id: "t4621", label: "indiana-gaming", slug: "indiana-gaming" },
+      { id: "t4622", label: "michigan-city", slug: "michigan-city" },
+      { id: "t4623", label: "sports-betting-integrity", slug: "sports-betting-integrity" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Sportsbook Fraud Attempt Caught on Camera at Blue Chip Casino (2026) | iGaming Pulse",
+    metaDescription: "Casino surveillance caught a woman attempting to cash a $1,400 winning sports betting ticket at Blue Chip Casino despite winnings having already been paid out.",
+    likes: 15,
+    comments: [],
   }
 ];
 
