@@ -31627,55 +31627,6 @@ DraftKings, which acquired Pragmatic Play content through broader provider agree
   },
 
   {
-    id: "747",
-    slug: "sigma-europe-2026-record-attendance-2026",
-    language: "en",
-    translationGroupId: "tg-747",
-    title: "SiGMA Europe 2026 Draws Record 8,500 Attendees Despite Consolidation",
-    excerpt: "SiGMA Europe 2026 wrapped with record-breaking attendance, attracting 8,500 industry professionals despite ongoing market consolidation.",
-    content: `SiGMA Europe 2026 concluded with record attendance of 8,500 industry professionals, the highest participation in the conference's 14-year history. The four-day event, held in Malta from September 22-25, featured 280 exhibitors representing operators, technology providers, payment processors, and regulatory bodies across 45 countries.
-
-The attendance surge defied broader market consolidation trends. Major consolidation events during 2026 included Caesars Entertainment's acquisition of Rush Street Interactive, GAN Limited's merger with Inspired Entertainment, and multiple mid-market operator consolidations. However, record attendance suggests deal-making activity and technology investment remain robust despite the consolidation wave.
-
-Conference organizers attributed the growth to increased focus on emerging European markets. Central and Eastern European expansion sessions attracted particularly strong attendance, with operators exploring growth opportunities in Poland, Romania, and Czech Republic. These markets have experienced 40-60% annual betting volume growth, driving operator expansion despite mature Western European markets experiencing single-digit growth.
-
-AI and machine learning dominated discussion topics. Sessions on predictive player modeling, churn reduction using AI analytics, and responsible gambling implementation through machine learning attracted standing-room-only attendance. Multiple vendors including Kambi and GAN Limited announced new AI-powered products during the conference.
-
-Regulatory harmonization discussions highlighted operator frustrations with fragmented European licensing requirements. Operators expressed support for EU-level regulatory standards, reducing compliance complexity across multiple national jurisdictions. Several presentations specifically addressed the new UK affordability check requirements announced the day before the conference conclusion.
-
-Sponorship revenue reached €4.2 million, up 18% from the 2025 conference, indicating strong financial commitment from technology vendors seeking operator visibility. Pragmatic Play's GameMind AI announcement, made during the conference, generated significant media attention and created a de facto theme around AI-driven product innovation.
-
-Gender diversity improved modestly, with female speakers comprising 31% of panel presentations and 24% of keynote speakers. Organizers committed to 40% female speaker representation for SiGMA Europe 2027.
-
-Vendor feedback highlighted strong deal pipeline activity. Multiple B2B service providers reported scheduling 15-20 qualified business development meetings during the conference, suggesting the event maintains high quality as a deal-making venue despite shifting market dynamics.`,
-    featuredImage: "/images/articles/sigma-europe-2026-record-attendance-2026.png",
-    author: AUTHORS[0],
-    publishedAt: "2026-09-26T08:30:00Z",
-    category: "conferences-events",
-    tags: [
-      { id: "t4184", label: "SiGMA Europe", slug: "sigma-europe" },
-      { id: "t4185", label: "conference", slug: "conference" },
-      { id: "t4186", label: "industry events", slug: "industry-events" },
-      { id: "t4187", label: "networking", slug: "networking" },
-      { id: "t4188", label: "Malta", slug: "malta" },
-      { id: "t4189", label: "iGaming", slug: "igaming" },
-      { id: "t4190", label: "2026", slug: "2026" },
-      { id: "t4191", label: "attendee growth", slug: "attendee-growth" },
-      { id: "t4192", label: "B2B", slug: "b2b" },
-      { id: "t4193", label: "deal-making", slug: "deal-making" },
-    ],
-    sourceName: "iGaming Magazine",
-    sourceUrl: "https://www.igamingmagazine.com",
-    featured: false,
-    trending: false,
-    sponsored: false,
-    seoTitle: "SiGMA Europe 2026 Draws Record 8,500 Attendees Despite Consolidation | iGaming Pulse",
-    metaDescription: "SiGMA Europe 2026 wrapped with record-breaking attendance, attracting 8,500 industry professionals despite ongoing market consolidation.",
-    likes: 24,
-    comments: [],
-  },
-
-  {
     id: "748",
     slug: "emerging-b2b-igaming-service-providers-2026",
     language: "en",
@@ -35333,52 +35284,6 @@ Investment in affiliate infrastructure—attribution modeling, fraud detection, 
     seoTitle: "UK Sportsbook Marketing Blitz Before October 31 2026 | iGaming Pulse",
     metaDescription: "UK operators unleashed unprecedented marketing spending in October, capitalizing on final weeks before stricter advertising restrictions reshape the competitive",
     likes: 22,
-    comments: [],
-  },
-
-  {
-    id: "811",
-    slug: "sigma-europe-record-attendance-2026",
-    language: "en",
-    translationGroupId: "tg-811",
-    title: "SiGMA Europe 2026 Draws Record 8,500 Delegates 2026",
-    excerpt: "Record 8,500 delegates gathered in Malta for SiGMA Europe 2026, reinforcing the conference's status as Europe's premier gaming and betting industry event.",
-    content: `SiGMA Europe 2026 closed its three-day run on October 4 with unprecedented attendance, signaling strong market sentiment and deal velocity across European gaming despite ongoing regulatory debates.
-
-The Malta-hosted conference attracted 8,500+ professionals across operator, technology, affiliate, and compliance verticals, surpassing the previous record of 7,200 set in 2025. Exhibitor participation reached 450+ companies, spanning software providers, payment processors, affiliate networks, and compliance vendors.
-
-Key themes dominated discussion halls: regulatory fragmentation across 27+ European jurisdictions, artificial intelligence adoption in player risk modeling and fraud detection, and consolidation pressures among mid-tier operators. Panel sessions attracted standing-room audiences, reflecting intense industry interest in post-2024 regulatory trajectories and 2027 revenue forecasting.
-
-Operator booths fielded high volumes of vendor pitches and partnership inquiries, with recruitment activity notably visible—several major operators staffed career booths recruiting for roles in compliance, data analytics, and responsible gambling operations.
-
-Vendor feedback indicated strong deal pipeline momentum, with software licensing negotiations, API integration projects, and acquisition discussions progressing beyond preliminary stages. Payment processors reported robust interest in emerging market solutions, particularly across Latin America and Southeast Asia.
-
-The conference's success reflects the maturation of European gaming as a stable, regulated market despite headline regulatory uncertainties. SiGMA's position as the industry's pre-eminent European event appears solidified, with 2027 booking interest already strong.`,
-    featuredImage: "/images/articles/sigma-europe-record-attendance-2026.png",
-    author: AUTHORS[0],
-    publishedAt: "2026-10-05T08:30:00Z",
-    category: "conferences-events",
-    tags: [
-      { id: "t4795", label: "SiGMA Europe", slug: "sigma-europe" },
-      { id: "t4796", label: "Conference", slug: "conference" },
-      { id: "t4797", label: "Malta", slug: "malta" },
-      { id: "t4798", label: "Networking", slug: "networking" },
-      { id: "t4799", label: "B2B Event", slug: "b2b-event" },
-      { id: "t4800", label: "Gaming Executives", slug: "gaming-executives" },
-      { id: "t4801", label: "Regulatory Discussions", slug: "regulatory-discussions" },
-      { id: "t4802", label: "Industry Trends", slug: "industry-trends" },
-      { id: "t4803", label: "Operator Meetings", slug: "operator-meetings" },
-      { id: "t4804", label: "European Gaming", slug: "european-gaming" },
-      { id: "t4805", label: "2026", slug: "2026" },
-    ],
-    sourceName: "Casino Journal",
-    sourceUrl: "https://www.casinojournal.com",
-    featured: false,
-    trending: false,
-    sponsored: false,
-    seoTitle: "SiGMA Europe 2026 Draws Record 8,500 Delegates 2026 | iGaming Pulse",
-    metaDescription: "Record 8,500 delegates gathered in Malta for SiGMA Europe 2026, reinforcing the conference's status as Europe's premier gaming and betting industry event.",
-    likes: 25,
     comments: [],
   },
 
