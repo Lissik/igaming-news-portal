@@ -36084,64 +36084,6 @@ Industry observers project cryptocurrency payments could represent 25-30% of tot
   },
 
   {
-    id: "827",
-    slug: "ice-london-2027-record-exhibitor-registration-2026",
-    language: "en",
-    translationGroupId: "tg-827",
-    title: "ICE London 2027 Breaks Exhibitor Record With 850+ Companies Registered 2026",
-    excerpt: "ICE London 2027 has already secured registrations from 850+ exhibiting companies, setting new attendance records as industry confidence remains strong.",
-    content: `## Industry Confidence Reflected in Record Registration
-
-Clarion Gaming, organizer of ICE London, announced October 5th that the 2027 edition has achieved unprecedented exhibitor registration numbers with 850+ companies already confirmed. The early surge in registrations—occurring five months before the February 2-4, 2027 conference dates—substantially exceeds previous attendance records and signals robust industry confidence despite ongoing regulatory pressures across key markets.
-
-The 2027 confirmation numbers represent roughly 15% growth over the 2026 edition, which hosted approximately 750 exhibitors. Early registration momentum has historically correlated with attendance quality, as operators and service providers commit marketing budgets and personnel allocations months in advance.
-
-## Exhibitor Composition Shifts Toward Technology Integration
-
-Clarion Gaming reported that 2027 registrations show meaningful category composition shifts relative to historical patterns. Software providers and payment processing platforms represent 28% of confirmed exhibitors (up from 22% in 2026), reflecting growing operator investment in infrastructure modernization and third-party technology integration. Gaming content providers maintain strong representation at 34% of exhibitors, while payment solutions and compliance technology represent expanding segments.
-
-The exhibition composition shift reflects industry-wide recognition that competitive advantage increasingly derives from technology infrastructure and operational efficiency rather than content alone. Operators are prioritizing vendor relationships for AI-driven player analytics, blockchain-based settlement systems, and compliance automation tools.
-
-## Geographic and Vertical Diversity
-
-Confirmed 2027 exhibitors span 65+ countries, with particular strength from European, Asian, and Latin American providers. UK and Malta-based operators and service providers maintain traditional dominance, but registrations from Brazil, Mexico, and Southeast Asian companies show accelerating participation, reflecting geographic diversification of iGaming regulatory frameworks.
-
-Smaller operators and emerging market specialists comprise an increasing proportion of exhibitors, suggesting ICE London's positioning as essential infrastructure for connecting global operator base with specialized vendors and service providers. This democratization of access has particularly benefited emerging market operators seeking Western technology partnerships and funding relationships.
-
-## Forward-Looking Industry Signals
-
-The registration surge ahead of ICE 2027 occurs amid broader industry optimism regarding regulatory stabilization in key markets. Recent licensing developments in several U.S. states, clarification of UK compliance frameworks, and European regulatory predictability have reduced investor uncertainty about long-term market viability.
-
-Clarion Gaming executives emphasized that early registration patterns typically predict sustained conference attendance and quality of attendee engagement. The organization is expanding venue capacity at London ExCel to accommodate 2027 traffic, planning for approximately 35,000+ total attendees including media, exhibitors, and operational participants.`,
-    featuredImage: "/images/articles/ice-london-2027-record-exhibitor-registration-2026.png",
-    author: AUTHORS[0],
-    publishedAt: "2026-10-06T08:30:00Z",
-    category: "conferences-events",
-    tags: [
-      { id: "t4953", label: "ICE London", slug: "ice-london" },
-      { id: "t4954", label: "trade show", slug: "trade-show" },
-      { id: "t4955", label: "conferences", slug: "conferences" },
-      { id: "t4956", label: "exhibitors", slug: "exhibitors" },
-      { id: "t4957", label: "gaming industry", slug: "gaming-industry" },
-      { id: "t4958", label: "networking", slug: "networking" },
-      { id: "t4959", label: "February 2027", slug: "february-2027" },
-      { id: "t4960", label: "London ExCel", slug: "london-excel" },
-      { id: "t4961", label: "software vendors", slug: "software-vendors" },
-      { id: "t4962", label: "B2B event", slug: "b2b-event" },
-      { id: "t4963", label: "industry momentum", slug: "industry-momentum" },
-    ],
-    sourceName: "iGamingBusiness",
-    sourceUrl: "https://www.igamingbusiness.com",
-    featured: false,
-    trending: false,
-    sponsored: false,
-    seoTitle: "ICE London 2027 Breaks Exhibitor Record With 850+ Companies Registered 2026 | iGaming Pulse",
-    metaDescription: "ICE London 2027 has already secured registrations from 850+ exhibiting companies, setting new attendance records as industry confidence remains strong.",
-    likes: 14,
-    comments: [],
-  },
-
-  {
     id: "828",
     slug: "aml-compliance-checklist-igaming-payment-providers-2026",
     language: "en",
