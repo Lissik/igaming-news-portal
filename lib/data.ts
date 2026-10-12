@@ -39460,6 +39460,131 @@ Earlier in 2026, competing events like ICE Barcelona (now ICE Barcelona 2027, sc
     metaDescription: "SiGMA Group confirms Rome for its flagship November 2026 European conference with full exhibitor bookings, expecting 18,000+ attendees and industry-spanning spo",
     likes: 24,
     comments: [],
+  },
+
+  {
+    id: "886",
+    slug: "spark-igaming-sofia-2026",
+    language: "en",
+    translationGroupId: "tg-886",
+    title: "SPARK 2026: Inaugural Sofia Summit Targets Software, Payments and Affiliates Across Southeast Europe",
+    excerpt: "The first-ever SPARK (Software, Payments, Affiliates, Revenue Kickoff) conference arrives in Sofia, Bulgaria on 19–20 October 2026, bringing together operators, affiliates and providers at the intersection of Southeast Europe's evolving regulatory landscape.",
+    content: `The inaugural **SPARK (Software, Payments, Affiliates, Revenue Kickoff) 2026** is set to launch on **19–20 October in Sofia, Bulgaria**, convening multi-sector leaders from across the iGaming value chain as the regulatory landscape across Southeast Europe continues to evolve.
+
+Bulgaria's position as a stable, EU-regulated market has made it a strategic entry point for operators expanding across the region. SPARK 2026 is positioned at precisely that intersection, with a two-day agenda spanning live ops, payments-led conversion, affiliate strategy and compliance.
+
+## Day One: 19 October 2026
+
+The opening day begins with a keynote by **Kristof Szucs**, Co-Founder & Principal of Kyborg.ai, titled *Shaping the Future of Gaming in Southeast Europe: Strategy, Technology, and Growth*. Further sessions will cover:
+
+- **Panel:** Retail Gaming in a Digital-First World — how land-based operators are evolving to stay competitive
+- **Fireside Chat:** Balancing Compliance and UX in Multi-Jurisdiction Markets
+- Additional sessions on live ops, revenue growth and payments-led conversion strategies
+
+## Day Two: 20 October 2026
+
+Day two opens with a keynote from **Nikolas Monti-Potsolakis**, CEO & Founder of Black Lantern Marketing, on *SEO to AIEO: Transitioning from Ranking Websites to Becoming the Direct Answer in AI Search*. The programme continues with:
+
+- **Panel:** The Affiliate Power Shift: From Traffic Brokers to Strategic Partners
+- **Fireside Chat:** Regulatory Innovation: Proactive vs Reactive Compliance
+
+## Speaker Perspective: Kristiyan Kyulyunkov, CEO, Websa Ltd
+
+Ahead of the summit, Kristiyan Kyulyunkov outlined his strategic focus: *"Our top priority at Websa is to build our brands as an authoritative and expert source of information for users. Also, we aim to understand players' needs, assist them when necessary and provide a value that can't be found elsewhere."*
+
+On audience trust versus lead quality: *"You need to earn the trust of the audience by giving them value, exclusivity and a personal approach. When users find what they are looking for on your website and you show them that there is something more related to their interest, most of them continue going back to your product."*
+
+On AI and the agenda topics he is most eager to debate: *"I think the trendy topics nowadays are related to the use of AI and the integration of AI into all of the spaces in our lives and businesses. I am looking forward to debates related to affiliate marketing trends, building a product and growing the product in the company of large-scale and challenging competition."*
+
+## Securing a Place
+
+A limited number of exhibitor, sponsorship and delegate packages remain. SPARK 2026 takes place **19–20 October 2026 in Sofia, Bulgaria**.
+
+Registration: [eventus-international.com/spark](https://www.eventus-international.com/spark)
+
+For sponsorship or exhibition enquiries, contact Lou-Mari Burnett, Chief Operating Officer, Eventus International: loumari@eventus-international.com`,
+    featuredImage: "/images/articles/spark-igaming-sofia-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-01T08:30:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t5491", label: "SPARK 2026", slug: "spark-2026" },
+      { id: "t5492", label: "Sofia", slug: "sofia" },
+      { id: "t5493", label: "Southeast Europe", slug: "southeast-europe" },
+      { id: "t5494", label: "iGaming Conference", slug: "igaming-conference" },
+      { id: "t5495", label: "Affiliates", slug: "affiliates" },
+      { id: "t5496", label: "Eventus International", slug: "eventus-international" },
+    ],
+    sourceName: "Eventus International",
+    sourceUrl: "https://www.eventus-international.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "SPARK 2026: Inaugural Sofia Summit Targets Software, Payments and Affiliates Across Southeast Europe | iGaming Pulse",
+    metaDescription: "The first-ever SPARK (Software, Payments, Affiliates, Revenue Kickoff) conference arrives in Sofia, Bulgaria on 19–20 October 2026, bringing together operators,",
+    likes: 19,
+    comments: [],
+  },
+
+  {
+    id: "887",
+    slug: "sbwa-gefa-dakar-africa-gaming-summit-2026",
+    language: "en",
+    translationGroupId: "tg-887",
+    title: "Sports Betting West Africa+ and GEFA 2026 Converge in Dakar for Three-Day African Gaming Summit",
+    excerpt: "The 11th annual Sports Betting West Africa+ Summit and the 2nd annual Gaming Event Francophone Africa run concurrently in Dakar, Senegal, from 14–16 October 2026, with an awards ceremony and expert panels covering operational realities across English- and French-speaking African markets.",
+    content: `**Dakar, Senegal** is set to become the epicentre of African gaming intelligence as the **11th annual Sports Betting West Africa+ (SBWA+) Summit 2026** and the **2nd annual Gaming Event Francophone Africa (GEFA)** take place concurrently from **14–16 October 2026** at the **King Fahd Palace Hôtel**.
+
+This year's event moves beyond market-potential narratives to address operational execution across rapidly evolving regional jurisdictions. Over three days, key industry professionals will cover harmonised licensing frameworks, data-light content delivery, localised payment integration, and player retention mechanics across both English- and French-speaking African markets.
+
+## SBWA+ Eventus Awards 2026
+
+The **SBWA+ Eventus Awards Ceremony** opens the event on the evening of **14 October 2026**, recognising organisations and leaders setting benchmarks for excellence, compliance and technological advancement across African gaming. The 2026 award categories include:
+
+- **SBWA+ Supplier of the Year** — overall commercial success, technical reliability and innovative thinking
+- **SBWA+ Innovation of the Year** — standout technological advancement with measurable market impact
+- **SBWA+ Operator of the Year** — commercial growth, innovative market strategy and user experience
+- **SBWA+ Leader in Virtual Sports** — originality, engagement mechanics and commercial success
+- **SBWA+ Leader in Online Casino** — innovation, user engagement and sustained growth
+- **SBWA+ Leader in Responsible Gambling** — commitment to harm minimisation and brand trust
+- **SBWA+ Leader in Sports Betting** — originality, execution and commercial performance
+- **SBWA+ Outstanding Industry Influencer** — strategic advice, research input and sector growth
+- **SBWA+ Outstanding Consultant** — market guidance and strategic value
+- **SBWA+ Outstanding Speaker** — announced at the conclusion of day three
+
+**Women in Gaming spotlight categories:**
+- SBWA+ Innovation Queen of West Africa 2026
+- SBWA+ West Africa's Rising Star in Leadership 2026
+
+## Nominations and Registration
+
+The deadline for award nominations is **Friday, 2 October 2026**.
+
+Attendee passes and exhibition space for SBWA+ 2026 and GEFA 2026 are available now. The event runs **14–16 October 2026** at the King Fahd Palace Hôtel, Dakar, Senegal.
+
+For more information, visit [eventus-international.com](https://www.eventus-international.com).`,
+    featuredImage: "/images/articles/sbwa-gefa-dakar-africa-gaming-summit-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-01T08:30:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t5497", label: "SBWA+ 2026", slug: "sbwa-2026" },
+      { id: "t5498", label: "GEFA 2026", slug: "gefa-2026" },
+      { id: "t5499", label: "Dakar", slug: "dakar" },
+      { id: "t5500", label: "West Africa", slug: "west-africa" },
+      { id: "t5501", label: "African Gaming", slug: "african-gaming" },
+      { id: "t5502", label: "Eventus International", slug: "eventus-international" },
+      { id: "t5503", label: "iGaming Awards", slug: "igaming-awards" },
+    ],
+    sourceName: "Eventus International",
+    sourceUrl: "https://www.eventus-international.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Sports Betting West Africa+ and GEFA 2026 Converge in Dakar for Three-Day African Gaming Summit | iGaming Pulse",
+    metaDescription: "The 11th annual Sports Betting West Africa+ Summit and the 2nd annual Gaming Event Francophone Africa run concurrently in Dakar, Senegal, from 14–16 October 202",
+    likes: 25,
+    comments: [],
   }
 ];
 
