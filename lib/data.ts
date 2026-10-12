@@ -38010,6 +38010,466 @@ For 2026, the practical difference between BtoBet and EveryMatrix is less about 
     metaDescription: "BtoBet vs EveryMatrix compared: licensing, market reach, product breadth, and risk tools for operators choosing a sportsbook platform in 2026.",
     likes: 19,
     comments: [],
+  },
+
+  {
+    id: "861",
+    slug: "vegas-strip-pedestrian-bridge-ban-upheld-2026",
+    language: "en",
+    translationGroupId: "tg-861",
+    title: "Federal Judge Upholds Vegas Strip Pedestrian Bridge Ban 2026",
+    excerpt: "Federal judge sides with Clark County in upholding controversial ban on stopping along Vegas Strip pedestrian bridges, rejecting ACLU challenge.",
+    content: `## Judge Rules in Favor of Clark County on Strip Pedestrian Bridge Restrictions
+
+A federal judge has sided with Clark County in a closely watched case over pedestrian access restrictions on the Las Vegas Strip. The court upheld the ban on stopping or standing on pedestrian bridges in and around the gaming district, dismissing constitutional objections raised by civil liberties advocates.
+
+## The Legal Challenge
+
+The American Civil Liberties Union challenged the ordinance, arguing the restrictions violated constitutional protections for free movement and assembly. The ACLU contended that preventing pedestrians from lingering on bridges created an unreasonable burden on public access to the area.
+
+Clark County defended the ban as a necessary traffic management and public safety measure. The county argued that congestion on pedestrian bridges creates hazards for foot traffic in one of the world's busiest gaming and tourism corridors.
+
+## Implications for Gaming District Management
+
+The ruling gives local authorities expanded latitude to manage pedestrian flow in the gaming district without facing federal constitutional challenges at the preliminary stage. For casino operators and hospitality venues, the decision affirms that municipal governments can enforce infrastructure controls that indirectly support casino operations and guest safety.
+
+The outcome also signals that courts will defer to local determinations about pedestrian management in high-traffic commercial zones, even when those determinations restrict traditional public access rights.
+
+## What to Watch
+
+The ACLU may pursue further appeals or challenge similar ordinances in other jurisdictions. The ruling may inspire other gaming markets to adopt comparable traffic-control measures around major casino corridors.`,
+    featuredImage: "/images/articles/vegas-strip-pedestrian-bridge-ban-upheld-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-12T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t5279", label: "Las Vegas", slug: "las-vegas" },
+      { id: "t5280", label: "regulation", slug: "regulation" },
+      { id: "t5281", label: "pedestrian management", slug: "pedestrian-management" },
+      { id: "t5282", label: "Strip infrastructure", slug: "strip-infrastructure" },
+      { id: "t5283", label: "ACLU", slug: "aclu" },
+      { id: "t5284", label: "constitutional law", slug: "constitutional-law" },
+      { id: "t5285", label: "local enforcement", slug: "local-enforcement" },
+      { id: "t5286", label: "gaming jurisdiction", slug: "gaming-jurisdiction" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Federal Judge Upholds Vegas Strip Pedestrian Bridge Ban 2026 | iGaming Pulse",
+    metaDescription: "Federal judge sides with Clark County in upholding controversial ban on stopping along Vegas Strip pedestrian bridges, rejecting ACLU challenge.",
+    likes: 7,
+    comments: [],
+  },
+
+  {
+    id: "862",
+    slug: "macau-gambler-arrested-machine-tampering-2026",
+    language: "en",
+    translationGroupId: "tg-862",
+    title: "Macau Man Arrested for Kicking Slot Machine to Erase Losses 2026",
+    excerpt: "A 52-year-old mainland Chinese businessman was arrested in Macau for allegedly kicking a casino machine to erase his losing bets.",
+    content: `Macau authorities have arrested a 52-year-old businessman from mainland China accused of attempting one of the casino industry's most straightforward—and least sophisticated—cheating schemes: kicking a gaming machine to erase his losses.
+
+The suspect, identified only by his surname Wu, allegedly discovered that physical force applied to the machine could somehow reset or delete his losing bets. Whether the method actually worked or was merely perceived as viable remains unclear from initial reports, but his actions were caught and authorities moved quickly.
+
+The arrest comes as Macau continues to navigate post-pandemic recovery in its gaming market. The territory remains heavily regulated and has invested significantly in surveillance and anti-cheating infrastructure across its casino floors.
+
+The case, while amusing on its surface, reflects a persistent security concern: even in highly regulated environments with advanced technology, players continue to attempt crude tampering techniques. Machine manufacturers and operators must account for both sophisticated bypass attempts and basic physical attacks.
+
+For compliance and surveillance teams, the incident is a reminder that no level of regulation eliminates human desperation or the willingness of losing players to attempt crude solutions to gaming losses.`,
+    featuredImage: "/images/articles/macau-gambler-arrested-machine-tampering-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-12T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t5287", label: "Macau", slug: "macau" },
+      { id: "t5288", label: "cheating", slug: "cheating" },
+      { id: "t5289", label: "fraud", slug: "fraud" },
+      { id: "t5290", label: "gaming machine", slug: "gaming-machine" },
+      { id: "t5291", label: "enforcement", slug: "enforcement" },
+      { id: "t5292", label: "game integrity", slug: "game-integrity" },
+      { id: "t5293", label: "player compliance", slug: "player-compliance" },
+      { id: "t5294", label: "security", slug: "security" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Macau Man Arrested for Kicking Slot Machine to Erase Losses 2026 | iGaming Pulse",
+    metaDescription: "A 52-year-old mainland Chinese businessman was arrested in Macau for allegedly kicking a casino machine to erase his losing bets.",
+    likes: 25,
+    comments: [],
+  },
+
+  {
+    id: "863",
+    slug: "san-manuel-fairmont-scottsdale-acquisition-2026",
+    language: "en",
+    translationGroupId: "tg-863",
+    title: "San Manuel Expands Resort Portfolio with Fairmont Scottsdale Buy 2026",
+    excerpt: "San Manuel Investment Authority has acquired the Fairmont Scottsdale Princess resort, adding to its growing portfolio of non-casino hospitality properties.",
+    content: `## San Manuel Nation Expands Hospitality Holdings
+
+The San Manuel Investment Authority (SMIA), the investing arm of the San Manuel Nation of Southern California, has completed the acquisition of the Fairmont Scottsdale Princess in Scottsdale, Arizona. The purchase marks another step in the tribal operator's strategic pivot toward non-gaming hospitality assets.
+
+## Strategic Diversification
+
+The move reflects a broader trend among tribal gaming enterprises seeking to build revenue streams independent of casino floor performance. The Fairmont Scottsdale Princess, a premium resort property, provides year-round lodging, convention, and dining revenue that is less sensitive to gaming market downturns.
+
+San Manuel has aggressively pursued non-gaming acquisitions over recent years, building a portfolio that now spans luxury resorts, real estate holdings, and hospitality infrastructure across multiple states. This approach allows the nation to capitalize on its capital base and gaming profits while reducing dependence on single-market gaming revenue.
+
+## Implications for the Tribal Gaming Sector
+
+The acquisition demonstrates how successful tribal gaming operators are leveraging profits into broader hospitality and real estate strategies. Unlike publicly traded casino operators, tribal enterprises can reinvest gaming revenue directly into long-term asset acquisition without shareholder pressure for quarterly returns.
+
+The Fairmont brand adds significant brand equity and operational credibility to San Manuel's portfolio. Premium hospitality properties attract high-value guests and generate substantial ancillary revenue from amenities, conventions, and dining—revenue streams often more stable than gaming hold.
+
+## Market Context
+
+The hospitality sector has recovered substantially from pandemic disruptions, making resort acquisitions more attractive. Luxury properties like the Fairmont Scottsdale Princess command premium room rates and attract convention business, both of which provide reliable cash flow that tribal operators can use to further expand their holdings or fund tribal programs.`,
+    featuredImage: "/images/articles/san-manuel-fairmont-scottsdale-acquisition-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-12T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t5295", label: "San Manuel Nation", slug: "san-manuel-nation" },
+      { id: "t5296", label: "tribal gaming", slug: "tribal-gaming" },
+      { id: "t5297", label: "Fairmont", slug: "fairmont" },
+      { id: "t5298", label: "Scottsdale", slug: "scottsdale" },
+      { id: "t5299", label: "resort acquisition", slug: "resort-acquisition" },
+      { id: "t5300", label: "non-gaming revenue", slug: "non-gaming-revenue" },
+      { id: "t5301", label: "diversification", slug: "diversification" },
+      { id: "t5302", label: "hospitality", slug: "hospitality" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "San Manuel Expands Resort Portfolio with Fairmont Scottsdale Buy 2026 | iGaming Pulse",
+    metaDescription: "San Manuel Investment Authority has acquired the Fairmont Scottsdale Princess resort, adding to its growing portfolio of non-casino hospitality properties.",
+    likes: 17,
+    comments: [],
+  },
+
+  {
+    id: "864",
+    slug: "draftkings-ontario-thanksgiving-food-bank-2026",
+    language: "en",
+    translationGroupId: "tg-864",
+    title: "DraftKings Pledges $100K for Ontario Food Banks via Thanksgiving Wagers 2026",
+    excerpt: "DraftKings is matching Ontario sportsbook wagers with donations to Feed Ontario, pledging up to $100,000 to provide 200,000 Thanksgiving meals.",
+    content: `DraftKings has launched a holiday charitable initiative tying sportsbook engagement to food security in Ontario. The operator is pledging to donate up to $100,000 to Feed Ontario during the Thanksgiving weekend, with the donation amount directly matching wagers placed on the platform.
+
+The campaign runs through Canadian Thanksgiving on October 12, 2026. The donation could help provide up to 200,000 meals for families facing food insecurity across the province.
+
+For DraftKings, the initiative serves multiple strategic purposes. First, holiday-themed promotional campaigns drive user traffic and betting volume during traditionally high-engagement periods. Second, the cause-marketing angle—linking wagers to charitable outcomes—positions the brand as community-minded in an increasingly competitive and regulated Canadian market.
+
+Feed Ontario, the beneficiary, operates a network supporting foodbanks and emergency food assistance programs across the province. The partnership expands DraftKings' community footprint at a time when Canadian provincial regulators are closely scrutinizing sportsbooks' social responsibility commitments.
+
+The timing is strategic: Thanksgiving weekends typically generate elevated sports betting volume as bettors engage with holiday sports schedules and entertainment. By making the donation contingent on wagering activity, DraftKings incentivizes participation while maintaining transparent metrics for the charitable contribution.
+
+For the broader Canadian gaming sector, the campaign exemplifies how sportsbooks are weaving social responsibility into their core marketing and user acquisition strategies—a requirement increasingly expected by regulators and players alike.`,
+    featuredImage: "/images/articles/draftkings-ontario-thanksgiving-food-bank-2026.png",
+    author: AUTHORS[3],
+    publishedAt: "2026-10-12T08:30:00Z",
+    category: "marketing-traffic",
+    tags: [
+      { id: "t5303", label: "DraftKings", slug: "draftkings" },
+      { id: "t5304", label: "Canada", slug: "canada" },
+      { id: "t5305", label: "Ontario", slug: "ontario" },
+      { id: "t5306", label: "food banks", slug: "food-banks" },
+      { id: "t5307", label: "charitable giving", slug: "charitable-giving" },
+      { id: "t5308", label: "Thanksgiving", slug: "thanksgiving" },
+      { id: "t5309", label: "cause marketing", slug: "cause-marketing" },
+      { id: "t5310", label: "community engagement", slug: "community-engagement" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "DraftKings Pledges $100K for Ontario Food Banks via Thanksgiving Wagers 2026 | iGaming Pulse",
+    metaDescription: "DraftKings is matching Ontario sportsbook wagers with donations to Feed Ontario, pledging up to $100,000 to provide 200,000 Thanksgiving meals.",
+    likes: 7,
+    comments: [],
+  },
+
+  {
+    id: "865",
+    slug: "nevada-gaming-board-ncpg-separation-2026",
+    language: "en",
+    translationGroupId: "tg-865",
+    title: "Nevada Gaming Board Cuts Ties with National Problem Gambling Council 2026",
+    excerpt: "Nevada Gaming Control Board is removing statutory references to the National Council on Problem Gambling from regulations, signaling regulatory independence.",
+    content: `## Nevada Decouples State Oversight from National Problem Gambling Council
+
+The Nevada Gaming Control Board (NGCB) has initiated a formal process to remove statutory references to the National Council on Problem Gambling (NCPG) from state regulations. The action represents a significant break from a long-standing relationship and signals the state's intent to define problem gambling standards independently.
+
+## Background on the Rift
+
+The NCPG has faced mounting criticism in recent years regarding governance, financial transparency, and the effectiveness of its research and advocacy initiatives. Nevada's move to sever statutory ties follows similar actions by other states and gaming organizations questioning NCPG's legitimacy and usefulness.
+
+By removing regulatory references to NCPG, Nevada frees itself from any implicit endorsement or alignment with the nonprofit's standards and positions. It also allows the state to craft problem gambling definitions, prevention frameworks, and responsible gaming requirements that reflect Nevada's unique market conditions and regulatory philosophy.
+
+## Compliance Implications for Operators
+
+Nevada casinos and sportsbooks will need to monitor NGCB rulemaking closely to understand what problem gambling standards will replace NCPG-tied language. Operators cannot assume that NCPG guidelines, certifications, or training materials will carry weight in Nevada regulatory determinations going forward.
+
+This divergence creates complexity for multi-state operators who have built compliance systems around NCPG frameworks. Companies operating across Nevada, California, New York, and other markets may need to maintain separate problem gambling protocols by state.
+
+## Broader Market Signal
+
+Nevada's action—coming from the nation's most mature gaming market—signals to other regulators and industry participants that reliance on national nonprofit organizations for regulatory standards is weakening. States increasingly prefer direct regulatory authority over responsible gaming definitions rather than deferring to third-party certifiers.
+
+Operators should expect similar regulatory divergence in other markets and prepare compliance frameworks flexible enough to adapt to state-specific standards.`,
+    featuredImage: "/images/articles/nevada-gaming-board-ncpg-separation-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-12T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t5311", label: "Nevada", slug: "nevada" },
+      { id: "t5312", label: "regulation", slug: "regulation" },
+      { id: "t5313", label: "problem gambling", slug: "problem-gambling" },
+      { id: "t5314", label: "NGCB", slug: "ngcb" },
+      { id: "t5315", label: "responsible gaming", slug: "responsible-gaming" },
+      { id: "t5316", label: "NCPG", slug: "ncpg" },
+      { id: "t5317", label: "gaming standards", slug: "gaming-standards" },
+      { id: "t5318", label: "compliance", slug: "compliance" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Nevada Gaming Board Cuts Ties with National Problem Gambling Council 2026 | iGaming Pulse",
+    metaDescription: "Nevada Gaming Control Board is removing statutory references to the National Council on Problem Gambling from regulations, signaling regulatory independence.",
+    likes: 7,
+    comments: [],
+  },
+
+  {
+    id: "866",
+    slug: "nfl-supreme-court-kalshi-prediction-markets-2026",
+    language: "en",
+    translationGroupId: "tg-866",
+    title: "NFL Petitions Supreme Court on Kalshi Prediction Markets 2026",
+    excerpt: "NFL joins calls for Supreme Court review of Kalshi prediction market case as Seminole Tribe sues DraftKings.",
+    content: `## Major Leagues Target Prediction Market Regulation
+
+The National Football League has formally requested Supreme Court review of the ongoing Kalshi prediction market case, joining a broad coalition that includes the American Gaming Association (AGA), tribal gaming authorities, and former federal officials. The move signals escalating concern among sports properties over how prediction markets may fall outside existing gaming regulatory frameworks.
+
+## Growing Legal Pressure on Operators
+
+The Kalshi intervention comes as the Seminole Tribe of Florida filed a separate lawsuit against DraftKings, compounding regulatory pressure on major sportsbooks. The dual legal challenges reflect competing visions of how prediction markets and sports betting should be governed—a distinction that has proven legally consequential across multiple jurisdictions.
+
+Sports leagues have grown increasingly vocal about prediction markets, viewing them as distinct from traditional sports betting yet sufficiently related to warrant inclusion in gaming governance discussions. The Supreme Court petition amplifies that message at the nation's highest judicial level.
+
+## What This Means
+
+A Supreme Court decision on Kalshi could fundamentally reshape how prediction markets operate in the United States, potentially forcing operators to comply with state and tribal gaming regulations or establishing a separate regulatory pathway. The concurrent Seminole lawsuit adds state-level and tribal sovereignty dimensions to what has been primarily a federal question.
+
+Operators currently offering prediction markets face mounting uncertainty. Any ruling that brings these platforms under existing gaming regulation would likely trigger significant compliance costs and geographic restrictions. Conversely, a decision maintaining prediction markets as distinct from gambling could embolden broader adoption—but may face pushback from established gaming interests.`,
+    featuredImage: "/images/articles/nfl-supreme-court-kalshi-prediction-markets-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-12T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t5319", label: "Supreme Court", slug: "supreme-court" },
+      { id: "t5320", label: "Kalshi", slug: "kalshi" },
+      { id: "t5321", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t5322", label: "NFL", slug: "nfl" },
+      { id: "t5323", label: "DraftKings", slug: "draftkings" },
+      { id: "t5324", label: "Seminole Tribe", slug: "seminole-tribe" },
+      { id: "t5325", label: "sports betting", slug: "sports-betting" },
+      { id: "t5326", label: "regulation", slug: "regulation" },
+      { id: "t5327", label: "tribal gaming", slug: "tribal-gaming" },
+    ],
+    sourceName: "Gambling Insider",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "NFL Petitions Supreme Court on Kalshi Prediction Markets 2026 | iGaming Pulse",
+    metaDescription: "NFL joins calls for Supreme Court review of Kalshi prediction market case as Seminole Tribe sues DraftKings.",
+    likes: 9,
+    comments: [],
+  },
+
+  {
+    id: "867",
+    slug: "wynn-uae-casino-upside-singapore-comparison-2026",
+    language: "en",
+    translationGroupId: "tg-867",
+    title: "Wynn UAE Resort May Exceed Projections, Analysts Cite Singapore Model 2026",
+    excerpt: "Analysts expect Wynn's upcoming UAE casino resort to exceed initial revenue estimates, citing parallels to the operator's Singapore success.",
+    content: `## Wynn's Middle East Bet Gaining Analyst Support
+
+Wall Street is taking a bullish stance on Wynn Resorts' UAE expansion, with several analysts suggesting the property could materially outperform initial financial projections. The optimism reflects growing confidence in both the market opportunity and Wynn's operational playbook—particularly lessons learned from its flagship Marina Bay Sands property in Singapore.
+
+The timing is notable given that Wynn (NASDAQ: WYNN) has contended with regional geopolitical pressures throughout 2026. Yet analysts believe those macroeconomic headwinds mask underlying demand fundamentals in the Emirates that favor a luxury resort operator with Wynn's brand positioning and operational expertise.
+
+## Singapore Precedent Supports Upside Case
+
+The analytical comparison to Singapore carries specific weight. Marina Bay Sands established Wynn's credibility in Asian gaming markets, generating premium gaming revenue and positioning the property as a must-visit destination for high-net-worth individuals and corporate gaming audiences. The UAE market exhibits similar wealth concentration, international visitation patterns, and regulatory openness to large-scale gaming operations.
+
+Wynn has also refined its operational model across multiple properties, allowing the UAE resort to benefit from best practices in premium gaming, hospitality, and marketing. The analyst view assumes Wynn captures meaningful market share from Dubai and Abu Dhabi's established high-roller and premium leisure segments.
+
+## Shareholder Value Implications
+
+If the UAE property performs at or above analyst expectations, it could provide material upside to Wynn's 2027 and 2028 earnings guidance. The property would also position the company for deeper Middle Eastern expansion, potentially unlocking additional opportunities in Saudi Arabia and other Gulf states where gaming regulations continue evolving.
+
+The next key inflection point will be any management commentary on the property's construction timeline, pre-opening booking data, and formal revenue guidance—metrics investors will parse for signs the analyst optimism is well-founded.`,
+    featuredImage: "/images/articles/wynn-uae-casino-upside-singapore-comparison-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-12T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t5328", label: "Wynn Resorts", slug: "wynn-resorts" },
+      { id: "t5329", label: "UAE", slug: "uae" },
+      { id: "t5330", label: "United Arab Emirates", slug: "united-arab-emirates" },
+      { id: "t5331", label: "casino resort", slug: "casino-resort" },
+      { id: "t5332", label: "Middle East", slug: "middle-east" },
+      { id: "t5333", label: "Singapore", slug: "singapore" },
+      { id: "t5334", label: "analyst forecast", slug: "analyst-forecast" },
+      { id: "t5335", label: "gaming expansion", slug: "gaming-expansion" },
+      { id: "t5336", label: "WYNN", slug: "wynn" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Wynn UAE Resort May Exceed Projections, Analysts Cite Singapore Model 2026 | iGaming Pulse",
+    metaDescription: "Analysts expect Wynn's upcoming UAE casino resort to exceed initial revenue estimates, citing parallels to the operator's Singapore success.",
+    likes: 14,
+    comments: [],
+  },
+
+  {
+    id: "868",
+    slug: "danielle-ford-nevada-poker-final-table-2026",
+    language: "en",
+    translationGroupId: "tg-868",
+    title: "Nevada Governor Candidate Finishes Fifth in Vegas Charity Poker 2026",
+    excerpt: "Nevada gubernatorial candidate Danielle Ford placed fifth at a Las Vegas charity poker event, underscoring gaming's cultural role in state politics.",
+    content: `Political participation in gaming events continues to underscore Nevada's unique position at the intersection of hospitality, entertainment, and governance. Danielle Ford, running for the state's top office in the November 3 general election, made the final table at a Las Vegas-based charity poker tournament on October 3, finishing in fifth place.
+
+While the tournament result is modest compared to her aspirations in the gubernatorial race, Ford's participation reflects a broader dynamic: Nevada politicians who engage openly with gaming culture and events signal alignment with the state's dominant industry. Such visibility matters in a state where gaming licenses, tax policy, and labor regulations directly affect the economic health of major operators and their workforces.
+
+Ford's profile suggests comfort with gaming culture at a time when some political figures—particularly outside Nevada—face scrutiny for gaming ties. In Nevada's context, such engagement is unremarkable and potentially advantageous. The gaming industry employs roughly 140,000 residents directly, and millions more depend on tourism-related spending.
+
+The charity component of the event also reflects broader industry philanthropy trends. Major casinos and poker operators frequently organize charitable tournaments, generating community goodwill and positioning gaming as an integral, socially conscious part of Nevada life.
+
+As the November election approaches, Ford and other candidates will likely continue participating in gaming-related events and fundraising activities. Such engagement serves dual purposes: demonstrating industry alignment and accessing gaming community networks that drive significant political donations and volunteer efforts in Nevada.`,
+    featuredImage: "/images/articles/danielle-ford-nevada-poker-final-table-2026.png",
+    author: AUTHORS[3],
+    publishedAt: "2026-10-12T08:30:00Z",
+    category: "marketing-traffic",
+    tags: [
+      { id: "t5337", label: "Nevada", slug: "nevada" },
+      { id: "t5338", label: "charity poker", slug: "charity-poker" },
+      { id: "t5339", label: "Las Vegas", slug: "las-vegas" },
+      { id: "t5340", label: "political engagement", slug: "political-engagement" },
+      { id: "t5341", label: "gaming culture", slug: "gaming-culture" },
+      { id: "t5342", label: "Danielle Ford", slug: "danielle-ford" },
+      { id: "t5343", label: "tournament", slug: "tournament" },
+      { id: "t5344", label: "philanthropy", slug: "philanthropy" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Nevada Governor Candidate Finishes Fifth in Vegas Charity Poker 2026 | iGaming Pulse",
+    metaDescription: "Nevada gubernatorial candidate Danielle Ford placed fifth at a Las Vegas charity poker event, underscoring gaming's cultural role in state politics.",
+    likes: 19,
+    comments: [],
+  },
+
+  {
+    id: "869",
+    slug: "g2e-las-vegas-2026-concludes-2026",
+    language: "en",
+    translationGroupId: "tg-869",
+    title: "G2E Las Vegas 2026 Wraps with Strong Gaming Industry Turnout 2026",
+    excerpt: "G2E Las Vegas 2026 wrapped this week with substantial industry attendance and major gaming technology exhibitions.",
+    content: `The Global Gaming Expo (G2E) Las Vegas 2026 concluded on October 9 after four days of exhibitions, conference sessions, and industry networking. The event, held at the Las Vegas Convention Center from October 6-9, drew gaming operators, technology vendors, regulators, and service providers focused on the U.S. gaming sector.
+
+G2E remains the primary venue where major casino operators, gaming machine manufacturers, and compliance service providers gather to establish partnerships and showcase innovations. The 2026 edition proceeded against a backdrop of ongoing U.S. regulatory fragmentation—particularly around prediction markets (highlighted by the NFL's recent Supreme Court intervention) and state-level sports betting licensing complexities.
+
+The expo featured exhibitions of the latest gaming floor technology, including updated electronic gaming machines (EGMs), sports betting integration platforms, and player loyalty system enhancements. Multiple operators used the venue to host private meetings with technology partners and regulators.
+
+G2E's success this year reflects the fundamental health of the U.S. gaming industry despite macro headwinds. Operators remain actively investing in property upgrades and technology modernization, signaling confidence in consumer demand and long-term market expansion.`,
+    featuredImage: "/images/articles/g2e-las-vegas-2026-concludes-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-10-12T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t5345", label: "G2E", slug: "g2e" },
+      { id: "t5346", label: "Las Vegas", slug: "las-vegas" },
+      { id: "t5347", label: "gaming expo", slug: "gaming-expo" },
+      { id: "t5348", label: "conference", slug: "conference" },
+      { id: "t5349", label: "industry event", slug: "industry-event" },
+      { id: "t5350", label: "gaming technology", slug: "gaming-technology" },
+      { id: "t5351", label: "operator partnerships", slug: "operator-partnerships" },
+      { id: "t5352", label: "2026", slug: "2026" },
+    ],
+    sourceName: "iGamingPulse",
+    sourceUrl: "https://igamingpulse.media",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "G2E Las Vegas 2026 Wraps with Strong Gaming Industry Turnout 2026 | iGaming Pulse",
+    metaDescription: "G2E Las Vegas 2026 wrapped this week with substantial industry attendance and major gaming technology exhibitions.",
+    likes: 17,
+    comments: [],
+  },
+
+  {
+    id: "870",
+    slug: "gaming-machine-tech-player-engagement-2026",
+    language: "en",
+    translationGroupId: "tg-870",
+    title: "Gaming Machine Tech Advances as Operators Invest in Player Engagement 2026",
+    excerpt: "Gaming machine manufacturers are advancing player engagement technologies as operators increase investment in EGM modernization.",
+    content: `Gaming machine innovation is accelerating across the U.S. casino industry, driven by operator recognition that electronic gaming machine (EGM) revenue remains more stable and predictable than sports betting in a fragmenting regulatory environment.
+
+Manufacturers are deploying advanced display technologies, multiplayer game formats, and real-time analytics capabilities that allow operators to monitor player behavior and adjust game offerings in near real-time. Several major operators have publicly committed to EGM upgrade cycles extending through 2027, suggesting sustained capital deployment in this category.
+
+The strategic shift reflects market dynamics. Sports betting, while high-profile, faces commoditization pressures as state-by-state licensing expands. EGM play, by contrast, generates consistent floor revenue with well-understood regulatory frameworks. Operators recognize that game innovation—rather than simple regulatory arbitrage—differentiates their properties and supports pricing power.
+
+Recent innovations include: touch-responsive gaming surfaces, integrated mobile companion applications that extend play sessions, and games with narrative-driven content that encourages longer play duration. Several manufacturers have also developed proprietary player-tracking systems that feed engagement data directly to operational dashboards, allowing floor managers to optimize game placement and mix.
+
+The investment cycle is particularly pronounced in properties undergoing comprehensive gaming floor renovations. These upgrades typically include 15-25% replacement of existing machine inventory with new-generation equipment—a capital commitment of $5 million to $15 million per property for mid-sized casinos.
+
+Long-term, this trend should support healthy EGM revenue growth despite overall industry maturation, and will drive M&A activity in the gaming machine supply sector as operators seek integrated technology platforms rather than point solutions.`,
+    featuredImage: "/images/articles/gaming-machine-tech-player-engagement-2026.png",
+    author: AUTHORS[3],
+    publishedAt: "2026-10-12T08:30:00Z",
+    category: "slots-game-providers",
+    tags: [
+      { id: "t5353", label: "gaming machines", slug: "gaming-machines" },
+      { id: "t5354", label: "EGM", slug: "egm" },
+      { id: "t5355", label: "player engagement", slug: "player-engagement" },
+      { id: "t5356", label: "gaming technology", slug: "gaming-technology" },
+      { id: "t5357", label: "innovation", slug: "innovation" },
+      { id: "t5358", label: "operator investment", slug: "operator-investment" },
+      { id: "t5359", label: "gaming floor", slug: "gaming-floor" },
+      { id: "t5360", label: "revenue diversification", slug: "revenue-diversification" },
+    ],
+    sourceName: "iGamingPulse",
+    sourceUrl: "https://igamingpulse.media",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Gaming Machine Tech Advances as Operators Invest in Player Engagement 2026 | iGaming Pulse",
+    metaDescription: "Gaming machine manufacturers are advancing player engagement technologies as operators increase investment in EGM modernization.",
+    likes: 19,
+    comments: [],
   }
 ];
 
