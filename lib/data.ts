@@ -39585,6 +39585,744 @@ For more information, visit [eventus-international.com](https://www.eventus-inte
     metaDescription: "The 11th annual Sports Betting West Africa+ Summit and the 2nd annual Gaming Event Francophone Africa run concurrently in Dakar, Senegal, from 14–16 October 202",
     likes: 25,
     comments: [],
+  },
+
+  {
+    id: "888",
+    slug: "betfred-retail-split-narrows-digital-growth-2026",
+    language: "en",
+    translationGroupId: "tg-888",
+    title: "Betfred Narrows Retail Split to 55% as Digital Growth Accelerates in 2026",
+    excerpt: "Betfred's retail contribution drops to 55% as digital channels drive growth in latest full-year results.",
+    content: `## Betfred Posts £995.6m Turnover as Digital Channel Gains on Retail
+
+Betfred's financial results for the 12-month period ending 29 March 2026 reflect a widening gap between digital and retail performance, with online channels now accounting for 45% of group turnover—a significant shift from the prior year's 39% split.
+
+Retail operations, which include the operator's UK and international betting shop estate, generated 55% of the £995.6m total, down from 61% in the previous financial year. The 6-percentage-point contraction represents one of the steepest annual declines in retail contribution among major UK bookmakers, illustrating the structural shift in consumer betting behaviour across the industry.
+
+## What the Numbers Tell Us
+
+The narrowing retail split does not indicate absolute decline in shop profitability—Betfred has maintained and selectively optimised its physical footprint in recent years. Rather, the figures highlight the accelerating velocity of digital customer acquisition and retention, particularly in the mobile segment.
+
+For a legacy bookmaker with deep roots in high street betting (Betfred operates hundreds of shops across the UK and internationally), a retail contribution falling below 60% marks a watershed moment. Competitors including William Hill and Ladbrokes have navigated similar transitions, though the pace varies by operator investment thesis and customer demographics.
+
+## Why It Matters for the Market
+
+Betfred's results provide a bellwether for how legacy operators are managing the structural shift to digital. The speed and magnitude of the retail contraction—a full 6 percentage points year-on-year—suggests that digital channels are capturing not just new customer cohorts but also wallet share from existing high-value bettors.
+
+For the broader iGaming sector, these figures validate continued investment in mobile-first product, customer data platforms, and personalised marketing. Operators and investors watching Betfred's trajectory are likely recalibrating their own retail estate strategies, with particular attention to shop economics and the ROI threshold for maintaining marginal locations.
+
+The company's performance also underscores the importance of seamless omnichannel integration, where customers move fluidly between shop, desktop, and mobile—a capability that increasingly defines competitive advantage in mature markets.`,
+    featuredImage: "/images/articles/betfred-retail-split-narrows-digital-growth-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t5504", label: "Betfred", slug: "betfred" },
+      { id: "t5505", label: "retail betting", slug: "retail-betting" },
+      { id: "t5506", label: "digital growth", slug: "digital-growth" },
+      { id: "t5507", label: "omnichannel", slug: "omnichannel" },
+      { id: "t5508", label: "UK betting", slug: "uk-betting" },
+      { id: "t5509", label: "financial results", slug: "financial-results" },
+      { id: "t5510", label: "turnover", slug: "turnover" },
+      { id: "t5511", label: "customer channels", slug: "customer-channels" },
+    ],
+    sourceName: "iGaming Business",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Betfred Narrows Retail Split to 55% as Digital Growth Accelerates in 2026 | iGaming Pulse",
+    metaDescription: "Betfred's retail contribution drops to 55% as digital channels drive growth in latest full-year results.",
+    likes: 17,
+    comments: [],
+  },
+
+  {
+    id: "889",
+    slug: "peru-online-betting-tax-increase-5-percent-2026",
+    language: "en",
+    translationGroupId: "tg-889",
+    title: "Peru Online Betting Tax Bill Aims for 5% Rate, Signalling Latin America Fiscal Shift",
+    excerpt: "Peru proposes fivefold increase in online betting consumption tax, signalling tighter fiscal stance in Latin American iGaming.",
+    content: `Peru's legislature is moving forward with a bill that would dramatically increase the tax burden on licensed online sportsbooks, raising the consumption tax rate from 1% to 5% and marking a significant reversal in the tax environment for digital betting operators in the region.
+
+## The Proposal and Its Framing
+
+The bill, which cites both public health objectives and general revenue-raising needs, represents a sharp departure from Peru's historically competitive tax positioning relative to other South American jurisdictions. At 5%, the rate would align Peru more closely with regulated markets in Europe and North America, while substantially exceeding the tax loads faced by operators in Chile, Colombia, and other regional neighbours.
+
+Government framing emphasises harm-minimisation and funding for gambling disorder treatment programmes, a rationale that reflects global regulatory trends favouring public health narratives alongside fiscal objectives.
+
+## Market Impact Calculus
+
+For operators currently licensed or planning entry into Peru, the proposal fundamentally alters the go-forward margin structure. A 4-percentage-point tax increase, applied across the entire betting handle, creates meaningful headwinds for customer acquisition and retention in a price-sensitive market where competing unlicensed operators continue to operate with zero tax burden.
+
+Operators with established market share—such as those who entered Peru in recent years during the low-tax window—face the hardest choices. They must decide whether to absorb costs, pass them to customers (risking migration to unregulated alternatives), or reassess market prioritisation altogether.
+
+Smaller, Peru-focused boutique operators may lack the scale to survive at 5% tax without significant operational restructuring or merger activity. Larger, regionally diversified platforms may view the increase as an acceptable cost of operating in a regulated jurisdiction, provided the bill's passage strengthens licensing frameworks and enforcement against unlicensed competitors.
+
+## Broader Regional Signals
+
+The Peru proposal reflects a maturation cycle common across Latin American iGaming markets: initial licensing regimes offer competitive tax rates to stimulate operator entry and tax base-building; once the market establishes scale and legitimacy, governments raise rates to fund public health initiatives and general revenue needs.
+
+Operators expanding across the region should monitor Peru closely as a harbinger of similar tax increases in nearby jurisdictions. Brazil, which recently imposed an outright betting ban via presidential decree, demonstrates the volatility of regulatory policy in the region. Peru's tax-and-regulate approach, while less hostile, signals that the window for advantageous fiscal terms is narrowing.
+
+The bill's ultimate passage and effective date remain uncertain, but the legislative momentum suggests Latin American operators should brace for regional tax convergence toward more mature-market levels.`,
+    featuredImage: "/images/articles/peru-online-betting-tax-increase-5-percent-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t5512", label: "Peru", slug: "peru" },
+      { id: "t5513", label: "tax policy", slug: "tax-policy" },
+      { id: "t5514", label: "consumption tax", slug: "consumption-tax" },
+      { id: "t5515", label: "iGaming regulation", slug: "igaming-regulation" },
+      { id: "t5516", label: "Latin America", slug: "latin-america" },
+      { id: "t5517", label: "operator margins", slug: "operator-margins" },
+      { id: "t5518", label: "fiscal policy", slug: "fiscal-policy" },
+      { id: "t5519", label: "public health", slug: "public-health" },
+    ],
+    sourceName: "iGaming Business",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Peru Online Betting Tax Bill Aims for 5% Rate, Signalling Latin America Fiscal Shift | iGaming Pulse",
+    metaDescription: "Peru proposes fivefold increase in online betting consumption tax, signalling tighter fiscal stance in Latin American iGaming.",
+    likes: 11,
+    comments: [],
+  },
+
+  {
+    id: "890",
+    slug: "wgba-egba-exec-director-general-geneva-2026",
+    language: "en",
+    translationGroupId: "tg-890",
+    title: "EGBA Alum Leads World Gaming & Betting Alliance as Geneva Launch Looms",
+    excerpt: "World Gaming & Betting Alliance appoints EGBA veteran as director general ahead of Geneva launch and inaugural report.",
+    content: `The World Gaming and Betting Alliance has secured leadership ahead of its formal Geneva launch, appointing a former executive from the European Gaming and Betting Association to the role of director general. The move reflects the nascent international body's ambition to establish itself as a unified global voice for operator interests and a counterbalance to fragmented regional advocacy efforts.
+
+The appointment occurs as the WGBA prepares to release its inaugural flagship report coinciding with the Geneva launch event. The timing suggests the alliance intends to arrive in the international arena with substantive research backing its initial positions on regulation, taxation, and responsible gambling standards.
+
+## The WGBA's Mission and Scope
+
+The World Gaming and Betting Alliance represents a consolidation of operator advocacy across geographic regions, bringing together European, North American, Asian, and other regional trade bodies under a single umbrella. The EGBA, Europe's primary operator trade association, remains a key constituent but no longer the sole voice for major international operators.
+
+By recruiting experienced EGBA leadership, the WGBA signals continuity with established European advocacy models—including direct regulatory engagement, evidence-based policy research, and coalition-building around shared operator interests—while extending that playbook globally.
+
+## Why This Timing Matters
+
+The appointment and launch coincide with a period of accelerating regulatory fragmentation. Peru's tax bill, Brazil's betting ban, and the UK's ongoing affordability framework review illustrate the lack of coherent global standards. A well-resourced international alliance can help coordinate operator responses, share best practices across markets, and build collective leverage with multilateral bodies like the United Nations Office on Drugs and Crime and the Financial Action Task Force.
+
+The inaugural report will be watched closely by both operators and regulators. Content focus—whether on responsible gambling, tax harmonisation, anti-money laundering standards, or market access—will telegraph the WGBA's strategic priorities and reveal which operator concerns are being foregrounded in international debate.
+
+## Operational and Competitive Implications
+
+For operators, the WGBA creates a new channel for collective advocacy that may prove more effective than existing regional fragmentation. For regulators, the alliance presents a single interlocutor on global issues, though it also concentrates operator voice in ways that may complicate negotiations with individual jurisdictions.
+
+The appointment of a seasoned EGBA executive provides institutional memory and credibility that can accelerate the WGBA's establishment with international bodies. However, the alliance's ultimate influence will depend on membership depth, funding, and the quality of its research outputs—factors to monitor as the Geneva launch approaches.`,
+    featuredImage: "/images/articles/wgba-egba-exec-director-general-geneva-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t5520", label: "WGBA", slug: "wgba" },
+      { id: "t5521", label: "trade association", slug: "trade-association" },
+      { id: "t5522", label: "EGBA", slug: "egba" },
+      { id: "t5523", label: "industry advocacy", slug: "industry-advocacy" },
+      { id: "t5524", label: "global regulation", slug: "global-regulation" },
+      { id: "t5525", label: "operator representation", slug: "operator-representation" },
+      { id: "t5526", label: "governance", slug: "governance" },
+      { id: "t5527", label: "international standards", slug: "international-standards" },
+    ],
+    sourceName: "iGaming Business",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "EGBA Alum Leads World Gaming & Betting Alliance as Geneva Launch Looms | iGaming Pulse",
+    metaDescription: "World Gaming & Betting Alliance appoints EGBA veteran as director general ahead of Geneva launch and inaugural report.",
+    likes: 19,
+    comments: [],
+  },
+
+  {
+    id: "891",
+    slug: "brazil-anj-niche-betting-high-risk-players-2025",
+    language: "en",
+    translationGroupId: "tg-891",
+    title: "Brazil Regulator Flags Niche Betting Uptick Among High-Risk Players in 2025 Report",
+    excerpt: "Brazil's ANJ identifies elevated niche sports betting among high-risk players, suggesting product design and player vulnerability correlate.",
+    content: `Brazil's Agência Nacional de Jogos has flagged a concentration of niche sports betting activity among high-risk player segments in its 2025 annual regulatory report, providing empirical data on how betting product type and player vulnerability intersect in the Brazilian market.
+
+The ANJ's finding—that niche sports betting verticals attract disproportionate participation from high-risk players—reflects a shift in player behaviour and offers a factual basis for product-level regulation as Brazil's government navigates the fallout from President Lula's provisional betting ban announced earlier this year.
+
+## The Data and Its Interpretation
+
+The regulator argued in the report that the concentration of niche sports betting among high-risk cohorts likely reflects a lack of casual bettors within more specialised betting categories. In other words, niche verticals—such as esports, darts, table tennis, and other non-mainstream sports—appear to attract a more homogeneous player base of experienced, higher-frequency bettors, with a disproportionate share meeting ANJ high-risk classification criteria.
+
+This pattern contrasts with mainstream sports betting (football, basketball), where casual and high-risk players coexist across a broader spectrum of engagement and betting sizes. The implication is that niche verticals may require more targeted player protection measures, such as enhanced affordability checks, betting limits, or account friction mechanisms designed to interrupt loss-chasing behaviour.
+
+## Regulatory and Operational Significance
+
+The ANJ's findings arrive during a period of extraordinary uncertainty in Brazil. President Lula's provisional measure banning licensed sportsbooks, which took effect in October 2024, has resulted in the loss of more than 3,500 jobs and the suspension of operations by major operators. Pending legislation, the fate of Brazil's regulated betting market remains unclear.
+
+Nevertheless, the ANJ's regulatory data will inform whatever licensing framework eventually emerges. If Brazil reopens the market with a narrower set of licensees or stricter product restrictions, the regulator's niche betting data will likely feature in licence condition negotiations. Operators may be required to restrict offerings in niche verticals, implement heightened controls for such products, or segregate high-risk and casual player cohorts through separate product tiers.
+
+## Implications for Player Protection and Product Design
+
+The report underscores a broader principle: betting product type is not neutral with respect to player risk. Niche sports—by their nature less familiar to casual fans—attract informed bettors who may have stronger models, sharper analytical skills, and higher willingness to bet at larger stakes. These characteristics correlate with higher loss-chasing behaviour and vulnerability to problem gambling.
+
+Operators designing products or market-entry strategies in future Brazilian licensing cycles should anticipate that niche verticals will face closer regulatory scrutiny. A responsible operator framework in Brazil may require product design choices that prioritise mainstream sports, impose position limits on niche offerings, or implement player profiling that flags high-risk behaviour in such categories.
+
+The ANJ's data-driven approach to harm-minimisation signals that Brazilian regulation, once stabilised, will likely be more granular and behavioural-science-informed than earlier licensing regimes in the region. Operators should factor this into long-term Brazil market planning.`,
+    featuredImage: "/images/articles/brazil-anj-niche-betting-high-risk-players-2025.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t5528", label: "Brazil", slug: "brazil" },
+      { id: "t5529", label: "ANJ", slug: "anj" },
+      { id: "t5530", label: "niche sports betting", slug: "niche-sports-betting" },
+      { id: "t5531", label: "high-risk players", slug: "high-risk-players" },
+      { id: "t5532", label: "player protection", slug: "player-protection" },
+      { id: "t5533", label: "harm prevention", slug: "harm-prevention" },
+      { id: "t5534", label: "regulatory data", slug: "regulatory-data" },
+      { id: "t5535", label: "betting regulation", slug: "betting-regulation" },
+    ],
+    sourceName: "iGaming Business",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Brazil Regulator Flags Niche Betting Uptick Among High-Risk Players in 2025 Report | iGaming Pulse",
+    metaDescription: "Brazil's ANJ identifies elevated niche sports betting among high-risk players, suggesting product design and player vulnerability correlate.",
+    likes: 5,
+    comments: [],
+  },
+
+  {
+    id: "892",
+    slug: "brazil-betting-ban-3500-job-losses-lula-2026",
+    language: "en",
+    translationGroupId: "tg-892",
+    title: "Brazil's Betting Ban Claims 3,500+ Jobs as Lula's Sportsbook Suspension Deepens Crisis",
+    excerpt: "Brazil's betting ban has eliminated more than 3,500 jobs as sportsbook suspensions continue under Lula's controversial provisional measure.",
+    content: `Brazil's provisional betting ban, imposed via presidential decree under President Luiz Inácio Lula da Silva, has resulted in the loss of more than 3,500 jobs as licensed sportsbook operators have suspended or wound down operations in the country. The employment toll underscores the material economic disruption caused by the policy and adds labour-market pressure to the ongoing debate over the ban's justification and duration.
+
+## Scale of the Crisis
+
+The job losses span operational, customer service, marketing, compliance, and administrative roles across the licensed sportsbook sector. Major operators and smaller platforms alike have implemented workforce reductions, with some maintaining skeleton crews while others have exited Brazil entirely.
+
+The 3,500+ figure represents direct employment. Indirect losses—among suppliers, payment processors, technology vendors, and affiliate networks—are likely larger but remain unquantified. The employment impact extends beyond São Paulo and Rio de Janeiro to tier-two cities where sportsbooks established regional hubs.
+
+## The Ban's Economic and Political Dimensions
+
+Lula's provisional measure, announced in October 2024, cited concerns about unlicensed betting operations, money laundering, and consumer protection as justification. The policy was presented as a temporary measure pending comprehensive reform, yet no clear reopening timeline has been communicated, leaving operators and workers in indefinite limbo.
+
+The provisional nature of the ban creates legal ambiguity. Operators have challenged the measure through Brazilian courts, arguing due process violations and lack of transition support. Some have maintained dormant licensing arrangements, suggesting contingency plans for rapid reopening. Others have reallocated resources to regional markets (Paraguay, Argentina, Colombia) to preserve operational capability and talent.
+
+## Political and Investor Pressure
+
+The scale of job losses has amplified pressure on the Lula administration to clarify its stance. Labour unions representing betting industry workers have publicly opposed the ban, and opposition legislators have introduced bills seeking to resurrect the licensed market. Regional governors, particularly in states where sportsbooks were significant employers, have expressed concern about the economic impact.
+
+International investors and operators—including major European and North American platforms—are monitoring Brazil closely. The country remains the largest and most populous market in Latin America, and a functioning regulated betting sector was valued at tens of millions of dollars annually. However, regulatory volatility on this scale has already deterred some investors from Latin American expansion, a cautionary signal for other governments considering similar disruptions.
+
+## Path Forward
+
+No consensus has emerged on whether the ban will be lifted, reformed into a narrower prohibition on specific operators or products, or replaced by a new licensing framework. The Lula administration has been opaque about its timeline and criteria for reopening, creating maximum uncertainty for workers, operators, and affected supply chains.
+
+Operators and workers have a material stake in clarity. If the ban becomes permanent, the 3,500 jobs represent permanent losses and capital write-offs for operators. If reopening occurs, the sector faces the challenge of rehiring, rehiring, and rebuilding trust with a consumer base that has been told the industry is unsafe. Either way, the human cost is already substantial.`,
+    featuredImage: "/images/articles/brazil-betting-ban-3500-job-losses-lula-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t5536", label: "Brazil", slug: "brazil" },
+      { id: "t5537", label: "betting ban", slug: "betting-ban" },
+      { id: "t5538", label: "employment", slug: "employment" },
+      { id: "t5539", label: "job losses", slug: "job-losses" },
+      { id: "t5540", label: "sportsbook regulation", slug: "sportsbook-regulation" },
+      { id: "t5541", label: "labour impact", slug: "labour-impact" },
+      { id: "t5542", label: "economic disruption", slug: "economic-disruption" },
+      { id: "t5543", label: "Lula administration", slug: "lula-administration" },
+    ],
+    sourceName: "iGaming Business",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Brazil's Betting Ban Claims 3,500+ Jobs as Lula's Sportsbook Suspension Deepens Crisis | iGaming Pulse",
+    metaDescription: "Brazil's betting ban has eliminated more than 3,500 jobs as sportsbook suspensions continue under Lula's controversial provisional measure.",
+    likes: 12,
+    comments: [],
+  },
+
+  {
+    id: "893",
+    slug: "macquarie-prediction-markets-187b-2026",
+    language: "en",
+    translationGroupId: "tg-893",
+    title: "Prediction Markets Set to Hit $187B Volume in 2026",
+    excerpt: "Macquarie revises prediction market volume forecast to $187B for 2026, down slightly from prior estimate but still indicating robust sector growth.",
+    content: `## Prediction Markets Tracking Toward $187B in Annual Volume
+
+Macquarie has adjusted its 2026 prediction market forecast to $187 billion in taker volume, marking a marginal downward revision from the research firm's $190 billion projection issued in September.
+
+Despite the modest adjustment, the revised target underscores the sector's continued expansion and growing mainstream adoption. Prediction markets—platforms where participants trade contracts linked to the outcomes of real-world events—have experienced accelerating institutional and retail interest throughout 2026.
+
+## Market Momentum Despite Minor Revisions
+
+The $187 billion figure represents meaningful growth from prior-year volumes, though Macquarie's slight pullback suggests forecasters are recalibrating expectations in light of regulatory headwinds and seasonal trading patterns.
+
+## What This Means for Operators
+
+Operators and market participants are banking on sustained volume growth through year-end, particularly ahead of the U.S. election in November and other major geopolitical events. The stability of high-volume forecasts—even with minor downward adjustments—signals confidence among research analysts that prediction markets have moved beyond speculative interest into a sustained trading category.
+
+For compliance teams and risk management, sustained high volumes underscore the need for robust surveillance systems and participant verification protocols as regulators globally assess whether prediction contracts should be treated as derivatives, securities, or a distinct asset class.`,
+    featuredImage: "/images/articles/macquarie-prediction-markets-187b-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t5544", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t5545", label: "derivatives", slug: "derivatives" },
+      { id: "t5546", label: "trading volume", slug: "trading-volume" },
+      { id: "t5547", label: "market research", slug: "market-research" },
+      { id: "t5548", label: "Macquarie", slug: "macquarie" },
+      { id: "t5549", label: "2026 forecasts", slug: "2026-forecasts" },
+      { id: "t5550", label: "event contracts", slug: "event-contracts" },
+      { id: "t5551", label: "financial derivatives", slug: "financial-derivatives" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Prediction Markets Set to Hit $187B Volume in 2026 | iGaming Pulse",
+    metaDescription: "Macquarie revises prediction market volume forecast to $187B for 2026, down slightly from prior estimate but still indicating robust sector growth.",
+    likes: 21,
+    comments: [],
+  },
+
+  {
+    id: "894",
+    slug: "election-betting-voter-opposition-2026",
+    language: "en",
+    translationGroupId: "tg-894",
+    title: "Election Betting Face Bipartisan Voter Opposition in 2026",
+    excerpt: "Bipartisan majorities oppose prediction market election contracts, creating regulatory and political headwinds for operators ahead of November 2026 voting.",
+    content: `## Public Rejects Political Prediction Markets as Election Nears
+
+A joint Reuters/Ipsos poll conducted and released on October 12 found that majorities of both Democrat and Republican voters oppose allowing prediction market trading on U.S. election outcomes, signaling potential political obstacles for the nascent event contract industry.
+
+With the November 2026 election just three weeks away, prediction market operators had anticipated a surge in political event contract volume during the final weeks of the campaign cycle. Instead, the poll results suggest significant headwinds as public sentiment runs counter to the industry's growth thesis.
+
+## Bipartisan Concern Complicates Industry Outlook
+
+The opposition transcends typical partisan divides, indicating that concerns about election markets tap into broader discomfort with commodifying political outcomes. This unified voter sentiment strengthens the hand of lawmakers from both parties who have expressed skepticism about unregulated political derivatives.
+
+Operators face a compressed timeline to address regulatory uncertainty before year-end. Several prediction market platforms have voluntarily delisted certain political contracts in recent months, acknowledging the legal and reputational risks of operating in contested regulatory space.
+
+## Regulatory Momentum Building
+
+The poll amplifies calls from lawmakers to clarify or restrict political event derivatives. A coordinated legislative effort could emerge in late 2026 or early 2027, potentially forcing platforms to wind down U.S. election-related contracts ahead of 2028 campaign trading.
+
+For operators, the challenge becomes managing both public perception and legal exposure as they weigh quarterly revenue opportunities against regulatory risk and brand reputation. Several major platforms have already signaled willingness to restrict political contracts if federal authorities issue guidance, suggesting the industry recognizes the sustainability question.`,
+    featuredImage: "/images/articles/election-betting-voter-opposition-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t5552", label: "election betting", slug: "election-betting" },
+      { id: "t5553", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t5554", label: "regulation", slug: "regulation" },
+      { id: "t5555", label: "voter opposition", slug: "voter-opposition" },
+      { id: "t5556", label: "political derivatives", slug: "political-derivatives" },
+      { id: "t5557", label: "2026 election", slug: "2026-election" },
+      { id: "t5558", label: "regulatory risk", slug: "regulatory-risk" },
+      { id: "t5559", label: "public opinion", slug: "public-opinion" },
+      { id: "t5560", label: "political risk", slug: "political-risk" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Election Betting Face Bipartisan Voter Opposition in 2026 | iGaming Pulse",
+    metaDescription: "Bipartisan majorities oppose prediction market election contracts, creating regulatory and political headwinds for operators ahead of November 2026 voting.",
+    likes: 6,
+    comments: [],
+  },
+
+  {
+    id: "895",
+    slug: "idaho-casino-security-lawsuit-2026",
+    language: "en",
+    translationGroupId: "tg-895",
+    title: "Idaho Casino Security Footage Dispute Triggers Legal Action",
+    excerpt: "Idaho woman sues casino security and police over alleged misrepresentation of surveillance footage in methamphetamine arrest case.",
+    content: `An Idaho woman arrested on drug possession charges at a tribal casino property filed suit against security personnel and police officers on October 12, claiming surveillance footage was misrepresented to implicate her in the drug discovery.
+
+Connie Ann Hansen's legal complaint alleges that casino security employees and investigating officers distorted or selectively presented video evidence to support an arrest that she contends was unsupported. The case centers on disputed accounts of what security cameras actually captured during the incident that led to methamphetamine being discovered at the property.
+
+The lawsuit underscores operational and legal vulnerabilities for casino properties when security personnel coordinate with law enforcement. Without independent oversight or strict protocols governing surveillance footage review and evidence presentation, casinos face liability exposure if security staff mischaracterize video content to police.
+
+For tribal gaming operators specifically, the case raises questions about training standards and accountability mechanisms within security departments. Tribal casinos, while operating under sovereign immunity frameworks, still face reputational and operational consequences if security practices are questioned in litigation.
+
+Industry observers note that the case highlights the importance of rigorous documentation and chain-of-custody procedures for all surveillance materials. Properties maintaining robust video retention policies and third-party verification processes for evidence review reduce exposure to claims of intentional misrepresentation.`,
+    featuredImage: "/images/articles/idaho-casino-security-lawsuit-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t5561", label: "casino security", slug: "casino-security" },
+      { id: "t5562", label: "surveillance", slug: "surveillance" },
+      { id: "t5563", label: "litigation", slug: "litigation" },
+      { id: "t5564", label: "security protocols", slug: "security-protocols" },
+      { id: "t5565", label: "liability", slug: "liability" },
+      { id: "t5566", label: "tribal gaming", slug: "tribal-gaming" },
+      { id: "t5567", label: "evidence handling", slug: "evidence-handling" },
+      { id: "t5568", label: "legal risk", slug: "legal-risk" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Idaho Casino Security Footage Dispute Triggers Legal Action | iGaming Pulse",
+    metaDescription: "Idaho woman sues casino security and police over alleged misrepresentation of surveillance footage in methamphetamine arrest case.",
+    likes: 19,
+    comments: [],
+  },
+
+  {
+    id: "896",
+    slug: "sydney-sweeney-novig-campaign-2026",
+    language: "en",
+    translationGroupId: "tg-896",
+    title: "Sydney Sweeney Launches New Campaign for Novig Platform",
+    excerpt: "Actress Sydney Sweeney reprises high-profile role in second Novig sports prediction market campaign, underlining platform's aggressive brand-building push.",
+    content: `Sydney Sweeney debuted a second commercial for sports prediction market operator Novig on October 12, extending her endorsement relationship with the emerging platform through additional advertising placements.
+
+The new spot maintains creative continuity with Sweeney's inaugural advertisement, which launched in September. Both commercials employ high-profile celebrity talent and distinctive creative execution designed to drive rapid brand awareness and differentiate Novig in the crowded prediction market landscape.
+
+Novig's multi-commercial investment in a recognizable entertainment figure reflects aggressive positioning as the platform competes for mainstream adoption against established derivatives trading platforms and newly launched prediction market competitors. Celebrity endorsement campaigns have become standard for betting and prediction market platforms seeking rapid user base expansion.
+
+The campaign underscores Novig's willingness to deploy substantial marketing budgets during a critical growth phase, as the platform targets both casual sports enthusiasts and active traders seeking exposure to political and event prediction contracts.
+
+For the broader prediction market sector, high-visibility celebrity endorsements normalize political and event derivatives as mainstream consumer financial products—a perception shift that benefits the entire category as public comfort with prediction markets increases.`,
+    featuredImage: "/images/articles/sydney-sweeney-novig-campaign-2026.png",
+    author: AUTHORS[3],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "marketing-traffic",
+    tags: [
+      { id: "t5569", label: "celebrity endorsement", slug: "celebrity-endorsement" },
+      { id: "t5570", label: "marketing", slug: "marketing" },
+      { id: "t5571", label: "brand awareness", slug: "brand-awareness" },
+      { id: "t5572", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t5573", label: "sports betting", slug: "sports-betting" },
+      { id: "t5574", label: "user acquisition", slug: "user-acquisition" },
+      { id: "t5575", label: "Novig", slug: "novig" },
+      { id: "t5576", label: "Sydney Sweeney", slug: "sydney-sweeney" },
+      { id: "t5577", label: "advertising", slug: "advertising" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Sydney Sweeney Launches New Campaign for Novig Platform | iGaming Pulse",
+    metaDescription: "Actress Sydney Sweeney reprises high-profile role in second Novig sports prediction market campaign, underlining platform's aggressive brand-building push.",
+    likes: 7,
+    comments: [],
+  },
+
+  {
+    id: "897",
+    slug: "ig-group-prediction-market-volume-concerns-2026",
+    language: "en",
+    translationGroupId: "tg-897",
+    title: "IG Group CEO Questions Prediction Market Volume Reporting",
+    excerpt: "IG Group CEO expresses skepticism about prediction market volume figures, predicts Supreme Court involvement in event contract regulation.",
+    content: `## Major Derivatives Operator Questions Prediction Market Data Integrity
+
+Breon Corcoran, CEO of derivatives trading platform IG Group (LSE: IGG), cast doubt on how leading prediction market operators report trading volumes, suggesting the figures may not withstand scrutiny in regulatory or legal proceedings.
+
+Speaking at an industry event on October 12, Corcoran indicated that the methodologies used by major prediction market platforms to calculate and disclose volume metrics warrant closer examination. His comments highlight data validation concerns within an industry that has expanded rapidly without standardized reporting frameworks.
+
+## Supreme Court Intervention Expected
+
+Corcoran also suggested the U.S. Supreme Court is likely to intervene and provide definitive legal clarification on event contract regulation. Currently, prediction markets operate in a murky legal space where federal authority remains contested between the Commodity Futures Trading Commission, securities regulators, and state gambling authorities.
+
+A Supreme Court ruling would establish binding precedent on whether prediction markets constitute derivatives (subject to CFTC oversight), securities (subject to SEC oversight), gambling products (subject to state gaming commissions), or a distinct regulatory category. That clarity would reshape operational compliance for all U.S. platforms.
+
+## Industry-Wide Implications
+
+Corcoran's skepticism about volume reporting emerges amid rapid growth claims from prediction market operators, which have become increasingly visible through aggressive marketing campaigns and celebrity endorsements. If major platforms' reported volumes are questioned or revised downward by regulators, valuations and growth narratives could face significant headwinds.
+
+IG Group itself operates prediction market products and competes directly with specialized platforms, positioning Corcoran's comments as both cautionary commentary and competitive positioning. For the broader derivatives and betting industries, his remarks underscore the importance of settling prediction market legal status before market maturity is assumed based on potentially inflated volume figures.`,
+    featuredImage: "/images/articles/ig-group-prediction-market-volume-concerns-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t5578", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t5579", label: "volume reporting", slug: "volume-reporting" },
+      { id: "t5580", label: "transparency", slug: "transparency" },
+      { id: "t5581", label: "legal uncertainty", slug: "legal-uncertainty" },
+      { id: "t5582", label: "Supreme Court", slug: "supreme-court" },
+      { id: "t5583", label: "IG Group", slug: "ig-group" },
+      { id: "t5584", label: "regulatory clarity", slug: "regulatory-clarity" },
+      { id: "t5585", label: "derivatives regulation", slug: "derivatives-regulation" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "IG Group CEO Questions Prediction Market Volume Reporting | iGaming Pulse",
+    metaDescription: "IG Group CEO expresses skepticism about prediction market volume figures, predicts Supreme Court involvement in event contract regulation.",
+    likes: 8,
+    comments: [],
+  },
+
+  {
+    id: "898",
+    slug: "sands-ceo-macau-commitment-2026",
+    language: "en",
+    translationGroupId: "tg-898",
+    title: "Sands CEO Doubles Down on Macau Despite Four-Month Revenue Slowdown in 2026",
+    excerpt: "Despite four consecutive months of revenue decline, Las Vegas Sands' CEO reaffirms Macau strategy and rules out prediction market moves.",
+    content: `Las Vegas Sands is standing firm in Macau even as gaming revenue in the world's largest casino market shows signs of fatigue.
+
+Chairman and Chief Executive Patrick Dumont told Bloomberg TV at The Venetian Macao yesterday that the operator remains bullish on its Asia-Pacific footprint, despite headwinds that have compressed regional gaming revenue for four straight months. The remarks came as broader market conditions in Macau remain uncertain, with VIP rolling volume and mass-market gaming both under pressure.
+
+## Macau Slowdown Not Deterrent
+
+Dumont's public confidence in the territory—which generates a significant portion of Las Vegas Sands' consolidated revenue—signals management's belief that current conditions represent a temporary correction rather than a longer-term structural decline. The operator has deep operational roots in Macau through The Venetian Macao and other properties, and Dumont's comments suggest no major strategic pivot is imminent.
+
+"We remain committed to the region," Dumont indicated during the interview, underscoring that Las Vegas Sands sees opportunity despite near-term softness. The company continues to invest in property enhancements and customer experience across its Macau portfolio.
+
+## Prediction Market Expansion Off the Table
+
+In a notable declaration, Dumont explicitly ruled out expansion into prediction markets—a sector drawing increasing attention from operators and regulators globally. The move reflects Las Vegas Sands' cautious stance on event-based wagering categories that lack established regulatory frameworks in most jurisdictions.
+
+The decision to stay out of prediction markets aligns with broader industry caution surrounding the space. While some operators and fintechs have aggressively pursued prediction market licenses, traditional gaming companies have largely held back, citing regulatory uncertainty and questions about market sustainability. Dumont's statement suggests Las Vegas Sands will continue to prioritize its core casino and resort operations.
+
+## What to Watch
+
+Investors and market watchers should monitor Macau gaming trends through Q4 2026. If the four-month slowdown extends into the holiday season, Dumont's optimistic posture may face pressure from analysts questioning the timeline for recovery. Additionally, any major regulatory changes in Macau or shifts in travel patterns from mainland China could reshape the operator's near-term performance.`,
+    featuredImage: "/images/articles/sands-ceo-macau-commitment-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t5586", label: "Las Vegas Sands", slug: "las-vegas-sands" },
+      { id: "t5587", label: "Macau", slug: "macau" },
+      { id: "t5588", label: "gaming revenue", slug: "gaming-revenue" },
+      { id: "t5589", label: "Patrick Dumont", slug: "patrick-dumont" },
+      { id: "t5590", label: "operator strategy", slug: "operator-strategy" },
+      { id: "t5591", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t5592", label: "Asia-Pacific gaming", slug: "asia-pacific-gaming" },
+      { id: "t5593", label: "corporate guidance", slug: "corporate-guidance" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Sands CEO Doubles Down on Macau Despite Four-Month Revenue Slowdown in 2026 | iGaming Pulse",
+    metaDescription: "Despite four consecutive months of revenue decline, Las Vegas Sands' CEO reaffirms Macau strategy and rules out prediction market moves.",
+    likes: 22,
+    comments: [],
+  },
+
+  {
+    id: "899",
+    slug: "cftc-sports-betting-nba-national-rules-2026",
+    language: "en",
+    translationGroupId: "tg-899",
+    title: "CFTC Clarifies Sportsbook vs Event Contracts; NBA Pushes National Consistency in 2026",
+    excerpt: "CFTC draws clearer lines between sports betting and event contracts as NBA and NFL take opposing stances on national vs state regulation.",
+    content: `The regulatory landscape for prediction markets and sports betting grew more complex on October 12 as the Commodity Futures Trading Commission released guidance distinguishing between traditional sportsbook wagers and derivative contracts tied to event outcomes.
+
+The CFTC's clarification is intended to help operators, platforms, and regulators determine which products fall under federal derivatives oversight versus state sports betting frameworks. The move comes as prediction markets have accelerated expansion and as major leagues grapple with how to position themselves within evolving regulatory architecture.
+
+## NBA Pushes National Coordination
+
+The National Basketball Association has called for a coordinated national approach to prediction market regulation, arguing that fragmented state-by-state oversight creates compliance burdens and limits innovation. The NBA's position reflects the league's interest in standardizing how fan engagement with event-based wagering products is policed and monetized across the country.
+
+In direct contrast, the National Football League has signaled support for state-level regulatory authority, preferring that individual states maintain control over prediction market licensing and enforcement. This divergence between the two major leagues underscores deeper disagreements within sports governance about whether federal standardization or state sovereignty better serves the industry.
+
+## CFTC Guidance Impact
+
+The CFTC's new rulemaking clarifies that traditional sportsbook bets—fixed-odds wagers on sports outcomes—operate under state gambling jurisdiction, while certain derivatives contracts may fall under federal regulatory purview. The distinction matters because it determines which agencies oversee compliance, conduct market surveillance, and enforce rules against fraud and manipulation.
+
+For platforms operating in multiple states, the guidance could reduce some compliance ambiguity but may also lock certain prediction market products into federal registration requirements that add operational complexity. Operators now face clearer but potentially more rigid pathways to market entry.
+
+## Regulatory Path Forward
+
+The NBA's preference for national standards and the NFL's federalist stance suggest ongoing debate within sports governance about the optimal regulatory structure. State attorneys general and gaming commissions will likely take cues from CFTC guidance when drafting or updating prediction market license frameworks. Expect federal-state coordination efforts to accelerate through late 2026 as the two approaches begin to collide in practice.`,
+    featuredImage: "/images/articles/cftc-sports-betting-nba-national-rules-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t5594", label: "CFTC", slug: "cftc" },
+      { id: "t5595", label: "sports betting", slug: "sports-betting" },
+      { id: "t5596", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t5597", label: "regulation", slug: "regulation" },
+      { id: "t5598", label: "NBA", slug: "nba" },
+      { id: "t5599", label: "NFL", slug: "nfl" },
+      { id: "t5600", label: "event contracts", slug: "event-contracts" },
+      { id: "t5601", label: "national regulation", slug: "national-regulation" },
+      { id: "t5602", label: "2026", slug: "2026" },
+    ],
+    sourceName: "gamblinginsider.com",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "CFTC Clarifies Sportsbook vs Event Contracts; NBA Pushes National Consistency in 2026 | iGaming Pulse",
+    metaDescription: "CFTC draws clearer lines between sports betting and event contracts as NBA and NFL take opposing stances on national vs state regulation.",
+    likes: 24,
+    comments: [],
+  },
+
+  {
+    id: "900",
+    slug: "everton-sherif-betting-fine-fa-2026",
+    language: "en",
+    translationGroupId: "tg-900",
+    title: "Everton's Martin Sherif Fined £5,000 for Betting Rule Violations in 2026",
+    excerpt: "The Football Association has fined Everton forward Martin Sherif £5,000 for violating player betting regulations, continuing the sport's enforcement push.",
+    content: `The Football Association has handed Everton forward Martin Sherif a £5,000 fine for breaching betting rules, marking another example of English football's governing body enforcing restrictions on athlete wagering.
+
+The disciplinary action against Sherif reflects the FA's ongoing commitment to policing player involvement in gambling activities. Player betting violations carry serious integrity implications and can undermine public confidence in fair competition, making enforcement a priority for sports regulators across jurisdictions.
+
+Sherif, who has represented Everton's youth and senior squads, joins a growing list of footballers who have faced penalties for wagering-related breaches. The FA maintains explicit prohibitions on player betting in league competitions and related markets, with violations triggering financial sanctions and potential suspension.
+
+The £5,000 penalty is within the FA's standard enforcement range for betting rule breaches by professional players. The fine signals that the governing body continues active monitoring and enforcement despite the complexities of detecting and proving betting violations in an era when wagering occurs across multiple licensed and unlicensed platforms.
+
+For operators and sports betting companies, the Sherif case reinforces the importance of compliance frameworks that prevent players from accessing betting accounts or wagering on their own leagues and competitions. Sports integrity units across the industry monitor betting patterns for suspicious player activity, and regulatory cooperation between operators and sports bodies remains essential to maintaining the sport's credibility.`,
+    featuredImage: "/images/articles/everton-sherif-betting-fine-fa-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t5603", label: "Everton", slug: "everton" },
+      { id: "t5604", label: "Martin Sherif", slug: "martin-sherif" },
+      { id: "t5605", label: "FA", slug: "fa" },
+      { id: "t5606", label: "betting rules", slug: "betting-rules" },
+      { id: "t5607", label: "player discipline", slug: "player-discipline" },
+      { id: "t5608", label: "football", slug: "football" },
+      { id: "t5609", label: "integrity", slug: "integrity" },
+      { id: "t5610", label: "regulatory compliance", slug: "regulatory-compliance" },
+      { id: "t5611", label: "UK", slug: "uk" },
+      { id: "t5612", label: "2026", slug: "2026" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Everton's Martin Sherif Fined £5,000 for Betting Rule Violations in 2026 | iGaming Pulse",
+    metaDescription: "The Football Association has fined Everton forward Martin Sherif £5,000 for violating player betting regulations, continuing the sport's enforcement push.",
+    likes: 8,
+    comments: [],
+  },
+
+  {
+    id: "901",
+    slug: "kalshi-tribal-partnerships-legal-2026",
+    language: "en",
+    translationGroupId: "tg-901",
+    title: "Kalshi Pursues Tribal Gaming Partnerships Amid Legal Challenges in 2026",
+    excerpt: "Kalshi pursues tribal gaming partnerships as a regulatory workaround while facing courtroom opposition to its prediction market model.",
+    content: `Kalshi, the prediction market platform seeking to expand into sports and event-based wagering, is actively courting tribal gaming operators as strategic partners—a move that could reshape how prediction markets gain mainstream acceptance and regulatory approval in the United States.
+
+In an exclusive interview with Gambling Insider, Kalshi executives argued that prediction markets and tribal gaming can operate profitably side-by-side without cannibalizing each other's revenues or creating legal conflicts. The company contends that tribal sovereignty and established gaming frameworks provide a pathway for prediction market legitimacy that avoids some federal and state regulatory obstacles.
+
+## Tribal Gaming as Regulatory Leverage
+
+Kalshi's interest in tribal partnerships reflects broader strategic thinking about how to accelerate market penetration. Tribal gaming operators control significant gaming revenue and operate under distinct federal and state regulatory structures that differ from commercial casino licensing. By positioning prediction markets as a complementary product for tribal operators, Kalshi potentially gains access to established gaming infrastructure and regulatory relationships.
+
+However, tribal gaming leaders have remained cautious. Exclusive conversations reveal significant unresolved questions about how revenue would be shared between prediction market platforms and tribal operators, what legal liabilities tribal entities would assume by hosting Kalshi products, and whether prediction market expansion could compromise tribal gaming operators' existing licensing agreements with state regulators.
+
+## Legal Headwinds
+
+Kalshi's partnership outreach occurs against a backdrop of ongoing legal challenges to its core business. Multiple parties have challenged Kalshi's regulatory status and product offerings in court, with arguments hinging on whether prediction markets constitute illegal gambling, unlicensed derivatives trading, or permissible wagering under existing federal frameworks.
+
+These legal battles have not deterred Kalshi from pursuing tribal partnerships, suggesting company leadership believes the tribal pathway could offer partial insulation from some legal risks. Whether tribal courts or the Indian Gaming Regulatory Commission would provide that protection remains uncertain.
+
+## Path Forward Uncertain
+
+Tribal gaming operators are unlikely to commit significant resources to prediction market integration without greater clarity on revenue models, indemnification, and legal risk allocation. Kalshi's success in tribal partnerships likely depends on resolving the platform's federal regulatory status first—a process that could take years and whose outcome remains unpredictable given the current litigation posture.`,
+    featuredImage: "/images/articles/kalshi-tribal-partnerships-legal-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t5613", label: "Kalshi", slug: "kalshi" },
+      { id: "t5614", label: "tribal gaming", slug: "tribal-gaming" },
+      { id: "t5615", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t5616", label: "partnerships", slug: "partnerships" },
+      { id: "t5617", label: "regulatory strategy", slug: "regulatory-strategy" },
+      { id: "t5618", label: "revenue sharing", slug: "revenue-sharing" },
+      { id: "t5619", label: "legal challenges", slug: "legal-challenges" },
+      { id: "t5620", label: "2026", slug: "2026" },
+    ],
+    sourceName: "gamblinginsider.com",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Kalshi Pursues Tribal Gaming Partnerships Amid Legal Challenges in 2026 | iGaming Pulse",
+    metaDescription: "Kalshi pursues tribal gaming partnerships as a regulatory workaround while facing courtroom opposition to its prediction market model.",
+    likes: 12,
+    comments: [],
+  },
+
+  {
+    id: "902",
+    slug: "2027-oscars-prediction-markets-2026",
+    language: "en",
+    translationGroupId: "tg-902",
+    title: "2027 Oscars Odds Heat Up Prediction Markets Ahead of March Awards",
+    excerpt: "Prediction markets are now pricing the 2027 Oscars with preliminary voting in December and the ceremony set for March 14, 2027.",
+    content: `Prediction markets have begun offering odds on the 99th Academy Awards, with the ceremony scheduled for March 14, 2027. The Oscars represent one of the year's largest event-based wagering moments, driving significant volume across platforms and drawing participation from casual and professional bettors alike.
+
+Preliminary voting for the awards is set for December 7, 2026, followed by final nomination announcements. The staggered calendar gives prediction markets an extended engagement window—bettors can wager on early nomination predictions, and then shift positions as finalist fields narrow and final voting approaches.
+
+The Oscars have become a marquee event for prediction market platforms seeking to demonstrate legitimate use cases beyond political or financial event wagering. Entertainment wagering attracts mainstream attention and lower regulatory scrutiny than political prediction markets, making awards season a reliable revenue and engagement driver for platforms navigating compliance uncertainty.
+
+Platforms offering Oscars odds can expect volume to accelerate sharply in the weeks leading up to preliminary voting and then again as the March ceremony approaches. Category-level granularity—Best Picture, acting categories, directing, and increasingly niche awards—allows platforms to offer deep markets that cater to both casual Oscar enthusiasts and professional traders.
+
+For platforms seeking to prove prediction market sustainability and user engagement, awards season is critical. The Oscars, Golden Globes, Emmy Awards, and other major ceremonies create predictable volume windows that platforms can use to demonstrate monetization potential to investors and regulators.`,
+    featuredImage: "/images/articles/2027-oscars-prediction-markets-2026.png",
+    author: AUTHORS[3],
+    publishedAt: "2026-10-13T08:30:00Z",
+    category: "marketing-traffic",
+    tags: [
+      { id: "t5621", label: "Oscars 2027", slug: "oscars-2027" },
+      { id: "t5622", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t5623", label: "Academy Awards", slug: "academy-awards" },
+      { id: "t5624", label: "event wagering", slug: "event-wagering" },
+      { id: "t5625", label: "volume driver", slug: "volume-driver" },
+      { id: "t5626", label: "awards season", slug: "awards-season" },
+      { id: "t5627", label: "2027", slug: "2027" },
+      { id: "t5628", label: "engagement", slug: "engagement" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "2027 Oscars Odds Heat Up Prediction Markets Ahead of March Awards | iGaming Pulse",
+    metaDescription: "Prediction markets are now pricing the 2027 Oscars with preliminary voting in December and the ceremony set for March 14, 2027.",
+    likes: 11,
+    comments: [],
   }
 ];
 
