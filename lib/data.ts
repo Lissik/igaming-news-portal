@@ -41130,6 +41130,69 @@ As the trade deadline approaches, sportsbooks should expect continued volatility
     metaDescription: "NFL midseason trade activity is forcing sportsbooks to rapidly adjust betting lines and player prop markets amid injury-driven roster changes and competitive un",
     likes: 9,
     comments: [],
+  },
+
+  {
+    id: "918",
+    slug: "spice-international-2026-cebu-philippines",
+    language: "en",
+    translationGroupId: "tg-918",
+    title: "SPiCE International 2026: Asia's Mobile-First iGaming Summit Returns to Cebu for Third Edition",
+    excerpt: "The third annual SPiCE International — the Strategic Platform for iGaming Conference & Exhibition — heads to Shangri-La Mactan Cebu on 12–13 November 2026, with mobile-first growth in Southeast Asia, localisation, payments and AI at the top of the agenda.",
+    content: `**SPiCE International 2026** — the Strategic Platform for iGaming Conference & Exhibition — returns for its **third edition on 12–13 November 2026** at the **Shangri-La Mactan Cebu, Philippines**, with one central question driving the agenda: how do you scale in Asia without losing control of costs, compliance or customer experience?
+
+Over two days, operators, suppliers, investors, technology leaders and regulatory experts will explore the full spectrum of growth opportunities in the region — from product-market fit and localisation to payments, AI and capital allocation.
+
+## Why Southeast Asia, Why Now
+
+Southeast Asia's iGaming ecosystem is not a monolith. Each market, from Thailand to Vietnam, carries distinct consumer behaviours, regulatory frameworks and infrastructure realities. Succeeding across them requires granular, dynamic and programmatic strategies built on continuous signals rather than static assumptions.
+
+Three dynamics make the region particularly significant at this moment:
+
+- **Mobile-First Consumer Base:** Audiences across Southeast Asia increasingly skip desktop touchpoints entirely, engaging directly through smartphones.
+- **Rapid App Adoption:** Smartphone infrastructure underpins the primary channel for player acquisition, retention and monetisation.
+- **Regulatory Motion:** Frameworks are evolving across multiple jurisdictions simultaneously, requiring operators to build compliance into product rather than add it on top.
+
+## Sponsor Spotlight: Bidroid
+
+SPiCE International 2026 welcomes **Bidroid** as a valued sponsor. Bidroid helps businesses acquire high-quality app users, increase installs and transactions, improve engagement and deliver ROI-focused campaigns — all powered by machine learning and predictive targeting.
+
+Ahead of the summit, Bidroid outlined its positioning in precision-led growth for the Asian market:
+
+*"The gap between short-term metrics — installs or quick downloads — and long-term, scalable profitability is where many operators lose revenue opportunity. At Bidroid, we leverage proprietary media and data-driven approaches to bridge that gap. Ultimately, our goal is to give partners data-driven clarity on what works, and why."*
+
+As privacy frameworks evolve across the region, Bidroid continues to build tools that deliver individual-level performance signals while encouraging sustainable, long-term growth strategies for operators active across Southeast Asian markets.
+
+## Secure Your Place
+
+SPiCE International 2026 takes place **12–13 November 2026** at the **Shangri-La Mactan Cebu, Philippines**.
+
+For registration and delegate packages, visit [eventus-international.com](https://www.eventus-international.com).
+
+For sponsorship and exhibition enquiries, contact Lou-Mari Burnett, Chief Operating Officer, Eventus International: loumari@eventus-international.com`,
+    featuredImage: "/images/articles/spice-international-2026-cebu-philippines.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-12T08:30:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t5759", label: "SPiCE International 2026", slug: "spice-international-2026" },
+      { id: "t5760", label: "Cebu", slug: "cebu" },
+      { id: "t5761", label: "Philippines", slug: "philippines" },
+      { id: "t5762", label: "Southeast Asia", slug: "southeast-asia" },
+      { id: "t5763", label: "Mobile Gaming", slug: "mobile-gaming" },
+      { id: "t5764", label: "iGaming Asia", slug: "igaming-asia" },
+      { id: "t5765", label: "Eventus International", slug: "eventus-international" },
+      { id: "t5766", label: "Bidroid", slug: "bidroid" },
+    ],
+    sourceName: "Eventus International",
+    sourceUrl: "https://www.eventus-international.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "SPiCE International 2026: Asia's Mobile-First iGaming Summit Returns to Cebu for Third Edition | iGaming Pulse",
+    metaDescription: "The third annual SPiCE International — the Strategic Platform for iGaming Conference & Exhibition — heads to Shangri-La Mactan Cebu on 12–13 November 2026, with",
+    likes: 9,
+    comments: [],
   }
 ];
 
