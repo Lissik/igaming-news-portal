@@ -61,7 +61,10 @@ def make_tag_slug(label):
 def article_to_ts(article, article_id, tag_id_start):
     cat_raw = article.get("category", "")
     category = CATEGORY_MAP.get(cat_raw, "regulation")
-    author = AUTHORS_BY_CATEGORY.get(category, "AUTHORS[0]")
+    if "author_index" in article:
+        author = f"AUTHORS[{int(article['author_index'])}]"
+    else:
+        author = AUTHORS_BY_CATEGORY.get(category, "AUTHORS[0]")
 
     slug = article.get("slug", slugify(article.get("rewritten_headline", str(article_id))))
     title = article.get("rewritten_headline", article.get("title", ""))
@@ -88,8 +91,8 @@ def article_to_ts(article, article_id, tag_id_start):
 
     image_path = f"/images/articles/{slug}.png"
 
-    seo_title = f"{title} | iGaming Pulse"
-    meta_desc = excerpt[:160]
+    seo_title = article.get("seo_title") or f"{title} | iGaming Pulse"
+    meta_desc = article.get("meta_description") or excerpt[:160]
 
     import random
     likes = random.randint(5, 25)
@@ -120,6 +123,39 @@ def article_to_ts(article, article_id, tag_id_start):
     comments: [],
   }}'''
     return ts, len(tags)
+
+def submit_for_indexing(urls):
+    """Submit freshly-published URLs for indexing immediately via igaming_indexing_manager.py
+    (service-account auth, same pattern as the virtuwise.io pipeline — no OAuth refresh-token
+    expiry), and record them in the shared submitted_urls.json log used by index_submitter.py."""
+    if not urls:
+        return
+    print(f"\nSubmitting {len(urls)} URL(s) for indexing...")
+
+    try:
+        result = subprocess.run(
+            [
+                "/Library/Frameworks/Python.framework/Versions/3.13/bin/python3",
+                "/Users/Administrator/igaming_indexing_manager.py",
+                "--submit-many",
+                *urls,
+            ],
+            capture_output=True, text=True, timeout=120,
+        )
+        print("  " + result.stdout.strip().replace("\n", "\n  "))
+        if result.returncode != 0:
+            print(f"  igaming_indexing_manager.py error: {result.stderr[-500:]}")
+    except Exception as e:
+        print(f"  Indexing submission skipped ({e})")
+
+    try:
+        log_path = Path("/Users/Administrator/submitted_urls.json")
+        existing = set(json.loads(log_path.read_text())) if log_path.exists() else set()
+        existing.update(urls)
+        log_path.write_text(json.dumps(sorted(existing), indent=2))
+    except Exception as e:
+        print(f"  Could not update submitted_urls.json: {e}")
+
 
 def main():
     if len(sys.argv) < 2:
@@ -179,11 +215,12 @@ def main():
 
     insertion = ",\n\n".join(ts_blocks)
 
-    # Insert before closing ]; of ARTICLES array
-    # Remove trailing comma from last existing article before inserting
+    # Insert before closing ]; of ARTICLES array.
+    # Last existing article's closing "}" may or may not have a trailing comma
+    # depending on how it was written previously — accept both.
     new_content = re.sub(
-        r'},(\s*)\];\s*\n// ─── Helper',
-        lambda m: f'}}\n\n{insertion}\n];\n\n// ─── Helper',
+        r'},?(\s*)\];\s*\n// [─�]{3} Helper',
+        lambda m: f'}},\n\n{insertion}\n];\n\n// ─── Helper',
         content,
         count=1
     )
@@ -201,6 +238,13 @@ def main():
     msg = f"Add {len(new_articles)} articles for {date_str}"
 
     subprocess.run(["git", "add", "lib/data.ts"], check=True)
+    # Also stage any matching PNG images that are already on disk (avoids a separate commit/build)
+    images_dir = REPO / "public" / "images" / "articles"
+    for article in new_articles:
+        slug = article.get("slug", "")
+        img = images_dir / f"{slug}.png"
+        if img.exists():
+            subprocess.run(["git", "add", str(img)], check=False)
     subprocess.run(["git", "commit", "-m", msg], check=True)
     subprocess.run(["git", "push"], check=True)
     print(f"\nDone! Committed and pushed: '{msg}'")
@@ -219,6 +263,10 @@ def main():
         print("v0 image branch not available yet — will be merged on next run.")
 
     print("Vercel will deploy automatically.")
+
+    # Submit the just-published URLs for indexing right away.
+    new_urls = [f"https://igamingpulse.media/en/article/{a['slug']}" for a in new_articles if a.get("slug")]
+    submit_for_indexing(new_urls)
 
 if __name__ == "__main__":
     main()
