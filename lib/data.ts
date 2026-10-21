@@ -43569,6 +43569,709 @@ This regulatory data sharing creates privacy considerations for sportsbooks, as 
     metaDescription: "Integrity monitoring has become a critical B2B compliance layer as leagues and regulators mandate real-time anomaly detection systems to identify suspicious bet",
     likes: 14,
     comments: [],
+  },
+
+  {
+    id: "964",
+    slug: "wildz-group-finland-expansion-11-brands-2026",
+    language: "en",
+    translationGroupId: "tg-964",
+    title: "Wildz Group Plans 11-Brand Finland Expansion After Licence Win 2026",
+    excerpt: "Wildz Group unveils major Finland expansion strategy with plans to launch 11 brands in the newly licensed market.",
+    content: `## Wildz Group Accelerates Nordic Expansion with Finland Multi-Brand Strategy
+
+Wildz Group has moved swiftly to capitalise on its successful Finland gaming licence, announcing plans to launch 11 distinct brands into the regulated market as part of an ambitious expansion strategy.
+
+CEO Sam Brown confirmed the multi-brand approach represents a cornerstone of the group's Nordic strategy, allowing the operator to serve diverse player demographics and preferences across multiple customer segments within Finland's regulated gambling environment.
+
+## Strategic Market Entry
+
+The 11-brand portfolio signals Wildz Group's confidence in the Finnish market's long-term value and regulatory stability. By deploying multiple brands rather than a single unified presence, the operator can target specific player cohorts—from recreational casual gamblers to experienced sports bettors—while maintaining separate brand identities and marketing narratives.
+
+This strategy mirrors successful playbooks executed by other consolidated gaming groups in Nordic markets, where brand diversity has proven effective at maximising market share capture across fragmented player bases.
+
+## What to Watch
+
+Industry observers will monitor Wildz's brand launch timeline and market positioning over the coming months. The speed of rollout and which customer segments the group prioritises first could signal broader competitive dynamics in the Finnish regulated market. Success here may validate the multi-brand model for other operators evaluating Nordic expansion strategies.`,
+    featuredImage: "/images/articles/wildz-group-finland-expansion-11-brands-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t6181", label: "Finland", slug: "finland" },
+      { id: "t6182", label: "Wildz Group", slug: "wildz-group" },
+      { id: "t6183", label: "Market Expansion", slug: "market-expansion" },
+      { id: "t6184", label: "Licensing", slug: "licensing" },
+      { id: "t6185", label: "Nordic Region", slug: "nordic-region" },
+      { id: "t6186", label: "Multi-Brand Strategy", slug: "multi-brand-strategy" },
+      { id: "t6187", label: "Regulated Markets", slug: "regulated-markets" },
+      { id: "t6188", label: "Growth Strategy", slug: "growth-strategy" },
+    ],
+    sourceName: "iGamingBusiness",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Wildz Group Plans 11-Brand Finland Expansion After Licence Win 2026 | iGaming Pulse",
+    metaDescription: "Wildz Group unveils major Finland expansion strategy with plans to launch 11 brands in the newly licensed market.",
+    likes: 22,
+    comments: [],
+  },
+
+  {
+    id: "965",
+    slug: "curacao-gaming-authority-licensing-portal-breach-2026",
+    language: "en",
+    translationGroupId: "tg-965",
+    title: "Curaçao Regulator Rebuilds Licensing Portal Following Data Breach 2026",
+    excerpt: "Curaçao Gaming Authority launches temporary licensing portal to restore operations after operator data was exposed in security breach.",
+    content: `The Curaçao Gaming Authority is rebuilding its regulatory infrastructure following a security incident that compromised confidential data held by licensed gaming operators. The temporary licensing portal will enable the regulator to maintain continuity of licence administration and operator management while a new permanent system undergoes development.
+
+## Response to Data Exposure
+
+The breach exposed sensitive information belonging to licence holders operating under Curaçao's gaming framework. The regulator has prioritised rapid restoration of licensing functions through temporary infrastructure while conducting comprehensive security reviews of its systems and implementing enhanced protective measures.
+
+## Rebuilding Operator Confidence
+
+Regulatory cybersecurity breaches carry significant reputational consequences for gaming jurisdictions. Operators select licensing destinations partly based on the stability and security of regulatory infrastructure. Curaçao's expedited response demonstrates commitment to protecting licence holder information and maintaining the jurisdiction's appeal as a trusted gaming regulatory environment.
+
+The temporary portal deployment allows the Authority to resume normal licensing operations without extended downtime that could disrupt operator business continuity. Parallel development of a permanent, hardened platform will incorporate security improvements informed by the breach analysis.
+
+Operators holding Curaçao licences will need to verify recommended password changes and monitor for any unusual account activity during the transition period.`,
+    featuredImage: "/images/articles/curacao-gaming-authority-licensing-portal-breach-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6189", label: "Curaçao", slug: "cura-ao" },
+      { id: "t6190", label: "Cybersecurity", slug: "cybersecurity" },
+      { id: "t6191", label: "Data Breach", slug: "data-breach" },
+      { id: "t6192", label: "Licensing", slug: "licensing" },
+      { id: "t6193", label: "Regulatory Technology", slug: "regulatory-technology" },
+      { id: "t6194", label: "Operator Compliance", slug: "operator-compliance" },
+      { id: "t6195", label: "Remote Gaming", slug: "remote-gaming" },
+      { id: "t6196", label: "Caribbean Jurisdiction", slug: "caribbean-jurisdiction" },
+    ],
+    sourceName: "iGamingBusiness",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Curaçao Regulator Rebuilds Licensing Portal Following Data Breach 2026 | iGaming Pulse",
+    metaDescription: "Curaçao Gaming Authority launches temporary licensing portal to restore operations after operator data was exposed in security breach.",
+    likes: 9,
+    comments: [],
+  },
+
+  {
+    id: "966",
+    slug: "flutter-1400-job-cuts-uk-tax-2026",
+    language: "en",
+    translationGroupId: "tg-966",
+    title: "Flutter Plans 1,400 Job Cuts as UK Tax Burden Escalates 2026",
+    excerpt: "Flutter Entertainment announces plans to cut up to 1,400 jobs as rising UK gambling taxes compress operator profitability and force structural changes.",
+    content: `Flutter Entertainment, the UK's largest betting operator, is implementing workforce reductions affecting up to 1,400 employees as escalating gambling tax burdens compress operational profitability. The redundancies represent a significant structural response to fiscal pressures that have substantially altered the economics of operating in the UK gambling market.
+
+## Tax Escalation Impact
+
+The UK government's successive increases to gambling taxation have significantly raised the cost of operating betting and gaming services in the market. For major operators like Flutter, which generate substantial UK revenue, cumulative tax increases have eroded profit margins to levels requiring operational restructuring and headcount reduction.
+
+Flutter's decision to cut 1,400 roles—a material proportion of its workforce—demonstrates that tax escalation has moved beyond margin compression into territory requiring fundamental business model adjustment. The operator faces a choice between accepting reduced profitability or restructuring operations to align cost bases with post-tax revenue expectations.
+
+## Sector-Wide Implications
+
+Flutter's cuts are likely to trigger a cascade of cost reduction measures across the UK gambling sector. Smaller competitors without Flutter's operational scale and diversified geographic presence may face more acute profitability challenges and accelerated consolidation pressure. Mid-size operators may be forced to exit UK markets or merge with larger groups to survive elevated tax environments.
+
+The redundancies signal to UK shareholders and regulators that current tax policy is creating tangible, material business impact on employment and operational capacity. Whether this prompts tax policy recalibration or becomes a permanent feature of the UK gambling landscape remains a key regulatory watch point.`,
+    featuredImage: "/images/articles/flutter-1400-job-cuts-uk-tax-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t6197", label: "Flutter Entertainment", slug: "flutter-entertainment" },
+      { id: "t6198", label: "UK Market", slug: "uk-market" },
+      { id: "t6199", label: "Gambling Tax", slug: "gambling-tax" },
+      { id: "t6200", label: "Redundancies", slug: "redundancies" },
+      { id: "t6201", label: "Cost Reduction", slug: "cost-reduction" },
+      { id: "t6202", label: "Profitability", slug: "profitability" },
+      { id: "t6203", label: "Regulation", slug: "regulation" },
+      { id: "t6204", label: "Workforce", slug: "workforce" },
+    ],
+    sourceName: "iGamingBusiness",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Flutter Plans 1,400 Job Cuts as UK Tax Burden Escalates 2026 | iGaming Pulse",
+    metaDescription: "Flutter Entertainment announces plans to cut up to 1,400 jobs as rising UK gambling taxes compress operator profitability and force structural changes.",
+    likes: 9,
+    comments: [],
+  },
+
+  {
+    id: "967",
+    slug: "italy-retail-gaming-concessions-expire-reform-stalls-2026",
+    language: "en",
+    translationGroupId: "tg-967",
+    title: "Italian Gaming Retailers Demand Action as Concessions Face Expiration 2026",
+    excerpt: "Italian retail gaming operators demand interim regulatory measures as 10-week deadline looms for gaming machine concession expiration amid stalled land-based reform.",
+    content: `Italian retail gaming operators are pressing regulators for emergency interim measures to prevent operational disruption as existing gaming machine concessions face imminent expiration. The Italian Gaming Operators Association (AGSI) has warned that simultaneous expiration of gaming machines, sports betting, and horse racing operating rights within ten weeks—combined with the shelving of the promised land-based gaming reform decree—creates an unmanageable regulatory void.
+
+## Concession Crisis
+
+The core issue is timing: retail gaming operators require renewal or extension of their concession rights before existing authorisations lapse. The promised comprehensive restructuring of Italy's land-based gaming framework, which would have provided a clear regulatory pathway forward, has been delayed indefinitely. Without either concession renewals or a new regulatory framework, operators face potential forced cessation of licensed activities.
+
+AGSI is advocating for bridging measures—temporary regulatory extensions or interim authorisations—that would maintain operational continuity while formal land-based gaming reform proceeds through the legislative process. Such measures are standard practice across European markets experiencing regulatory transitions, allowing market participants to continue operations without interruption.
+
+## Multi-Vertical Impact
+
+The stakes extend beyond gaming machines. Sports betting operators and horse racing venues also depend on regulatory authorisations expiring within the same timeframe. A coordinated expiration across three distinct gaming verticals creates compounded regulatory complexity and operational risk.
+
+Italian regulators face pressure to act quickly. Bridging measures must be formally adopted and published before concessions begin expiring, leaving a narrow window for interim regulatory action. Without swift intervention, retail gaming venues across Italy could face forced closures despite operating in good standing under existing concession agreements.`,
+    featuredImage: "/images/articles/italy-retail-gaming-concessions-expire-reform-stalls-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6205", label: "Italy", slug: "italy" },
+      { id: "t6206", label: "Retail Gaming", slug: "retail-gaming" },
+      { id: "t6207", label: "Gaming Machines", slug: "gaming-machines" },
+      { id: "t6208", label: "Sports Betting", slug: "sports-betting" },
+      { id: "t6209", label: "Horse Racing", slug: "horse-racing" },
+      { id: "t6210", label: "Regulatory Reform", slug: "regulatory-reform" },
+      { id: "t6211", label: "Concessions", slug: "concessions" },
+      { id: "t6212", label: "AGSI", slug: "agsi" },
+    ],
+    sourceName: "iGamingBusiness",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Italian Gaming Retailers Demand Action as Concessions Face Expiration 2026 | iGaming Pulse",
+    metaDescription: "Italian retail gaming operators demand interim regulatory measures as 10-week deadline looms for gaming machine concession expiration amid stalled land-based re",
+    likes: 23,
+    comments: [],
+  },
+
+  {
+    id: "968",
+    slug: "brazil-betting-ban-sports-integrity-kambi-2026",
+    language: "en",
+    translationGroupId: "tg-968",
+    title: "Brazil Betting Ban Threatens Sports Integrity, Investor Confidence: Kambi 2026",
+    excerpt: "Kambi warns Brazil's betting ban is driving players to unregulated offshore platforms and compromising sports integrity protection, undermining investor confidence.",
+    content: `Brazil's betting restrictions are creating unintended consequences for sports integrity protection and investor confidence in the Latin American market, according to Kambi's regional leadership. Mateo Lenoble, the platform provider's Latin America director, argued that betting bans push players toward unregulated offshore platforms operating outside enforcement and compliance frameworks, paradoxically reducing rather than enhancing sports integrity safeguards.
+
+## Enforcement Gaps
+
+The core argument centres on regulatory effectiveness. Regulated betting markets operate within compliance frameworks that include integrity monitoring, suspicious betting pattern detection, and operator cooperation with sports governance bodies. When bets are driven offshore by prohibition, enforcement capabilities evaporate. Offshore platforms have no obligation to report suspicious activity or cooperate with sports integrity investigations.
+
+Lenoble's position reflects a regulatory philosophy increasingly influential among gaming operators and compliance specialists: that structured regulation with integrity requirements offers superior sports protection compared to prohibition-based approaches that displace betting activity to unregulated channels.
+
+## Investor Sentiment
+
+The betting ban has also depressed investor appetite for Brazilian gaming expansion. Operators evaluating whether to commit resources and capital to Brazil face regulatory uncertainty and periodic market closures. This dampens investment flows and limits development of domestic regulated gaming infrastructure.
+
+Kambi's public positioning reflects broader industry sentiment that Brazil's regulatory approach is counterproductive. Operators with global portfolios can redirect investment capital to more stable jurisdictions, leaving the Brazilian market underinvested in regulated gaming development. The company continues to monitor the regulatory environment and identify opportunities as market conditions evolve.`,
+    featuredImage: "/images/articles/brazil-betting-ban-sports-integrity-kambi-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6213", label: "Brazil", slug: "brazil" },
+      { id: "t6214", label: "Sports Betting", slug: "sports-betting" },
+      { id: "t6215", label: "Regulation", slug: "regulation" },
+      { id: "t6216", label: "Kambi", slug: "kambi" },
+      { id: "t6217", label: "Latin America", slug: "latin-america" },
+      { id: "t6218", label: "Sports Integrity", slug: "sports-integrity" },
+      { id: "t6219", label: "Investor Confidence", slug: "investor-confidence" },
+      { id: "t6220", label: "Offshore Markets", slug: "offshore-markets" },
+    ],
+    sourceName: "iGamingBusiness",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Brazil Betting Ban Threatens Sports Integrity, Investor Confidence: Kambi 2026 | iGaming Pulse",
+    metaDescription: "Kambi warns Brazil's betting ban is driving players to unregulated offshore platforms and compromising sports integrity protection, undermining investor confide",
+    likes: 24,
+    comments: [],
+  },
+
+  {
+    id: "969",
+    slug: "draftkings-stock-valuation-opportunity-2026",
+    language: "en",
+    translationGroupId: "tg-969",
+    title: "DraftKings Stock Plunges 40% YTD Despite Analyst Fair Value Upside 2026",
+    excerpt: "DraftKings trades 40% below analyst fair value as spending pressures weigh on sentiment.",
+    content: `DraftKings shares are trading significantly below Morningstar's fair value estimate, according to analyst research published October 20, presenting what equity researchers characterize as a valuation opportunity amid a sharp year-to-date decline.
+
+The NASDAQ-listed sportsbook operator's stock has shed more than 40% of its value since January 2026, weighed down by persistent concerns about elevated customer acquisition spending and competitive pressure from prediction market platforms that have diverted user attention and discretionary spending.
+
+Morningstar's analysis suggests the market has overshot on the downside, pricing in greater operational headwinds than the company's fundamentals support. The discrepancy between current trading levels and the analyst firm's fair value target underscores the disconnect between sentiment-driven selling and underlying business quality.
+
+## Spending Pressures Dominate Narrative
+
+DraftKings' aggressive user acquisition strategy has been a persistent drag on near-term profitability, with the operator investing heavily in sports marketing partnerships and celebrity endorsements to maintain market share in North America's saturated sportsbook landscape. These elevated costs, while strategically justified by management, have spooked growth-focused investors accustomed to faster paths to profitability.
+
+The prediction market boom—particularly around political and cultural events—has further complicated the narrative, as some market observers question whether DraftKings' core sports betting product can sustain growth as alternative gaming verticals capture retail and institutional attention.
+
+## Institutional Recalibration
+
+Value-oriented investors and hedge funds that focus on fundamental analysis rather than momentum may find DraftKings' current valuation compelling relative to its market leadership position in U.S. mobile sports betting and iGaming. The 40% decline represents one of the steepest drawdowns among major gaming equities in 2026.
+
+Morningstar's contrarian positioning highlights the gap between short-term sentiment and long-term cash flow generation capability. Whether the market ultimately reprices DraftKings toward fair value will depend on quarterly execution against elevated customer acquisition forecasts and regulatory developments in key states.`,
+    featuredImage: "/images/articles/draftkings-stock-valuation-opportunity-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t6221", label: "DraftKings", slug: "draftkings" },
+      { id: "t6222", label: "stock valuation", slug: "stock-valuation" },
+      { id: "t6223", label: "sportsbooks", slug: "sportsbooks" },
+      { id: "t6224", label: "equities", slug: "equities" },
+      { id: "t6225", label: "U.S. betting", slug: "u-s-betting" },
+      { id: "t6226", label: "investor sentiment", slug: "investor-sentiment" },
+      { id: "t6227", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t6228", label: "fair value analysis", slug: "fair-value-analysis" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "DraftKings Stock Plunges 40% YTD Despite Analyst Fair Value Upside 2026 | iGaming Pulse",
+    metaDescription: "DraftKings trades 40% below analyst fair value as spending pressures weigh on sentiment.",
+    likes: 7,
+    comments: [],
+  },
+
+  {
+    id: "970",
+    slug: "encore-boston-harbor-strike-revenue-collapse-2026",
+    language: "en",
+    translationGroupId: "tg-970",
+    title: "Encore Boston Harbor Hits Post-Pandemic Revenue Low in Day 47 Strike 2026",
+    excerpt: "A 47-day union strike at Encore Boston Harbor has driven the $2.6B luxury resort to post-pandemic revenue lows.",
+    content: `The labor action at Encore Boston Harbor reached day 47 on October 20, showing no signs of imminent resolution as 1,300 members of Unite Here Local 25 maintain picket lines outside the Wynn-operated luxury casino and hotel property in Everett, Massachusetts.
+
+Operational constraints imposed by the strike have driven revenue to the lowest levels since the pandemic, a stark contrast to the strong recovery most major U.S. casinos experienced through 2024 and 2025. With housekeeping, food and beverage, and guest services operations severely hampered by staffing shortages, the property has been unable to maintain pricing power or occupancy rates that characterized premium resort operations in recent years.
+
+## Financial Toll Escalates
+
+The extended duration of the work stoppage is inflicting material damage to both Wynn and the union workers themselves. Daily revenue hemorrhage at a property of Encore Boston Harbor's caliber—one of the most expensive casino construction projects in U.S. history at $2.6 billion—compounds losses exponentially as October extends into November.
+
+Unionized workers have been picketing without pay for over six weeks, creating financial hardship for hospitality employees who depend on immediate wages. The dispute centers on compensation levels, benefits, and working conditions that union negotiators say have not kept pace with the cost of living in the Boston metropolitan area.
+
+## Broader Implications
+
+The Encore Boston Harbor strike arrives as union organizing activity accelerates across U.S. casino markets, with hospitality workers leveraging tight labor conditions to demand wage increases and improved conditions. Management's resistance to rapid wage escalation reflects broader concerns about labor cost inflation in a competitive regional gaming landscape.
+
+Wynn's inability to quickly resolve the dispute also signals potential weakening in management-labor relations at other Wynn properties, particularly in Las Vegas where union contracts come up for renewal. The outcome in Boston will likely set precedent for compensation benchmarks across the operator's portfolio.`,
+    featuredImage: "/images/articles/encore-boston-harbor-strike-revenue-collapse-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t6229", label: "Encore Boston Harbor", slug: "encore-boston-harbor" },
+      { id: "t6230", label: "labor strike", slug: "labor-strike" },
+      { id: "t6231", label: "Wynn Resorts", slug: "wynn-resorts" },
+      { id: "t6232", label: "union negotiations", slug: "union-negotiations" },
+      { id: "t6233", label: "revenue decline", slug: "revenue-decline" },
+      { id: "t6234", label: "Northeast casinos", slug: "northeast-casinos" },
+      { id: "t6235", label: "hospitality workers", slug: "hospitality-workers" },
+      { id: "t6236", label: "labor organizing", slug: "labor-organizing" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Encore Boston Harbor Hits Post-Pandemic Revenue Low in Day 47 Strike 2026 | iGaming Pulse",
+    metaDescription: "A 47-day union strike at Encore Boston Harbor has driven the $2.6B luxury resort to post-pandemic revenue lows.",
+    likes: 9,
+    comments: [],
+  },
+
+  {
+    id: "971",
+    slug: "ex-nyc-official-corruption-trial-gambling-2026",
+    language: "en",
+    translationGroupId: "tg-971",
+    title: "Ex-NYC Official Faces Trial for Alleged Corruption, Casino Gambling Ties 2026",
+    excerpt: "Former NYC official Eric Ulrich faces trial for allegedly trading favors for bribes while gambling away half his income.",
+    content: `The trial of Eric Ulrich, a 41-year-old former New York City official, opened October 19 with prosecutors alleging that he parlayed his government position into cash payments and gifts while simultaneously losing approximately 50% of his salary to gambling at licensed casinos and unlicensed establishments with organized crime ties.
+
+The case presents a complex narrative of financial desperation, personal addiction, and alleged public corruption. Ulrich's compulsive gambling losses, according to court filings, created a financial vulnerability that made him susceptible to corruption schemes allegedly orchestrated by associates seeking to extract political favors in exchange for direct cash transfers and gifts.
+
+## Gambling Losses as Corruption Vector
+
+Prosecutors have framed Ulrich's gambling activity as the predicate condition enabling his corruption. The sheer scale of his losses—roughly half his annual compensation—created a consistent cash shortfall that apparently motivated his acceptance of bribes from individuals seeking influence over city contracting, zoning, and departmental decisions within Ulrich's portfolio.
+
+The fact that some gambling occurred at unlicensed establishments with reputed Mafia involvement adds a layer of organized crime exposure that extends beyond simple personal financial mismanagement. Prosecutors suggest that Ulrich's underground gambling debts may have been leveraged to coerce cooperation in corruption schemes.
+
+## Regulatory Implications
+
+The trial raises important questions for New York's gaming regulators and licensed casinos regarding their obligations to flag unusual losing patterns by public officials or to implement enhanced due diligence for government workers with access to discretionary spending authority.
+
+While responsible gambling programs at licensed casinos are designed to identify and counsel problem gamblers, the Ulrich case underscores gaps in cross-reporting between gaming establishments and anti-corruption authorities. The transition from legal casino gambling to unlicensed operations suggests that addiction-driven desperation may drive individuals toward unregulated markets where they face both greater financial risk and exposure to organized crime elements.
+
+The trial's outcome may prompt regulatory reconsideration of public disclosure requirements for gaming losses by elected and appointed officials in New York and other jurisdictions.`,
+    featuredImage: "/images/articles/ex-nyc-official-corruption-trial-gambling-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6237", label: "corruption", slug: "corruption" },
+      { id: "t6238", label: "public officials", slug: "public-officials" },
+      { id: "t6239", label: "gambling addiction", slug: "gambling-addiction" },
+      { id: "t6240", label: "organized crime", slug: "organized-crime" },
+      { id: "t6241", label: "New York", slug: "new-york" },
+      { id: "t6242", label: "bribery charges", slug: "bribery-charges" },
+      { id: "t6243", label: "responsible gambling", slug: "responsible-gambling" },
+      { id: "t6244", label: "regulatory compliance", slug: "regulatory-compliance" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Ex-NYC Official Faces Trial for Alleged Corruption, Casino Gambling Ties 2026 | iGaming Pulse",
+    metaDescription: "Former NYC official Eric Ulrich faces trial for allegedly trading favors for bribes while gambling away half his income.",
+    likes: 6,
+    comments: [],
+  },
+
+  {
+    id: "972",
+    slug: "australia-celebrity-gambling-ads-ban-2026",
+    language: "en",
+    translationGroupId: "tg-972",
+    title: "Australia Bans Celebrity Gambling Ads, Tightens Offshore Operator Enforcement 2026",
+    excerpt: "Australia bans celebrity gambling promotions and adds 14 offshore operators to enforcement blocklist.",
+    content: `Australia has implemented formal rules prohibiting celebrities and sports stars from appearing in gambling advertisements, solidifying the nation's position as one of the world's most restrictive gaming marketing jurisdictions. The Australian Communications and Media Authority (ACMA) published final guidance establishing the ban as regulatory law rather than industry best practice, effective immediately.
+
+The move eliminates a significant marketing vector for licensed operators and removes the financial incentive for athletes and entertainment figures to endorse gambling products. Australian operators have historically relied on sports sponsorships and influencer partnerships to drive customer acquisition, particularly among younger demographics.
+
+## Coordinated Offshore Crackdown
+
+Concurrently, ACMA expanded its list of blocked unlicensed offshore gambling operators to 14 new additions, bringing the cumulative enforcement effort to over 350 international operators banned from operating in Australia. The blocking mechanism leverages internet service provider cooperation to prevent Australian consumers from accessing unregulated platforms.
+
+The regulatory acceleration reflects growing concern about gray-market operator penetration among Australian consumers and the associated harms—including inadequate responsible gambling protections, player fund seizure, and tax evasion.
+
+## Market Impact
+
+The dual approach—restricting promotional channels while blocking competition from unregulated alternatives—is designed to consolidate player activity within the licensed domestic operator ecosystem. Licensed Australian operators including Sportsbet, Pointsbet, and other entities now benefit from restricted competition and have less pressure to deploy expensive celebrity endorsement campaigns.
+
+The celebrity ban may prove exportable to other jurisdictions considering similar restrictions, particularly in Europe where regulatory tightening has accelerated following UK tax reforms. Advertising agencies that have built campaigns around sports personality endorsements will need to pivot creative strategies toward non-celebrity educational and promotional content.`,
+    featuredImage: "/images/articles/australia-celebrity-gambling-ads-ban-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6245", label: "Australia", slug: "australia" },
+      { id: "t6246", label: "advertising regulations", slug: "advertising-regulations" },
+      { id: "t6247", label: "celebrity endorsements", slug: "celebrity-endorsements" },
+      { id: "t6248", label: "offshore gambling", slug: "offshore-gambling" },
+      { id: "t6249", label: "unlicensed operators", slug: "unlicensed-operators" },
+      { id: "t6250", label: "responsible gambling", slug: "responsible-gambling" },
+      { id: "t6251", label: "regulatory enforcement", slug: "regulatory-enforcement" },
+      { id: "t6252", label: "influencer marketing", slug: "influencer-marketing" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Australia Bans Celebrity Gambling Ads, Tightens Offshore Operator Enforcement 2026 | iGaming Pulse",
+    metaDescription: "Australia bans celebrity gambling promotions and adds 14 offshore operators to enforcement blocklist.",
+    likes: 16,
+    comments: [],
+  },
+
+  {
+    id: "973",
+    slug: "sphere-national-harbor-renderings-scale-2026",
+    language: "en",
+    translationGroupId: "tg-973",
+    title: "Sphere National Harbor Renderings Reveal Massive $1B Concert Venue Scale 2026",
+    excerpt: "Sphere Entertainment's new Sphere National Harbor renderings reveal a massive $1B entertainment venue adjacent to MGM's flagship Maryland resort.",
+    content: `Sphere Entertainment has released updated architectural renderings of Sphere National Harbor, its proposed $1 billion concert and entertainment venue planned for deployment adjacent to MGM National Harbor in Maryland. The visualizations underscore the project's substantial physical footprint, challenging informal characterizations of the venue as a "mini" version of Sphere Las Vegas.
+
+The project was officially announced in early 2026 as part of a broader capital allocation strategy by Sphere Entertainment and MGM Resorts to diversify revenue streams beyond traditional gaming into live entertainment, concerts, and immersive experiences. The National Harbor location positions the venue to serve the Washington D.C. metropolitan market and draw regional visitation from the Northeast corridor.
+
+## Architectural Scale and Design
+
+The renderings reveal a structure of remarkable proportions, with the distinctive spherical design that defines Sphere Entertainment's signature aesthetic. The venue will operate as an independent concert and entertainment destination while leveraging MGM National Harbor's casino, hotel, and dining infrastructure for integrated customer experiences.
+
+The architectural integration appears seamless, with the new structure complementing rather than overshadowing the existing resort property. Landscape design and pedestrian connectivity between venues suggest coordinated planning to maximize traffic flow and operational efficiency.
+
+## Market Implications
+
+The Sphere National Harbor project signals MGM's commitment to premium entertainment amenities as a differentiation strategy in competitive regional gaming markets. By anchoring the property with a world-class concert venue and immersive entertainment platform, MGM positions National Harbor as a destination entertainment property rather than a pure gaming facility.
+
+The $1 billion capital commitment reflects confidence in the concert and experiential entertainment market in the Mid-Atlantic region, where high-income consumers seek premium entertainment options. The venue is expected to draw both day-trip visitors and overnight resort guests, with ancillary benefits for casino gaming, hotel occupancy, and food and beverage revenue.
+
+Construction timelines and opening date remain subject to permitting and financing processes typical for projects of this scale.`,
+    featuredImage: "/images/articles/sphere-national-harbor-renderings-scale-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t6253", label: "Sphere Entertainment", slug: "sphere-entertainment" },
+      { id: "t6254", label: "MGM National Harbor", slug: "mgm-national-harbor" },
+      { id: "t6255", label: "concert venues", slug: "concert-venues" },
+      { id: "t6256", label: "entertainment", slug: "entertainment" },
+      { id: "t6257", label: "regional casinos", slug: "regional-casinos" },
+      { id: "t6258", label: "capital projects", slug: "capital-projects" },
+      { id: "t6259", label: "experiential gaming", slug: "experiential-gaming" },
+      { id: "t6260", label: "Maryland", slug: "maryland" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Sphere National Harbor Renderings Reveal Massive $1B Concert Venue Scale 2026 | iGaming Pulse",
+    metaDescription: "Sphere Entertainment's new Sphere National Harbor renderings reveal a massive $1B entertainment venue adjacent to MGM's flagship Maryland resort.",
+    likes: 22,
+    comments: [],
+  },
+
+  {
+    id: "974",
+    slug: "pennsylvania-skill-games-ban-enforcement-2026",
+    language: "en",
+    translationGroupId: "tg-974",
+    title: "Pennsylvania Enforces Skill Games Ban with Police Tip Line 2026",
+    excerpt: "Pennsylvania State Police activate tip line to enforce October 20 ban on skill games now classified as illegal slot machines.",
+    content: `## Enforcement Begins Immediately Across Pennsylvania
+
+Pennsylvania State Police have launched a dedicated public tip line following the immediate enforcement of a Pennsylvania Supreme Court order that banned skill gaming devices statewide effective October 20, 2026. The ruling, which reclassified skill games as illegal slot machines, marks a watershed moment in the state's gaming regulation landscape and requires immediate compliance from all business operators housing such devices.
+
+The tip line allows residents and business competitors to report locations still operating or harboring skill gaming machines. State police have emphasized the urgency of the enforcement action, making clear that continued operation of these devices constitutes a violation of state law.
+
+## What Operators Face
+
+Venue operators—including bars, restaurants, and standalone gaming parlors—must immediately remove all skill gaming devices from their premises. Failure to comply exposes businesses to investigation, seizure of equipment, and potential criminal prosecution. The ban eliminates a revenue stream that many hospitality and entertainment venues have relied on, forcing rapid operational and financial adjustments.
+
+Third-party service providers, maintenance companies, and equipment distributors also face significant business disruption as the device removal process accelerates across the state. Compliance consulting, equipment logistics, and proper disposal services are expected to see demand spikes in the coming weeks.
+
+## Industry Ripple Effects
+
+The enforcement action raises questions about similar regulatory challenges in other jurisdictions currently operating under ambiguous skill gaming legal status. Pennsylvania's decisive enforcement may pressure neighboring states and other regions to clarify their own gaming device regulations, creating potential cascading compliance obligations across the broader gaming services sector.
+
+Operators should immediately consult legal counsel to ensure full compliance and document removal of prohibited equipment. The state police tip line underscores that voluntary compliance will be expected and monitored throughout the enforcement period.`,
+    featuredImage: "/images/articles/pennsylvania-skill-games-ban-enforcement-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6261", label: "Pennsylvania", slug: "pennsylvania" },
+      { id: "t6262", label: "skill games", slug: "skill-games" },
+      { id: "t6263", label: "regulation", slug: "regulation" },
+      { id: "t6264", label: "enforcement", slug: "enforcement" },
+      { id: "t6265", label: "illegal gaming", slug: "illegal-gaming" },
+      { id: "t6266", label: "state police", slug: "state-police" },
+      { id: "t6267", label: "compliance", slug: "compliance" },
+      { id: "t6268", label: "slot machines", slug: "slot-machines" },
+      { id: "t6269", label: "venue operators", slug: "venue-operators" },
+      { id: "t6270", label: "regulatory action", slug: "regulatory-action" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Pennsylvania Enforces Skill Games Ban with Police Tip Line 2026 | iGaming Pulse",
+    metaDescription: "Pennsylvania State Police activate tip line to enforce October 20 ban on skill games now classified as illegal slot machines.",
+    likes: 20,
+    comments: [],
+  },
+
+  {
+    id: "975",
+    slug: "fifa-prediction-market-partner-trading-scrutiny-2026",
+    language: "en",
+    translationGroupId: "tg-975",
+    title: "FIFA's Prediction Market Partner Under Investigation for Trading Volume 2026",
+    excerpt: "Prediction market platform ADI Predictstreet faces questions over $108M trading volume and FIFA's $150M partnership amid potential artificial inflation concerns.",
+    content: `## Regulatory Red Flags Emerge
+
+ADI Predictstreet, the prediction market platform that inked a $150 million partnership with FIFA earlier this year, is now under scrutiny over questions surrounding the legitimacy of its trading activity. Regulators and industry observers have raised concerns that a significant portion of the platform's reported $108 million in trades may have been artificially generated to inflate platform activity and lending credibility to the partnership.
+
+The platform, which reportedly maintains ties to Abu Dhabi's royal family, launched in April 2026 with immediate ambitions to become the official prediction market infrastructure for FIFA. The scrutiny represents an early stress test for prediction market regulation and the commercial relationships between major global sports franchises and emerging fintech platforms.
+
+## FIFA's Partnership at Risk
+
+The investigation puts FIFA in a precarious position. As a governing body focused on sports integrity, FIFA's association with a platform potentially engaged in volumetric manipulation threatens its credibility and exposes the organization to regulatory backlash. The $150 million partnership, positioned as a transformational infrastructure investment, now faces reputational risk and potential renegotiation demands.
+
+FIFA officials have not publicly commented on the trading volume questions, but the silence suggests internal legal and compliance reviews are underway. The partnership deal structure and any force majeure or termination clauses related to regulatory findings will likely come under intense scrutiny.
+
+## Broader Market Implications
+
+The ADI Predictstreet case demonstrates the nascent regulatory challenges surrounding prediction markets as they scale globally. Trading volume verification, counterparty risk assessment, and custody frameworks for prediction market assets remain underdeveloped across most jurisdictions. This gap creates opportunities for both genuine market participants and bad actors.
+
+For other sports organizations and leagues considering prediction market partnerships, the investigation signals the importance of independent trading volume audits, regulatory clearance verification, and market surveillance agreements before finalizing major commercial deals. The reputational and legal costs of association with manipulated markets far exceed partnership revenue benefits.`,
+    featuredImage: "/images/articles/fifa-prediction-market-partner-trading-scrutiny-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6271", label: "FIFA", slug: "fifa" },
+      { id: "t6272", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t6273", label: "ADI Predictstreet", slug: "adi-predictstreet" },
+      { id: "t6274", label: "trading volume", slug: "trading-volume" },
+      { id: "t6275", label: "scrutiny", slug: "scrutiny" },
+      { id: "t6276", label: "regulatory oversight", slug: "regulatory-oversight" },
+      { id: "t6277", label: "sports betting", slug: "sports-betting" },
+      { id: "t6278", label: "market manipulation", slug: "market-manipulation" },
+      { id: "t6279", label: "compliance", slug: "compliance" },
+      { id: "t6280", label: "Abu Dhabi", slug: "abu-dhabi" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "FIFA's Prediction Market Partner Under Investigation for Trading Volume 2026 | iGaming Pulse",
+    metaDescription: "Prediction market platform ADI Predictstreet faces questions over $108M trading volume and FIFA's $150M partnership amid potential artificial inflation concerns",
+    likes: 7,
+    comments: [],
+  },
+
+  {
+    id: "976",
+    slug: "polymarket-kalshi-cftc-regulatory-battle-2026",
+    language: "en",
+    translationGroupId: "tg-976",
+    title: "Polymarket Challenges Ohio Restrictions as CFTC Reviews Event Contracts 2026",
+    excerpt: "Polymarket and Kalshi pursue separate legal and regulatory strategies as CFTC opens framework discussion for event contracts amid state-level restrictions.",
+    content: `Polymarket has filed a constitutional challenge to Ohio's restrictions on prediction market operations, escalating its legal strategy beyond previous commerce clause arguments. The platform is now contesting the state's authority to prohibit certain forms of event contracting, asserting that Ohio's rules violate constitutional protections and exceed reasonable state regulatory boundaries.
+
+Simultaneously, the Commodity Futures Trading Commission (CFTC) has opened a broader rulemaking discussion regarding how event contracts should be classified and regulated within its existing commodity framework. The agency's move suggests recognition that current regulatory categories may be inadequate for modern prediction market structures and that federal clarity is necessary to establish operational boundaries for platforms operating across multiple states.
+
+Kalshi, another major prediction market operator, has postponed its Supreme Court appeal regarding federal authority over prediction contracts. The decision to seek additional time reflects the platform's strategic calculation that waiting for CFTC guidance and lower-court rulings on constitutional challenges may produce a more favorable regulatory environment than immediate Supreme Court intervention.
+
+Regulators in Canada are also holding firm on their positions regarding prediction market operations, with provincial and federal authorities maintaining existing restrictions even as U.S. litigation and regulatory processes unfold. The divergent approaches between U.S. federal agencies and state regulators—coupled with Canada's more restrictive stance—create a fragmented North American regulatory landscape that operators must navigate carefully.
+
+For prediction market operators, legal teams, and technology providers, the current environment requires active monitoring of at least three simultaneous regulatory tracks: state-level litigation (Polymarket v. Ohio), federal agency rulemaking (CFTC framework development), and appellate proceedings (Kalshi's Supreme Court strategy). Compliance strategies must remain flexible to accommodate multiple potential regulatory outcomes.`,
+    featuredImage: "/images/articles/polymarket-kalshi-cftc-regulatory-battle-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6281", label: "Polymarket", slug: "polymarket" },
+      { id: "t6282", label: "Kalshi", slug: "kalshi" },
+      { id: "t6283", label: "CFTC", slug: "cftc" },
+      { id: "t6284", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t6285", label: "Ohio", slug: "ohio" },
+      { id: "t6286", label: "Supreme Court", slug: "supreme-court" },
+      { id: "t6287", label: "regulatory uncertainty", slug: "regulatory-uncertainty" },
+      { id: "t6288", label: "event contracts", slug: "event-contracts" },
+      { id: "t6289", label: "state restrictions", slug: "state-restrictions" },
+      { id: "t6290", label: "constitutional challenge", slug: "constitutional-challenge" },
+    ],
+    sourceName: "gamblinginsider.com",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Polymarket Challenges Ohio Restrictions as CFTC Reviews Event Contracts 2026 | iGaming Pulse",
+    metaDescription: "Polymarket and Kalshi pursue separate legal and regulatory strategies as CFTC opens framework discussion for event contracts amid state-level restrictions.",
+    likes: 10,
+    comments: [],
+  },
+
+  {
+    id: "977",
+    slug: "trading-card-theft-gambling-scrutiny-2026",
+    language: "en",
+    translationGroupId: "tg-977",
+    title: "Nearly $1M Trading Card Theft Exposes Gambling Risks in Collectibles Market 2026",
+    excerpt: "Nearly $1M trading card theft from FedEx truck highlights gambling concerns over digital box breaks and card ripping services under regulatory review.",
+    content: `A theft of nearly $1 million in trading cards from a FedEx distribution facility in Santa Ana has drawn fresh attention to the booming—and largely unregulated—collectibles market, particularly digital card ripping and box break services that operate at the intersection of collectibles trading and gambling.
+
+Santa Ana police confirmed the high-value theft, which involved sports cards, Pokémon cards, and graded PSA-authenticated collectibles. The incident underscores both the market value of modern collectibles and the logistics challenges associated with shipping and storing high-ticket cards destined for resale and collection markets.
+
+But the theft also serves as a backdrop for a broader regulatory conversation that has been building for months: whether digital card ripping platforms and box break services constitute gambling operations that should be subject to gaming licensing and player protection requirements.
+
+Card ripping services allow collectors to purchase digital "packs" from predetermined inventory lots, with the contents of their pull determined by random selection. Box breaks similarly involve purchasing shares of sealed product boxes, with ownership of individual cards determined through randomization. The appeal is clear for collectors seeking value discovery and the thrill of chance-based outcomes.
+
+Regulators, however, increasingly view these services as games of chance where participants pay to participate in a randomized outcome with monetary value. Several U.S. states have begun questioning whether platforms offering these services should be licensed as gaming operators and subject to player protection standards, age verification, and responsible gambling safeguards.
+
+The high-value theft reinforces the attention on this sector. If regulatory agencies begin classifying box breaks and ripping services as gambling, operators will need to implement gaming infrastructure, custody requirements, and compliance protocols—substantially raising operational costs and market barriers to entry.
+
+For collectibles platforms, technology providers, and third-party service vendors working in this space, regulatory clarity on card ripping classification should be an immediate priority. Operators should begin evaluating potential gaming license requirements and building compliance roadmaps to prepare for potential regulatory transitions that could reshape the collectibles trading model.`,
+    featuredImage: "/images/articles/trading-card-theft-gambling-scrutiny-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t6291", label: "trading cards", slug: "trading-cards" },
+      { id: "t6292", label: "collectibles", slug: "collectibles" },
+      { id: "t6293", label: "box breaks", slug: "box-breaks" },
+      { id: "t6294", label: "card ripping", slug: "card-ripping" },
+      { id: "t6295", label: "gambling regulation", slug: "gambling-regulation" },
+      { id: "t6296", label: "theft", slug: "theft" },
+      { id: "t6297", label: "high-value goods", slug: "high-value-goods" },
+      { id: "t6298", label: "Pokémon", slug: "pok-mon" },
+      { id: "t6299", label: "compliance risk", slug: "compliance-risk" },
+      { id: "t6300", label: "market integrity", slug: "market-integrity" },
+    ],
+    sourceName: "gamblinginsider.com",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Nearly $1M Trading Card Theft Exposes Gambling Risks in Collectibles Market 2026 | iGaming Pulse",
+    metaDescription: "Nearly $1M trading card theft from FedEx truck highlights gambling concerns over digital box breaks and card ripping services under regulatory review.",
+    likes: 25,
+    comments: [],
+  },
+
+  {
+    id: "978",
+    slug: "las-vegas-street-performer-tipping-safety-2026",
+    language: "en",
+    translationGroupId: "tg-978",
+    title: "Las Vegas Addresses Street Performer Tipping Disputes Following Altercation 2026",
+    excerpt: "Clark County issues public guidance on optional tipping for street performers following altercation, addressing safety and expectation management on the Strip.",
+    content: `Clark County officials have issued public guidance advising Las Vegas tourists that tipping street performers is entirely voluntary following a physical altercation between a visitor and a costumed performer on the Las Vegas Strip. The incident, described as a dispute over an inadequate tip, prompted renewed discussion about performer expectations, visitor safety, and the management of informal commercial activity in high-traffic tourism areas.
+
+The guidance represents an attempt to balance competing interests: protecting visitors from aggressive collection tactics, preserving the informal performer economy that many street entertainers depend on, and maintaining Las Vegas's reputation as a welcoming destination. However, the advisory has drawn criticism from some quarters questioning whether the county is adequately addressing the root cause of such incidents or simply managing the optics of visitor safety concerns.
+
+The incident highlights underlying tensions in Las Vegas's street-level economy. Costumed performers operating on the Strip operate in a largely unregulated environment, with income entirely dependent on voluntary tips from passersby. When tip expectations are unmet, confrontations can escalate—as this recent altercation demonstrates.
+
+For the casino and hospitality industry, the incident raises questions about operator responsibility for adjacent public spaces and the visitor experience. While the Strip's street performers operate independently, the altercation affects perceptions of visitor safety and the broader destination brand. Major properties may face pressure to coordinate with local authorities and performer organizations to establish clearer operational norms and conflict de-escalation protocols.
+
+The county's advisory, while well-intentioned, may prove insufficient to prevent future conflicts. More comprehensive solutions could involve performer licensing, designated performance zones, clear signage about voluntary tipping, and conflict resolution resources. Tourism operators and destination marketing organizations should consider engaging with local government on these broader policy questions to ensure consistent messaging and visitor protection standards.`,
+    featuredImage: "/images/articles/las-vegas-street-performer-tipping-safety-2026.png",
+    author: AUTHORS[3],
+    publishedAt: "2026-10-21T08:30:00Z",
+    category: "marketing-traffic",
+    tags: [
+      { id: "t6301", label: "Las Vegas", slug: "las-vegas" },
+      { id: "t6302", label: "street performers", slug: "street-performers" },
+      { id: "t6303", label: "tourism", slug: "tourism" },
+      { id: "t6304", label: "visitor safety", slug: "visitor-safety" },
+      { id: "t6305", label: "tipping culture", slug: "tipping-culture" },
+      { id: "t6306", label: "Clark County", slug: "clark-county" },
+      { id: "t6307", label: "Strip", slug: "strip" },
+      { id: "t6308", label: "hospitality", slug: "hospitality" },
+      { id: "t6309", label: "public safety", slug: "public-safety" },
+      { id: "t6310", label: "destination marketing", slug: "destination-marketing" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Las Vegas Addresses Street Performer Tipping Disputes Following Altercation 2026 | iGaming Pulse",
+    metaDescription: "Clark County issues public guidance on optional tipping for street performers following altercation, addressing safety and expectation management on the Strip.",
+    likes: 15,
+    comments: [],
   }
 ];
 
