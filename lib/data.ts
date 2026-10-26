@@ -45764,6 +45764,751 @@ For the gaming industry, the case serves as a reminder that failure to implement
     metaDescription: "California restaurant manager admitted to embezzling $232K from Jack in the Box to cover gambling debts, highlighting problem gambling's reach.",
     likes: 20,
     comments: [],
+  },
+
+  {
+    id: "1009",
+    slug: "smf-machine-tax-jobs-claim-doubts-2026",
+    language: "en",
+    translationGroupId: "tg-1009",
+    title: "UK Think Tank Internal Doubts Surface on Machine Tax Claims 2026",
+    excerpt: "Leaked drafts reveal internal questioning of job impact claims used to justify UK machine gaming duty increases ahead of the Budget.",
+    content: `A draft report from a UK policy think tank has surfaced with internal staff comments challenging core claims underpinning the government's push to double Machine Games Duty, creating fresh embarrassment just days before Chancellor John Healey's Budget announcement.
+
+The leaked material shows staff members expressing reservations about the economic and employment arguments being cited to justify the tax increase—a significant credibility blow at a critical moment for industry consultation.
+
+## The Timing Problem
+
+The draft emerged as the gaming industry prepared to make final submissions to the Treasury ahead of the October 30 Budget. By revealing internal dissent within the think tank that has championed the duty increase, the leak hands operators concrete evidence that the rationale for higher taxation rests on shaky analytical ground.
+
+The fact that these comments remained attached to the draft when it circulated suggests the document may have been shared more widely than intended, or released inadvertently during the policy-drafting process.
+
+## Industry Response
+
+Gaming operators have seized on the contradiction between the think tank's public position and its staff's private doubts. The discrepancy suggests that even those tasked with justifying the tax increase harbored concerns about its employment impact—one of the central claims made to the public.
+
+For an industry already facing pressure from tax rises, the leaked comments provide ammunition to challenge the think tank's analysis and call for a more rigorous economic assessment before duty changes are finalized.
+
+## What to Watch
+
+The Budget announcement next week will reveal whether the government proceeds with the duty increase despite these internal questions. If tax hikes are confirmed, expect the industry to reference the leaked doubts in subsequent legal challenges or parliamentary submissions. The think tank itself may face calls to clarify the discrepancy and release the full report with its analytical methodology exposed to public scrutiny.`,
+    featuredImage: "/images/articles/smf-machine-tax-jobs-claim-doubts-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-24T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6565", label: "Machine Games Duty", slug: "machine-games-duty" },
+      { id: "t6566", label: "UK taxation", slug: "uk-taxation" },
+      { id: "t6567", label: "think tank", slug: "think-tank" },
+      { id: "t6568", label: "budget", slug: "budget" },
+      { id: "t6569", label: "policy", slug: "policy" },
+      { id: "t6570", label: "tax policy", slug: "tax-policy" },
+      { id: "t6571", label: "iGaming regulation", slug: "igaming-regulation" },
+      { id: "t6572", label: "industry advocacy", slug: "industry-advocacy" },
+      { id: "t6573", label: "fiscal policy", slug: "fiscal-policy" },
+      { id: "t6574", label: "employment claims", slug: "employment-claims" },
+    ],
+    sourceName: "igamingbusiness.com",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "UK Think Tank Internal Doubts Surface on Machine Tax Claims 2026 | iGaming Pulse",
+    metaDescription: "Leaked drafts reveal internal questioning of job impact claims used to justify UK machine gaming duty increases ahead of the Budget.",
+    likes: 6,
+    comments: [],
+  },
+
+  {
+    id: "1010",
+    slug: "fraud-prevention-customer-experience-balance-2026",
+    language: "en",
+    translationGroupId: "tg-1010",
+    title: "Fraud Prevention Paradox: When Controls Kill Customer Trust 2026",
+    excerpt: "Fraud controls that are too aggressive are driving away legitimate customers and hurting profitability, warns Frogo CEO—operators need smarter risk assessment strategies.",
+    content: `Digital businesses across iGaming are making a critical mistake with fraud prevention: they're deploying controls so aggressive that they reject legitimate customers faster than they catch criminals, creating a profitability problem disguised as a security solution.
+
+This is the argument advanced by Volodymyr Todurov, CEO of fraud prevention firm Frogo, who contends that the industry has fundamentally misunderstood how to measure success in anti-fraud operations.
+
+## The False Positive Trap
+
+Most operators measure fraud prevention effectiveness by looking at denial rates—how many transactions or accounts they block. The higher the block rate, the thinking goes, the better the fraud control.
+
+But Todurov argues this metric is backwards. A system that blocks 99% of all activity will catch virtually all fraud, but it will also reject most legitimate customers. The cost of that customer loss—through churn, declined transactions, and reputational damage—often exceeds the fraud losses being prevented.
+
+"Fraud controls can damage profitability when they drive away legitimate customers," Todurov explains. The issue is particularly acute in iGaming, where stringent KYC, AML, and bonus abuse prevention rules already create friction. Layer on overly sensitive fraud detection, and operators create a gauntlet that legitimate players increasingly choose to avoid.
+
+## Rethinking Risk Assessment
+
+The solution, Todurov argues, requires rethinking how operators assess risk. Rather than treating all suspicious activity the same way, operators should implement granular, context-aware risk scoring that distinguishes between genuine fraud signals and legitimate behavioral variance.
+
+A player making an unusual deposit or accessing their account from a new device isn't necessarily committing fraud. But current systems often flag such activity and require additional verification steps, degrading the customer experience without meaningfully reducing fraud losses.
+
+## Measuring What Actually Matters
+
+Operators need to shift their success metrics away from denial rates and toward fraud loss reduction per retained customer. This requires sophisticated modeling: understanding not just how much fraud is prevented, but at what customer cost, and whether a less aggressive approach might actually improve the bottom line.
+
+This is particularly relevant as competition for players intensifies. Operators offering smoother, faster onboarding with intelligent fraud controls—rather than draconian blanket restrictions—are likely to capture market share from competitors whose fraud prevention systems function as customer repellent.
+
+The debate also intersects with regulatory compliance. Stringent KYC and AML rules are mandatory, but their implementation should be designed to minimize friction while maintaining control. Some operators are managing this balance more effectively than others, and those that get it right will see both better compliance metrics and stronger customer metrics.`,
+    featuredImage: "/images/articles/fraud-prevention-customer-experience-balance-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-10-24T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t6575", label: "fraud prevention", slug: "fraud-prevention" },
+      { id: "t6576", label: "risk management", slug: "risk-management" },
+      { id: "t6577", label: "customer experience", slug: "customer-experience" },
+      { id: "t6578", label: "compliance", slug: "compliance" },
+      { id: "t6579", label: "operational efficiency", slug: "operational-efficiency" },
+      { id: "t6580", label: "false positives", slug: "false-positives" },
+      { id: "t6581", label: "profitability", slug: "profitability" },
+      { id: "t6582", label: "digital security", slug: "digital-security" },
+      { id: "t6583", label: "customer retention", slug: "customer-retention" },
+      { id: "t6584", label: "risk assessment", slug: "risk-assessment" },
+    ],
+    sourceName: "igamingbusiness.com",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Fraud Prevention Paradox: When Controls Kill Customer Trust 2026 | iGaming Pulse",
+    metaDescription: "Fraud controls that are too aggressive are driving away legitimate customers and hurting profitability, warns Frogo CEO—operators need smarter risk assessment s",
+    likes: 19,
+    comments: [],
+  },
+
+  {
+    id: "1011",
+    slug: "rome-scratchcard-fraud-25-million-seized-2026",
+    language: "en",
+    translationGroupId: "tg-1011",
+    title: "Rome Scratchcard Fraud Ring Busted: €25M Seized in 2026 Operation",
+    excerpt: "Italian authorities bust scratchcard fraud operation involving former employees and family members, seizing €25 million in assets.",
+    content: `Italian law enforcement has dismantled a scratchcard fraud operation in Rome in which five former employees of a gaming concessionaire orchestrated a scheme involving family members and associates purchasing winning tickets, resulting in the seizure of approximately €25 million in assets.
+
+The investigation reveals how insider access to scratchcard distribution networks can be exploited to identify winning tickets before they enter normal retail circulation, then funnel them to conspirators for redemption.
+
+## The Scheme
+
+According to authorities, the five former employees leveraged their positions within the gaming concessionaire to facilitate the fraud. By having family members and friends purchase winning scratchcards, they were able to circumvent normal redemption controls and extract value that should have remained within the operator's revenue stream.
+
+The specific mechanics of how the conspirators identified winning tickets—whether through advance knowledge, tampering, or systematic checking of inventory before retail distribution—remain under investigation, but the scale of assets seized suggests a well-organized, long-running operation.
+
+## Enforcement Impact
+
+The seizure of €25 million in assets represents a significant enforcement action and signals that Italian regulators are actively monitoring gaming concessionaires for internal fraud risks. The involvement of former employees underscores the importance of robust access controls, monitoring, and post-employment verification procedures.
+
+For gaming operators and concessionaires across Europe, the case serves as a reminder of insider threat risks. Even in heavily regulated markets with strong oversight, individuals with operational access to product distribution or redemption systems can pose significant fraud risks if controls are insufficient.
+
+## Regulatory Implications
+
+The Rome case may prompt Italian regulators to impose stricter requirements on gaming concessionaires regarding employee vetting, transaction monitoring, and scratchcard inventory controls. It also highlights the value of cross-checking redemptions against expected patterns and flagging anomalies that might indicate insider activity.`,
+    featuredImage: "/images/articles/rome-scratchcard-fraud-25-million-seized-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-24T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6585", label: "scratchcard fraud", slug: "scratchcard-fraud" },
+      { id: "t6586", label: "insider fraud", slug: "insider-fraud" },
+      { id: "t6587", label: "Italy", slug: "italy" },
+      { id: "t6588", label: "regulatory enforcement", slug: "regulatory-enforcement" },
+      { id: "t6589", label: "asset seizure", slug: "asset-seizure" },
+      { id: "t6590", label: "gaming concessionaire", slug: "gaming-concessionaire" },
+      { id: "t6591", label: "compliance", slug: "compliance" },
+      { id: "t6592", label: "Rome", slug: "rome" },
+      { id: "t6593", label: "instant lottery", slug: "instant-lottery" },
+      { id: "t6594", label: "criminal investigation", slug: "criminal-investigation" },
+    ],
+    sourceName: "igamingbusiness.com",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Rome Scratchcard Fraud Ring Busted: €25M Seized in 2026 Operation | iGaming Pulse",
+    metaDescription: "Italian authorities bust scratchcard fraud operation involving former employees and family members, seizing €25 million in assets.",
+    likes: 7,
+    comments: [],
+  },
+
+  {
+    id: "1012",
+    slug: "evolution-brazil-betting-ban-regulatory-shock-2026",
+    language: "en",
+    translationGroupId: "tg-1012",
+    title: "Evolution CEO Shocked by Brazil Betting Ban Amid Regulatory Limbo 2026",
+    excerpt: "Evolution Gaming CEO expresses shock at Brazil's unexpected betting ban as the operator grapples with lost market access and broader regional challenges.",
+    content: `Evolution Gaming's chief executive signaled significant concern during the company's latest earnings call after Brazil announced an unexpected betting ban, leaving one of iGaming's largest operators scrambling to understand the regulatory landscape in a market previously viewed as a growth opportunity.
+
+The CEO's stated reaction—described as "flabbergasted"—reflects the jarring nature of the policy shift and the lack of advance notice or clarity from Brazilian regulators about the ban's scope, timeline, or potential reversal.
+
+## A Multi-Front Challenge
+
+Brazil's regulatory reversal comes as Evolution contends with several operational headwinds. European performance has disappointed in recent quarters, with competition intensifying and regulatory costs rising. Simultaneously, the company is managing cybercrime threats in Asia that have required increased security investment and operational adjustments.
+
+The Brazil situation compounds these pressures by introducing uncertainty about a major market where Evolution has invested resources and built operational capacity. Without clarity on the ban's duration or reversibility, the operator faces difficult decisions about maintaining infrastructure and capabilities in a market it may be unable to serve in the near term.
+
+## Regulatory Volatility Risk
+
+The Brazil case exemplifies a broader risk in emerging iGaming markets: rapid policy reversals with minimal industry consultation. Unlike mature markets such as the UK or Malta, where regulatory changes typically follow formal consultations and transition periods, Brazil's approach left operators reacting to decisions already announced.
+
+This volatility creates strategic planning challenges for international operators. Investments in market access, localization, and compliance infrastructure become stranded assets if regulators abruptly restrict or ban operations. The lack of predictability erodes investor confidence in emerging market expansion strategies.
+
+## Monitoring Developments
+
+Evolution and competitors will be closely monitoring Brazilian regulators for any signals regarding the ban's duration, potential legal challenges, or pathways to regulatory resolution. Operators may also explore legal avenues, particularly if the ban violates existing licensing agreements or investment treaties.
+
+For the broader iGaming industry, the Brazil situation underscores the importance of diversified geographic exposure and conservative assumptions about emerging market sustainability. Operators with excessive concentration in Brazil face material revenue risk; those with balanced portfolios can absorb the market disruption more readily.`,
+    featuredImage: "/images/articles/evolution-brazil-betting-ban-regulatory-shock-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-24T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t6595", label: "Evolution Gaming", slug: "evolution-gaming" },
+      { id: "t6596", label: "Brazil", slug: "brazil" },
+      { id: "t6597", label: "betting ban", slug: "betting-ban" },
+      { id: "t6598", label: "regulatory uncertainty", slug: "regulatory-uncertainty" },
+      { id: "t6599", label: "Latin America", slug: "latin-america" },
+      { id: "t6600", label: "market risk", slug: "market-risk" },
+      { id: "t6601", label: "earnings", slug: "earnings" },
+      { id: "t6602", label: "iGaming expansion", slug: "igaming-expansion" },
+      { id: "t6603", label: "regulation volatility", slug: "regulation-volatility" },
+      { id: "t6604", label: "operator strategy", slug: "operator-strategy" },
+    ],
+    sourceName: "igamingbusiness.com",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Evolution CEO Shocked by Brazil Betting Ban Amid Regulatory Limbo 2026 | iGaming Pulse",
+    metaDescription: "Evolution Gaming CEO expresses shock at Brazil's unexpected betting ban as the operator grapples with lost market access and broader regional challenges.",
+    likes: 24,
+    comments: [],
+  },
+
+  {
+    id: "1013",
+    slug: "spain-centralized-deposit-limits-portal-2026",
+    language: "en",
+    translationGroupId: "tg-1013",
+    title: "Spain Launches Centralized Deposit Limits Portal for Player Protection 2026",
+    excerpt: "Spain launches centralized player portal for deposit limits and self-assessment, advancing its push toward unified responsible gambling controls.",
+    content: `Spain's regulatory authorities have taken a significant step toward unified player protection by launching a centralized national portal that allows players to set and manage deposit limits across all licensed iGaming operators simultaneously.
+
+The initiative, coordinated between Spain's Ministry of Consumer Affairs and the Directorate General for Gambling Regulation (DGOJ), addresses a long-standing fragmentation issue in Spanish iGaming: players previously had to set deposit limits individually with each operator, creating gaps in protection and compliance complexity for operators managing multiple limit policies.
+
+## How the Portal Works
+
+The new system enables players to conduct self-assessment on their gambling behavior and establish deposit limits that are recognized and enforced across Spain's entire regulated market. Rather than managing separate deposit caps with individual operators, players now use a single portal to control their aggregate spending.
+
+This centralized approach mirrors responsible gambling frameworks already established in other European markets, but Spain's implementation is notable for its scope—covering the entire operator ecosystem rather than remaining fragmented across individual licensees.
+
+## Operator Compliance Requirements
+
+For operators, the centralized portal means integrating with a national system rather than managing independent limit-setting processes. This simplifies compliance in some respects—operators now connect to a single national database rather than maintaining proprietary limit systems—but requires technical integration and coordination with regulatory authorities.
+
+Operators must respect deposit limits established through the portal and prevent players from circumventing them by moving between licensed platforms. The system likely includes daily reporting and reconciliation protocols to ensure compliance.
+
+## Broader Spanish Centralization Trend
+
+The deposit limit portal fits within Spain's broader regulatory strategy to centralize player protection and market oversight. Rather than allowing operators wide latitude in how they implement responsible gambling measures, Spanish regulators are imposing standardized systems that apply uniformly across all licensees.
+
+This centralization approach has advantages—consistent player protection, reduced compliance fragmentation, clearer regulatory oversight—but also creates implementation costs for operators and technical dependencies on the regulatory portal.
+
+## Impact on Player Behavior
+
+The system's effectiveness will depend on player adoption and whether the portal actually influences spending patterns. Early data from similar centralized systems in other European markets suggests that players who actively engage with self-assessment tools tend to reduce spending, but uptake among the broader player base often remains modest.
+
+Spain's authorities will likely monitor usage metrics and behavioral outcomes to determine whether the portal achieves its responsible gambling objectives or requires refinement.`,
+    featuredImage: "/images/articles/spain-centralized-deposit-limits-portal-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-24T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6605", label: "Spain", slug: "spain" },
+      { id: "t6606", label: "deposit limits", slug: "deposit-limits" },
+      { id: "t6607", label: "responsible gambling", slug: "responsible-gambling" },
+      { id: "t6608", label: "player protection", slug: "player-protection" },
+      { id: "t6609", label: "DGOJ", slug: "dgoj" },
+      { id: "t6610", label: "centralization", slug: "centralization" },
+      { id: "t6611", label: "regulatory framework", slug: "regulatory-framework" },
+      { id: "t6612", label: "consumer affairs", slug: "consumer-affairs" },
+      { id: "t6613", label: "self-exclusion", slug: "self-exclusion" },
+      { id: "t6614", label: "iGaming regulation", slug: "igaming-regulation" },
+    ],
+    sourceName: "igamingbusiness.com",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Spain Launches Centralized Deposit Limits Portal for Player Protection 2026 | iGaming Pulse",
+    metaDescription: "Spain launches centralized player portal for deposit limits and self-assessment, advancing its push toward unified responsible gambling controls.",
+    likes: 15,
+    comments: [],
+  },
+
+  {
+    id: "1014",
+    slug: "betmgm-nfl-partnership-alberta-2026",
+    language: "en",
+    translationGroupId: "tg-1014",
+    title: "BetMGM Expands NFL Deal Into Alberta's Regulated iGaming Market 2026",
+    excerpt: "BetMGM renews NFL partnership and enters Alberta's newly regulated iGaming market in major Canadian expansion.",
+    content: `## BetMGM Enters Alberta as NFL Partnership Reaches North
+
+BetMGM has announced an expansion of its partnership with the National Football League that brings the operator into Alberta's freshly regulated iGaming marketplace. The agreement extends BetMGM's status as an Official Sports Betting Partner of the NFL while opening a new revenue channel in Canada's fourth-most-populous province.
+
+The move comes seven weeks into the 2026 NFL season and reflects both the league's confidence in BetMGM's compliance infrastructure and the operator's aggressive push into regulated North American markets. Alberta's iGaming framework, established through provincial licensing, has attracted significant operator interest from major US-based sportsbooks seeking to diversify their geographic footprint.
+
+## Strategic Importance for Operator Growth
+
+For BetMGM, the Alberta expansion represents a logical next step following successful entries into other provinces. The operator leverages the NFL brand partnership across all markets where licensing permits, using sports partnerships as a key customer acquisition tool. Alberta's market opening caps a period of provincial deregulation across Canada that has fundamentally altered the competitive landscape for legal sportsbooks.
+
+## What's Next
+
+Industry observers will monitor whether other NFL-affiliated operators (DraftKings, FanDuel, Caesars Sportsbook) pursue similar Alberta agreements. Provincial regulators continue reviewing operator license applications, suggesting additional market entry announcements may follow through year-end.`,
+    featuredImage: "/images/articles/betmgm-nfl-partnership-alberta-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-24T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6615", label: "BetMGM", slug: "betmgm" },
+      { id: "t6616", label: "NFL partnership", slug: "nfl-partnership" },
+      { id: "t6617", label: "Alberta iGaming", slug: "alberta-igaming" },
+      { id: "t6618", label: "Canada", slug: "canada" },
+      { id: "t6619", label: "sports betting", slug: "sports-betting" },
+      { id: "t6620", label: "market expansion", slug: "market-expansion" },
+      { id: "t6621", label: "regulated gaming", slug: "regulated-gaming" },
+      { id: "t6622", label: "2026", slug: "2026" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "BetMGM Expands NFL Deal Into Alberta's Regulated iGaming Market 2026 | iGaming Pulse",
+    metaDescription: "BetMGM renews NFL partnership and enters Alberta's newly regulated iGaming market in major Canadian expansion.",
+    likes: 15,
+    comments: [],
+  },
+
+  {
+    id: "1015",
+    slug: "resorts-world-nyc-high-roller-room-2026",
+    language: "en",
+    translationGroupId: "tg-1015",
+    title: "Resorts World NYC Launches First Legal High-Stakes Table Games Room 2026",
+    excerpt: "Resorts World NYC debuts the International Room, a 13,657-sq-ft high-limit gaming space—New York City's first legal high-stakes table game venue.",
+    content: `## NYC Gaming Market Gets Premium Tier
+
+Resorts World New York City has launched the International Room, a premium gaming venue designed specifically for high-roller and VIP clientele. The 13,657-square-foot space represents the first legal high-stakes table games room in New York City, expanding the property's product portfolio beyond its established slot machine operations.
+
+The venue opening fills a market void that has persisted since NYC's 2019 gaming legislation. Until now, the city's regulated gaming market focused primarily on electronic gaming machines. The International Room introduces live-dealer table gaming at elevated stakes, creating a differentiated product tier that competes directly with regional gaming destinations.
+
+## What This Means for Operators
+
+Resorts World's investment in premium venue infrastructure signals confidence in NYC's high-net-worth gaming market. The operator's willingness to commit capital to dedicated VIP spaces suggests that player volume and average wagering support upscale venue operations in Manhattan.
+
+This expansion also reflects regulatory approval of broader gaming product categories within NYC's licensing framework. Regulators have gradually expanded operator product permissions, moving beyond slot-focused venues toward comprehensive casino experiences.
+
+## Market Implications
+
+Industry participants expect the International Room opening to generate additional gaming revenue from New York City's affluent player base while potentially supporting increased employment at the property. The success of this premium tier may inform future licensing decisions regarding additional gaming properties in Manhattan and other boroughs.`,
+    featuredImage: "/images/articles/resorts-world-nyc-high-roller-room-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-24T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t6623", label: "Resorts World", slug: "resorts-world" },
+      { id: "t6624", label: "New York City", slug: "new-york-city" },
+      { id: "t6625", label: "high-roller", slug: "high-roller" },
+      { id: "t6626", label: "table games", slug: "table-games" },
+      { id: "t6627", label: "VIP gaming", slug: "vip-gaming" },
+      { id: "t6628", label: "premium venue", slug: "premium-venue" },
+      { id: "t6629", label: "regulated casino", slug: "regulated-casino" },
+      { id: "t6630", label: "2026", slug: "2026" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Resorts World NYC Launches First Legal High-Stakes Table Games Room 2026 | iGaming Pulse",
+    metaDescription: "Resorts World NYC debuts the International Room, a 13,657-sq-ft high-limit gaming space—New York City's first legal high-stakes table game venue.",
+    likes: 11,
+    comments: [],
+  },
+
+  {
+    id: "1016",
+    slug: "netjets-private-terminal-las-vegas-2026",
+    language: "en",
+    translationGroupId: "tg-1016",
+    title: "NetJets Opens 300K+ Sq Ft Private Terminal at Las Vegas Hub 2026",
+    excerpt: "NetJets opens 300,000+ sq ft private aviation terminal at Las Vegas's Harry Reid International Airport to serve high-net-worth clientele.",
+    content: `## Private Aviation Expands in Las Vegas
+
+NetJets, the world's largest fractional jet ownership and charter company, is establishing a dedicated private terminal campus exceeding 300,000 square feet at Harry Reid International Airport in Las Vegas. The Berkshire Hathaway-owned operator's investment underscores the critical role private aviation plays in facilitating high-net-worth travel to gaming and hospitality destinations.
+
+The facility will operate as NetJets' specialized infrastructure hub, supporting the company's transient flight operations and clientele access needs. While most Las Vegas airport passengers will never see the private terminal, it represents a significant commitment to the premium travel market that fuels gaming industry VIP operations.
+
+## Gaming's Dependency on Luxury Travel
+
+NetJets' Las Vegas expansion reflects the gaming industry's reliance on seamless, discretionary travel experiences for affluent players. Casino operators depend on private aviation infrastructure to facilitate convenient transport for high-wagering clients, generating significant ancillary revenue streams beyond gaming activities.
+
+The terminal investment also supports executive and institutional travel for gaming company leadership, regulatory visits, and transactional meetings. Major operators maintain dedicated charter relationships to manage C-suite mobility and time-sensitive business requirements.
+
+## Industry Implications
+
+The NetJets expansion signals continued confidence in Las Vegas's gaming market and robust demand for premium aviation services tied to gaming tourism. Industry participants view private terminal infrastructure as foundational to maintaining competitive advantages in attracting and servicing VIP player segments.`,
+    featuredImage: "/images/articles/netjets-private-terminal-las-vegas-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-10-24T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t6631", label: "NetJets", slug: "netjets" },
+      { id: "t6632", label: "private aviation", slug: "private-aviation" },
+      { id: "t6633", label: "Las Vegas", slug: "las-vegas" },
+      { id: "t6634", label: "Harry Reid International", slug: "harry-reid-international" },
+      { id: "t6635", label: "infrastructure", slug: "infrastructure" },
+      { id: "t6636", label: "high-net-worth", slug: "high-net-worth" },
+      { id: "t6637", label: "gaming travel", slug: "gaming-travel" },
+      { id: "t6638", label: "2026", slug: "2026" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "NetJets Opens 300K+ Sq Ft Private Terminal at Las Vegas Hub 2026 | iGaming Pulse",
+    metaDescription: "NetJets opens 300,000+ sq ft private aviation terminal at Las Vegas's Harry Reid International Airport to serve high-net-worth clientele.",
+    likes: 22,
+    comments: [],
+  },
+
+  {
+    id: "1017",
+    slug: "pentagon-prediction-market-security-warning-2026",
+    language: "en",
+    translationGroupId: "tg-1017",
+    title: "Pentagon Warns on Prediction Market Security Risks, Nonpublic Intel 2026",
+    excerpt: "Defense Secretary Hegseth warns military and DOD personnel against using nonpublic information on prediction markets, citing national security and legal violations.",
+    content: `## Pentagon Flags Prediction Market National Security Risks
+
+Defense Secretary Pete Hegseth issued formal guidance to military personnel and Department of Defense staff warning against the use of nonpublic or classified information in prediction market trading. The communication, dated October 20, establishes explicit policy regarding insider information access and market manipulation risks within the national security context.
+
+Hegseth's letter specifically emphasized that adversarial nations monitor prediction market activity for intelligence signals. Unusual trading patterns or information advantages derived from classified access create security vulnerabilities that hostile actors can exploit to infer US military capabilities, strategic intentions, or operational timelines.
+
+## Regulatory and Operational Implications
+
+The Pentagon's warning represents a significant policy statement regarding prediction market governance and represents a formal acknowledgment that these markets have matured to levels where government security considerations supersede ordinary financial market participation.
+
+The guidance carries implicit enforcement authority, signaling that DOD investigators will monitor military personnel trading activity for compliance. Personnel violations could face disciplinary action, security clearance reviews, and potential criminal prosecution under insider trading statutes.
+
+## Broader Market Implications
+
+Prediction market operators and exchanges should anticipate that government agencies will increasingly scrutinize user access to classified information and information asymmetries. The Pentagon's explicit security warnings may prompt regulatory frameworks addressing insider information use across all prediction market platforms, not merely defense-specific contracts.
+
+Industry participants expect similar guidance from intelligence agencies, state departments, and other government bodies with access to nonpublic information. Prediction markets may require identity verification systems and information barrier protocols similar to traditional financial markets.`,
+    featuredImage: "/images/articles/pentagon-prediction-market-security-warning-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-24T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6639", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t6640", label: "national security", slug: "national-security" },
+      { id: "t6641", label: "Defense Department", slug: "defense-department" },
+      { id: "t6642", label: "insider information", slug: "insider-information" },
+      { id: "t6643", label: "regulation", slug: "regulation" },
+      { id: "t6644", label: "security risks", slug: "security-risks" },
+      { id: "t6645", label: "2026", slug: "2026" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Pentagon Warns on Prediction Market Security Risks, Nonpublic Intel 2026 | iGaming Pulse",
+    metaDescription: "Defense Secretary Hegseth warns military and DOD personnel against using nonpublic information on prediction markets, citing national security and legal violati",
+    likes: 9,
+    comments: [],
+  },
+
+  {
+    id: "1018",
+    slug: "encore-boston-strike-day-50-labor-deadlock-2026",
+    language: "en",
+    translationGroupId: "tg-1018",
+    title: "Encore Boston Strike Nears Day 50 as Labor Talks Deadlock Continues 2026",
+    excerpt: "Encore Boston Harbor strike nears Day 50 as management and unions clash over contract proposals amid mutual claims of good-faith negotiation.",
+    content: `## Encore Boston Strike Stalls as Negotiations Reach Impasse
+
+The labor dispute at Encore Boston Harbor continues past the 50-day mark with no immediate resolution in sight. Management and its two workers' unions—Teamsters Local 25 and UNITE HERE Local 26—have reached a critical negotiation deadlock where mutual commitment to ending the strike coexists with fundamental disagreement over contract terms.
+
+Management has accused the unions of failing to adequately consider compensation and benefits proposals, while union representatives counter that the operator's offers fall short of member expectations and industry standards for unionized gaming properties. Both sides maintain they want resolution but attribute responsibility for ongoing delays to the other party.
+
+## Impact on Operations and Revenue
+
+The extended strike creates significant operational challenges for Encore Boston Harbor, affecting gaming floor staffing, hospitality services, and table game operations. Revenue losses accumulate daily as the property operates at reduced capacity with replacement staff and management coverage.
+
+Longer strikes also generate employee hardship, with union members losing wages despite strike benefits, and create uncertainty regarding property staffing levels and operational continuity as negotiations drag.
+
+## Industry Precedent Concerns
+
+The Encore Boston negotiation duration may establish precedent expectations for unionized gaming properties across the Northeast. Extended strike durations typically result in more favorable union contracts, potentially influencing negotiations at other regional properties in Connecticut, New Jersey, and New York.
+
+Operators and union leadership will monitor this negotiation closely as a barometer for labor cost trends and organizing momentum among gaming employees seeking wage increases and expanded benefits tied to industry revenue growth.`,
+    featuredImage: "/images/articles/encore-boston-strike-day-50-labor-deadlock-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-24T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t6646", label: "Encore Boston Harbor", slug: "encore-boston-harbor" },
+      { id: "t6647", label: "labor strike", slug: "labor-strike" },
+      { id: "t6648", label: "Teamsters", slug: "teamsters" },
+      { id: "t6649", label: "UNITE HERE", slug: "unite-here" },
+      { id: "t6650", label: "union negotiations", slug: "union-negotiations" },
+      { id: "t6651", label: "gaming employees", slug: "gaming-employees" },
+      { id: "t6652", label: "Massachusetts", slug: "massachusetts" },
+      { id: "t6653", label: "2026", slug: "2026" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Encore Boston Strike Nears Day 50 as Labor Talks Deadlock Continues 2026 | iGaming Pulse",
+    metaDescription: "Encore Boston Harbor strike nears Day 50 as management and unions clash over contract proposals amid mutual claims of good-faith negotiation.",
+    likes: 8,
+    comments: [],
+  },
+
+  {
+    id: "1019",
+    slug: "brazil-money-laundering-probe-1b-betting-2026",
+    language: "en",
+    translationGroupId: "tg-1019",
+    title: "Brazil Money Laundering Probe: $1B Betting Volume Flags 2026",
+    excerpt: "Brazilian police investigate lawyer over $1B in online betting amid money laundering suspicions and compliance red flags.",
+    content: `## Brazil Escalates Financial Crime Probe Into Online Betting Sector
+
+Brazilian authorities have opened a major investigation into suspected money laundering activities linked to a lawyer who placed over $1 billion in online wagers during 2025 and the first nine months of 2026. The revelation comes as regulators tighten scrutiny on the country's rapidly expanding but loosely regulated digital betting market.
+
+According to documents obtained by investigators, the suspect wagered more than $1 billion through online betting platforms, yet a betting site connected to the individual generated just $42,000 in legitimate revenue over an 18-month period. The massive gap between wagered amounts and documented operational income has triggered federal authorities to examine whether betting platforms are being used as conduits for laundering illicit funds.
+
+## Compliance Gaps in Emerging Markets
+
+The case underscores critical vulnerabilities in Brazil's online gambling ecosystem at a moment when the sector is attracting both legitimate operators and potentially bad actors seeking to exploit regulatory gaps. Unlike mature markets with established deposit-limit systems and real-time transaction monitoring, Brazil's regulatory framework remains fragmented, with enforcement primarily reactive rather than preventive.
+
+Operators accepting deposits from high-volume bettors face increasing liability exposure if AML controls fail to flag suspicious activity patterns. The investigation suggests that volume-based betting alone—without corresponding legitimate business revenue—should trigger mandatory enhanced due diligence and transaction reporting.
+
+## Broader Implications for Regional Operators
+
+The probe arrives as Brazil considers expanding licensing frameworks for online betting and iGaming. International operators and local platforms must now prepare for stricter onboarding verification, real-time transaction analysis, and potential account freezes pending regulatory review. The case will likely inform policy discussions around minimum KYC standards and mandatory reporting thresholds for Brazilian regulators.
+
+Industry observers expect Brazil's federal authorities to issue guidance within the coming months on suspicious activity patterns specific to online betting, potentially including wagering-to-revenue ratios and cumulative deposit benchmarks that trigger automatic compliance reviews.`,
+    featuredImage: "/images/articles/brazil-money-laundering-probe-1b-betting-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-25T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6654", label: "money-laundering", slug: "money-laundering" },
+      { id: "t6655", label: "AML-KYC", slug: "aml-kyc" },
+      { id: "t6656", label: "Brazil-betting", slug: "brazil-betting" },
+      { id: "t6657", label: "financial-crime", slug: "financial-crime" },
+      { id: "t6658", label: "regulatory-enforcement", slug: "regulatory-enforcement" },
+      { id: "t6659", label: "compliance-risk", slug: "compliance-risk" },
+      { id: "t6660", label: "operator-liability", slug: "operator-liability" },
+      { id: "t6661", label: "suspicious-activity", slug: "suspicious-activity" },
+      { id: "t6662", label: "law-enforcement", slug: "law-enforcement" },
+      { id: "t6663", label: "2026", slug: "2026" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Brazil Money Laundering Probe: $1B Betting Volume Flags 2026 | iGaming Pulse",
+    metaDescription: "Brazilian police investigate lawyer over $1B in online betting amid money laundering suspicions and compliance red flags.",
+    likes: 9,
+    comments: [],
+  },
+
+  {
+    id: "1020",
+    slug: "joey-cusumano-last-vegas-mob-era-survivor-dies-2026",
+    language: "en",
+    translationGroupId: "tg-1020",
+    title: "Joey Cusumano, Last Surviving Vegas Mob Figure, Dies at 90",
+    excerpt: "Joey Cusumano, the last surviving associate of mob figure Tony Spilotro, dies at 90, marking the end of Las Vegas's organized crime era.",
+    content: `Las Vegas lost a significant historical figure this week with the death of Joey Cusumano at age 90. Cusumano is believed to have been the last surviving associate of Anthony "Tony the Ant" Spilotro, one of the most notorious mob figures in Las Vegas gaming history.
+
+Cusumano's death on October 20 represents the symbolic closing of a chapter in Las Vegas gaming history—the era when organized crime wielded direct operational and financial control over major casinos. Unlike fictional portrayals, including Martin Scorsese's 1995 Oscar-nominated film Casino, Cusumano was not the specific basis for any character, yet his real-world associations and activities embodied the complex network of relationships that defined mob influence in the city.
+
+Spilotro's operations in Las Vegas spanned the 1970s and early 1980s, a period before modern regulatory oversight, advanced surveillance systems, and coordinated federal enforcement dismantled organized crime's hold on the gaming industry. Cusumano's longevity meant he retained living memory of that era—the operational methods, the power structures, and the eventual collapse of those networks under sustained federal pressure and evolving state gaming regulations.
+
+The Spilotro organization's influence extended across multiple casinos and gaming operations, making Cusumano's survival into 2026 significant for historians and gaming industry observers. His death removes one of the last direct witnesses to how casinos operated under mob control and how that system was systematically dismantled through law enforcement and regulatory evolution.
+
+Today's Las Vegas gaming industry operates under strict licensing requirements, annual regulatory audits, anti-money laundering protocols, and transparent ownership structures—measures that would have been unthinkable during Cusumano's era. The contrast between then and now underscores the profound transformation in gaming regulation and compliance standards that have made such organized crime infiltration virtually impossible in modern casinos.`,
+    featuredImage: "/images/articles/joey-cusumano-last-vegas-mob-era-survivor-dies-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-10-25T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t6664", label: "Las Vegas", slug: "las-vegas" },
+      { id: "t6665", label: "gaming-history", slug: "gaming-history" },
+      { id: "t6666", label: "organized-crime", slug: "organized-crime" },
+      { id: "t6667", label: "casino-regulation", slug: "casino-regulation" },
+      { id: "t6668", label: "1970s-1980s", slug: "1970s-1980s" },
+      { id: "t6669", label: "Spilotro", slug: "spilotro" },
+      { id: "t6670", label: "industry-evolution", slug: "industry-evolution" },
+      { id: "t6671", label: "regulatory-history", slug: "regulatory-history" },
+      { id: "t6672", label: "2026", slug: "2026" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Joey Cusumano, Last Surviving Vegas Mob Figure, Dies at 90 | iGaming Pulse",
+    metaDescription: "Joey Cusumano, the last surviving associate of mob figure Tony Spilotro, dies at 90, marking the end of Las Vegas's organized crime era.",
+    likes: 18,
+    comments: [],
+  },
+
+  {
+    id: "1021",
+    slug: "prizepicks-digital-cards-gambling-collectibles-line-2026",
+    language: "en",
+    translationGroupId: "tg-1021",
+    title: "PrizePicks Digital Card Packs Raise Gambling vs Collecting Concerns 2026",
+    excerpt: "PrizePicks' foray into digital trading cards with instant buybacks reignites debate over whether randomized collectible products qualify as gambling.",
+    content: `PrizePicks, the prediction market platform, has entered the digital trading card space with a product line that combines instant buyback features, randomized card reveals, and collectible mechanics—raising fresh questions about whether such offerings constitute gambling under existing state law.
+
+The platform's model mirrors familiar loot-box mechanics: users purchase randomized digital card packs at set prices, unbox them instantly, and can immediately resell the contents through a secondary marketplace. This instant liquidity mechanism—the ability to convert any card into USD almost immediately—distinguishes PrizePicks' offering from traditional collecting hobbies where secondary markets exist but are not guaranteed immediate conversion.
+
+## The Regulatory Gray Zone
+
+State gaming regulators and legal scholars are now asking whether the instant buyback feature transforms what appears to be card collecting into wagering. If a user can reliably convert any card into cash within minutes, the argument goes, the primary economic motivation shifts from collectible ownership to profit-seeking through randomized outcomes—a definition that tracks closely with gambling statutes in most states.
+
+The Federal Trade Commission has also begun scrutinizing such products under consumer protection statutes, examining whether they constitute deceptive trade practices or unfair commercial conduct. The FTC's focus typically centers on whether marketing materials accurately disclose the randomization odds and whether promotional claims about collectible value are substantiated.
+
+## Operators Facing Uncertainty
+
+For iGaming and gaming operators evaluating entry into digital collectibles, the PrizePicks case represents a critical precedent-setting moment. A determination that instant-buyback digital packs constitute gambling could trigger strict licensing requirements, age verification mandates, and responsible gambling controls—effectively converting the product category into regulated gaming. Conversely, a determination favoring the "collectible" classification would validate the model and likely spark competitive entrants.
+
+Operators should monitor state gaming board interpretations, particularly from major markets like New York, California, and Florida, which are most likely to issue guidance first. The outcome could reshape how prediction markets, sports collectibles, and digital asset platforms structure product mechanics and secondary marketplace access.`,
+    featuredImage: "/images/articles/prizepicks-digital-cards-gambling-collectibles-line-2026.png",
+    author: AUTHORS[3],
+    publishedAt: "2026-10-25T08:30:00Z",
+    category: "marketing-traffic",
+    tags: [
+      { id: "t6673", label: "digital-collectibles", slug: "digital-collectibles" },
+      { id: "t6674", label: "trading-cards", slug: "trading-cards" },
+      { id: "t6675", label: "prediction-markets", slug: "prediction-markets" },
+      { id: "t6676", label: "gambling-regulation", slug: "gambling-regulation" },
+      { id: "t6677", label: "loot-boxes", slug: "loot-boxes" },
+      { id: "t6678", label: "consumer-protection", slug: "consumer-protection" },
+      { id: "t6679", label: "state-gaming-law", slug: "state-gaming-law" },
+      { id: "t6680", label: "PrizePicks", slug: "prizepicks" },
+      { id: "t6681", label: "regulatory-risk", slug: "regulatory-risk" },
+      { id: "t6682", label: "2026", slug: "2026" },
+    ],
+    sourceName: "gamblinginsider.com",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "PrizePicks Digital Card Packs Raise Gambling vs Collecting Concerns 2026 | iGaming Pulse",
+    metaDescription: "PrizePicks' foray into digital trading cards with instant buybacks reignites debate over whether randomized collectible products qualify as gambling.",
+    likes: 21,
+    comments: [],
+  },
+
+  {
+    id: "1022",
+    slug: "live-casino-philadelphia-armed-robbery-parking-garage-2026",
+    language: "en",
+    translationGroupId: "tg-1022",
+    title: "Armed Robbery at Live! Casino Philadelphia Parking Garage 2026",
+    excerpt: "Armed robbers ambushed a woman in the parking garage at Live! Casino Philadelphia on October 23, prompting police investigation.",
+    content: `Philadelphia law enforcement is investigating an armed robbery that occurred in the parking garage of Live! Casino & Hotel Philadelphia on the evening of October 23. Police responded to the South Philadelphia location shortly before midnight after reports of an armed assault on a female patron in the garage.
+
+The incident has prompted questions about casino parking security protocols and whether current measures are sufficient to deter and detect criminal activity. Live! Casino operators have not yet released public statements regarding the incident, security camera footage, or additional protective measures being implemented in response.
+
+Police have described the suspects as armed individuals who acted in a coordinated manner, suggesting possible premeditation or targeting of casino patrons known to carry cash. The case remains active, and authorities are seeking public assistance in identifying the perpetrators.`,
+    featuredImage: "/images/articles/live-casino-philadelphia-armed-robbery-parking-garage-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-25T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t6683", label: "Live-Casino-Philadelphia", slug: "live-casino-philadelphia" },
+      { id: "t6684", label: "security-incident", slug: "security-incident" },
+      { id: "t6685", label: "armed-robbery", slug: "armed-robbery" },
+      { id: "t6686", label: "casino-safety", slug: "casino-safety" },
+      { id: "t6687", label: "parking-garage", slug: "parking-garage" },
+      { id: "t6688", label: "Philadelphia", slug: "philadelphia" },
+      { id: "t6689", label: "operator-liability", slug: "operator-liability" },
+      { id: "t6690", label: "loss-prevention", slug: "loss-prevention" },
+      { id: "t6691", label: "2026", slug: "2026" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Armed Robbery at Live! Casino Philadelphia Parking Garage 2026 | iGaming Pulse",
+    metaDescription: "Armed robbers ambushed a woman in the parking garage at Live! Casino Philadelphia on October 23, prompting police investigation.",
+    likes: 24,
+    comments: [],
+  },
+
+  {
+    id: "1023",
+    slug: "congress-vip-programs-pentagon-prediction-markets-2026",
+    language: "en",
+    translationGroupId: "tg-1023",
+    title: "Congress Expands VIP Program Scrutiny as Pentagon Tightens Prediction Markets 2026",
+    excerpt: "Pentagon bars military personnel from prediction market trading with nonpublic info; Congress probes six operators' VIP programs.",
+    content: `## Pentagon Closes Prediction Market Loophole
+
+The U.S. Department of Defense has implemented new policy restrictions prohibiting military personnel from engaging in prediction market trading using nonpublic information obtained through their government positions. The measure addresses concerns that service members with access to classified or sensitive defense intelligence could gain unfair advantages in prediction markets—and potentially profit from advance knowledge of military actions, geopolitical developments, or policy shifts.
+
+Pentagon officials stated that the restriction applies uniformly across all service branches and contractor personnel with security clearances. Enforcement mechanisms include potential disciplinary action, security clearance revocation, and criminal referral in cases involving intentional violation or material gains exceeding designated thresholds.
+
+## Congress Broadens VIP Program Inquiry
+
+Simultaneously, congressional investigators have expanded their examination of casino and gaming operator VIP programs to include six additional companies beyond those initially under scrutiny. The inquiry focuses on whether VIP loyalty tiers, exclusive deposit bonuses, and high-roller incentive structures comply with responsible gambling standards and federal consumer protection requirements.
+
+Lawmakers are particularly concerned about whether operators adequately screen VIP prospects for signs of problem gambling, whether deposit-limit overrides are justified by player protection protocols, and whether marketing materials targeting high-volume players constitute unfair or deceptive practices.
+
+## Regulatory Implications for Operators
+
+The simultaneous actions from two federal agencies signal intensifying regulatory pressure on gaming operators to demonstrate robust compliance across both insider-trading risk management and responsible gambling controls. Operators should expect congressional requests for VIP program documentation, marketing materials, player screening procedures, and case studies demonstrating how problem gambling concerns were handled at premium customer tiers.`,
+    featuredImage: "/images/articles/congress-vip-programs-pentagon-prediction-markets-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-25T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t6692", label: "Congress-regulation", slug: "congress-regulation" },
+      { id: "t6693", label: "Pentagon-restriction", slug: "pentagon-restriction" },
+      { id: "t6694", label: "prediction-markets", slug: "prediction-markets" },
+      { id: "t6695", label: "VIP-programs", slug: "vip-programs" },
+      { id: "t6696", label: "insider-trading", slug: "insider-trading" },
+      { id: "t6697", label: "military-policy", slug: "military-policy" },
+      { id: "t6698", label: "responsible-gambling", slug: "responsible-gambling" },
+      { id: "t6699", label: "federal-oversight", slug: "federal-oversight" },
+      { id: "t6700", label: "2026", slug: "2026" },
+    ],
+    sourceName: "gamblinginsider.com",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Congress Expands VIP Program Scrutiny as Pentagon Tightens Prediction Markets 2026 | iGaming Pulse",
+    metaDescription: "Pentagon bars military personnel from prediction market trading with nonpublic info; Congress probes six operators' VIP programs.",
+    likes: 14,
+    comments: [],
   }
 ];
 
