@@ -97,13 +97,18 @@ def article_to_ts(article, article_id, tag_id_start):
     import random
     likes = random.randint(5, 25)
 
+    title_esc = title.replace('"', '\\"')
+    excerpt_esc = excerpt.replace('"', '\\"')
+    seo_title_esc = seo_title.replace('"', '\\"')
+    meta_desc_esc = meta_desc.replace('"', '\\"')
+
     ts = f'''  {{
     id: "{article_id}",
     slug: "{slug}",
     language: "en",
     translationGroupId: "tg-{article_id}",
-    title: "{title.replace('"', '\\"')}",
-    excerpt: "{excerpt.replace('"', '\\"')}",
+    title: "{title_esc}",
+    excerpt: "{excerpt_esc}",
     content: `{escape_backtick(content)}`,
     featuredImage: "{image_path}",
     author: {author},
@@ -117,8 +122,8 @@ def article_to_ts(article, article_id, tag_id_start):
     featured: false,
     trending: false,
     sponsored: false,
-    seoTitle: "{seo_title.replace('"', '\\"')}",
-    metaDescription: "{meta_desc.replace('"', '\\"')}",
+    seoTitle: "{seo_title_esc}",
+    metaDescription: "{meta_desc_esc}",
     likes: {likes},
     comments: [],
   }}'''
