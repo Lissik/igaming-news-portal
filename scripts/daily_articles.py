@@ -20,7 +20,7 @@ YESTERDAY = date.today() - timedelta(days=1)
 YESTERDAY_STR = YESTERDAY.strftime("%Y-%m-%d")
 OUTPUT_FILE = os.environ.get(
     "ARTICLES_JSON_PATH",
-    f"/Users/Administrator/igaming_{YESTERDAY.strftime('%Y_%m_%d')}.json"
+    f"/tmp/igaming_{YESTERDAY.strftime('%Y_%m_%d')}.json"
 )
 
 TG_TOKEN = "8824127595:AAH05g6vIa0cpvS4VWPqqG5k149wo4C58zI"
@@ -271,7 +271,8 @@ def retry_missing_bodies(articles):
 # NOTE: publishing to the portal happens in a SEPARATE step (Claude Code scheduled
 # task "igaming-publish-with-images"), which only publishes once featured images
 # exist for every article. This script's only job is: generate JSON + notify Telegram.
-LOCK_DIR = f"/Users/Administrator/logs/igaming_daily_lock_{YESTERDAY.strftime('%Y_%m_%d')}"
+_LOGS_DIR = os.environ.get("PIPELINE_LOGS_DIR", "/tmp/igaming_logs")
+LOCK_DIR = f"{_LOGS_DIR}/igaming_daily_lock_{YESTERDAY.strftime('%Y_%m_%d')}"
 
 
 def main():
@@ -282,7 +283,7 @@ def main():
     # Atomic lock (mkdir) so two instances waking up close together (e.g. after
     # the Mac was asleep through both the 11:00 and 13:00 launchd slots) can't
     # both pass the exists-check and race to write OUTPUT_FILE.
-    os.makedirs("/Users/Administrator/logs", exist_ok=True)
+    os.makedirs(_LOGS_DIR, exist_ok=True)
     try:
         os.mkdir(LOCK_DIR)
     except FileExistsError:
