@@ -1,0 +1,31 @@
+name: Merge v0 Images
+
+on:
+  push:
+    branches:
+      - v0/article-featured-images
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.email "pipeline@igamingpulse.media"
+          git config user.name "iGaming Pipeline"
+
+      - name: Merge v0 images into main
+        run: |
+          git fetch origin v0/article-featured-images
+          git merge origin/v0/article-featured-images --no-edit -m "merge: v0 featured images"
+          git push origin main

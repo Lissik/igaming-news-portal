@@ -1,0 +1,76 @@
+name: iGaming Daily Pipeline
+
+on:
+  schedule:
+    - cron: '20 5 * * *'   # 7:20 Kyiv (UTC+2 winter)
+    - cron: '20 6 * * *'   # 8:20 Kyiv
+    - cron: '20 8 * * *'   # 10:20 Kyiv
+  workflow_dispatch:
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check if already published today
+        id: check
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          MARKER=".pipeline/markers/published_${TODAY}.marker"
+          if [ -f "$MARKER" ]; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+            echo "Already published today, skipping."
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Set up Python
+        if: steps.check.outputs.skip != 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        if: steps.check.outputs.skip != 'true'
+        run: pip install requests
+
+      - name: Generate articles
+        if: steps.check.outputs.skip != 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ARTICLES_JSON_PATH: ${{ github.workspace }}/articles_today.json
+        run: python3 scripts/daily_articles.py
+
+      - name: Request v0 images (async)
+        if: steps.check.outputs.skip != 'true'
+        env:
+          V0_API_KEY: ${{ secrets.V0_API_KEY }}
+        run: python3 scripts/request_v0_images.py articles_today.json
+
+      - name: Configure git
+        if: steps.check.outputs.skip != 'true'
+        run: |
+          git config user.email "pipeline@igamingpulse.media"
+          git config user.name "iGaming Pipeline"
+
+      - name: Publish articles
+        if: steps.check.outputs.skip != 'true'
+        run: python3 add_articles.py articles_today.json
+
+      - name: Create publish marker
+        if: steps.check.outputs.skip != 'true'
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          mkdir -p .pipeline/markers
+          touch ".pipeline/markers/published_${TODAY}.marker"
+          git add .pipeline/markers/
+          git commit -m "pipeline: published ${TODAY} [skip ci]" || true
+          git push
