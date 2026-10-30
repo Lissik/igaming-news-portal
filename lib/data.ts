@@ -50714,6 +50714,815 @@ The Star Entertainment penalty represents a watershed moment for Asia-Pacific ga
     metaDescription: "Star Entertainment pays AU$260M for AML/CTF failures, setting new compliance cost benchmarks for the Asia-Pacific gaming industry.",
     likes: 22,
     comments: [],
+  },
+
+  {
+    id: "1099",
+    slug: "chile-online-gambling-bill-licensing-disputes-2026",
+    language: "en",
+    translationGroupId: "tg-1099",
+    title: "Chile Online Gambling Bill Advances Despite Licensing Row in 2026",
+    excerpt: "Chile's advancing online gambling bill faces pushback over proposed licensing fees and transitional rules that could reshape market competition.",
+    content: `## Chile's Online Gambling Overhaul Hits Regulatory Snag
+
+Chile's long-awaited online gambling framework is moving forward legislatively, but fresh disputes over licensing fees and transitional provisions are creating friction within the industry ahead of what could be a landmark market opening.
+
+The bill, which aims to establish formal regulation for Chile's previously informal online betting sector, is now facing detailed scrutiny on two critical issues: the cost structure for operators to obtain licenses and the rules governing how existing market players will transition into the regulated framework.
+
+## Licensing Fees Create Investor Friction
+
+Proposed licensing fee schedules have become a flashpoint, with operators questioning whether the financial burden will create barriers to market entry for smaller players or competitors from abroad. Industry representatives argue that excessive initial licensing costs could concentrate market power among deep-pocketed incumbents and multinational operators, potentially limiting consumer choice and healthy competition.
+
+The concern mirrors regulatory debates seen across Latin America, where policymakers must balance government revenue targets with the need to attract diverse operators and foster competitive markets. Too aggressive a fee structure risks discouraging investment; too lenient an approach leaves government revenues on the table.
+
+## Transitional Rules Under Fire
+
+Equally contentious are the transitional provisions intended to govern how currently active—but technically unlicensed—operators will be integrated into the regulated regime. Some stakeholders worry these rules may inadvertently advantage incumbents or create unfair conditions for new market entrants, potentially freezing market structure rather than enabling genuine liberalisation.
+
+## What's Next
+
+Chile's gambling regulators and lawmakers are expected to refine both provisions as the bill advances through remaining legislative stages. The resolution of these disputes will likely set a precedent for how Latin American jurisdictions balance taxation, market access, and consumer protection in emerging online gambling frameworks.
+
+The outcome matters not only for operators seeking exposure to Chile's estimated 19 million adults with internet access, but also for how the region approaches gambling regulation more broadly.`,
+    featuredImage: "/images/articles/chile-online-gambling-bill-licensing-disputes-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t7377", label: "Chile", slug: "chile" },
+      { id: "t7378", label: "online gambling regulation", slug: "online-gambling-regulation" },
+      { id: "t7379", label: "licensing fees", slug: "licensing-fees" },
+      { id: "t7380", label: "market entry", slug: "market-entry" },
+      { id: "t7381", label: "Latin America", slug: "latin-america" },
+      { id: "t7382", label: "regulatory compliance", slug: "regulatory-compliance" },
+      { id: "t7383", label: "competitive fairness", slug: "competitive-fairness" },
+      { id: "t7384", label: "2026", slug: "2026" },
+    ],
+    sourceName: "iGaming Business",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Chile Online Gambling Bill Advances Despite Licensing Row in 2026 | iGaming Pulse",
+    metaDescription: "Chile's advancing online gambling bill faces pushback over proposed licensing fees and transitional rules that could reshape market competition.",
+    likes: 20,
+    comments: [],
+  },
+
+  {
+    id: "1100",
+    slug: "brazil-betting-market-investor-credibility-test-2026",
+    language: "en",
+    translationGroupId: "tg-1100",
+    title: "Brazil's Betting Market Faces Critical Investor Test in 2026",
+    excerpt: "Investors are questioning whether Brazil can deliver the regulatory stability needed to restore confidence in its massive but troubled betting market.",
+    content: `## Brazil's Betting Market Faces Credibility Crisis Among Global Investors
+
+Brazil's position as a major gambling hub is at risk as international investors demand concrete answers to fundamental questions about regulatory consistency, license durability, and tax policy predictability.
+
+Once viewed as a natural market for major operator entry due to its 215-million-strong population and rapidly expanding middle class, Brazil has seen investor appetite cool significantly as operators grapple with inconsistent enforcement, sudden policy shifts, and uncertainty about the long-term viability of licenses granted under the current regime.
+
+## Seven Core Questions Define Market Viability
+
+Operators are now framing their Brazil investment decisions around seven critical uncertainties:
+
+**Regulatory Consistency**: Will the government maintain current licensing frameworks, or are operators risking frequent changes in rules, fees, and operational requirements?
+
+**License Security**: What guarantees exist that granted licenses won't be revoked or substantially modified without contractual compensation?
+
+**Tax Predictability**: Will tax rates remain stable, or should operators plan for sudden increases that could render operations unprofitable?
+
+**Enforcement Clarity**: How uniformly will the regulator enforce compliance across all operators, and what are the consequences for violations?
+
+**Political Continuity**: Will changes in government leadership threaten existing regulatory frameworks or operator licenses?
+
+**Market Access**: Will the government allow fair access to payment systems, sponsorship opportunities, and marketing channels for licensed operators?
+
+**Timeline Certainty**: What is the realistic timeline for full market maturation, and when can operators expect to reach sustainable profitability?
+
+## The Confidence Gap
+
+Without clear, credible answers to these questions, major operators are hedging their Brazil exposure or allocating capital to more predictable markets. This creates a vicious cycle: reduced investment slows market development, which slows government revenue accumulation, which tempts policymakers to impose sudden tax increases or policy changes that further erode investor confidence.
+
+## What Brazil Must Demonstrate
+
+To restore investor optimism, Brazil's gambling regulator and federal government must commit to a multi-year communication plan that directly addresses each of these seven questions. Published regulatory roadmaps, multi-year tax rate commitments, and transparent enforcement dashboards would signal genuine commitment to market stability.
+
+Without such action, Brazil risks ceding regional dominance to Mexico, Colombia, and other jurisdictions competing aggressively for operator capital and player attention.`,
+    featuredImage: "/images/articles/brazil-betting-market-investor-credibility-test-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t7385", label: "Brazil", slug: "brazil" },
+      { id: "t7386", label: "investor confidence", slug: "investor-confidence" },
+      { id: "t7387", label: "regulatory stability", slug: "regulatory-stability" },
+      { id: "t7388", label: "licensing", slug: "licensing" },
+      { id: "t7389", label: "market risk", slug: "market-risk" },
+      { id: "t7390", label: "Latin America", slug: "latin-america" },
+      { id: "t7391", label: "gambling regulation", slug: "gambling-regulation" },
+      { id: "t7392", label: "2026", slug: "2026" },
+    ],
+    sourceName: "iGaming Business",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Brazil's Betting Market Faces Critical Investor Test in 2026 | iGaming Pulse",
+    metaDescription: "Investors are questioning whether Brazil can deliver the regulatory stability needed to restore confidence in its massive but troubled betting market.",
+    likes: 17,
+    comments: [],
+  },
+
+  {
+    id: "1101",
+    slug: "mgm-osaka-integrated-resort-japan-first-mover-2026",
+    language: "en",
+    translationGroupId: "tg-1101",
+    title: "MGM Bets Big on Japan's First Casino Resort Amid Market Risks",
+    excerpt: "MGM Resorts is pioneering Japan's first integrated resort in Osaka, acknowledging the regulatory risks and market potential of entering Asia's most cautious gambling jurisdiction.",
+    content: `## MGM Takes the Wheel on Japan's Historic Casino Market Entry
+
+MGM Resorts is moving full steam ahead on its pioneering integrated resort in Osaka, signalling the global operator's confidence that Japan's tightly controlled gambling market is finally opening for business—even as challenges unique to the Japanese regulatory environment remain substantial.
+
+The resort project represents far more than a single property development. It signals to the broader global gaming industry that Japan, long considered impenetrable to foreign casino operators, is genuinely liberalising. Success or failure could reshape operator investment strategies across Asia-Pacific.
+
+## First-Mover Complexity
+
+Ed Bowers, MGM Japan's leadership, has been candid about the company's position: being first carries both opportunity and risk. Japan's casino regulation is still in its infancy, with many operational frameworks, taxation structures, and competitive dynamics yet to be finalised. Unlike established markets where operators can learn from years of precedent, MGM must essentially help write the rulebook while building a world-class resort.
+
+## The Japanese Market Context
+
+Japan's population of 125 million and extraordinarily high per-capita income create a tantalizing opportunity. The country has no domestic commercial gambling tradition outside pachinko—a distinct category not comparable to Western casino gaming. This means the market is genuinely greenfield; there are no incumbents to displace.
+
+However, Japan's cultural conservatism and political sensitivity to gambling mean regulation will likely remain more restrictive than markets like Singapore, Macau, or Las Vegas. Consumer demand may take years to develop as Japanese society adjusts to legal casino gaming.
+
+## Regulatory Headwinds and Opportunities
+
+MGM must navigate several complexities: strict caps on gaming floor sizes, rigorous anti-money-laundering frameworks, limitations on marketing and sponsorship, and potentially high tax rates. The company is also entering a market where gaming licence terms and competitive dynamics are still being defined by regulators.
+
+Conversely, Japan's legal certainty, political stability, and consumer wealth create a fundamentally different risk profile than many Asian markets. Once the regulatory framework solidifies, operators with early presence will have enormous advantages.
+
+## What to Watch
+
+Observers should monitor whether MGM's resort opens on schedule, achieves profitability timelines, and helps establish precedent for how Japanese regulators interact with major international operators. The company's experience will directly influence whether rivals like Las Vegas Sands, Caesars, and regional Asian operators commit serious capital to Japan, or whether MGM ends up as a cautious, limited experiment rather than the beginning of genuine market liberalisation.`,
+    featuredImage: "/images/articles/mgm-osaka-integrated-resort-japan-first-mover-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t7393", label: "MGM Resorts", slug: "mgm-resorts" },
+      { id: "t7394", label: "Japan", slug: "japan" },
+      { id: "t7395", label: "integrated resort", slug: "integrated-resort" },
+      { id: "t7396", label: "casino market", slug: "casino-market" },
+      { id: "t7397", label: "first-mover risk", slug: "first-mover-risk" },
+      { id: "t7398", label: "Osaka", slug: "osaka" },
+      { id: "t7399", label: "market expansion", slug: "market-expansion" },
+      { id: "t7400", label: "2026", slug: "2026" },
+    ],
+    sourceName: "iGaming Business",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "MGM Bets Big on Japan's First Casino Resort Amid Market Risks | iGaming Pulse",
+    metaDescription: "MGM Resorts is pioneering Japan's first integrated resort in Osaka, acknowledging the regulatory risks and market potential of entering Asia's most cautious gam",
+    likes: 25,
+    comments: [],
+  },
+
+  {
+    id: "1102",
+    slug: "mgm-people-inc-merger-talks-end-q3-results-2026",
+    language: "en",
+    translationGroupId: "tg-1102",
+    title: "MGM Exits People Inc Talks; Cuts Q3 Losses Amid Vegas Downturn",
+    excerpt: "MGM Resorts has permanently ended acquisition talks with People Inc and will pursue an independent path, even as Las Vegas headwinds continue to challenge profitability.",
+    content: `MGM Resorts confirmed on Thursday that all discussions regarding a potential merger with People Inc have concluded with no transaction forthcoming. The decision closes a chapter on consolidation speculation and locks in MGM's strategy as a standalone, publicly traded operator.
+
+## Q3 Performance Signals Efficiency Gains
+
+Coupled with the announcement, MGM reported third-quarter results showing narrowed losses compared to prior periods. The reduction reflects cost discipline and operational improvements across the company's portfolio, even as Las Vegas—the company's largest market—continued to experience flat gaming revenue and subdued tourism activity.
+
+## Stock Pressure Continues
+
+Despite improved operational metrics, MGM's stock price continues to decline amid broader Las Vegas market malaise. The city's gaming win and tourism figures remained essentially flat in September, extending a weakness trend that has persisted throughout 2026. Air traffic delays and reduced convention bookings have compounded the challenge.
+
+## Strategic Implications
+
+The decision to end People Inc talks suggests MGM's leadership believes the company can achieve necessary profitability improvements through internal restructuring and capital allocation rather than through merger-driven synergies. This bet effectively rests on the assumption that Las Vegas market conditions will improve, likely through the fourth-quarter sports calendar and holiday travel.
+
+Meanwhile, MGM's Q3 loss reduction demonstrates that unit-level operational discipline can offset market-wide demand softness—a useful data point for investors evaluating whether the company's current valuation reflects temporary cyclical weakness or structural market challenges.
+
+Stakeholders will watch Q4 results closely to see whether the anticipated seasonal uplift materializes.`,
+    featuredImage: "/images/articles/mgm-people-inc-merger-talks-end-q3-results-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t7401", label: "MGM Resorts", slug: "mgm-resorts" },
+      { id: "t7402", label: "People Inc", slug: "people-inc" },
+      { id: "t7403", label: "merger", slug: "merger" },
+      { id: "t7404", label: "Q3 2026", slug: "q3-2026" },
+      { id: "t7405", label: "financial results", slug: "financial-results" },
+      { id: "t7406", label: "Las Vegas", slug: "las-vegas" },
+      { id: "t7407", label: "stock performance", slug: "stock-performance" },
+      { id: "t7408", label: "consolidation", slug: "consolidation" },
+    ],
+    sourceName: "iGaming Business",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "MGM Exits People Inc Talks; Cuts Q3 Losses Amid Vegas Downturn | iGaming Pulse",
+    metaDescription: "MGM Resorts has permanently ended acquisition talks with People Inc and will pursue an independent path, even as Las Vegas headwinds continue to challenge profi",
+    likes: 12,
+    comments: [],
+  },
+
+  {
+    id: "1103",
+    slug: "coinbase-prediction-markets-fastest-growth-2026",
+    language: "en",
+    translationGroupId: "tg-1103",
+    title: "Coinbase Prediction Markets Emerge as Fastest-Growing Business Line",
+    excerpt: "Coinbase's prediction markets have exploded into one of the fastest-growing business lines in the company's history in less than a year.",
+    content: `Coinbase Global's prediction markets platform has achieved a remarkable milestone: in less than a year since launch, the offering has become one of the fastest-growing business segments in the company's entire operational history.
+
+The achievement underscores surging demand for crypto-native prediction markets and signals a structural shift in how bettors and traders access event-outcome wagering. For traditional gaming operators, Coinbase's success represents both a competitive threat and a potential partnership opportunity as the iGaming industry grapples with crypto adoption.
+
+## What Are Prediction Markets?
+
+Prediction markets allow participants to trade contracts tied to the outcome of future events—elections, sports outcomes, economic indicators, weather events, and entertainment occurrences. Participants effectively bet on outcomes by buying or selling contract shares; accurate predictions generate profit.
+
+Coinbase's platform leverages blockchain infrastructure to enable decentralised, permissionless prediction markets that operate across borders and with settlement speed impossible in traditional betting frameworks. This creates a fundamentally different user experience than conventional sportsbooks.
+
+## Why Crypto-Native Markets Are Gaining
+
+The rapid adoption reflects several factors: first, traditional betting platforms remain geographically restricted and require extensive compliance infrastructure. Crypto-native markets, while operating in a regulatory grey zone, offer global access and faster payouts.
+
+Second, prediction markets appeal to a different demographic than traditional sports betting—they attract financial traders, macro investors, and politically engaged users alongside gamblers. This broadens addressable market size.
+
+Third, the mechanics of prediction markets (collective price discovery, continuous trading) create engagement patterns distinct from traditional fixed-odds wagering, with some evidence suggesting higher user lifetime value.
+
+## Implications for iGaming
+
+Coinbase's early dominance in prediction markets is creating urgency among traditional operators to develop competitive offerings. Some are exploring cryptocurrency payment integration; others are considering white-label or partnership arrangements with established crypto platforms.
+
+The prediction market explosion also raises regulatory questions: unlike sports betting (which operates under licensed gaming frameworks in most jurisdictions), prediction markets exist in regulatory ambiguity. Clarity—or crackdowns—could dramatically reshape the competitive landscape.
+
+For now, Coinbase's traction signals that the convergence of crypto infrastructure and betting mechanics is real, durable, and attracting serious user and capital commitment.`,
+    featuredImage: "/images/articles/coinbase-prediction-markets-fastest-growth-2026.png",
+    author: AUTHORS[5],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "payments-fintech",
+    tags: [
+      { id: "t7409", label: "Coinbase", slug: "coinbase" },
+      { id: "t7410", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t7411", label: "cryptocurrency", slug: "cryptocurrency" },
+      { id: "t7412", label: "crypto betting", slug: "crypto-betting" },
+      { id: "t7413", label: "fintech", slug: "fintech" },
+      { id: "t7414", label: "market growth", slug: "market-growth" },
+      { id: "t7415", label: "emerging segment", slug: "emerging-segment" },
+      { id: "t7416", label: "2026", slug: "2026" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Coinbase Prediction Markets Emerge as Fastest-Growing Business Line | iGaming Pulse",
+    metaDescription: "Coinbase's prediction markets have exploded into one of the fastest-growing business lines in the company's history in less than a year.",
+    likes: 15,
+    comments: [],
+  },
+
+  {
+    id: "1104",
+    slug: "malik-beasley-guilty-plea-betting-scandal-2026",
+    language: "en",
+    translationGroupId: "tg-1104",
+    title: "Ex-NBA Star Beasley Pleads Guilty in Game-Fixing Betting Case 2026",
+    excerpt: "Former NBA star Malik Beasley pleads guilty to federal charges in game-fixing scandal, signaling tough enforcement against sports betting integrity breaches.",
+    content: `Malik Beasley, the former NBA player, has agreed to plead guilty to federal charges stemming from a sports betting scandal involving allegations of game manipulation and insider information, according to his legal representation.
+
+## Integrity Concerns at Forefront
+
+The guilty plea marks a significant enforcement action against misconduct in professional sports betting. Federal authorities have intensified scrutiny of the sports betting industry as legal betting has expanded across North America, with particular focus on attempts to manipulate games through insider knowledge.
+
+The case highlights vulnerabilities in the current compliance frameworks that sportsbooks and leagues rely upon to detect suspicious betting patterns. Beasley's position as an active player gave him access to non-public information about team conditions, injuries, and strategic decisions—information highly valued by bettors seeking to gain unfair advantage.
+
+## Broader Industry Implications
+
+For operators and compliance teams, the Beasley case reinforces the need for robust anti-corruption protocols. The NBA and other professional leagues have maintained strict policies prohibiting athletes from betting on games, yet enforcement at the federal level demonstrates that violations carry serious criminal consequences beyond league sanctions.
+
+The guilty plea also signals that federal prosecutors are willing to pursue high-profile sports figures, which may deter similar conduct among other athletes considering participation in betting schemes. This outcome affects how sportsbooks approach know-your-customer (KYC) protocols and suspicious activity detection, particularly for accounts linked to professional sports participants.
+
+The case underscores why operators and leagues continue investing heavily in integrity monitoring services and third-party verification systems to identify anomalous betting patterns that might indicate insider trading or game-fixing attempts.`,
+    featuredImage: "/images/articles/malik-beasley-guilty-plea-betting-scandal-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t7417", label: "sports betting", slug: "sports-betting" },
+      { id: "t7418", label: "integrity", slug: "integrity" },
+      { id: "t7419", label: "NBA", slug: "nba" },
+      { id: "t7420", label: "federal charges", slug: "federal-charges" },
+      { id: "t7421", label: "game fixing", slug: "game-fixing" },
+      { id: "t7422", label: "compliance", slug: "compliance" },
+      { id: "t7423", label: "enforcement", slug: "enforcement" },
+      { id: "t7424", label: "criminal law", slug: "criminal-law" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Ex-NBA Star Beasley Pleads Guilty in Game-Fixing Betting Case 2026 | iGaming Pulse",
+    metaDescription: "Former NBA star Malik Beasley pleads guilty to federal charges in game-fixing scandal, signaling tough enforcement against sports betting integrity breaches.",
+    likes: 12,
+    comments: [],
+  },
+
+  {
+    id: "1105",
+    slug: "polymarket-us-five-minute-crypto-contracts-2026",
+    language: "en",
+    translationGroupId: "tg-1105",
+    title: "Polymarket US Adds Ultra-Short Crypto Derivatives: 5-Min BTC, ETH Contracts",
+    excerpt: "Polymarket US launches five-minute event contracts on Bitcoin, Ethereum, Solana, and XRP, targeting high-frequency traders in the prediction market space.",
+    content: `Polymarket US, the domestic version of the prediction market platform, has rolled out five-minute event contracts on four major cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), Solana (SOL), and XRP.
+
+## Product Expansion Strategy
+
+The launch represents a tactical move by Polymarket to expand its addressable market within the crypto-trading community. Five-minute contracts allow traders to place bets on very short-term price movements, attracting day traders and algorithmic participants who typically operate in the futures and options markets.
+
+This product category sits at the intersection of prediction markets and derivatives trading. Unlike traditional Polymarket contracts tied to discrete events (e.g., "Will X candidate win?"), these cryptocurrency contracts are based on continuous price feeds, creating a more familiar experience for users coming from crypto exchanges and derivatives platforms.
+
+## Competitive Implications
+
+The expansion signals Polymarket's intent to capture wallet share from established crypto derivatives platforms. By offering prediction-market-style contracts with ultra-short durations, Polymarket can differentiate from both traditional prediction markets and centralized crypto exchanges.
+
+However, the move also introduces operational complexity. Five-minute price-based contracts require robust oracle infrastructure and real-time settlement systems. Any delays or pricing discrepancies could trigger disputes and regulatory scrutiny, particularly if retail users experience execution issues.
+
+## Regulatory Considerations
+
+The launch occurs amid ongoing regulatory uncertainty around prediction markets in the United States. While Polymarket operates under a no-action letter from the CFTC for certain event-based contracts, adding crypto price derivatives could attract closer regulatory attention, especially regarding leverage, margin requirements, and investor suitability standards.`,
+    featuredImage: "/images/articles/polymarket-us-five-minute-crypto-contracts-2026.png",
+    author: AUTHORS[5],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "payments-fintech",
+    tags: [
+      { id: "t7425", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t7426", label: "cryptocurrency", slug: "cryptocurrency" },
+      { id: "t7427", label: "derivatives", slug: "derivatives" },
+      { id: "t7428", label: "Polymarket", slug: "polymarket" },
+      { id: "t7429", label: "Bitcoin", slug: "bitcoin" },
+      { id: "t7430", label: "Ethereum", slug: "ethereum" },
+      { id: "t7431", label: "fintech", slug: "fintech" },
+      { id: "t7432", label: "ultra-short contracts", slug: "ultra-short-contracts" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Polymarket US Adds Ultra-Short Crypto Derivatives: 5-Min BTC, ETH Contracts | iGaming Pulse",
+    metaDescription: "Polymarket US launches five-minute event contracts on Bitcoin, Ethereum, Solana, and XRP, targeting high-frequency traders in the prediction market space.",
+    likes: 9,
+    comments: [],
+  },
+
+  {
+    id: "1106",
+    slug: "ocean-casino-atlantic-city-fire-damages-claim-2026",
+    language: "en",
+    translationGroupId: "tg-1106",
+    title: "Ocean Casino Seeks $1.5M Damages from Atlantic City Over July Fire Response",
+    excerpt: "Ocean Casino Resort seeks $1.5 million in damages from Atlantic City, claiming the fire department was negligent in handling a July blaze at the Boardwalk property.",
+    content: `Ocean Casino Resort has formally notified Atlantic City that it intends to pursue a $1.5 million damages claim against the municipality, alleging negligence by the Atlantic City Fire Department in its response to a fire at the Boardwalk-located property in July.
+
+## Claim Details
+
+The casino operator's legal team submitted the claim to the Atlantic City Council this week. The allegation centers on the fire department's handling of the incident, suggesting that response protocols or firefighting procedures contributed to property damage that could have been mitigated.
+
+While specific details about the July fire remain limited, such claims typically focus on response time, resource allocation, tactical decisions during active firefighting, and adherence to established emergency protocols.
+
+## Precedent and Implications
+
+Liability disputes between casino operators and municipal fire departments are relatively rare but not unprecedented. The outcome of Ocean Casino's claim could establish precedent for how other Atlantic City properties approach risk management and emergency preparedness.
+
+Casino operators typically carry comprehensive property insurance, but coverage may not extend to losses allegedly resulting from public sector negligence. Successfully recovering damages from the city would shift financial responsibility from the private insurer to the municipality.
+
+## Municipal Budget Considerations
+
+The claim impacts Atlantic City's municipal budget and could influence future negotiations over emergency services funding between casinos and the city. If Ocean Casino prevails, other properties might file similar claims, creating cumulative financial pressure on local government.
+
+For the gaming industry more broadly, the case underscores the importance of detailed emergency response documentation and third-party liability insurance. Operators are increasingly negotiating service-level agreements with municipal emergency services to clarify roles and responsibilities during major incidents.`,
+    featuredImage: "/images/articles/ocean-casino-atlantic-city-fire-damages-claim-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t7433", label: "Atlantic City", slug: "atlantic-city" },
+      { id: "t7434", label: "Ocean Casino", slug: "ocean-casino" },
+      { id: "t7435", label: "liability", slug: "liability" },
+      { id: "t7436", label: "fire safety", slug: "fire-safety" },
+      { id: "t7437", label: "insurance", slug: "insurance" },
+      { id: "t7438", label: "property damage", slug: "property-damage" },
+      { id: "t7439", label: "compliance", slug: "compliance" },
+      { id: "t7440", label: "negligence", slug: "negligence" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Ocean Casino Seeks $1.5M Damages from Atlantic City Over July Fire Response | iGaming Pulse",
+    metaDescription: "Ocean Casino Resort seeks $1.5 million in damages from Atlantic City, claiming the fire department was negligent in handling a July blaze at the Boardwalk prope",
+    likes: 10,
+    comments: [],
+  },
+
+  {
+    id: "1107",
+    slug: "italian-mafia-betting-hub-seized-police-2026",
+    language: "en",
+    translationGroupId: "tg-1107",
+    title: "Italian Police Seize Mafia-Linked Betting Operation, Arrest Alleged Crime Boss",
+    excerpt: "Italian anti-mafia police seized a betting operation from alleged crime boss Tobia Parisi, uncovering luxury assets including a villa, car dealership, and apartment.",
+    content: `Italian anti-mafia police have dismantled a betting operation tied to 45-year-old Tobia Parisi, who presented himself as a farm laborer while operating as an alleged organized crime figure. The enforcement action revealed significant undisclosed assets, including a luxury apartment, car dealership, villa previously used to shelter a fugitive mobster, and an unlicensed bar.
+
+## Organized Crime and Gaming Nexus
+
+The case exemplifies how traditional mafia networks continue to exploit gaming and betting venues as instruments for money laundering and illicit financial flows. Parisi's operation represents a textbook example of organized crime infiltration: a seemingly legitimate gaming establishment serves as a hub for converting illicit proceeds into ostensibly legal business revenue.
+
+Unlicensed betting operations offer criminals significant advantages over regulated venues. They operate without reporting requirements, customer identity verification, or transaction monitoring—all tools that licensed operators use to detect suspicious activity.
+
+## Compliance Implications for Legal Operators
+
+For the regulated gaming industry, particularly in Italy and across Europe, the Parisi case underscores ongoing competitive pressure from illegal operators who undercut licensed venues on costs by avoiding taxation and compliance expenses.
+
+Italy maintains strict licensing regimes for gaming establishments, yet illicit operations persist. This creates a two-tier market where illegal venues attract price-sensitive customers while legitimate operators bear the full weight of regulatory compliance costs.
+
+The seizure of Parisi's assets demonstrates that Italian authorities remain committed to enforcement against organized crime involvement in gaming. For compliance officers at licensed operators, the operation serves as a reminder that anti-money laundering protocols must flag unusual business patterns that might indicate mafia infiltration—including lifestyle discrepancies between reported income and visible assets.
+
+## Broader Enforcement Trend
+
+The action aligns with broader European enforcement efforts against organized crime's penetration of the gaming industry. Both the European Commission and individual member states have increased resources dedicated to identifying and prosecuting illegal gaming operations linked to organized crime networks.`,
+    featuredImage: "/images/articles/italian-mafia-betting-hub-seized-police-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t7441", label: "organized crime", slug: "organized-crime" },
+      { id: "t7442", label: "money laundering", slug: "money-laundering" },
+      { id: "t7443", label: "illegal gambling", slug: "illegal-gambling" },
+      { id: "t7444", label: "AML compliance", slug: "aml-compliance" },
+      { id: "t7445", label: "Italy", slug: "italy" },
+      { id: "t7446", label: "enforcement", slug: "enforcement" },
+      { id: "t7447", label: "anti-mafia", slug: "anti-mafia" },
+      { id: "t7448", label: "underground betting", slug: "underground-betting" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Italian Police Seize Mafia-Linked Betting Operation, Arrest Alleged Crime Boss | iGaming Pulse",
+    metaDescription: "Italian anti-mafia police seized a betting operation from alleged crime boss Tobia Parisi, uncovering luxury assets including a villa, car dealership, and apart",
+    likes: 19,
+    comments: [],
+  },
+
+  {
+    id: "1108",
+    slug: "entain-uk-gambling-tax-increase-job-cuts-2026",
+    language: "en",
+    translationGroupId: "tg-1108",
+    title: "Entain Faces £25M Annual Tax Hit from UK Budget Gambling Duty Increase",
+    excerpt: "Entain warns UK gambling tax hike will cost £25 million annually, raising concerns about potential job losses across the gaming industry.",
+    content: `Entain plc, the FTSE-listed gaming and betting operator that owns Ladbrokes, has publicly flagged that recent UK Budget changes raising gambling taxation will impose approximately £25 million in additional annual costs to the company. Industry bodies have warned that the tax increase could trigger widespread job reductions.
+
+## Tax Measure Details
+
+The UK government's latest budget included revisions to gambling duty and related taxation affecting operators across online betting, retail sportsbooks, and gaming venues. Entain's quantified impact represents one of the first major operator disclosures regarding the financial magnitude of the tax changes.
+
+## Industry Warnings
+
+Beyond Entain's specific financial impact, industry trade associations have cautioned that higher taxation threatens employment across betting shops and corporate headquarters. The sector employs tens of thousands of people in customer service, compliance, trading, and administrative roles across the UK.
+
+Public warnings about job losses are strategically designed to create political pressure on policymakers. Operators argue that excessive taxation drives customers toward unregulated offshore platforms, ultimately eroding the UK's licensing fee revenue while reducing employment in the regulated sector.
+
+## Competitive Dynamics
+
+For smaller operators without Entain's scale, a £25 million annual tax burden may prove unsustainable, potentially triggering consolidation or market exit. Larger operators can absorb costs through margin compression or operational efficiency, but regional and mid-market players face tighter margin pressures.
+
+The tax increase also creates competitive distortion between UK-regulated operators and offshore alternatives. If taxation narrows profit margins, some customers may migrate to unregulated platforms that operate without equivalent tax obligations.
+
+## Strategic Implications
+
+Entain's disclosure is likely to influence capital allocation decisions. Higher tax burdens reduce available capital for reinvestment in technology, product development, and customer acquisition. The company may reassess expansion plans or adjust dividend policies to account for the new fiscal environment.
+
+For investors, the announcement signals that regulatory risk in mature markets like the UK remains material and can translate into rapid, quantifiable earnings pressure. This may influence how gaming companies approach geographic diversification and emerging market entry strategies.`,
+    featuredImage: "/images/articles/entain-uk-gambling-tax-increase-job-cuts-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t7449", label: "UK taxation", slug: "uk-taxation" },
+      { id: "t7450", label: "Entain", slug: "entain" },
+      { id: "t7451", label: "Ladbrokes", slug: "ladbrokes" },
+      { id: "t7452", label: "tax policy", slug: "tax-policy" },
+      { id: "t7453", label: "gambling duty", slug: "gambling-duty" },
+      { id: "t7454", label: "regulatory burden", slug: "regulatory-burden" },
+      { id: "t7455", label: "compliance costs", slug: "compliance-costs" },
+      { id: "t7456", label: "employment", slug: "employment" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Entain Faces £25M Annual Tax Hit from UK Budget Gambling Duty Increase | iGaming Pulse",
+    metaDescription: "Entain warns UK gambling tax hike will cost £25 million annually, raising concerns about potential job losses across the gaming industry.",
+    likes: 19,
+    comments: [],
+  },
+
+  {
+    id: "1109",
+    slug: "ontario-niagara-casino-expansion-3-billion-2026",
+    language: "en",
+    translationGroupId: "tg-1109",
+    title: "Ontario Eyes $3B Niagara Casino Expansion, Opens Market to New Operators 2026",
+    excerpt: "Ontario launches multi-billion-dollar Niagara casino expansion, inviting new operators into previously closed provincial gaming market.",
+    content: `## Ontario Launches Historic Niagara Casino Expansion
+
+The Ontario Lottery and Gaming Corporation (OLG) and Ontario government announced the opening phase of an aggressive capital investment campaign targeting the Niagara Region's gaming sector, with a projected $3 billion in total investment on the table.
+
+The initiative marks a significant departure from Ontario's traditionally restricted gaming landscape. For the first time, the province is actively soliciting applications from new operators to develop and expand casino properties in one of North America's highest-traffic gaming destinations.
+
+## Market Opening Signals Strategic Shift
+
+The Niagara region generates substantial gaming revenue annually and attracts millions of cross-border visitors from the United States. By opening licensing opportunities to qualified operators, Ontario is positioning itself to capture greater market share and compete more aggressively with established regional properties.
+
+The OLG's procurement process is expected to unfold in phases, with initial partner selection announcements likely within the next 12-18 months. Operators interested in bidding will need to demonstrate operational excellence, financial stability, and community benefit commitments.
+
+## What This Means for the Industry
+
+The expansion represents a critical inflection point for North American gaming consolidation. Established casino operators—including those with existing properties in neighboring jurisdictions—are expected to submit competing bids. The competitive tender could attract international operators seeking North American exposure.
+
+For existing Ontario gaming partners, the market opening introduces both opportunity and risk. New competition in Niagara could cannibalize existing gaming revenue, but it may also expand the overall market through incremental tourism and gaming participation.
+
+The province has not yet disclosed specific financial minimums, operational requirements, or the anticipated number of new licenses available. Additional regulatory details are expected in coming weeks.`,
+    featuredImage: "/images/articles/ontario-niagara-casino-expansion-3-billion-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t7457", label: "Ontario gaming", slug: "ontario-gaming" },
+      { id: "t7458", label: "Niagara casino", slug: "niagara-casino" },
+      { id: "t7459", label: "market expansion", slug: "market-expansion" },
+      { id: "t7460", label: "new operators", slug: "new-operators" },
+      { id: "t7461", label: "land-based casino", slug: "land-based-casino" },
+      { id: "t7462", label: "provincial regulation", slug: "provincial-regulation" },
+      { id: "t7463", label: "gaming investment", slug: "gaming-investment" },
+      { id: "t7464", label: "Canada iGaming", slug: "canada-igaming" },
+      { id: "t7465", label: "OLG procurement", slug: "olg-procurement" },
+      { id: "t7466", label: "casino licensing", slug: "casino-licensing" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Ontario Eyes $3B Niagara Casino Expansion, Opens Market to New Operators 2026 | iGaming Pulse",
+    metaDescription: "Ontario launches multi-billion-dollar Niagara casino expansion, inviting new operators into previously closed provincial gaming market.",
+    likes: 5,
+    comments: [],
+  },
+
+  {
+    id: "1110",
+    slug: "las-vegas-strip-gaming-revenue-september-tight-slots-2026",
+    language: "en",
+    translationGroupId: "tg-1110",
+    title: "Las Vegas Strip Gaming Revenue Climbs on Tight Slots Despite Flat Visitor Count 2026",
+    excerpt: "Las Vegas Strip casinos achieved $693.5M in September gaming revenue by optimizing slot machine performance, signaling operators are shifting focus from volume to high-value player engagement.",
+    content: `## Strip Casinos Post Revenue Gains on Operational Efficiency
+
+The Nevada Gaming Control Board's September revenue report revealed a counterintuitive trend: Las Vegas Strip gaming revenue increased even as visitor volume remained essentially flat. Gross gaming revenue (GGR) reached $693.5 million, driven primarily by improved slot machine performance metrics.
+
+## Slot Optimization Becomes Revenue Lever
+
+Casino operators are reporting tighter hold percentages on slot machines—a measure of the percentage of money wagered that the casino retains as profit. This metric improvement reflects deliberate game selection, machine placement, and payout structure adjustments designed to increase per-player yield.
+
+The strategy diverges from traditional volume-based revenue models. Rather than competing on discounted room rates and loss leader amenities to drive visitor counts, operators are optimizing the experience and economics for high-value gaming customers already in the building.
+
+Separate hospitality data shows visitor arrivals to Las Vegas remain stable but not growing significantly. The region has not recovered pre-pandemic growth momentum, indicating a mature market ceiling. In this environment, maximizing revenue per guest becomes the dominant operational priority.
+
+## Strategic Implications
+
+The September performance has prompted industry discussion about sustainable gaming operations in mature markets. Casinos with strong player loyalty programs, data analytics capabilities, and premium gaming environments are outperforming those competing primarily on price or volume promotions.
+
+Slot machine technology has advanced significantly, allowing operators to deploy dynamic content, tiered gaming experiences, and personalized offers in real time. Properties with investment in this infrastructure are realizing measurable performance improvements.
+
+For game providers and gaming equipment manufacturers, the trend suggests sustained demand for advanced slot platforms that enable operator revenue optimization and player engagement customization.`,
+    featuredImage: "/images/articles/las-vegas-strip-gaming-revenue-september-tight-slots-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t7467", label: "Las Vegas Strip", slug: "las-vegas-strip" },
+      { id: "t7468", label: "gaming revenue", slug: "gaming-revenue" },
+      { id: "t7469", label: "slot machines", slug: "slot-machines" },
+      { id: "t7470", label: "Nevada Gaming Control Board", slug: "nevada-gaming-control-board" },
+      { id: "t7471", label: "GGR", slug: "ggr" },
+      { id: "t7472", label: "September 2026", slug: "september-2026" },
+      { id: "t7473", label: "casino operations", slug: "casino-operations" },
+      { id: "t7474", label: "hold percentage", slug: "hold-percentage" },
+      { id: "t7475", label: "visitor trends", slug: "visitor-trends" },
+      { id: "t7476", label: "gaming metrics", slug: "gaming-metrics" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Las Vegas Strip Gaming Revenue Climbs on Tight Slots Despite Flat Visitor Count 2026 | iGaming Pulse",
+    metaDescription: "Las Vegas Strip casinos achieved $693.5M in September gaming revenue by optimizing slot machine performance, signaling operators are shifting focus from volume ",
+    likes: 19,
+    comments: [],
+  },
+
+  {
+    id: "1111",
+    slug: "new-hampshire-casino-license-revocation-covid-fraud-2026",
+    language: "en",
+    translationGroupId: "tg-1111",
+    title: "New Hampshire Court Upholds Casino License Revocation Over COVID Fraud in 2026",
+    excerpt: "New Hampshire's highest court upholds casino license revocation stemming from COVID-relief fraud, reinforcing state gaming regulators' enforcement authority over ownership misconduct.",
+    content: `## State's Highest Court Affirms Casino License Revocation
+
+New Hampshire's Supreme Court issued a final ruling upholding the revocation of a gaming license tied to a Concord-area venue following a criminal fraud scandal involving COVID-relief programs. The decision closes a protracted regulatory and legal battle between state gaming authorities and the license holder.
+
+The case centered on allegations that the venue's owner, a former state senator, used fraudulently obtained COVID-relief funds to purchase luxury vehicles and attempted to use stolen funds in an attempted multimillion-dollar casino acquisition. Gaming regulators determined the owner's conduct violated licensing conditions requiring adherence to law and ethical business practices.
+
+## Regulatory Enforcement Precedent
+
+The court's affirmation sends a clear message to gaming operators nationwide: ownership integrity is non-negotiable in the gaming regulatory framework. Even high-profile political figures cannot shield gaming properties from regulatory consequences through appeals or procedural delays.
+
+Key aspects of the ruling establish that:
+
+- State gaming boards retain full authority to investigate ownership structures and beneficial owners, not just licensed operators
+- License revocation is an appropriate remedy for owner fraud, regardless of corporate shell involvement
+- Attempted asset transfers or gaming expansion plans do not insulate licensees from regulatory enforcement
+
+New Hampshire gaming regulators have been increasingly aggressive in licensing compliance and ownership scrutiny. This decision strengthens their hand in future enforcement actions.
+
+## Broader Industry Implications
+
+The ruling signals that gaming regulators across states expect the same ethical standards from ownership as from operational staff. Attempts to obscure beneficial ownership or circumvent regulatory oversight will face heightened scrutiny and potential license revocation.
+
+Gaming operators and investors should expect that regulatory investigations may extend beyond licensed individuals to beneficial owners, family members, and related financial activities. COVID-relief fraud, in particular, remains an active investigation priority for state and federal authorities.`,
+    featuredImage: "/images/articles/new-hampshire-casino-license-revocation-covid-fraud-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t7477", label: "New Hampshire gaming", slug: "new-hampshire-gaming" },
+      { id: "t7478", label: "license revocation", slug: "license-revocation" },
+      { id: "t7479", label: "COVID fraud", slug: "covid-fraud" },
+      { id: "t7480", label: "regulatory enforcement", slug: "regulatory-enforcement" },
+      { id: "t7481", label: "gaming law", slug: "gaming-law" },
+      { id: "t7482", label: "casino regulation", slug: "casino-regulation" },
+      { id: "t7483", label: "state senator", slug: "state-senator" },
+      { id: "t7484", label: "gaming compliance", slug: "gaming-compliance" },
+      { id: "t7485", label: "license conditions", slug: "license-conditions" },
+      { id: "t7486", label: "fraud scandal", slug: "fraud-scandal" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "New Hampshire Court Upholds Casino License Revocation Over COVID Fraud in 2026 | iGaming Pulse",
+    metaDescription: "New Hampshire's highest court upholds casino license revocation stemming from COVID-relief fraud, reinforcing state gaming regulators' enforcement authority ove",
+    likes: 25,
+    comments: [],
+  },
+
+  {
+    id: "1112",
+    slug: "utah-kalshi-criminal-charges-rutgers-teen-gambling-2026",
+    language: "en",
+    translationGroupId: "tg-1112",
+    title: "Utah Files Criminal Charges Against Kalshi Founders; Teen Gambling Risks Flagged 2026",
+    excerpt: "Utah escalates Kalshi enforcement with criminal charges against founders while Rutgers research documents alarming teen gambling participation and problem gambling risks.",
+    content: `## Utah Escalates Kalshi Enforcement to Criminal Court
+
+Utah's regulatory battle with prediction market platform Kalshi has entered a new and more aggressive phase. State authorities have filed criminal charges against Kalshi's founders, moving beyond traditional civil enforcement mechanisms into felony territory. The charges follow months of regulatory correspondence and civil cease-and-desist orders.
+
+Utah's attorney general has positioned the charges as necessary to prevent what state officials characterize as unlicensed gambling operations disguised as prediction markets. The state argues that Kalshi's platform functions as a wagering venue operating without proper gaming licensing or regulatory oversight.
+
+Kalshi has consistently maintained that its products are not gambling but rather legitimate prediction markets operating under different regulatory frameworks. The company points to its Commodity Futures Trading Commission (CFTC) registration as evidence of federal regulatory approval.
+
+## Rutgers Research Raises Alarm on Teen Gambling
+
+Paralleling Utah's enforcement action, Rutgers University released new research documenting concerning trends in adolescent gambling participation. The study found elevated rates of gambling engagement among teenagers and established correlations between gambling participation and problem gambling symptoms.
+
+The Rutgers findings are particularly significant because they provide academic grounding for state-level policymakers considering restrictions on youth gambling access. Previous data on teen gambling has been limited, but the Rutgers research offers detailed evidence of both participation rates and associated harms.
+
+Key findings indicate that teen gambling participation spans traditional casino games, sports betting, and digital gambling platforms—including prediction markets and sweepstakes casinos. The research suggests that age verification mechanisms on many platforms are insufficient to prevent underage access.
+
+## Regulatory Convergence
+
+The combination of criminal enforcement against Kalshi and published academic research on teen gambling risks creates a powerful regulatory momentum. State attorneys general and legislatures are likely to cite both developments as justification for stricter prediction market regulation and expanded youth gambling protections.
+
+For operators and platforms in the prediction market, sports betting, and sweepstakes casino spaces, the message is clear: regulatory scrutiny of youth access is intensifying. Platforms should expect heightened compliance audits, enhanced age verification requirements, and potential restrictions on marketing to audiences with younger demographic skew.
+
+The Kalshi case also suggests that regulators view the prediction market distinction as legally insufficient. Platforms offering predictive wagering with monetary stakes may face classification as gambling operations, regardless of commodity futures registration.`,
+    featuredImage: "/images/articles/utah-kalshi-criminal-charges-rutgers-teen-gambling-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t7487", label: "Kalshi", slug: "kalshi" },
+      { id: "t7488", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t7489", label: "Utah regulation", slug: "utah-regulation" },
+      { id: "t7490", label: "criminal charges", slug: "criminal-charges" },
+      { id: "t7491", label: "teen gambling", slug: "teen-gambling" },
+      { id: "t7492", label: "Rutgers research", slug: "rutgers-research" },
+      { id: "t7493", label: "youth gambling risks", slug: "youth-gambling-risks" },
+      { id: "t7494", label: "regulatory enforcement", slug: "regulatory-enforcement" },
+      { id: "t7495", label: "problem gambling", slug: "problem-gambling" },
+      { id: "t7496", label: "unregulated gambling", slug: "unregulated-gambling" },
+    ],
+    sourceName: "gamblinginsider.com",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Utah Files Criminal Charges Against Kalshi Founders; Teen Gambling Risks Flagged 2026 | iGaming Pulse",
+    metaDescription: "Utah escalates Kalshi enforcement with criminal charges against founders while Rutgers research documents alarming teen gambling participation and problem gambl",
+    likes: 9,
+    comments: [],
+  },
+
+  {
+    id: "1113",
+    slug: "rush-street-q3-2026-earnings-ebitda-revenue-miss",
+    language: "en",
+    translationGroupId: "tg-1113",
+    title: "Rush Street Q3 Beats EBITDA Forecasts; Revenue Miss Signals Growth Slowdown 2026",
+    excerpt: "Rush Street Interactive's Q3 earnings beat on profit but miss revenue targets for the first time in four years, raising questions about future growth trajectory despite strong margin improvements.",
+    content: `## Rush Street Posts Earnings Divergence: Profit Beats Revenue Miss
+
+Rush Street Interactive reported third-quarter 2026 financial results showing a stark divergence between bottom-line profitability and top-line growth. The BetRivers operator achieved a 73% increase in adjusted EBITDA, substantially exceeding analyst expectations, yet missed revenue forecasts—marking the first revenue shortfall in four years.
+
+The earnings mix sends conflicting signals to investors and analysts about the company's trajectory. Strong EBITDA growth indicates successful cost management and operational efficiency, but the revenue miss suggests that organic growth may be plateauing.
+
+## Margin Expansion Masks Growth Concerns
+
+Rush Street's profitability outperformance reflects aggressive cost optimization and operational leverage improvements. The company has successfully reduced customer acquisition costs and improved retention metrics in core markets. Marketing efficiency gains and customer lifetime value improvements drove much of the EBITDA expansion.
+
+However, the revenue shortfall indicates that these margin improvements may be temporary profit-taking rather than sustainable competitive advantages. Many analysts expected top-line growth to continue accelerating as newly regulated markets matured and Rush Street expanded market share.
+
+Instead, the company is experiencing customer growth slowdowns in several key markets. The sports betting market has reached broader adoption penetration, meaning incremental new customer acquisition is becoming more expensive and difficult. Regional saturation pressures are emerging in the company's highest-margin jurisdictions.
+
+## Investor Outlook Implications
+
+The Q3 results present a critical moment for Rush Street's stock price and analyst ratings. The revenue miss breaks a consistent performance narrative that had supported valuation multiples. Analysts will likely downgrade forward revenue guidance, potentially prompting institutional investor repositioning.
+
+The company's forward guidance is expected to moderate growth rate expectations, potentially reducing near-term investor enthusiasm. If guidance suggests revenue growth deceleration below 20% annually, valuation compression could be significant.
+
+Rush Street management will likely emphasize market maturation, intensifying competitive dynamics, and the necessity of shifting toward profitability-focused strategies. However, investor appetite for "profitability over growth" in the online sports betting sector remains uncertain.`,
+    featuredImage: "/images/articles/rush-street-q3-2026-earnings-ebitda-revenue-miss.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-10-30T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t7497", label: "Rush Street Interactive", slug: "rush-street-interactive" },
+      { id: "t7498", label: "BetRivers", slug: "betrivers" },
+      { id: "t7499", label: "Q3 2026 earnings", slug: "q3-2026-earnings" },
+      { id: "t7500", label: "EBITDA", slug: "ebitda" },
+      { id: "t7501", label: "revenue miss", slug: "revenue-miss" },
+      { id: "t7502", label: "earnings report", slug: "earnings-report" },
+      { id: "t7503", label: "sports betting operator", slug: "sports-betting-operator" },
+      { id: "t7504", label: "growth outlook", slug: "growth-outlook" },
+      { id: "t7505", label: "financial performance", slug: "financial-performance" },
+      { id: "t7506", label: "margin expansion", slug: "margin-expansion" },
+    ],
+    sourceName: "gamblinginsider.com",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Rush Street Q3 Beats EBITDA Forecasts; Revenue Miss Signals Growth Slowdown 2026 | iGaming Pulse",
+    metaDescription: "Rush Street Interactive's Q3 earnings beat on profit but miss revenue targets for the first time in four years, raising questions about future growth trajectory",
+    likes: 17,
+    comments: [],
   }
 ];
 
