@@ -26,6 +26,7 @@ jobs:
 
       - name: Merge v0 images into main
         run: |
-          git fetch origin v0/article-featured-images
+          git fetch origin
+          git reset --hard origin/main
           git merge origin/v0/article-featured-images --no-edit -m "merge: v0 featured images"
-          git push origin main
+          git push origin main || (git pull --rebase origin main && git push origin main)
