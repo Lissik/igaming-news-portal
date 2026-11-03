@@ -1,9 +1,9 @@
 name: Merge v0 Images
 
 on:
-  push:
-    branches:
-      - v0/article-featured-images
+  schedule:
+    - cron: '0 */2 * * *'   # every 2 hours
+  workflow_dispatch:
 
 jobs:
   merge:
@@ -24,9 +24,17 @@ jobs:
           git config user.email "pipeline@igamingpulse.media"
           git config user.name "iGaming Pipeline"
 
-      - name: Merge v0 images into main
+      - name: Check for new images
+        id: check
         run: |
           git fetch origin
+          NEW=$(git rev-list origin/main..origin/v0/article-featured-images --count)
+          echo "new_commits=$NEW" >> $GITHUB_OUTPUT
+          echo "New commits on v0 branch: $NEW"
+
+      - name: Merge v0 images into main
+        if: steps.check.outputs.new_commits != '0'
+        run: |
           git reset --hard origin/main
           git merge origin/v0/article-featured-images --no-edit -m "merge: v0 featured images"
           git push origin main || (git pull --rebase origin main && git push origin main)
