@@ -2,9 +2,9 @@ name: iGaming Daily Pipeline
 
 on:
   schedule:
-    - cron: '20 5 * * *'   # 7:20 Kyiv (UTC+2 winter)
-    - cron: '20 6 * * *'   # 8:20 Kyiv
-    - cron: '20 8 * * *'   # 10:20 Kyiv
+    - cron: '0 1 * * *'    # 1:00 UTC — target 6-9 AM Kyiv with GH Actions delay
+    - cron: '0 2 * * *'    # 2:00 UTC — fallback
+    - cron: '0 3 * * *'    # 3:00 UTC — fallback
   workflow_dispatch:
 
 jobs:
