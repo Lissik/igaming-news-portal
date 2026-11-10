@@ -60083,6 +60083,726 @@ Genius Sports' guidance raise—though modest, reflecting only the size of the a
     metaDescription: "Genius Sports beats Q3 consensus forecasts and raises guidance; Macquarie maintains $11 price target with Outperform rating.",
     likes: 25,
     comments: [],
+  },
+
+  {
+    id: "1277",
+    slug: "dominican-republic-seven-licensed-operators-2026",
+    language: "en",
+    translationGroupId: "tg-1277",
+    title: "Dominican Republic Identifies 7 Licensed Online Operators Amid 2026",
+    excerpt: "Caribbean regulator names seven compliant operators while warning 81 others lack state permission under new gambling rules.",
+    content: `## Dominican Republic Tightens Online Gambling Regulation
+
+The Dominican Republic's gambling regulator has taken a decisive step toward market formalization by officially designating seven online operators as authorized to conduct business in the jurisdiction. The move marks a pivotal moment in the regulator's implementation of the country's refreshed gambling framework.
+
+In tandem with the authorization announcement, regulators flagged that approximately 81 operators remain unlicensed and operating without state approval—a significant population that signals imminent enforcement action.
+
+## Market Consolidation Ahead
+
+The regulatory move creates clear stratification in the Dominican online gambling market. The seven authorized operators now possess competitive legitimacy and de facto market advantage, while the broader population of unlicensed players faces an uncertain operating window.
+
+This approach mirrors licensing frameworks deployed across Latin America, where regulators have increasingly moved toward formal operator registration to combat unlicensed gaming and ensure consumer protection compliance. Uruguay, Mexico, and Colombia have all pursued similar selective licensing models over the past five years.
+
+## What This Means
+
+For operators already licensed in the Dominican Republic, the regulator's public naming provides market transparency and signals stability. The designation effectively creates a two-tier market: compliant operators benefiting from regulatory endorsement, and unlicensed entities operating under threat of shutdown.
+
+For operators seeking Dominican market entry, the framework now offers a clear pathway—apply for one of the remaining slots. The regulatory body's willingness to publicly identify gaps suggests capacity for additional licensing rounds, though timeline and criteria remain undisclosed.
+
+For affiliates, payment processors, and technology vendors serving the Dominican market, the regulatory snapshot provides concrete data about the addressable operator base and compliance requirements.
+
+## What to Watch
+
+Observers should monitor whether the regulator establishes a formal licensing application window for the remaining 81 operators or begins enforcement actions. The timing and sequencing of compliance deadlines will determine whether unlicensed operators voluntarily pursue licensing or face suspension. Additionally, watch for any announced licensing fee structure or ongoing compliance costs, which typically influence operator consolidation dynamics in emerging Latin American markets.`,
+    featuredImage: "/images/articles/dominican-republic-seven-licensed-operators-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t9083", label: "Dominican Republic", slug: "dominican-republic" },
+      { id: "t9084", label: "licensing", slug: "licensing" },
+      { id: "t9085", label: "regulation", slug: "regulation" },
+      { id: "t9086", label: "online gambling", slug: "online-gambling" },
+      { id: "t9087", label: "compliance", slug: "compliance" },
+      { id: "t9088", label: "Latin America", slug: "latin-america" },
+      { id: "t9089", label: "market consolidation", slug: "market-consolidation" },
+      { id: "t9090", label: "enforcement", slug: "enforcement" },
+      { id: "t9091", label: "authorized operators", slug: "authorized-operators" },
+      { id: "t9092", label: "iGaming framework", slug: "igaming-framework" },
+    ],
+    sourceName: "iGaming Business",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Dominican Republic Identifies 7 Licensed Online Operators Amid 2026 | iGaming Pulse",
+    metaDescription: "Caribbean regulator names seven compliant operators while warning 81 others lack state permission under new gambling rules.",
+    likes: 9,
+    comments: [],
+  },
+
+  {
+    id: "1278",
+    slug: "mgm-national-harbor-new-president-chris-gumiela-2026",
+    language: "en",
+    translationGroupId: "tg-1278",
+    title: "MGM National Harbor Appoints New President as Sphere Rollout Begins 2026",
+    excerpt: "MGM National Harbor names Chris Gumiela as new president and COO following Melonie Graves' retirement.",
+    content: `MGM National Harbor has appointed Chris Gumiela to the role of president and chief operating officer, effective immediately following the retirement of Melonie Graves.
+
+Gumiela brings three decades of MGM Resorts institutional experience to the role, having spent his entire professional career with the company across multiple properties and divisions. His appointment reflects MGM's preference for promoting executives with deep operational familiarity across the corporate portfolio.
+
+The timing of the leadership transition coincides with a period of strategic capital reallocation across MGM's regional properties. National Harbor, located in Maryland's National Harbor community south of Washington D.C., has become a focus point for entertainment venue upgrades and experiential gaming innovation—initiatives aligned with MGM's broader portfolio modernization strategy.
+
+Gumiela's mandate will include overseeing operational performance across the resort's gaming floor, hotel, restaurants, and entertainment venues during a period when regional casinos face intensifying competition for premium customer segments and entertainment-driven visitation. His internal career trajectory suggests familiarity with MGM's technology infrastructure, customer loyalty systems, and operational benchmarking frameworks that drive performance management across the company's regional cluster.`,
+    featuredImage: "/images/articles/mgm-national-harbor-new-president-chris-gumiela-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t9093", label: "MGM Resorts", slug: "mgm-resorts" },
+      { id: "t9094", label: "MGM National Harbor", slug: "mgm-national-harbor" },
+      { id: "t9095", label: "executive appointment", slug: "executive-appointment" },
+      { id: "t9096", label: "president and COO", slug: "president-and-coo" },
+      { id: "t9097", label: "leadership transition", slug: "leadership-transition" },
+      { id: "t9098", label: "operational strategy", slug: "operational-strategy" },
+      { id: "t9099", label: "resort management", slug: "resort-management" },
+      { id: "t9100", label: "Maryland casino", slug: "maryland-casino" },
+      { id: "t9101", label: "regional gaming", slug: "regional-gaming" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "MGM National Harbor Appoints New President as Sphere Rollout Begins 2026 | iGaming Pulse",
+    metaDescription: "MGM National Harbor names Chris Gumiela as new president and COO following Melonie Graves' retirement.",
+    likes: 10,
+    comments: [],
+  },
+
+  {
+    id: "1279",
+    slug: "fanatics-amex-card-fancash-sports-betting-2026",
+    language: "en",
+    translationGroupId: "tg-1279",
+    title: "Fanatics Launches Amex Card with Loyalty Currency for Sports Betting 2026",
+    excerpt: "Fanatics partners with American Express to launch a credit card that generates loyalty currency redeemable for sports bets and merchandise.",
+    content: `Fanatics has moved deeper into consumer financial services by launching a co-branded American Express credit card that generates FanCash—the company's proprietary loyalty and rewards currency.
+
+The FanCash ecosystem represents Fanatics' evolution beyond pure sportsbook operator into a diversified consumer platform. Cardholders earn FanCash on purchases and can redeem it across multiple verticals: licensed apparel and collectibles, merchandise and experiences, and sports wagers placed through Fanatics' licensed betting platform.
+
+The card structure reflects broader industry trends toward vertical integration and ecosystem monetization. By embedding sports betting as a direct redemption option within a mainstream credit product, Fanatics creates recurring touchpoints that naturalize betting within everyday consumer loyalty behavior. The strategy mirrors how DraftKings and FanDuel have expanded beyond pure sportsbooks into daily fantasy and casino verticals—but the Amex partnership moves the model upstream into financial services infrastructure.
+
+For Fanatics, the card accomplishes several strategic objectives: it builds a direct-to-consumer payment network independent of third-party payment processors; it creates closed-loop data on customer spending, earning, and redemption patterns; and it positions sports betting as one redemption option among many, potentially reducing regulatory scrutiny by de-emphasizing betting-specific product design.
+
+For American Express, the partnership extends the Amex brand into sports entertainment and gambling verticals where co-branded affinity cards have proven acquisition tools. The sports and gaming demographic aligns with Amex's core affluent cardholder base.
+
+The launch timing coincides with accelerating consolidation in U.S. sportsbook markets, where customer acquisition costs have risen and retention has become the primary efficiency metric. A credit card product offering direct betting redemption addresses both: it reduces friction for repeat betting engagement and capitalizes on existing Amex cardholder spending patterns.`,
+    featuredImage: "/images/articles/fanatics-amex-card-fancash-sports-betting-2026.png",
+    author: AUTHORS[3],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "marketing-traffic",
+    tags: [
+      { id: "t9102", label: "Fanatics", slug: "fanatics" },
+      { id: "t9103", label: "American Express", slug: "american-express" },
+      { id: "t9104", label: "credit card", slug: "credit-card" },
+      { id: "t9105", label: "loyalty program", slug: "loyalty-program" },
+      { id: "t9106", label: "FanCash", slug: "fancash" },
+      { id: "t9107", label: "sports betting", slug: "sports-betting" },
+      { id: "t9108", label: "consumer acquisition", slug: "consumer-acquisition" },
+      { id: "t9109", label: "payment integration", slug: "payment-integration" },
+      { id: "t9110", label: "sports wagering", slug: "sports-wagering" },
+      { id: "t9111", label: "fintech partnership", slug: "fintech-partnership" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Fanatics Launches Amex Card with Loyalty Currency for Sports Betting 2026 | iGaming Pulse",
+    metaDescription: "Fanatics partners with American Express to launch a credit card that generates loyalty currency redeemable for sports bets and merchandise.",
+    likes: 18,
+    comments: [],
+  },
+
+  {
+    id: "1280",
+    slug: "cboe-russell-2000-prediction-markets-2026",
+    language: "en",
+    translationGroupId: "tg-1280",
+    title: "Cboe Expands Prediction Markets with Russell 2000 Mini Contracts 2026",
+    excerpt: "Cboe launches mini-Russell 2000 binary options to expand its prediction market offerings for small-cap index investors.",
+    content: `Cboe Global Markets has expanded its prediction market infrastructure by launching mini-Russell 2000 Index (MRUT) binary options contracts. The product offering enables traders to speculate on small-cap equity market performance through binary derivative instruments.
+
+The Russell 2000 launch extends Cboe's prediction market architecture beyond its existing broad-market index offerings. Binary options on small-cap indices represent a strategic expansion designed to capture trading interest in the mid-market equity segment—traditionally underserved by prediction market products.
+
+For iGaming and prediction market operators, Cboe's product expansion signals regulatory comfort with binary options derivatives and indicates growing institutional acceptance of prediction markets as parallel asset classes to traditional futures and options markets. The move also suggests demand for alternative index exposure mechanisms among the trader population Cboe serves.`,
+    featuredImage: "/images/articles/cboe-russell-2000-prediction-markets-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t9112", label: "Cboe", slug: "cboe" },
+      { id: "t9113", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t9114", label: "binary options", slug: "binary-options" },
+      { id: "t9115", label: "Russell 2000", slug: "russell-2000" },
+      { id: "t9116", label: "derivatives", slug: "derivatives" },
+      { id: "t9117", label: "financial markets", slug: "financial-markets" },
+      { id: "t9118", label: "index trading", slug: "index-trading" },
+      { id: "t9119", label: "investment products", slug: "investment-products" },
+      { id: "t9120", label: "small-cap exposure", slug: "small-cap-exposure" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Cboe Expands Prediction Markets with Russell 2000 Mini Contracts 2026 | iGaming Pulse",
+    metaDescription: "Cboe launches mini-Russell 2000 binary options to expand its prediction market offerings for small-cap index investors.",
+    likes: 12,
+    comments: [],
+  },
+
+  {
+    id: "1281",
+    slug: "beatles-vetsaid-mgm-grand-january-2027",
+    language: "en",
+    translationGroupId: "tg-1281",
+    title: "Paul McCartney & Ringo Starr to Perform at MGM Grand VetsAid 2027",
+    excerpt: "Surviving Beatles members announced for MGM Grand's VetsAid benefit concert on January 29, 2027, marking a rare public reunion.",
+    content: `Paul McCartney and Ringo Starr will perform together at Joe Walsh's 10th annual VetsAid benefit concert at the MGM Grand Garden Arena on January 29, 2027.
+
+The announcement represents a rare public appearance of surviving Beatles members performing together and positions the event as a marquee Las Vegas entertainment offering for early 2027. VetsAid has established itself as a significant annual benefit supporting military veterans and veteran causes, with previous iterations featuring major recording artists across multiple performance formats.
+
+For MGM Grand, hosting the event extends the venue's positioning as a destination for premium live entertainment and charitable high-profile events. Benefit concerts traditionally drive strong hotel occupancy, convention package sales, and ancillary gaming revenue among attendee populations. The Beatles reunion factor amplifies likely media coverage and international tourism appeal.`,
+    featuredImage: "/images/articles/beatles-vetsaid-mgm-grand-january-2027.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t9121", label: "VetsAid", slug: "vetsaid" },
+      { id: "t9122", label: "MGM Grand Garden Arena", slug: "mgm-grand-garden-arena" },
+      { id: "t9123", label: "Beatles", slug: "beatles" },
+      { id: "t9124", label: "Joe Walsh", slug: "joe-walsh" },
+      { id: "t9125", label: "benefit concert", slug: "benefit-concert" },
+      { id: "t9126", label: "Las Vegas entertainment", slug: "las-vegas-entertainment" },
+      { id: "t9127", label: "January 2027", slug: "january-2027" },
+      { id: "t9128", label: "veteran support", slug: "veteran-support" },
+      { id: "t9129", label: "concert event", slug: "concert-event" },
+      { id: "t9130", label: "Strip venue", slug: "strip-venue" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Paul McCartney & Ringo Starr to Perform at MGM Grand VetsAid 2027 | iGaming Pulse",
+    metaDescription: "Surviving Beatles members announced for MGM Grand's VetsAid benefit concert on January 29, 2027, marking a rare public reunion.",
+    likes: 17,
+    comments: [],
+  },
+
+  {
+    id: "1282",
+    slug: "draftkings-congressional-inquiry-losing-bettors-2026",
+    language: "en",
+    translationGroupId: "tg-1282",
+    title: "DraftKings Defends Against Congressional Scrutiny Over Player Incentives in 2026",
+    excerpt: "DraftKings defends its marketing practices as lawmakers question whether the operator targets vulnerable losing bettors.",
+    content: `## Congressional Pressure Mounts on DraftKings Over Customer Targeting
+
+DraftKings has moved to rebut accusations that it deliberately targets losing bettors with strategic incentives and promotional perks, following a formal inquiry from prominent congressional lawmakers concerned about consumer protection in sports betting.
+
+U.S. Senator Richard Blumenthal of Connecticut and Representatives Paul Tonko of New York and Valerie Foushee have challenged the sportsbook operator over its customer retention strategies, raising questions about whether such promotional tactics exploit vulnerable players or violate responsible gambling principles.
+
+## The Regulatory Landscape Shifts
+
+The inquiry reflects broader legislative momentum to scrutinize sportsbook business practices at the federal level. As legal sports betting expands across more states, Congress is increasingly focused on whether operators are adequately protecting players from problem gambling, particularly those showing patterns of sustained losses.
+
+Promotional incentives—including deposit bonuses, free bets, and loyalty rewards—have become standard competitive tools in the sportsbook industry. However, regulators and consumer advocates argue that deploying such offers strategically to retain losing customers may prioritize operator revenue over player welfare.
+
+## What This Means for the Industry
+
+DraftKings' response to these allegations will likely set a benchmark for how the broader sportsbook sector addresses similar concerns. The company's defense will need to articulate how its marketing practices comply with state and federal responsible gambling standards, and whether it implements safeguards to prevent targeting of at-risk players.
+
+The timing of the inquiry coincides with increased regulatory focus on the sports betting industry ahead of potential federal legislative action. State regulators and player advocacy groups have similarly raised concerns about aggressive retention marketing, making this a pressure point across the regulatory spectrum.
+
+Operators across the market will be monitoring how this particular inquiry develops, as it could influence future compliance expectations and potentially lead to restrictions on how sportsbooks are permitted to market to existing customers.
+`,
+    featuredImage: "/images/articles/draftkings-congressional-inquiry-losing-bettors-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t9131", label: "responsible-gambling", slug: "responsible-gambling" },
+      { id: "t9132", label: "regulation", slug: "regulation" },
+      { id: "t9133", label: "draftkings", slug: "draftkings" },
+      { id: "t9134", label: "congressional-inquiry", slug: "congressional-inquiry" },
+      { id: "t9135", label: "player-protection", slug: "player-protection" },
+      { id: "t9136", label: "sports-betting", slug: "sports-betting" },
+      { id: "t9137", label: "compliance", slug: "compliance" },
+      { id: "t9138", label: "consumer-advocacy", slug: "consumer-advocacy" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "DraftKings Defends Against Congressional Scrutiny Over Player Incentives in 2026 | iGaming Pulse",
+    metaDescription: "DraftKings defends its marketing practices as lawmakers question whether the operator targets vulnerable losing bettors.",
+    likes: 25,
+    comments: [],
+  },
+
+  {
+    id: "1283",
+    slug: "uk-gambling-commission-3m-urls-removed-2026",
+    language: "en",
+    translationGroupId: "tg-1283",
+    title: "UK Regulator Purges 3M Illegal Gambling URLs in Major 2026 Enforcement Push",
+    excerpt: "UK regulator removes over 3 million illegal gambling URLs from search engines in unprecedented enforcement campaign.",
+    content: `## UK Gambling Commission Escalates War on Illegal Operators
+
+The Gambling Commission has dismantled a staggering volume of illegal gambling infrastructure, removing more than 3 million URLs from search engine results during a six-month campaign from April through September 2026. The enforcement action underscores the regulator's intensified commitment to eradicating black-market gambling operations from the UK market.
+
+## Scale of Enforcement Action
+
+The removal of 3 million URLs represents a dramatic escalation in the Commission's enforcement toolkit. By working directly with major search engine operators, the regulator has effectively disrupted the discoverability of unlicensed gambling sites, making it considerably more difficult for British consumers to access rogue operators through organic search.
+
+This coordination between regulatory authorities and search platforms marks a strategic shift away from purely reactive enforcement toward proactive removal of illegal gambling traffic at infrastructure level. The scale involved suggests a systematic, large-scale operation targeting networks of related unlicensed sites rather than isolated enforcement actions.
+
+## Market Impact and Implications
+
+For licensed operators operating in the UK, the removal campaign provides competitive relief by reducing consumer exposure to unregulated alternatives. Illegal operators typically operate without player protections, responsible gambling safeguards, or consumer recourse mechanisms—putting players at significant risk.
+
+The enforcement intensity also signals to potential bad actors that the regulatory environment has hardened considerably. The willingness to coordinate at scale with tech platforms demonstrates the Commission's capacity to disrupt business models that depend on search visibility and discoverability.
+
+The six-month window suggests this campaign may continue or become a recurring enforcement operation, potentially establishing a new standard for how regulators tackle black-market gambling in the digital age. Legitimate operators should anticipate that regulatory pressure on illegal alternatives will remain a feature of the UK landscape.
+`,
+    featuredImage: "/images/articles/uk-gambling-commission-3m-urls-removed-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t9139", label: "uk-gambling-commission", slug: "uk-gambling-commission" },
+      { id: "t9140", label: "illegal-operators", slug: "illegal-operators" },
+      { id: "t9141", label: "enforcement", slug: "enforcement" },
+      { id: "t9142", label: "search-engine-removal", slug: "search-engine-removal" },
+      { id: "t9143", label: "regulatory-action", slug: "regulatory-action" },
+      { id: "t9144", label: "black-market", slug: "black-market" },
+      { id: "t9145", label: "consumer-protection", slug: "consumer-protection" },
+      { id: "t9146", label: "compliance", slug: "compliance" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "UK Regulator Purges 3M Illegal Gambling URLs in Major 2026 Enforcement Push | iGaming Pulse",
+    metaDescription: "UK regulator removes over 3 million illegal gambling URLs from search engines in unprecedented enforcement campaign.",
+    likes: 13,
+    comments: [],
+  },
+
+  {
+    id: "1284",
+    slug: "texas-sports-betting-legalization-jerry-jones-2026",
+    language: "en",
+    translationGroupId: "tg-1284",
+    title: "Texas Democrats' Win Opens Door for Sports Betting in 2026, Says Jerry Jones",
+    excerpt: "Jerry Jones signals improved odds for Texas sports betting legalization following Democratic electoral victories in the state.",
+    content: `## Texas Political Realignment Energizes Sports Betting Legalization Push
+
+Dallas Cowboys owner Jerry Jones has publicly expressed confidence that recent political developments in Texas significantly improve the pathway to sports betting legalization in the state, marking a notable shift in the calculus for market entry into one of America's largest population centers.
+
+## The Political Moment
+
+Jones's optimism follows a surprising Democratic performance in Texas's 2026 elections, with the party capturing key statewide races. Most significantly, Gina Hinojosa is set to become Texas's first Latina governor, and her administration is expected to take a different approach to gaming regulation than her predecessor.
+
+The political realignment in Austin creates an opening for issues that have faced resistance under Republican leadership. Sports betting legalization has long been discussed in Texas legislative circles but has lacked sufficient political support to advance through the state legislature. The new Democratic trifecta—with increased Democratic representation across state government—could fundamentally alter the legislative environment.
+
+## Why Texas Matters
+
+Texas's potential legalization would unlock a market of approximately 30 million people, making it one of the largest remaining untapped sports betting jurisdictions in the United States. The economic opportunity is substantial: comparable states with legalized sports betting have seen sportsbooks generate hundreds of millions in annual handle within a few years of launch.
+
+For the sports betting industry, Texas legalization would represent a significant market expansion and competitive opportunity. Major operators are undoubtedly monitoring the political situation closely, as first-mover advantages and premium market positioning could prove valuable in a state with such a large addressable population.
+
+## Next Steps and Timeline
+
+While Jones's comments reflect optimism, actual legalization will require legislative action and likely faces competing priorities even within a Democratic-controlled legislature. The timing of any sports betting bill remains uncertain, though political observers suggest the 2027 legislative session could be the first genuine opportunity for meaningful progress.
+
+Stakeholders including the Cowboys organization, tribal gaming interests, and established sportsbook operators will likely increase lobbying efforts and public advocacy in the coming months. The political window that Jones references may be narrower than it appears, making urgency a factor in how quickly legalization advocates move.
+`,
+    featuredImage: "/images/articles/texas-sports-betting-legalization-jerry-jones-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t9147", label: "texas", slug: "texas" },
+      { id: "t9148", label: "sports-betting-legalization", slug: "sports-betting-legalization" },
+      { id: "t9149", label: "jerry-jones", slug: "jerry-jones" },
+      { id: "t9150", label: "gina-hinojosa", slug: "gina-hinojosa" },
+      { id: "t9151", label: "market-expansion", slug: "market-expansion" },
+      { id: "t9152", label: "political-opportunity", slug: "political-opportunity" },
+      { id: "t9153", label: "dallas-cowboys", slug: "dallas-cowboys" },
+      { id: "t9154", label: "regulation", slug: "regulation" },
+    ],
+    sourceName: "Casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Texas Democrats' Win Opens Door for Sports Betting in 2026, Says Jerry Jones | iGaming Pulse",
+    metaDescription: "Jerry Jones signals improved odds for Texas sports betting legalization following Democratic electoral victories in the state.",
+    likes: 15,
+    comments: [],
+  },
+
+  {
+    id: "1285",
+    slug: "mlb-pitch-fixing-sportsbook-detection-gaps-2026",
+    language: "en",
+    translationGroupId: "tg-1285",
+    title: "MLB Pitch-Fixing Trial Reveals Sportsbook Detection Blind Spots in 2026",
+    excerpt: "MLB pitch-fixing trial reveals sportsbooks struggle to confirm whether detected suspicious bets indicate actual game manipulation.",
+    content: `## Integrity Monitoring Systems Face Reality Check in MLB Pitch-Fixing Case
+
+An ongoing legal proceeding involving professional baseball players has exposed critical limitations in how sportsbooks detect and verify game manipulation, raising important questions about the effectiveness of current integrity frameworks.
+
+The trial of MLB players Emmanuel Clase and Luis Ortiz on pitch-fixing allegations has provided rare public documentation of how sportsbook monitoring systems function in practice. According to Plannatech CEO Adam Bjorn, a specialist in sports integrity technology, the case illustrates a fundamental problem: sportsbooks can identify suspicious betting activity without possessing the capability to determine whether that activity reflects genuine game manipulation.
+
+## The Detection-Verification Gap
+
+When a pitch deviates from expected trajectories—bouncing in ways inconsistent with a pitcher's typical motion or velocity patterns—sophisticated algorithms can flag the anomaly. Simultaneously, unusual betting patterns on that game or specific pitch outcomes can trigger suspicious activity alerts.
+
+However, Bjorn's analysis reveals that detecting these two signals in parallel does not automatically confirm causation or intent. A pitch that appears manipulated might have resulted from legitimate variables: fatigue, weather conditions, equipment issues, or simple variance. Similarly, unusual betting patterns might reflect legitimate information asymmetries rather than pre-arranged game fixing.
+
+## Implications for Sportsbook Operations
+
+The challenge extends beyond any single operator. Sportsbooks rely on shared intelligence networks and league coordination to validate integrity concerns, yet the trial evidence suggests these mechanisms may not be sufficiently robust to distinguish between suspicious activity and genuine game manipulation.
+
+For major operators, the case underscores the necessity of multi-layered verification approaches. Betting pattern analysis alone appears insufficient; operators need access to biomechanical data, pitch telemetry, real-time game context, and league intelligence to make reliable determinations.
+
+## Industry Response and Standards
+
+The visibility this trial has brought to integrity monitoring gaps may accelerate development of more sophisticated detection frameworks and closer coordination between sportsbooks, leagues, and law enforcement. The MLB, in particular, has invested heavily in integrity monitoring, yet this case suggests even well-resourced efforts face fundamental limitations.
+
+For regulatory purposes, the trial also raises questions about what standards sportsbooks should be held to when reporting suspected manipulation. If operators cannot reliably distinguish suspicious betting from actual game fixing, liability and disclosure obligations become far more complex.
+
+Stakeholders across the sports betting industry should anticipate increased regulatory scrutiny of integrity controls and potential requirements for enhanced due diligence and verification protocols before escalating concerns to authorities.
+`,
+    featuredImage: "/images/articles/mlb-pitch-fixing-sportsbook-detection-gaps-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t9155", label: "integrity-monitoring", slug: "integrity-monitoring" },
+      { id: "t9156", label: "pitch-fixing", slug: "pitch-fixing" },
+      { id: "t9157", label: "sportsbook-detection", slug: "sportsbook-detection" },
+      { id: "t9158", label: "mlb", slug: "mlb" },
+      { id: "t9159", label: "game-manipulation", slug: "game-manipulation" },
+      { id: "t9160", label: "suspicious-betting", slug: "suspicious-betting" },
+      { id: "t9161", label: "technology-gaps", slug: "technology-gaps" },
+      { id: "t9162", label: "compliance-risk", slug: "compliance-risk" },
+    ],
+    sourceName: "Gambling Insider",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "MLB Pitch-Fixing Trial Reveals Sportsbook Detection Blind Spots in 2026 | iGaming Pulse",
+    metaDescription: "MLB pitch-fixing trial reveals sportsbooks struggle to confirm whether detected suspicious bets indicate actual game manipulation.",
+    likes: 5,
+    comments: [],
+  },
+
+  {
+    id: "1286",
+    slug: "cftc-sports-contract-rule-comment-period-2026",
+    language: "en",
+    translationGroupId: "tg-1286",
+    title: "CFTC Sports Contract Rule Faces Quiet Regulatory Review as Deadline Approaches",
+    excerpt: "CFTC's proposed rule on sports event contracts has drawn minimal public engagement with deadline looming and few major stakeholders weighing in.",
+    content: `## CFTC Sports Rule Proceeds Amid Subdued Stakeholder Response
+
+The Commodity Futures Trading Commission's proposed rulemaking establishing regulatory parameters for sports event derivative contracts has received notably limited public feedback, with only 11 comments filed as the submission deadline approaches—a starkly low engagement rate compared to historical CFTC rulemakings on significant market structure issues.
+
+The muted response is particularly striking given the expected involvement of major prediction market platforms, state gaming regulators, and tribal gaming authorities who have significant stakes in how the CFTC ultimately structures these rules. The absence of coordinated industry commentary or regulatory positions suggests either unexpected consensus around the proposed framework or, alternatively, a disconnect between the CFTC's timetable and stakeholders' readiness to engage substantively.
+
+## What Previous Rulemakings Tell Us
+
+Historical patterns in CFTC proceedings typically show a surge of last-minute comment filings as deadlines approach, particularly when rule proposals involve novel market structures or contain ambiguities requiring clarification. The current thin submission volume suggests either that the rule is less controversial than anticipated, or that key stakeholders have deprioritized engagement.
+
+Prediction market operators have significant interest in how the CFTC defines sports event contracts, the scope of permitted participants, and operational requirements. State regulators similarly have enforcement and revenue implications tied to the rule's final form. The absence of coordinated filings from these constituencies is unusual.
+
+## Regulatory Implications
+
+A low-comment rulemaking carries both advantages and risks for the CFTC. The agency may perceive limited feedback as tacit approval for the proposed approach, allowing faster finalization. However, it also increases the likelihood that finalized rules will contain ambiguities or operational challenges that industry discovers only after implementation.
+
+Once a rule is finalized, reopening it for further revision becomes procedurally complicated and time-consuming. If stakeholders have failed to surface critical issues during the comment period, they may face compliance challenges or operational inefficiencies with limited recourse.
+
+The prediction markets space remains relatively nascent, and rules established now will likely persist for years. The quiet engagement period suggests the CFTC should anticipate a potential wave of post-finalization implementation questions and clarification requests from industry participants discovering unanticipated conflicts or ambiguities.
+`,
+    featuredImage: "/images/articles/cftc-sports-contract-rule-comment-period-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t9163", label: "cftc", slug: "cftc" },
+      { id: "t9164", label: "prediction-markets", slug: "prediction-markets" },
+      { id: "t9165", label: "sports-contracts", slug: "sports-contracts" },
+      { id: "t9166", label: "rulemaking", slug: "rulemaking" },
+      { id: "t9167", label: "regulatory-comment", slug: "regulatory-comment" },
+      { id: "t9168", label: "federal-regulation", slug: "federal-regulation" },
+      { id: "t9169", label: "market-infrastructure", slug: "market-infrastructure" },
+      { id: "t9170", label: "policy", slug: "policy" },
+    ],
+    sourceName: "Gambling Insider",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "CFTC Sports Contract Rule Faces Quiet Regulatory Review as Deadline Approaches | iGaming Pulse",
+    metaDescription: "CFTC's proposed rule on sports event contracts has drawn minimal public engagement with deadline looming and few major stakeholders weighing in.",
+    likes: 8,
+    comments: [],
+  },
+
+  {
+    id: "1287",
+    slug: "utah-cftc-prediction-markets-expedited-hearing-2026",
+    language: "en",
+    translationGroupId: "tg-1287",
+    title: "Utah CFTC Prediction Market Case Gets Expedited Hearing Schedule in 2026",
+    excerpt: "Federal court accelerates CFTC prediction market lawsuit against Utah with November 20 hearing as Underdog and Susquehanna mount legal challenges.",
+    content: `## Prediction Market Dispute Moves to Fast Track
+
+A federal judge overseeing the CFTC's lawsuit against Utah has imposed an expedited schedule that will test the regulator's authority over state-based prediction markets within weeks. First filings from both sides are due November 10, 2026, with oral arguments scheduled for November 20.
+
+The compressed timeline reflects the court's recognition that the case touches on fundamental questions about regulatory jurisdiction and the legality of prediction market platforms operating across state lines. Prediction market platforms have increasingly become flashpoints in the debate over whether state gambling regulators or the CFTC should govern these platforms.
+
+## Operators Push Back in Multiple Forums
+
+Underdog, a leading prediction market operator, has filed suit in Missouri as part of a broader strategy to challenge state-level restrictions. The company's legal team argues that prediction markets constitute federal commodities contracts rather than gambling, placing them outside state jurisdiction.
+
+Susquehanna, the trading firm and prediction market participant, has also entered the fray with its own legal challenge, applying additional pressure on regulators and the judiciary to clarify the regulatory framework. Industry observers note that multiple simultaneous lawsuits from different plaintiffs may force a faster resolution than typical litigation timelines.
+
+## What This Means
+
+The November 20 hearing could produce a preliminary ruling on whether the CFTC has exclusive authority to regulate prediction market contracts, or whether states retain the right to restrict or license operators independently. A decision favoring the CFTC would likely embolden prediction market platforms to expand operations; a pro-state ruling could fragment the market and force operators to navigate a patchwork of local rules.
+
+For operators and investors, the stakes are immediate. Any preliminary ruling could determine whether prediction markets remain a viable expansion avenue or face significant headwinds in key jurisdictions through 2027.`,
+    featuredImage: "/images/articles/utah-cftc-prediction-markets-expedited-hearing-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t9171", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t9172", label: "CFTC", slug: "cftc" },
+      { id: "t9173", label: "Utah regulation", slug: "utah-regulation" },
+      { id: "t9174", label: "federal court", slug: "federal-court" },
+      { id: "t9175", label: "Underdog", slug: "underdog" },
+      { id: "t9176", label: "Susquehanna", slug: "susquehanna" },
+      { id: "t9177", label: "legal challenge", slug: "legal-challenge" },
+      { id: "t9178", label: "2026 litigation", slug: "2026-litigation" },
+      { id: "t9179", label: "U.S. regulation", slug: "u-s-regulation" },
+      { id: "t9180", label: "compliance", slug: "compliance" },
+    ],
+    sourceName: "Gambling Insider",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Utah CFTC Prediction Market Case Gets Expedited Hearing Schedule in 2026 | iGaming Pulse",
+    metaDescription: "Federal court accelerates CFTC prediction market lawsuit against Utah with November 20 hearing as Underdog and Susquehanna mount legal challenges.",
+    likes: 22,
+    comments: [],
+  },
+
+  {
+    id: "1288",
+    slug: "genius-sports-outperform-rating-q4-guidance-2026",
+    language: "en",
+    translationGroupId: "tg-1288",
+    title: "Genius Sports Maintains $11 Price Target After Q3 Beat, Strong Q4 Outlook 2026",
+    excerpt: "Macquarie keeps Genius Sports at Outperform with $11 price target after Q3 revenue and EBITDA beat, forecasting strong Q4 performance.",
+    content: `Genius Sports has delivered another quarterly beat, reinforcing analyst confidence in the company's financial trajectory and competitive positioning in sports betting data and media.
+
+Macquarie Research maintained an Outperform rating and $11 price target for the operator following third-quarter results that exceeded consensus expectations on both top-line revenue and earnings before interest, taxes, depreciation, and amortization (EBITDA). The research team noted that management's guidance raise for the full year aligned with the magnitude of the Q3 beat, suggesting measured but confident expectations for the final quarter.
+
+Genius Sports' consistent ability to outperform expectations reflects strong demand for its data and content offerings across regulated sportsbooks globally. The company has positioned itself as a critical infrastructure provider rather than a retail operator, a differentiation that has insulated it from some of the margin pressures facing direct-to-consumer betting platforms.
+
+The $11 price target implies upside from recent trading levels and underscores analyst belief that the company can sustain profitable growth through 2027. For investors and potential acquirers, the maintained Outperform rating signals that the equity remains attractively valued relative to its earnings power and market opportunity.
+
+Genius Sports is expected to report full-year 2026 results in early 2027, with fourth-quarter performance likely to set the tone for investor sentiment heading into the new year.`,
+    featuredImage: "/images/articles/genius-sports-outperform-rating-q4-guidance-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t9181", label: "Genius Sports", slug: "genius-sports" },
+      { id: "t9182", label: "Q3 2026 earnings", slug: "q3-2026-earnings" },
+      { id: "t9183", label: "Macquarie", slug: "macquarie" },
+      { id: "t9184", label: "equity research", slug: "equity-research" },
+      { id: "t9185", label: "price target", slug: "price-target" },
+      { id: "t9186", label: "guidance raise", slug: "guidance-raise" },
+      { id: "t9187", label: "sports betting", slug: "sports-betting" },
+      { id: "t9188", label: "data services", slug: "data-services" },
+      { id: "t9189", label: "EBITDA beat", slug: "ebitda-beat" },
+      { id: "t9190", label: "analyst ratings", slug: "analyst-ratings" },
+    ],
+    sourceName: "Gambling Insider",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Genius Sports Maintains $11 Price Target After Q3 Beat, Strong Q4 Outlook 2026 | iGaming Pulse",
+    metaDescription: "Macquarie keeps Genius Sports at Outperform with $11 price target after Q3 revenue and EBITDA beat, forecasting strong Q4 performance.",
+    likes: 10,
+    comments: [],
+  },
+
+  {
+    id: "1289",
+    slug: "federal-court-accelerates-cftc-utah-prediction-market-case-2026",
+    language: "en",
+    translationGroupId: "tg-1289",
+    title: "Federal Judge Fast-Tracks CFTC vs. Utah Prediction Market Regulatory Authority Case",
+    excerpt: "Federal judge accelerates CFTC lawsuit against Utah over prediction market jurisdiction, scheduling November 20 hearing with filings due November 10.",
+    content: `## Court Signals Urgency in Prediction Market Regulatory Battle
+
+A federal court has compressed the litigation timeline in the CFTC's challenge to Utah's regulation of prediction markets, a move that signals judicial recognition of the case's broader implications for the U.S. betting and trading landscape.
+
+With first filings due November 10, 2026 and oral arguments set for November 20, the court has given both sides less than two weeks to fully brief their positions on a question that will likely define prediction market legality across multiple states: whether these platforms fall under federal CFTC authority as commodities contracts or under state gambling jurisdiction.
+
+## The Jurisdictional Divide
+
+The CFTC has argued that prediction markets, which allow users to buy and sell contracts based on real-world outcomes (elections, economic data, sports events), are federal derivatives and should be regulated as commodities. Utah and other states contend that these platforms constitute gambling and should remain subject to state licensing and restrictions.
+
+The distinction carries enormous practical weight. If the CFTC prevails, prediction market operators can rely on a single federal regulatory framework and expand to any state. If states retain authority, operators must navigate a patchwork of state rules and may face restrictions in certain jurisdictions entirely.
+
+## Multiple Legal Fronts
+
+The Utah case is not occurring in isolation. Operators including Underdog have mounted separate legal challenges in Missouri and other jurisdictions, creating a multi-front regulatory battle that could push courts toward faster resolution. Susquehanna's involvement as both a trader and litigant adds financial weight to the pro-federal-authority side.
+
+## What Comes Next
+
+The November 20 hearing will likely produce either a preliminary ruling or a clear roadmap for how the court will resolve the jurisdictional question. Industry participants are watching closely; a CFTC victory could unlock rapid scaling, while a state victory could force consolidation and strategic re-evaluation across the sector.
+
+A ruling is expected within weeks to months, making this one of the most time-sensitive regulatory cases in iGaming in 2026.`,
+    featuredImage: "/images/articles/federal-court-accelerates-cftc-utah-prediction-market-case-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t9191", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t9192", label: "CFTC", slug: "cftc" },
+      { id: "t9193", label: "Utah", slug: "utah" },
+      { id: "t9194", label: "federal regulation", slug: "federal-regulation" },
+      { id: "t9195", label: "state jurisdiction", slug: "state-jurisdiction" },
+      { id: "t9196", label: "commodities", slug: "commodities" },
+      { id: "t9197", label: "legal framework", slug: "legal-framework" },
+      { id: "t9198", label: "regulatory authority", slug: "regulatory-authority" },
+      { id: "t9199", label: "2026 litigation", slug: "2026-litigation" },
+      { id: "t9200", label: "expedited hearing", slug: "expedited-hearing" },
+    ],
+    sourceName: "Gambling Insider",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Federal Judge Fast-Tracks CFTC vs. Utah Prediction Market Regulatory Authority Case | iGaming Pulse",
+    metaDescription: "Federal judge accelerates CFTC lawsuit against Utah over prediction market jurisdiction, scheduling November 20 hearing with filings due November 10.",
+    likes: 21,
+    comments: [],
+  },
+
+  {
+    id: "1290",
+    slug: "genius-sports-q3-beat-guidance-raise-analyst-update-2026",
+    language: "en",
+    translationGroupId: "tg-1290",
+    title: "Genius Sports Beats Q3 Consensus, Raises Full-Year Guidance Amid Strong Demand",
+    excerpt: "Genius Sports posts Q3 earnings beat on revenue and EBITDA, raises 2026 guidance as Macquarie keeps Outperform rating and $11 target.",
+    content: `Genius Sports has delivered solid third-quarter results that reinforce its position as a dependable infrastructure provider in the global sports betting ecosystem.
+
+The company's Q3 2026 revenue and EBITDA exceeded analyst consensus, prompting management to raise full-year 2026 guidance. Macquarie Research responded by maintaining an Outperform rating and $11 price target, with research noting that the magnitude of the guidance raise aligned with the size of the quarterly beat—a sign of management discipline and confidence without aggressive optimism.
+
+The results reflect sustained demand for Genius Sports' core offerings: official sports data, media content, and integrity solutions that sportsbooks rely on to operate reliably and compliantly. As regulated markets continue to expand globally, the demand for third-party data providers has grown accordingly.
+
+For iGaming operators and betting platforms, Genius Sports' consistent financial performance is relevant because it suggests the company can continue investing in product and infrastructure improvements without financial distress. Operators that have signed multi-year data agreements benefit from a stable, well-capitalized partner.
+
+The company is on track to report full-year 2026 results in early 2027, with Q4 performance likely to set investor expectations for 2027 revenue growth and profitability.`,
+    featuredImage: "/images/articles/genius-sports-q3-beat-guidance-raise-analyst-update-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t9201", label: "Genius Sports", slug: "genius-sports" },
+      { id: "t9202", label: "earnings", slug: "earnings" },
+      { id: "t9203", label: "Q3 2026", slug: "q3-2026" },
+      { id: "t9204", label: "revenue beat", slug: "revenue-beat" },
+      { id: "t9205", label: "EBITDA", slug: "ebitda" },
+      { id: "t9206", label: "guidance", slug: "guidance" },
+      { id: "t9207", label: "sports data", slug: "sports-data" },
+      { id: "t9208", label: "analyst ratings", slug: "analyst-ratings" },
+      { id: "t9209", label: "financial performance", slug: "financial-performance" },
+      { id: "t9210", label: "iGaming services", slug: "igaming-services" },
+    ],
+    sourceName: "Gambling Insider",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Genius Sports Beats Q3 Consensus, Raises Full-Year Guidance Amid Strong Demand | iGaming Pulse",
+    metaDescription: "Genius Sports posts Q3 earnings beat on revenue and EBITDA, raises 2026 guidance as Macquarie keeps Outperform rating and $11 target.",
+    likes: 17,
+    comments: [],
+  },
+
+  {
+    id: "1291",
+    slug: "prediction-markets-cftc-utah-missouri-litigation-accelerates-2026",
+    language: "en",
+    translationGroupId: "tg-1291",
+    title: "Prediction Markets Under Fire: CFTC Pushes Fast-Track Utah Case to November 20",
+    excerpt: "CFTC fast-tracks Utah prediction market case to November 20 hearing as operators sue in Missouri, intensifying jurisdictional showdown.",
+    content: `Prediction market platforms are facing a critical regulatory test as courts and federal agencies race to resolve whether these trading platforms should operate under federal commodity rules or state gambling restrictions.
+
+The CFTC's lawsuit against Utah is moving on an aggressive timeline, with all initial filings due by November 10 and oral arguments scheduled just ten days later on November 20. The expedited schedule reflects both judicial urgency and the high stakes of the case—a ruling could either clear the path for rapid prediction market expansion or confine operators to a state-by-state licensing model.
+
+Simultaneously, prediction market operators including Underdog are mounting their own legal challenges in states like Missouri, arguing that their platforms constitute federal commodities contracts rather than gambling products. Susquehanna, the large trading firm, has also entered the arena with legal filings, adding institutional weight to arguments for federal regulatory authority.
+
+The convergence of multiple lawsuits from different plaintiffs and jurisdictions suggests the iGaming and fintech communities view this moment as pivotal. A clear federal victory would likely prompt other states to defer to CFTC authority; a state victory could fragment the market and force operators to choose between expensive multi-state compliance or focused regional strategies.
+
+Investors and operators are watching the November 20 hearing with intense focus, knowing that the outcome could reshape the prediction market landscape for the next three to five years. A swift ruling from the court could provide clarity that has been lacking since prediction markets began expanding beyond niche trading communities in 2024-2025.`,
+    featuredImage: "/images/articles/prediction-markets-cftc-utah-missouri-litigation-accelerates-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-10T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t9211", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t9212", label: "CFTC", slug: "cftc" },
+      { id: "t9213", label: "federal vs state", slug: "federal-vs-state" },
+      { id: "t9214", label: "Underdog", slug: "underdog" },
+      { id: "t9215", label: "Missouri lawsuit", slug: "missouri-lawsuit" },
+      { id: "t9216", label: "regulatory uncertainty", slug: "regulatory-uncertainty" },
+      { id: "t9217", label: "commodities derivatives", slug: "commodities-derivatives" },
+      { id: "t9218", label: "2026 litigation", slug: "2026-litigation" },
+      { id: "t9219", label: "gambling regulation", slug: "gambling-regulation" },
+      { id: "t9220", label: "expedited court", slug: "expedited-court" },
+    ],
+    sourceName: "Gambling Insider",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Prediction Markets Under Fire: CFTC Pushes Fast-Track Utah Case to November 20 | iGaming Pulse",
+    metaDescription: "CFTC fast-tracks Utah prediction market case to November 20 hearing as operators sue in Missouri, intensifying jurisdictional showdown.",
+    likes: 5,
+    comments: [],
   }
 ];
 
