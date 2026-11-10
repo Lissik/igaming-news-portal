@@ -60803,6 +60803,83 @@ Investors and operators are watching the November 20 hearing with intense focus,
     metaDescription: "CFTC fast-tracks Utah prediction market case to November 20 hearing as operators sue in Missouri, intensifying jurisdictional showdown.",
     likes: 5,
     comments: [],
+  },
+
+  {
+    id: "1292",
+    slug: "bege-eggs-fashion-tv-sofia-november-2026-preview",
+    language: "en",
+    translationGroupId: "tg-1292",
+    title: "Sofia to Host Triple Industry Event: BEGE, EGGS, and Fashion TV Marketing Conference Converge in November",
+    excerpt: "Inter Expo Center Sofia will host three co-located B2B events on November 25–26, bringing together gaming operators, regulators, marketers, and affiliates from across Eastern Europe and beyond.",
+    content: `Three of Eastern Europe's most prominent B2B gaming and marketing events will converge on Sofia's Inter Expo Center on **November 25–26**, bringing an unusually broad cross-section of the iGaming industry under one roof for two days.
+
+The **Balkan Entertainment and Gaming Exhibition (BEGE)**, the **Eastern European Gaming Summit (EGGS)**, and the newly branded **Fashion TV Marketing & Affiliate Conference** are all running concurrently, with attendee passes granting cross-event access.
+
+## Three Events, One Venue
+
+BEGE, now in its fourteenth year, remains the region's flagship gaming trade show — a floor of slot manufacturers, platform providers, payment processors, and service companies targeting the Balkan and broader Eastern European market. The 2025 edition drew hundreds of exhibitors and thousands of visitors; organisers have positioned 2026 as a continuation of that growth.
+
+Running alongside it, EGGS takes the form of a conference with panel discussions aimed at operators, regulators, and suppliers. Its 2026 programme covers ground that reflects the industry's current preoccupations: the long-term technological trajectory of gaming, the tightening regulatory environment across CEE, and the relationship between the licensed sector and the black market.
+
+The Fashion TV Marketing & Affiliate Conference adds a third strand focused specifically on marketing professionals, affiliates, and agencies. The Fashion TV branding — complete with runway appearances from the brand's models — gives the event a distinct aesthetic, though the content itself is substantive: AI-driven marketing, SEO in an era of generative search, and affiliate channel development are all on the agenda.
+
+## What's on the EGGS Programme
+
+The EGGS agenda opens with a forward-looking panel on what gaming will look like in a decade, with speakers from Grupo Boldt, winmasters, Allwyn, and Soft2Bet debating the viability of metaverse gaming, holographic casino environments, and large-scale generative AI deployment. Jeff Letlat, COO of Anakatech, moderates.
+
+Subsequent sessions turn to more immediate concerns. A panel on gambling advertising and sponsorship restrictions in sport brings together voices from Argentina (BPlay), Romania (Rombet), Greece (Superbet), and Poland (SB Software) — markets that have each faced distinct regulatory pressures on marketing spend in recent years.
+
+The question of regulation versus the black market gets its own session, moderated by Quirino Mancini of Italian law firm Tonucci & Partners. Panellists include Pieter Remmers from the European Association for the Study of Gambling (EASG), Joerg Hofmann of international law firm Melchers, Aleksander Popov (formerly of Bulgaria's National Revenue Agency), and Rozalina Yordanova of Winbet Online — a combination of academic, legal, regulatory, and operator perspectives.
+
+A fourth panel focuses on the operational side: how blockchain, AI, and payment infrastructure can be deployed for fraud prevention. Roberta Nicholls of Mela Gaming moderates a discussion featuring speakers from Association of Blockchain Bulgaria, Software Mind, and TFY.
+
+Day one opens with Ian Bradley of First.Bet and Bilyan Balinoff of Vegas Legends/Felix Gaming. Day two is scheduled to include sessions on media and influencer strategy.
+
+## Marketing and Affiliates Track
+
+The Fashion TV Marketing & Affiliate Conference runs on both days with its own programming. Day one opens at midday and covers the AI-driven transformation of marketing creative — from campaign development and copywriting to visual production and performance measurement. The panel examines which AI platforms are delivering measurable value versus generating noise, and how brands can scale localisation and personalisation without proportional cost increases.
+
+A second session addresses the shift from traditional SEO to what practitioners are beginning to call Generative Engine Optimisation (GEO) — the challenge of appearing in AI-generated answers and recommendations rather than ranked link results. For affiliate businesses dependent on organic traffic, the implications are significant.
+
+Speakers confirmed for the marketing track include Justin Deaville, Managing Director of UK agency Receptional; Henk Wolff, an independent iGaming consultant; and Yordan Georgiev, Co-Owner of Bulgarian agency Anomaly.bg, among others.
+
+Attendees registered for the marketing conference receive included access to the EGGS sessions.
+
+## Context
+
+The co-location of these three events reflects a broader consolidation in how the Eastern European industry structures its annual calendar. Rather than a roster of smaller standalone events, the Sofia cluster offers a single travel commitment that spans the gaming supply chain — from regulatory affairs and compliance through to affiliate acquisition and brand marketing.
+
+For operators with CEE exposure, the two days cover territory that would otherwise require separate conferences: the regulatory picture in Bulgaria, Romania, and neighbouring markets; technology vendor relationships on the BEGE floor; and affiliate and marketing strategy in the Fashion TV track.
+
+Registration for all three events is open. EGGS and BEGE offer standard industry passes; the Fashion TV Marketing & Affiliate Conference has a dedicated affiliate pass category.
+
+---
+
+*Inter Expo Center, Sofia, Bulgaria — November 25–26, 2026*`,
+    featuredImage: "/images/articles/bege-eggs-fashion-tv-sofia-november-2026-preview.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-11-01T08:30:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t9221", label: "BEGE 2026", slug: "bege-2026" },
+      { id: "t9222", label: "Eastern European Gaming Summit", slug: "eastern-european-gaming-summit" },
+      { id: "t9223", label: "EGGS 2026", slug: "eggs-2026" },
+      { id: "t9224", label: "Fashion TV Marketing Conference", slug: "fashion-tv-marketing-conference" },
+      { id: "t9225", label: "Sofia", slug: "sofia" },
+      { id: "t9226", label: "gaming conferences", slug: "gaming-conferences" },
+      { id: "t9227", label: "Eastern Europe", slug: "eastern-europe" },
+      { id: "t9228", label: "affiliate marketing", slug: "affiliate-marketing" },
+    ],
+    sourceName: "",
+    sourceUrl: "",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "BEGE, EGGS & Fashion TV Marketing Conference Sofia 2026 — Preview | iGaming Pulse",
+    metaDescription: "Three co-located B2B gaming events hit Sofia on November 25–26: BEGE trade show, Eastern European Gaming Summit, and the Fashion TV Marketing & Affiliate Conference.",
+    likes: 16,
+    comments: [],
   }
 ];
 
