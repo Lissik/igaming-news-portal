@@ -4,28 +4,10 @@ import { ArrowRight, CalendarDays } from "lucide-react";
 
 const UPCOMING_EVENTS = [
   {
-    name: "Global Gaming Expo (G2E) 2026",
-    date: "Sep 28–Oct 01, 2026",
-    location: "Las Vegas, USA",
-    href: "https://globalgamingexpo.com",
-  },
-  {
-    name: "SBC Summit 2026",
-    date: "Sep 29–Oct 01, 2026",
-    location: "Lisbon, Portugal",
-    href: "https://sbcevents.com/sbc-summit",
-  },
-  {
-    name: "HIPTHER Warsaw Summit 2026",
-    date: "Oct 27–28, 2026",
-    location: "Warsaw, Poland",
-    href: "https://hipther.com",
-  },
-  {
-    name: "SiGMA World 2026",
-    date: "Nov 02–05, 2026",
-    location: "Rome, Italy",
-    href: "https://sigma.world/summits",
+    name: "BEGE / EEGS 2026",
+    date: "Nov 25–26, 2026",
+    location: "Sofia, Bulgaria",
+    href: "https://balkangamingexpo.com",
   },
   {
     name: "ICE 2027",
