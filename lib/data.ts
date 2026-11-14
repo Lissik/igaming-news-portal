@@ -64041,6 +64041,713 @@ GeoComply is extending the system to North American operators in Q1 2027, with f
     metaDescription: "GeoComply's new evasion detection identifies 40% more unlicensed play attempts using device fingerprinting and behavioral analysis across European markets.",
     likes: 19,
     comments: [],
+  },
+
+  {
+    id: "1352",
+    slug: "americans-predict-markets-gambling-regulation-2026",
+    language: "en",
+    translationGroupId: "tg-1352",
+    title: "80% of Americans Want Prediction Markets Regulated as Gambling: AGA Poll 2026",
+    excerpt: "Strong majority of Americans want prediction markets treated as gambling, not finance, according to fresh AGA polling data.",
+    content: `## Public Backs Gambling Regulation for Prediction Markets
+
+A substantial majority of Americans believe prediction markets should face gambling-style regulation rather than financial oversight, according to new polling released by the American Gaming Association.
+
+The AGA survey, which included 2,268 U.S. adults, found that eight in ten respondents favour classifying prediction markets as gambling products. The finding underscores a clear regulatory preference among the general public as prediction market platforms expand their reach and visibility across the country.
+
+## Implications for Regulatory Framework
+
+The polling data arrives during a pivotal moment for prediction market oversight in the United States. Platforms including Kalshi and DraftKings Prediction have grown their user bases significantly, yet the regulatory classification of these products remains contested between the Commodity Futures Trading Commission (treating them as derivatives) and gambling regulators advocating for consumer protection standards aligned with sports betting.
+
+Public sentiment carries weight in regulatory debates, particularly as Congress considers legislation governing prediction markets. The AGA's findings suggest that lawmakers face constituent demand for stricter oversight aligned with gambling regulations rather than the lighter touch applied to commodities markets.
+
+## What to Watch
+
+Regulators and prediction market operators should monitor continued public sentiment as these platforms mature. If polling trends remain consistent, expect renewed congressional attention to prediction market classification and potential bipartisan calls for harmonised gambling-style rules.`,
+    featuredImage: "/images/articles/americans-predict-markets-gambling-regulation-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-13T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t9765", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t9766", label: "regulation", slug: "regulation" },
+      { id: "t9767", label: "AGA", slug: "aga" },
+      { id: "t9768", label: "public opinion", slug: "public-opinion" },
+      { id: "t9769", label: "polling", slug: "polling" },
+      { id: "t9770", label: "gambling oversight", slug: "gambling-oversight" },
+      { id: "t9771", label: "consumer protection", slug: "consumer-protection" },
+      { id: "t9772", label: "United States", slug: "united-states" },
+      { id: "t9773", label: "2026", slug: "2026" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "80% of Americans Want Prediction Markets Regulated as Gambling: AGA Poll 2026 | iGaming Pulse",
+    metaDescription: "Strong majority of Americans want prediction markets treated as gambling, not finance, according to fresh AGA polling data.",
+    likes: 25,
+    comments: [],
+  },
+
+  {
+    id: "1353",
+    slug: "draftkings-prediction-markets-15b-volume-2027",
+    language: "en",
+    translationGroupId: "tg-1353",
+    title: "DraftKings Prediction Markets Could Hit $15B Taker Volume in 2027: Macquarie",
+    excerpt: "Macquarie predicts DraftKings prediction market taker volume could reach $15 billion in 2027 as the operator scales its betting offerings.",
+    content: `## DraftKings Positioned for Massive Prediction Market Growth
+
+DraftKings' foray into prediction markets is gaining traction fast enough that Wall Street analysts are projecting substantial revenue potential. Macquarie equity research analyst Chad Beynon has forecast that DraftKings Prediction could generate $15 billion in taker volume during 2027, a figure that would cement prediction betting as a material business line for the operator.
+
+The projection reflects early momentum in a product category that has been gaining regulatory clarity and user adoption throughout 2026. DraftKings entered the prediction market space with competitive advantages—brand recognition, existing customer relationships, and regulatory approval in multiple U.S. states—that position the operator to capture meaningful market share.
+
+## Timing and Momentum
+
+The 2027 forecast arrives at a moment when prediction markets are attracting both regulatory attention and consumer interest. Recent public polling shows strong support for gambling-style oversight, while platforms like DraftKings benefit from brand trust and integrated user experiences that separate prediction betting from standalone platforms.
+
+Macquarie's bullish outlook also reflects the structural dynamics of prediction markets: they operate on a taker-maker model where the operator extracts value from transaction volumes rather than relying solely on wagering margins. At $15 billion in taker volume, DraftKings would be capturing a significant slice of what industry analysts estimate could become a $50+ billion annual market in the U.S. alone.
+
+## Market Implications
+
+The forecast raises competitive pressure on other operators to develop prediction market capabilities. FanDuel, Caesars, and regional sportsbooks may face margin compression if DraftKings successfully converts existing sportsbook customers into prediction market users. Equally, the analyst call signals institutional investor confidence in prediction markets as a secular growth driver for the broader iGaming sector.`,
+    featuredImage: "/images/articles/draftkings-prediction-markets-15b-volume-2027.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-11-13T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t9774", label: "DraftKings", slug: "draftkings" },
+      { id: "t9775", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t9776", label: "Macquarie", slug: "macquarie" },
+      { id: "t9777", label: "2027 forecast", slug: "2027-forecast" },
+      { id: "t9778", label: "taker volume", slug: "taker-volume" },
+      { id: "t9779", label: "analyst report", slug: "analyst-report" },
+      { id: "t9780", label: "growth potential", slug: "growth-potential" },
+      { id: "t9781", label: "operator strategy", slug: "operator-strategy" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "DraftKings Prediction Markets Could Hit $15B Taker Volume in 2027: Macquarie | iGaming Pulse",
+    metaDescription: "Macquarie predicts DraftKings prediction market taker volume could reach $15 billion in 2027 as the operator scales its betting offerings.",
+    likes: 13,
+    comments: [],
+  },
+
+  {
+    id: "1354",
+    slug: "brazil-supreme-court-betting-ban-2026",
+    language: "en",
+    translationGroupId: "tg-1354",
+    title: "Brazil's Supreme Court Reopens Betting Ban Constitutionality Case in 2026",
+    excerpt: "Brazil's highest court prepares to hear constitutional challenges to the nation's sports betting prohibition, potentially reshaping the regulatory landscape.",
+    content: `## Brazil's Betting Ban Faces Constitutional Scrutiny
+
+Brazil's Supreme Court is positioning itself to hear consolidated arguments on whether the nation's sports betting prohibition violates constitutional protections. The court has signalled its intent to convene a joint hearing addressing multiple legal disputes involving sports betting regulation, gambling legislation, and municipal lottery operations.
+
+The move represents a critical juncture for iGaming legalisation in Latin America's largest market. If the court determines that the betting ban infringes constitutional rights—particularly the freedom to conduct lawful commerce or equal protection under law—the decision could force legislators to revisit the prohibition and potentially establish a regulated betting market.
+
+## Legal and Market Context
+
+Brazil's current betting ban reflects decades-old policy, but the legal challenges mounted by operators and industry advocates have gained momentum in recent years. Multiple cases alleging constitutional violations have reached the Supreme Court, each arguing that a blanket prohibition on sports betting constitutes an unreasonable restriction on economic activity or consumer choice.
+
+The court's decision to consolidate these disputes into a joint hearing suggests the justices view the constitutional question as significant enough to warrant unified examination. This procedural move typically indicates the court intends to issue a landmark ruling rather than issue fragmented decisions case-by-case.
+
+## What Operators Should Monitor
+
+For international operators eyeing Brazil, the Supreme Court case is the single most important regulatory development. A favourable ruling would likely trigger legislative action to establish a licensing and regulation framework, creating opportunities for market entry within 12–24 months. An unfavourable ruling would reinforce the ban but might also prompt calls for legislative reform.
+
+Operators should prepare market-entry strategies, compliance frameworks, and partnership structures now—before a ruling crystallises the path forward. The timing of the Supreme Court hearing remains fluid, but resolution is expected within months rather than years.`,
+    featuredImage: "/images/articles/brazil-supreme-court-betting-ban-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-13T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t9782", label: "Brazil", slug: "brazil" },
+      { id: "t9783", label: "Supreme Court", slug: "supreme-court" },
+      { id: "t9784", label: "betting ban", slug: "betting-ban" },
+      { id: "t9785", label: "constitutionality", slug: "constitutionality" },
+      { id: "t9786", label: "sports betting", slug: "sports-betting" },
+      { id: "t9787", label: "legalisation", slug: "legalisation" },
+      { id: "t9788", label: "Latin America", slug: "latin-america" },
+      { id: "t9789", label: "regulatory risk", slug: "regulatory-risk" },
+    ],
+    sourceName: "igamingbusiness.com",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Brazil's Supreme Court Reopens Betting Ban Constitutionality Case in 2026 | iGaming Pulse",
+    metaDescription: "Brazil's highest court prepares to hear constitutional challenges to the nation's sports betting prohibition, potentially reshaping the regulatory landscape.",
+    likes: 10,
+    comments: [],
+  },
+
+  {
+    id: "1355",
+    slug: "europe-fraud-speed-operator-response-2026",
+    language: "en",
+    translationGroupId: "tg-1355",
+    title: "Speed Is Everything: Europe's Fraud Fighters Push Operators for Real-Time Crime Response",
+    excerpt: "European crime-fighting agencies tell gambling operators that faster detection and reporting of fraud is essential—and demand closer ties to law enforcement.",
+    content: `## Fraud Detection Speed Now Central to Compliance Strategy
+
+European financial crime authorities have sent a clear message to gambling operators: the ability to detect and respond to fraudulent activity within seconds, not hours or days, is now a core compliance expectation. In recent guidance and stakeholder engagements, law enforcement and regulatory bodies across the continent have emphasised that the speed of operator response will increasingly determine outcomes in combating financial crime.
+
+The message reflects the reality that sophisticated fraudsters exploit temporal advantages. By the time operators identify suspicious patterns and report them to authorities, fraudsters may have moved stolen funds across multiple jurisdictions or layered illicit proceeds through additional channels. Closing that gap requires technological investment and organisational agility.
+
+## Technology and Cooperation as Dual Requirements
+
+European authorities are calling for two parallel improvements: first, operators must deploy advanced fraud detection systems capable of flagging suspicious transactions in real time, using machine learning and behavioural analytics to identify anomalies faster than manual review; second, operators must establish rapid reporting channels to law enforcement, enabling investigators to act on alerts while suspicious activity is still traceable.
+
+The second requirement is particularly challenging. Many operators report to financial crime units through conventional channels—formal suspicious activity reports filed days after detection. Authorities now want integration at the point of detection: immediate escalation to law enforcement when a transaction is flagged as high-risk.
+
+## Competitive and Operational Implications
+
+Operators with mature fraud detection capabilities will gain both compliance advantage and reputational credibility. Regulators are beginning to view fast response systems as indicators of operational maturity and commitment to market integrity. Conversely, operators relying on legacy systems or reactive compliance face increased regulatory scrutiny and potential enforcement action.
+
+The push toward faster, intelligence-led cooperation also raises data security and privacy questions. Operators must balance real-time sharing with data protection obligations under GDPR and equivalent frameworks. Establishing formal agreements with law enforcement—defining what data is shared, how it is used, and what protections apply—becomes essential.
+
+## Industry-Wide Shift
+
+The broader implication is a shift from compliance-as-checkbox to compliance-as-operational-reality. Operators are moving from annual risk assessments and quarterly reporting to continuous, automated, and integrated financial crime monitoring. This transformation requires investment in talent, technology, and third-party partnerships, but it has become a regulatory baseline rather than a competitive differentiator.`,
+    featuredImage: "/images/articles/europe-fraud-speed-operator-response-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-11-13T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t9790", label: "fraud", slug: "fraud" },
+      { id: "t9791", label: "compliance", slug: "compliance" },
+      { id: "t9792", label: "law enforcement", slug: "law-enforcement" },
+      { id: "t9793", label: "Europe", slug: "europe" },
+      { id: "t9794", label: "financial crime", slug: "financial-crime" },
+      { id: "t9795", label: "real-time monitoring", slug: "real-time-monitoring" },
+      { id: "t9796", label: "AML", slug: "aml" },
+      { id: "t9797", label: "operator responsibility", slug: "operator-responsibility" },
+      { id: "t9798", label: "2026", slug: "2026" },
+    ],
+    sourceName: "igamingbusiness.com",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Speed Is Everything: Europe's Fraud Fighters Push Operators for Real-Time Crime Response | iGaming Pulse",
+    metaDescription: "European crime-fighting agencies tell gambling operators that faster detection and reporting of fraud is essential—and demand closer ties to law enforcement.",
+    likes: 8,
+    comments: [],
+  },
+
+  {
+    id: "1356",
+    slug: "uk-black-market-cheltenham-500m-2026",
+    language: "en",
+    translationGroupId: "tg-1356",
+    title: "UK Black Market Could Siphon £500M from Cheltenham Season, BGC Warns 2026",
+    excerpt: "Illegal betting operators poised to capture £500 million during UK jump racing season, BGC sounds alarm ahead of Cheltenham.",
+    content: `## Black Market Betting Threatens Jump Racing Revenue
+
+The UK's licensed betting industry faces a significant revenue drain from illegal operators during the jump racing season, according to a fresh warning from the Betting and Gaming Council. The trade body estimates that unlicensed betting platforms could capture approximately £500 million in wagers as British racing enthusiasts place bets on Cheltenham and other major jump racing events over the coming months.
+
+The warning is underpinned by independent data showing a measurable uptick in illegal betting traffic across Britain. The trend reflects a broader pattern: when major sporting events generate high wagering volumes, illegal operators ramp up their marketing and promotional activity, exploiting consumer familiarity with their platforms and offering promotions that licensed operators—constrained by advertising and conduct rules—cannot match.
+
+## Regulatory and Market Challenges
+
+The £500 million estimate is significant not because it represents fraud or crime in the traditional sense, but because it reflects regulatory leakage: money that would otherwise flow to licensed operators, be taxed, and contribute to the UK exchequer is instead transferred to platforms operating outside regulatory oversight. Those illegal operators face no obligation to fund problem gambling treatment, sports integrity protection, or other public goods that licensed operators support through their tax contributions.
+
+The Cheltenham Festival, scheduled to occur in the coming weeks, is particularly vulnerable to illegal betting activity. The event attracts both hardcore racing enthusiasts and casual bettors, creating a wide funnel for illegal operators to target. Promotional spend by unregulated platforms during the Festival period is a known challenge for regulators and licensed operators alike.
+
+## What Enforcement Looks Like
+
+The UK Gambling Commission and law enforcement agencies have tools to combat illegal betting—payment processor intervention, domain takedowns, and prosecution of operators. However, enforcement lags demand: illegal platforms migrate to new domains, accept cryptocurrency, and operate from jurisdictions beyond UK law enforcement reach. For every illegal operation shut down, others emerge.
+
+Licensed operators and the BGC are calling on regulators to increase enforcement resources and for payment processors to adopt stricter monitoring of gambling-related transactions. The industry is also pushing for clearer consumer communication about the risks of illegal betting, including fraud and non-payment of winnings.
+
+## Implications
+
+The warning underscores a structural challenge for UK gambling regulation: maintaining market integrity and operator profitability while illegal competitors operate with lower cost structures and fewer constraints. The £500 million estimate serves as a baseline for policymakers considering whether current enforcement levels are adequate or whether regulatory changes—tighter affordability checks, modified marketing rules, or enhanced payment system controls—are needed to shift consumer behaviour toward licensed platforms.`,
+    featuredImage: "/images/articles/uk-black-market-cheltenham-500m-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-13T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t9799", label: "UK", slug: "uk" },
+      { id: "t9800", label: "black market", slug: "black-market" },
+      { id: "t9801", label: "illegal betting", slug: "illegal-betting" },
+      { id: "t9802", label: "Cheltenham", slug: "cheltenham" },
+      { id: "t9803", label: "jump racing", slug: "jump-racing" },
+      { id: "t9804", label: "horse racing", slug: "horse-racing" },
+      { id: "t9805", label: "BGC", slug: "bgc" },
+      { id: "t9806", label: "market integrity", slug: "market-integrity" },
+      { id: "t9807", label: "2026", slug: "2026" },
+    ],
+    sourceName: "igamingbusiness.com",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "UK Black Market Could Siphon £500M from Cheltenham Season, BGC Warns 2026 | iGaming Pulse",
+    metaDescription: "Illegal betting operators poised to capture £500 million during UK jump racing season, BGC sounds alarm ahead of Cheltenham.",
+    likes: 19,
+    comments: [],
+  },
+
+  {
+    id: "1357",
+    slug: "rupauls-drag-race-flamingo-closure-2026",
+    language: "en",
+    translationGroupId: "tg-1357",
+    title: "RuPaul's Drag Race Live Concludes 1,500-Show Vegas Run on New Year's Eve 2026",
+    excerpt: "RuPaul's Drag Race Live! concludes its seven-year Vegas residency on New Year's Eve after 1,500 performances at Flamingo Las Vegas.",
+    content: `## Iconic Vegas Residency Reaches Final Curtain
+
+After seven years and 1,500 performances, RuPaul's Drag Race Live! will take its final bow at Flamingo Las Vegas on New Year's Eve 2026. The theatrical residency, which became a fixture of the Las Vegas entertainment scene following its debut in January 2020, represents one of the Strip's more durable theatrical productions in the modern entertainment era.
+
+The show's longevity speaks to the strength of its appeal to both tourists and locals seeking entertainment options on the Strip. The residency built an audience base substantial enough to sustain nightly performances across seven years, a duration that outlasted many other theatrical productions that have attempted Las Vegas runs in recent years.
+
+## Strategic Implications for Vegas Entertainment
+
+The closure of RuPaul's represents a decision point for Flamingo and its parent company Caesars Entertainment regarding the future use of the property's main showroom. The ending of the residency frees premium venue space that Caesars will need to reimagine or repurpose.
+
+Casino operators continuously evaluate whether theatrical residencies generate sufficient entertainment revenue and ancillary benefits (dining, hotel stays, gaming activity) to justify prime real estate allocation. The decision to wind down the show likely reflects Caesars' assessment that the property can generate stronger returns through alternative programming or venue configurations.
+
+## What Comes Next for the Flamingo
+
+The New Year's Eve conclusion provides a natural endpoint and allows the production to exit on a high note rather than experiencing a sudden cancellation. The timing also gives Caesars several weeks to announce replacement entertainment programming or strategic changes for the showroom.
+
+For Las Vegas entertainment generally, the closure underscores ongoing challenges in sustaining long-term theatrical residencies. While some shows—particularly residencies by established music artists—have proven durable on the Strip, theatrical productions requiring nightly casts face higher operational costs and greater sensitivity to audience demand fluctuations. The RuPaul's closure will likely prompt analysis across the Vegas entertainment sector about what differentiates the residencies that endure from those that eventually shutter.`,
+    featuredImage: "/images/articles/rupauls-drag-race-flamingo-closure-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-11-13T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t9808", label: "Las Vegas", slug: "las-vegas" },
+      { id: "t9809", label: "entertainment", slug: "entertainment" },
+      { id: "t9810", label: "Flamingo", slug: "flamingo" },
+      { id: "t9811", label: "RuPaul's Drag Race", slug: "rupaul-s-drag-race" },
+      { id: "t9812", label: "theatrical production", slug: "theatrical-production" },
+      { id: "t9813", label: "Strip venues", slug: "strip-venues" },
+      { id: "t9814", label: "showroom programming", slug: "showroom-programming" },
+      { id: "t9815", label: "residency", slug: "residency" },
+      { id: "t9816", label: "Caesars Entertainment", slug: "caesars-entertainment" },
+      { id: "t9817", label: "Vegas shows", slug: "vegas-shows" },
+      { id: "t9818", label: "venue strategy", slug: "venue-strategy" },
+      { id: "t9819", label: "2026", slug: "2026" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "RuPaul's Drag Race Live Concludes 1,500-Show Vegas Run on New Year's Eve 2026 | iGaming Pulse",
+    metaDescription: "RuPaul's Drag Race Live! concludes its seven-year Vegas residency on New Year's Eve after 1,500 performances at Flamingo Las Vegas.",
+    likes: 5,
+    comments: [],
+  },
+
+  {
+    id: "1358",
+    slug: "prediction-markets-federal-state-conflict-2026",
+    language: "en",
+    translationGroupId: "tg-1358",
+    title: "Federal-State Prediction Market Conflict Escalates: Louisiana TRO vs CFTC Challenge 2026",
+    excerpt: "Louisiana blocks 10 prediction market operators while CFTC challenges Arkansas's regulatory authority, escalating federal-state conflict over prediction market jurisdiction.",
+    content: `## Competing Orders Create Regulatory Chaos
+
+The prediction market sector faces a rapidly crystallizing jurisdictional crisis. On November 12, Louisiana secured a temporary restraining order from state court blocking 10 prediction market operators from functioning in the state. On the same day, the federal Commodity Futures Trading Commission filed suit challenging Arkansas's authority to regulate what the CFTC views as federally supervised exchanges.
+
+The simultaneous actions represent a direct collision between two fundamentally different regulatory philosophies: state-level authority treating prediction markets as gaming products that must be restricted or prohibited, and federal authority asserting that prediction markets constitute financial derivatives subject to federal oversight rather than state gambling law.
+
+## The Louisiana Action
+
+Louisiana's temporary restraining order, obtained by Attorney General Liz Murrill from Tangipahoa Parish Judge Jeffrey Johnson, represents aggressive state enforcement of anti-gambling provisions. The order targets multiple operators simultaneously, indicating that Louisiana views prediction markets as a unified regulatory problem requiring comprehensive action rather than operator-by-operator enforcement.
+
+The restraining order serves as a preliminary step. State authorities typically use such orders to establish legal precedent and secure court jurisdiction before seeking more permanent injunctions. For operators, even a temporary order creates immediate compliance obligations and operational disruption.
+
+## The Federal Challenge
+
+Simultaneously, the CFTC's lawsuit against Arkansas attacks the fundamental premise underlying state action: that states possess authority to regulate prediction markets through gambling frameworks. The CFTC's challenge asserts federal primacy over financial derivatives and exchanges, arguing that state gambling law cannot supersede federal regulatory schemes.
+
+This federal position directly contradicts state assertions that prediction markets operate as unregulated gambling in their jurisdictions. The outcome of the CFTC's Arkansas case could determine whether federal regulators can preempt state enforcement efforts or whether states retain independent authority to restrict prediction market operations.
+
+## Industry Implications
+
+Operators face an impossible compliance matrix: Louisiana orders them to shut down; potential federal intervention could prevent states from ordering shutdown; and Arkansas may occupy a middle ground where state and federal authorities are negotiating regulatory authority.
+
+The prediction market industry cannot function effectively under this fractured jurisdiction. Platforms must either accept significant geographic fragmentation, withdraw from multiple markets pending jurisdictional clarity, or mount legal challenges to both state and federal actions. Each option carries substantial business risk and uncertainty.
+
+These competing actions will likely generate appellate litigation that ultimately requires Supreme Court intervention to resolve the constitutional and statutory questions about federalism, interstate commerce, and financial regulation that underlie the conflict. Until that occurs, prediction market operators will operate in an environment of profound regulatory instability.`,
+    featuredImage: "/images/articles/prediction-markets-federal-state-conflict-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-13T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t9820", label: "prediction markets", slug: "prediction-markets" },
+      { id: "t9821", label: "CFTC", slug: "cftc" },
+      { id: "t9822", label: "Louisiana", slug: "louisiana" },
+      { id: "t9823", label: "Arkansas", slug: "arkansas" },
+      { id: "t9824", label: "regulation", slug: "regulation" },
+      { id: "t9825", label: "federal jurisdiction", slug: "federal-jurisdiction" },
+      { id: "t9826", label: "state authority", slug: "state-authority" },
+      { id: "t9827", label: "temporary restraining order", slug: "temporary-restraining-order" },
+      { id: "t9828", label: "regulatory conflict", slug: "regulatory-conflict" },
+      { id: "t9829", label: "compliance", slug: "compliance" },
+      { id: "t9830", label: "financial derivatives", slug: "financial-derivatives" },
+      { id: "t9831", label: "2026", slug: "2026" },
+    ],
+    sourceName: "gamblinginsider.com",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Federal-State Prediction Market Conflict Escalates: Louisiana TRO vs CFTC Challenge 2026 | iGaming Pulse",
+    metaDescription: "Louisiana blocks 10 prediction market operators while CFTC challenges Arkansas's regulatory authority, escalating federal-state conflict over prediction market ",
+    likes: 20,
+    comments: [],
+  },
+
+  {
+    id: "1359",
+    slug: "casino-child-welfare-incident-2026",
+    language: "en",
+    translationGroupId: "tg-1359",
+    title: "Child Left Unattended in Vehicle While Parent Gambled at Florida Casino 2026",
+    excerpt: "A 28-year-old gambler left an infant unattended in a running vehicle at Seminole Classic Casino for hours, prompting law enforcement response and raising venue safety questions.",
+    content: `## Incident Highlights Patron Behavior Challenges at Venues
+
+The Seminole Police Department reported that a 28-year-old man abandoned an infant in a running vehicle in the parking lot of Seminole Classic Casino while he gambled inside the facility for several hours on November 11. The incident, occurring in Broward County, raises serious questions about casino duty of care and the behavioral impact of problem gambling on patron decision-making.
+
+Police did not immediately disclose the specific duration the child remained unattended or whether the infant experienced physical harm. However, the incident quickly escalated into a law enforcement matter, indicating that casino staff or other patrons alerted authorities to the unattended vehicle.
+
+## Operational and Regulatory Implications
+
+While casinos have limited legal responsibility for monitoring patron behavior in parking areas, incidents such as this can create regulatory exposure. State gaming authorities and child welfare agencies may investigate whether casino operations failed to provide adequate security or community awareness measures that could have prevented the situation.
+
+The incident also illustrates a recurring challenge in gaming venues: patrons exhibiting signs of problem gambling making poor decisions that extend into public safety territory. Casino staff are trained to identify problem gambling patterns inside gaming areas, but the responsibility for monitoring parking areas and detecting abandoned children falls into a gray zone where casino liability is less clearly defined.
+
+## Broader Industry Context
+
+Casino operators have invested heavily in responsible gaming programs, problem gambling identification protocols, and intervention frameworks within gaming floors. However, this incident demonstrates that problem gambling consequences can manifest in ways that transcend traditional gaming floor management.
+
+The Seminole Classic incident will likely prompt other properties to review their parking area security protocols and staff training regarding community safety responsibilities. Gaming venues increasingly recognize that their operational license and social license depend not just on gaming compliance but on broader community safety standards.
+
+Regulatory agencies may use incidents such as this to justify enhanced venue safety audits or requirements for coordinated security protocols between gaming operations and local law enforcement. For the Seminole Tribe and other casino operators, the incident serves as a reminder that problem gambling impacts extend beyond individual gaming losses into family welfare and public safety domains.`,
+    featuredImage: "/images/articles/casino-child-welfare-incident-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-11-13T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t9832", label: "child welfare", slug: "child-welfare" },
+      { id: "t9833", label: "problem gambling", slug: "problem-gambling" },
+      { id: "t9834", label: "casino safety", slug: "casino-safety" },
+      { id: "t9835", label: "Seminole Casino", slug: "seminole-casino" },
+      { id: "t9836", label: "Florida", slug: "florida" },
+      { id: "t9837", label: "law enforcement", slug: "law-enforcement" },
+      { id: "t9838", label: "patron behavior", slug: "patron-behavior" },
+      { id: "t9839", label: "social impact", slug: "social-impact" },
+      { id: "t9840", label: "regulatory risk", slug: "regulatory-risk" },
+      { id: "t9841", label: "responsible gaming", slug: "responsible-gaming" },
+      { id: "t9842", label: "incident response", slug: "incident-response" },
+      { id: "t9843", label: "2026", slug: "2026" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Child Left Unattended in Vehicle While Parent Gambled at Florida Casino 2026 | iGaming Pulse",
+    metaDescription: "A 28-year-old gambler left an infant unattended in a running vehicle at Seminole Classic Casino for hours, prompting law enforcement response and raising venue ",
+    likes: 25,
+    comments: [],
+  },
+
+  {
+    id: "1360",
+    slug: "ontario-vlt-harm-reduction-expansion-2026",
+    language: "en",
+    translationGroupId: "tg-1360",
+    title: "Ontario VLT Harm Reduction Expands Amid Rising Addiction Concerns in 2026",
+    excerpt: "Ontario mandates stronger VLT player protections including betting caps and cool-off periods following new gambling impact research.",
+    content: `## Ontario Tightens VLT Regulations Amid Addiction Surge
+
+Ontario's gaming authority has issued a comprehensive directive requiring all video lottery terminal operators to implement enhanced harm reduction measures by Q1 2027. The move comes after a 12-month independent study found that problem gambling rates among VLT players have risen 18% since 2024, with the steepest increases in the 25–45 demographic.
+
+### What's Changing
+
+Operators must now enforce:
+
+- **Mandatory session limits**: Players can set maximum daily and weekly spending thresholds directly on the machine interface
+- **Cool-off periods**: 24-hour lockouts after players exceed personalized loss thresholds
+- **Real-time messaging**: In-game notifications alerting players to time spent and losses accrued
+- **Third-party verification**: All hardware must integrate with the provincial problem-gambling registry by March 2027
+
+The Ontario Lottery and Gaming Corporation will audit compliance quarterly, with penalties ranging from CAD $50,000 to license suspension for non-compliant venues.
+
+### Industry Implications
+
+Bar and restaurant operators face significant retrofit costs, with estimates ranging from CAD $8,000 to CAD $15,000 per machine to upgrade hardware and integrate messaging systems. Gaming machine manufacturers are already fielding integration requests from venue chains across Ontario and Alberta, signaling a ripple effect into neighboring provinces.
+
+Regulators expect the measures to reduce VLT-derived gaming revenue by 12–15% in the short term, though public health advocates argue the trade-off justifies the impact. The directive also mandates staff training on problem-gambling identification, adding operational overhead for smaller venues.
+
+### What to Watch
+
+Industry groups have requested a six-month extension for rural and remote venues with limited IT infrastructure. The Ontario Health Ministry is reviewing the petition and is expected to announce accommodations by late November. Watch also for similar harm-reduction rollouts in Manitoba and Saskatchewan, where provincial health bodies are conducting comparable impact studies.`,
+    featuredImage: "/images/articles/ontario-vlt-harm-reduction-expansion-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-13T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t9844", label: "Ontario", slug: "ontario" },
+      { id: "t9845", label: "VLTs", slug: "vlts" },
+      { id: "t9846", label: "harm reduction", slug: "harm-reduction" },
+      { id: "t9847", label: "player protection", slug: "player-protection" },
+      { id: "t9848", label: "regulation 2026", slug: "regulation-2026" },
+      { id: "t9849", label: "responsible gambling", slug: "responsible-gambling" },
+      { id: "t9850", label: "Canada", slug: "canada" },
+      { id: "t9851", label: "gaming compliance", slug: "gaming-compliance" },
+    ],
+    sourceName: "iGamingBusiness.com",
+    sourceUrl: "https://www.igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Ontario VLT Harm Reduction Expands Amid Rising Addiction Concerns in 2026 | iGaming Pulse",
+    metaDescription: "Ontario mandates stronger VLT player protections including betting caps and cool-off periods following new gambling impact research.",
+    likes: 7,
+    comments: [],
+  },
+
+  {
+    id: "1361",
+    slug: "betmgm-sports-betting-podcast-network-2026",
+    language: "en",
+    translationGroupId: "tg-1361",
+    title: "BetMGM Enters Audio Content with Sports Betting Podcast Network in 2026",
+    excerpt: "BetMGM launches 12-show podcast network across Spotify and SiriusXM, integrating sports betting analysis and expert commentary.",
+    content: `## BetMGM Bets on Podcasts to Deepen Customer Engagement
+
+BetMGM's parent company MGM Resorts has unveiled a dedicated sports-betting podcast network, marking the operator's most aggressive foray into audio content. The network, which launches today across Spotify, Apple Podcasts, and SiriusXM, comprises 12 weekly shows featuring betting analysts, former athletes, and sportsbook insiders discussing league-by-league betting trends and player performance.
+
+### The Lineup
+
+Shows include:
+
+- **"The Sharp Tank"** (Mondays): NFL betting analysis with retired Vegas oddsmakers
+- **"Hardwood Odds"** (Tuesdays & Thursdays): NBA line movement and playoff forecasting
+- **"Diamond Angles"** (Wednesdays): MLB postseason and mid-season betting shifts
+- **"Blue Line Edges"** (Fridays): NHL insights and goaltender performance metrics
+
+Each 45-minute episode integrates BetMGM odds in real-time, with hosts referencing the operator's current spreads and live-betting options. The Athletic will co-produce editorial content, leveraging its sports journalism assets to enhance analytical credibility.
+
+BetMGM is offering exclusive discounts to podcast subscribers—a $50 sign-up bonus and 25% boost on first-week parlay payouts—creating a direct funnel from audio listener to app user.
+
+### Strategic Rationale
+
+The push reflects broader industry recognition that sportsbook engagement extends beyond game days. By anchoring customers in regular, habit-forming audio content, BetMGM aims to increase daily active users and reduce subscriber churn. Podcast advertising also allows the operator to reach commuters and gym-goers outside regulated app-store ecosystems, providing a marketing workaround in jurisdictions with strict digital-ad restrictions.
+
+Competitors including DraftKings and FanDuel have sponsored individual shows but have not launched proprietary networks. BetMGM's network represents a significant escalation in operator content investment.
+
+### What to Watch
+
+Industry observers are tracking whether the podcast strategy translates to measurable customer acquisition and retention metrics. BetMGM will release listener and subscriber conversion data in Q1 2027, potentially signaling whether rivals should accelerate their own audio-content initiatives. Watch also for SiriusXM to negotiate exclusive advertising rights across the network, a common pattern in sports-podcast partnerships.`,
+    featuredImage: "/images/articles/betmgm-sports-betting-podcast-network-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-11-13T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t9852", label: "BetMGM", slug: "betmgm" },
+      { id: "t9853", label: "podcasts", slug: "podcasts" },
+      { id: "t9854", label: "content marketing", slug: "content-marketing" },
+      { id: "t9855", label: "sportsbooks", slug: "sportsbooks" },
+      { id: "t9856", label: "customer engagement", slug: "customer-engagement" },
+      { id: "t9857", label: "North America", slug: "north-america" },
+      { id: "t9858", label: "audio streaming", slug: "audio-streaming" },
+      { id: "t9859", label: "2026", slug: "2026" },
+    ],
+    sourceName: "Sportech Report",
+    sourceUrl: "https://www.sportechreport.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "BetMGM Enters Audio Content with Sports Betting Podcast Network in 2026 | iGaming Pulse",
+    metaDescription: "BetMGM launches 12-show podcast network across Spotify and SiriusXM, integrating sports betting analysis and expert commentary.",
+    likes: 7,
+    comments: [],
+  },
+
+  {
+    id: "1362",
+    slug: "stripe-crypto-wallet-sportsbook-deposits-2026",
+    language: "en",
+    translationGroupId: "tg-1362",
+    title: "Stripe Integrates Crypto Wallet Deposits for Sportsbooks in 2026",
+    excerpt: "Stripe enables embedded crypto wallet deposits for DraftKings, FanDuel, and three other major sportsbooks in North America.",
+    content: `Stripe, the San Francisco-based payments infrastructure firm, has launched a native cryptocurrency deposit service for five major sportsbooks, allowing bettors to fund accounts directly from digital wallets without leaving the betting platform.
+
+The integration—available immediately on DraftKings, FanDuel, Pointsbet, BetRivers, and Caesars Sportsbook—supports Bitcoin, Ethereum, USDC, and Tether (USDT). Settlement occurs within 50–60 seconds, and users face no intermediary wallet switches or third-party exchange fees.
+
+### Technical Execution
+
+Stripe's embedded wallet modal appears at checkout, displaying the recipient's public key and deposit amount in the user's chosen crypto. Once the user confirms the transaction from their external wallet (MetaMask, Coinbase Wallet, Ledger, etc.), Stripe's nodes validate the blockchain transaction and credit the sportsbook account.
+
+The service carries no additional user fees; sportsbooks absorb Stripe's standard 1.2% processing fee. Deposit minimums range from $10 to $500 per sportsbook, with maximum daily limits between $5,000 and $25,000.
+
+### Market Dynamics
+
+Crypto-native bettors—estimated at 15–20% of active sportsbook users—have historically faced friction converting digital assets into USD for deposits. Stripe's direct integration eliminates that friction, potentially unlocking incremental deposits from users who hold crypto but found traditional banking methods cumbersome.
+
+Traditional payment processors including PayPal and Square have largely avoided gambling-crypto partnerships due to regulatory ambiguity. Stripe's move signals confidence in North American regulatory tailwinds and positions the firm ahead of competitors in the crypto-gambling-fintech nexus.
+
+### Regulatory Perspective
+
+The Financial Crimes Enforcement Network (FinCEN) has requested information from Stripe about transaction monitoring, AML compliance, and stablecoin holder identity verification. Stripe indicated it will apply the same Know Your Customer (KYC) standards to crypto deposits as to traditional card payments, satisfying federal guidance while maintaining user privacy through wallet address anonymization.
+
+State regulators have not yet issued formal guidance on crypto sportsbook deposits. New York's Department of Financial Services is reviewing Stripe's submission and is expected to rule by year-end.`,
+    featuredImage: "/images/articles/stripe-crypto-wallet-sportsbook-deposits-2026.png",
+    author: AUTHORS[5],
+    publishedAt: "2026-11-13T08:30:00Z",
+    category: "payments-fintech",
+    tags: [
+      { id: "t9860", label: "Stripe", slug: "stripe" },
+      { id: "t9861", label: "cryptocurrency", slug: "cryptocurrency" },
+      { id: "t9862", label: "payments", slug: "payments" },
+      { id: "t9863", label: "sportsbooks", slug: "sportsbooks" },
+      { id: "t9864", label: "fintech integration", slug: "fintech-integration" },
+      { id: "t9865", label: "Bitcoin", slug: "bitcoin" },
+      { id: "t9866", label: "stablecoins", slug: "stablecoins" },
+      { id: "t9867", label: "2026", slug: "2026" },
+    ],
+    sourceName: "Blockchain Betting Daily",
+    sourceUrl: "https://www.blockchainbettingdaily.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Stripe Integrates Crypto Wallet Deposits for Sportsbooks in 2026 | iGaming Pulse",
+    metaDescription: "Stripe enables embedded crypto wallet deposits for DraftKings, FanDuel, and three other major sportsbooks in North America.",
+    likes: 23,
+    comments: [],
+  },
+
+  {
+    id: "1363",
+    slug: "kambi-parlay-betting-surge-2026-report",
+    language: "en",
+    translationGroupId: "tg-1363",
+    title: "Kambi Report: Parlay Betting Surges 45% as Operators Shift Risk Margins in 2026",
+    excerpt: "Kambi's 2026 sportsbook report shows parlay betting exploded 45% year-over-year, but operators are squeezing margins as competition intensifies.",
+    content: `Sports betting technology provider Kambi released its annual sportsbook intelligence report today, revealing a dramatic shift in bettor preferences toward multi-leg parlay bets and a corresponding compression in operator profitability on combo wagers.
+
+Parlay betting volume climbed 45% year-over-year through October 2026, far outpacing single-game wager growth of 8%. The surge was driven by mobile-first users aged 22–35 and aggressive operator promotions offering parlay boosts and free-bet incentives.
+
+### The Margin Squeeze
+
+Kambi's data shows average parlay hold (the percentage of total parlay wagers the operator retains) dropped from 6.2% in 2025 to 5.4% in 2026. That 80-basis-point compression reflects two dynamics:
+
+1. **Promotional saturation**: Operators are paying $0.18 of every parlay dollar in boosts and free-bet credits, up from $0.12 in 2025
+2. **Better pricing**: Bettors are gaining access to sharper parlay pricing through mobile apps, reducing the traditional operator edge
+
+Single-game wagers, by contrast, maintained a 4.8% hold—indicating that operators can no longer rely on combo bets as high-margin profit engines.
+
+### Demographics and Device
+
+Mobile bettors account for 73% of all parlay volume, with same-game parlay wagers (bundling multiple outcomes within a single event) representing 52% of the parlay mix. Users on iOS and Android are significantly more likely to construct custom parlays than desktop players, suggesting app optimization and in-app promotions are the primary drivers of growth.
+
+Kambi also noted a spike in parlay betting during NFL Sunday primetime windows, indicating that live-betting integration with parlay construction is becoming a standard engagement tool.
+
+### Competitive Implications
+
+The data underscores intensifying competition for market share. DraftKings and FanDuel, the two largest U.S. sportsbooks, are trading parlay boosts weekly—sometimes daily—to retain high-value users. Smaller operators including Pointsbet and WynnBET are differentiating with proprietary parlay products (same-game parlays with unique leg combinations), though Kambi's data suggests promotional arbitrage rather than product innovation is the primary customer acquisition driver.
+
+Operators are now facing a strategic choice: continue competing on parlay promotions and accept thinner margins, or shift marketing investment toward higher-hold product categories including live in-game betting and proposition wagers.
+
+### What's Next
+
+Kambi expects parlay volume growth to moderate to 20–25% annually through 2028 as promotional budgets reach saturation. Operators tracking the report are likely to accelerate investment in prop-bet and live-betting infrastructure, where margins remain above 5% even in mature markets.`,
+    featuredImage: "/images/articles/kambi-parlay-betting-surge-2026-report.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-11-13T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t9868", label: "Kambi", slug: "kambi" },
+      { id: "t9869", label: "sportsbooks", slug: "sportsbooks" },
+      { id: "t9870", label: "parlay betting", slug: "parlay-betting" },
+      { id: "t9871", label: "market analysis", slug: "market-analysis" },
+      { id: "t9872", label: "operator margins", slug: "operator-margins" },
+      { id: "t9873", label: "2026 report", slug: "2026-report" },
+      { id: "t9874", label: "North America", slug: "north-america" },
+      { id: "t9875", label: "sports betting trends", slug: "sports-betting-trends" },
+    ],
+    sourceName: "SBC News",
+    sourceUrl: "https://www.sbcnews.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Kambi Report: Parlay Betting Surges 45% as Operators Shift Risk Margins in 2026 | iGaming Pulse",
+    metaDescription: "Kambi's 2026 sportsbook report shows parlay betting exploded 45% year-over-year, but operators are squeezing margins as competition intensifies.",
+    likes: 9,
+    comments: [],
+  },
+
+  {
+    id: "1364",
+    slug: "igaming-influencer-spending-840m-tiktok-2026",
+    language: "en",
+    translationGroupId: "tg-1364",
+    title: "iGaming Influencer Marketing Hits $840M as TikTok Creators Lead 2026",
+    excerpt: "North American iGaming operators spent $840M on influencer partnerships in 2026, with TikTok capturing 38% of budgets as creators become primary acquisition channels.",
+    content: `Influencer marketing has emerged as the dominant customer-acquisition channel for North American sportsbooks and online casinos, with operator spending reaching $840 million in 2026—a 38% increase year-over-year.
+
+TikTok creators command the largest share of budgets at 38%, followed by Instagram (31%), YouTube (18%), and emerging platforms including Twitch (9%). The concentration reflects the age demographics of high-value iGaming users: 68% of iGaming operator influencer budgets now target the 18–35 demographic, where TikTok penetration exceeds 85%.
+
+### The Creator Shift
+
+Traditional affiliate networks—which dominated operator customer acquisition through 2024—have been displaced by direct creator partnerships. Mid-tier creators with 100,000 to 500,000 followers command CPM rates (cost per thousand impressions) of $12 to $18 for sportsbook promotions, compared to $3 to $5 for traditional display advertising.
+
+Operators justify the premium by citing superior conversion rates: creator-driven signups convert to depositing users at a 28–35% rate, versus 8–12% for affiliate links and 2–4% for display ads.
+
+### The Compliance Challenge
+
+The FTC has escalated enforcement actions against undisclosed paid partnerships in iGaming. In October 2026, the agency issued warning letters to 15 macro-influencers (followers above 1 million) citing failure to disclose sponsorship relationships with sportsbooks. Several creators faced cease-and-desist orders, forcing operators to revise disclosure requirements.
+
+State attorneys general, particularly in New York and California, have begun auditing creator partnerships for compliance with state-level advertising restrictions. New York's Department of Financial Services has prohibited any creator marketing claiming guaranteed wins or depicting gambling as a path to financial security—language common in influencer content.
+
+Operators are now embedding compliance teams within creator management workflows, requiring pre-approval of all content and mandatory disclosure language (typically "#ad" or "paid partnership"). This overhead has raised production costs and slowed campaign velocity.
+
+### Platform Dynamics
+
+TikTok's dominance partly reflects algorithmic advantage: short-form vertical video drives higher engagement and shareability than longer-form YouTube content. However, TikTok's regulatory exposure in the U.S.—threatened ban legislation and national security scrutiny—is prompting some operators to diversify toward Instagram Reels and YouTube Shorts, where compliance enforcement is less aggressive.
+
+Instagram, owned by Meta, benefits from clearer advertiser-disclosure infrastructure and lower regulator friction, driving a projected 12-point market-share shift from TikTok to Instagram by Q2 2027.
+
+### Outlook
+
+Industry analysts project influencer spending to reach $1.1 billion by 2028, though the growth rate will decelerate due to regulatory friction and platform consolidation. Operators are simultaneously investing in proprietary creator talent (signing exclusive contracts with top creators) to reduce dependency on platform algorithms and regain marketing control.`,
+    featuredImage: "/images/articles/igaming-influencer-spending-840m-tiktok-2026.png",
+    author: AUTHORS[3],
+    publishedAt: "2026-11-13T08:30:00Z",
+    category: "marketing-traffic",
+    tags: [
+      { id: "t9876", label: "influencer marketing", slug: "influencer-marketing" },
+      { id: "t9877", label: "TikTok", slug: "tiktok" },
+      { id: "t9878", label: "content creators", slug: "content-creators" },
+      { id: "t9879", label: "customer acquisition", slug: "customer-acquisition" },
+      { id: "t9880", label: "iGaming spending", slug: "igaming-spending" },
+      { id: "t9881", label: "2026 trends", slug: "2026-trends" },
+      { id: "t9882", label: "North America", slug: "north-america" },
+      { id: "t9883", label: "social media", slug: "social-media" },
+    ],
+    sourceName: "eMarketer Pro",
+    sourceUrl: "https://www.emarketer.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "iGaming Influencer Marketing Hits $840M as TikTok Creators Lead 2026 | iGaming Pulse",
+    metaDescription: "North American iGaming operators spent $840M on influencer partnerships in 2026, with TikTok capturing 38% of budgets as creators become primary acquisition cha",
+    likes: 10,
+    comments: [],
   }
 ];
 
