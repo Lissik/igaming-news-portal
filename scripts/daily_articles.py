@@ -78,7 +78,7 @@ Each object must have ALL 17 fields:
 1.  category          — one of: {categories}
 2.  original_headline — exact original headline from the source
 3.  rewritten_headline — SEO-optimised rewrite (60-80 chars, include year)
-4.  publication_date  — "{today}"
+4.  publication_date  — "{yesterday}"
 5.  source_name       — primary source publication name
 6.  source_url        — primary source base URL
 7.  entities          — JSON array of companies, people, regulators mentioned

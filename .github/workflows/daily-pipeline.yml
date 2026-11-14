@@ -20,7 +20,7 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Check if already published today
+      - name: Claim publish slot (atomic marker)
         id: check
         run: |
           TODAY=$(date +%Y-%m-%d)
@@ -28,9 +28,25 @@ jobs:
           if [ -f "$MARKER" ]; then
             echo "skip=true" >> $GITHUB_OUTPUT
             echo "Already published today, skipping."
-          else
-            echo "skip=false" >> $GITHUB_OUTPUT
+            exit 0
           fi
+          git config user.email "pipeline@igamingpulse.media"
+          git config user.name "iGaming Pipeline"
+          mkdir -p .pipeline/markers
+          touch "$MARKER"
+          git add .pipeline/markers/
+          git commit -m "pipeline: published ${TODAY} [skip ci]"
+          # Push the marker first — if another run already pushed it, this fails and we skip
+          if ! git push; then
+            git pull --rebase origin main
+            if [ -f "$MARKER" ]; then
+              echo "skip=true" >> $GITHUB_OUTPUT
+              echo "Another run already claimed this slot, skipping."
+              exit 0
+            fi
+            git push || { echo "skip=true" >> $GITHUB_OUTPUT; exit 0; }
+          fi
+          echo "skip=false" >> $GITHUB_OUTPUT
 
       - name: Set up Python
         if: steps.check.outputs.skip != 'true'
@@ -64,13 +80,3 @@ jobs:
       - name: Publish articles
         if: steps.check.outputs.skip != 'true'
         run: python3 add_articles.py articles_today.json
-
-      - name: Create publish marker
-        if: steps.check.outputs.skip != 'true'
-        run: |
-          TODAY=$(date +%Y-%m-%d)
-          mkdir -p .pipeline/markers
-          touch ".pipeline/markers/published_${TODAY}.marker"
-          git add .pipeline/markers/
-          git commit -m "pipeline: published ${TODAY} [skip ci]" || true
-          git push
