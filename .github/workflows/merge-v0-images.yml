@@ -36,5 +36,6 @@ jobs:
         if: steps.check.outputs.new_commits != '0'
         run: |
           git reset --hard origin/main
-          git merge origin/v0/article-featured-images --no-edit -m "merge: v0 featured images"
+          # Use -X theirs so v0 image files always win on conflict (e.g. add/add or modify/delete)
+          git merge origin/v0/article-featured-images --no-edit -X theirs -m "merge: v0 featured images"
           git push origin main || (git pull --rebase origin main && git push origin main)
