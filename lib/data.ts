@@ -62468,7 +62468,7 @@ The timeline suggests lawmakers view this as a priority revenue measure rather t
 ## Industry Watch Points
 
 Operators currently licensed in Colombia and those evaluating market entry will closely monitor legislative developments. Any final VAT rate, implementation date, and exemption provisions could reshape entry strategies and pricing models for the Colombian market. The outcome may also signal fiscal intentions for other Colombian entertainment sectors including land-based gaming.`,
-    featuredImage: "/images/articles/colombia-19-percent-vat-online-gambling-2026.png",
+    featuredImage: "/images/articles/colombia-19-percent-vat-online-gambling-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "regulation",
@@ -62821,7 +62821,7 @@ Underdog joins an expanding partner network that enables cross-platform liquidit
 For gaming operators, the ability to offer prediction market products through established infrastructure providers eliminates development barriers and allows rapid market entry. This democratization of access is expected to accelerate prediction market growth across regulated U.S. markets and internationally.
 
 The partnership also positions infrastructure providers as crucial intermediaries between prediction market platforms and broader gaming ecosystems. As regulatory frameworks clarify in various jurisdictions, operators with established technical infrastructure partnerships will be positioned to launch products faster than competitors building proprietary systems.`,
-    featuredImage: "/images/articles/plaee-underdog-prediction-market-partnership-2026.png",
+    featuredImage: "/images/articles/plaee-underdog-prediction-market-partnership-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "industry-services",
@@ -62864,7 +62864,7 @@ The timing of the layoffs coincides with broader industry consolidation trends. 
 For operators and investors, the restructuring signals that the first wave of venture-backed hypergrowth in sports betting and prediction markets is concluding. The second wave will be dominated by operationally disciplined companies with sustainable unit economics and clear paths to profitability.
 
 Analysts expect continued workforce optimization across the sector through 2027 as operators right-size operations and focus resources on highest-return user segments and markets.`,
-    featuredImage: "/images/articles/polymarket-draftkings-layoffs-restructuring-2026.png",
+    featuredImage: "/images/articles/polymarket-draftkings-layoffs-restructuring-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "operators",
@@ -63257,7 +63257,7 @@ DraftKings has taken a different approach, launching its own prediction market p
 Regulatory clarity on prediction markets is likely to emerge in 2027 as Congress and federal agencies respond to public sentiment and industry lobbying. States may also begin drafting their own rules, potentially creating a patchwork that favors established gaming operators with multi-state infrastructure over pure prediction market plays.
 
 The survey timing—with prediction markets gaining prominence in political and financial discourse—suggests the AGA is actively shaping the regulatory narrative as federal agencies prepare guidance.`,
-    featuredImage: "/images/articles/americans-prediction-markets-gambling-regulation-2026.png",
+    featuredImage: "/images/articles/americans-prediction-markets-gambling-regulation-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "regulation",
@@ -63311,7 +63311,7 @@ However, the projection also reflects inherent uncertainty around regulatory fra
 DraftKings' $15 billion forecast must be contextualized within broader market dynamics. Polymarket and other platforms have attracted venture capital and user engagement despite regulatory ambiguity. However, Polymarket faces its own challenges, as evidenced by recent executive departures and ongoing questions about its long-term regulatory status.
 
 For DraftKings, achieving Macquarie's projection would signal that legacy sportsbooks can successfully diversify into prediction markets without abandoning their core competencies in customer acquisition and retention.`,
-    featuredImage: "/images/articles/draftkings-prediction-market-15-billion-volume-2027.png",
+    featuredImage: "/images/articles/draftkings-prediction-market-15-billion-volume-2027.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "operators",
@@ -63365,7 +63365,7 @@ The BGC's data-driven warning also serves a secondary purpose: documenting the s
 The Gambling Commission has been increasingly aggressive in pursuing operators of illegal platforms, conducting raids and pursuing prosecutions. However, the decentralized nature of unlicensed gambling—with many operators based offshore and using cryptocurrency—makes enforcement difficult.
 
 Licensed operators have also attempted to compete through better user experiences, promotional offers within regulatory bounds, and marketing that emphasizes responsible gambling safeguards. Yet as the BGC's warning suggests, these efforts have not fully stemmed the flow toward illegal alternatives, particularly during high-volume events like Cheltenham.`,
-    featuredImage: "/images/articles/black-market-500-million-jump-racing-cheltenham-2026.png",
+    featuredImage: "/images/articles/black-market-500-million-jump-racing-cheltenham-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "regulation",
@@ -63423,7 +63423,7 @@ The timing of the hearing—in late 2026—suggests a ruling could arrive in ear
 ## What's at Stake
 
 For the iGaming industry globally, a Brazilian legalization would represent a meaningful expansion of addressable markets in the Americas. For the country itself, it signals whether prohibition or regulation will guide future gaming policy—a question that could influence public health, consumer protection, and tax policy across Latin America.`,
-    featuredImage: "/images/articles/brazil-supreme-court-betting-ban-constitutionality-2026.png",
+    featuredImage: "/images/articles/brazil-supreme-court-betting-ban-constitutionality-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "regulation",
@@ -63489,7 +63489,7 @@ These requirements often exceed the capabilities of smaller operators or those w
 European regulators will likely incorporate speed-based fraud defense expectations into licensing frameworks and ongoing compliance obligations. Operators unable to demonstrate real-time detection and rapid reporting capabilities could face increased scrutiny, enforcement action, or license suspension.
 
 The message from European crime fighters is clear: in modern fraud prevention, slower is simply not acceptable.`,
-    featuredImage: "/images/articles/fraud-speed-european-crime-fighters-operator-cooperation.png",
+    featuredImage: "/images/articles/fraud-speed-european-crime-fighters-operator-cooperation.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "industry-services",
@@ -63536,7 +63536,7 @@ For operators currently licensed or operating in Louisiana, the TRO demands imme
 ## What to Watch
 
 Operators will likely challenge the restraining order through appeals, potentially setting precedent for future state-level enforcement. The duration and scope of the TRO may expand, and other states could follow Louisiana's enforcement model as the prediction market sector faces increasing scrutiny.`,
-    featuredImage: "/images/articles/louisiana-prediction-markets-halt-2026.png",
+    featuredImage: "/images/articles/louisiana-prediction-markets-halt-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "regulation",
@@ -63586,7 +63586,7 @@ The Pennsylvania Gaming Control Board now faces a decision: expand enforcement a
 For legitimate gaming operators and compliance professionals, Pennsylvania's experience illustrates a fundamental lesson: regulatory enforcement must address underlying demand, not just specific product categories. Removing skill games without simultaneously establishing clear rules for alternative gaming devices invites regulatory arbitrage.
 
 Other states considering similar crackdowns on skill games should monitor Pennsylvania's next moves carefully. How regulators define and enforce rules against sweepstakes machines will shape enforcement strategy across the country.`,
-    featuredImage: "/images/articles/pennsylvania-sweepstakes-machines-skill-games-2026.png",
+    featuredImage: "/images/articles/pennsylvania-sweepstakes-machines-skill-games-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "regulation",
@@ -63634,7 +63634,7 @@ This case also raises questions about responsible gaming program effectiveness. 
 Operators across North America will be monitoring how this incident is resolved and whether it results in regulatory scrutiny of tribal gaming properties. Beyond tribal venues, this case serves as a cautionary example for all casinos operating in states without comprehensive childcare regulations at gaming facilities.
 
 Proactive operators may need to revisit their responsible gaming policies, staff training protocols, and venue monitoring systems to prevent similar incidents and mitigate liability exposure in the future.`,
-    featuredImage: "/images/articles/seminole-casino-child-abandonment-incident-2026.png",
+    featuredImage: "/images/articles/seminole-casino-child-abandonment-incident-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "operators",
@@ -63670,7 +63670,7 @@ Proactive operators may need to revisit their responsible gaming policies, staff
     content: `The Flamingo Las Vegas will bid farewell to RuPaul's Drag Race Live! on New Year's Eve 2026, ending a theatrical residency that has anchored the property's entertainment portfolio for nearly seven years. The show's final performance on December 31 concludes approximately 1,500 performances in the Flamingo's main showroom since the production launched in January 2020.
 
 The closure marks a significant shift in the property's entertainment strategy and reflects broader changes in how Las Vegas venues program premium theatrical space.`,
-    featuredImage: "/images/articles/rupals-drag-race-live-closes-flamingo-2026.png",
+    featuredImage: "/images/articles/rupals-drag-race-live-closes-flamingo-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "operators",
@@ -63717,7 +63717,7 @@ If this migration occurs at scale, it could have cascading effects on traditiona
 Sethi's analysis reframes the prediction market debate. Rather than asking whether specific products can be banned or whether certain operators violate existing rules, regulators should ask whether prediction markets' fundamental design creates structural risks to financial system stability. This distinction matters because even compliant prediction market operators could pose systemic threats through normal business operations.
 
 As Kalshi and other prediction market platforms expand, financial authorities will need to develop stress-testing frameworks and capital flow monitoring tools specifically designed to track how prediction markets interact with traditional investment channels.`,
-    featuredImage: "/images/articles/kalshi-leveraged-contracts-systemic-risk-2026.png",
+    featuredImage: "/images/articles/kalshi-leveraged-contracts-systemic-risk-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "regulation",
@@ -63775,7 +63775,7 @@ VIP programs have traditionally been among the most profitable segments, with re
 ## Next Steps
 
 Operators have until December 31, 2026 to achieve full compliance. The Ontario Gaming Commission will conduct audits of VIP program policies in Q1 2027. Industry observers expect similar rules to emerge in British Columbia, Alberta, and potentially Quebec within the next 12 months, establishing a pan-Canadian standard that may influence U.S. state regulators evaluating their own VIP frameworks.`,
-    featuredImage: "/images/articles/ontario-vip-program-rules-tighten-2026.png",
+    featuredImage: "/images/articles/ontario-vip-program-rules-tighten-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "regulation",
@@ -63832,7 +63832,7 @@ For smaller operators managing tight margins, the elimination of custom developm
 ## Competitive Implications
 
 Inspired Entertainment and Scientific Games have signaled interest in similar capabilities but have not yet launched equivalent tools. The move underscores Pragmatic's investment in operator enablement technology—a longer-term revenue lever as commodity game libraries become saturated and competitive differentiation shifts toward player experience tuning rather than pure game count.`,
-    featuredImage: "/images/articles/pragmatic-play-ai-slot-customization-2026.png",
+    featuredImage: "/images/articles/pragmatic-play-ai-slot-customization-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "slots-game-providers",
@@ -63891,7 +63891,7 @@ Additionally, the company is investing in communication infrastructure to notify
 ## Looking Ahead
 
 The chargeback spike is likely a short-term data point, as operators and processors refine verification workflows to balance compliance with speed. However, the disclosure signals that the broader industry faces a structural challenge: compliance requirements that mandate friction are beginning to have measurable financial consequences for operators managing tight margins in competitive markets.`,
-    featuredImage: "/images/articles/draftkings-chargebacks-verification-delays-2026.png",
+    featuredImage: "/images/articles/draftkings-chargebacks-verification-delays-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "operators",
@@ -63950,7 +63950,7 @@ However, processors acknowledge they lack clear regulatory guidance on where the
 The Gambling Commission's formal review will conclude by Q1 2027, with guidance expected on processor obligations. A ruling in favor of unrestricted processing would likely eliminate friction-by-design protocols; a ruling affirming processor discretion would legitimize the practice and encourage wider adoption.
 
 For operators and processors, the uncertainty creates operational limbo: some are pausing friction-by-design rollouts pending regulatory clarity, while others are doubling down, viewing the practice as increasingly essential to maintaining license compliance in a tightening harm-reduction environment.`,
-    featuredImage: "/images/articles/uk-payment-processors-gambling-friction-scrutiny-2026.png",
+    featuredImage: "/images/articles/uk-payment-processors-gambling-friction-scrutiny-2026.jpg",
     author: AUTHORS[5],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "payments-fintech",
@@ -64016,7 +64016,7 @@ Operators report reduced compliance friction with regulators in high-risk market
 ## Looking Ahead
 
 GeoComply is extending the system to North American operators in Q1 2027, with focus on state-level market boundaries and tribal gaming jurisdictions. The company is also exploring machine-learning models to predict evasion attempts before they occur, using behavioral and historical data to flag high-risk players proactively.`,
-    featuredImage: "/images/articles/gecomply-evasion-detection-40-percent-improvement-2026.png",
+    featuredImage: "/images/articles/gecomply-evasion-detection-40-percent-improvement-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "industry-services",
@@ -64065,7 +64065,7 @@ Public sentiment carries weight in regulatory debates, particularly as Congress 
 ## What to Watch
 
 Regulators and prediction market operators should monitor continued public sentiment as these platforms mature. If polling trends remain consistent, expect renewed congressional attention to prediction market classification and potential bipartisan calls for harmonised gambling-style rules.`,
-    featuredImage: "/images/articles/americans-predict-markets-gambling-regulation-2026.png",
+    featuredImage: "/images/articles/americans-predict-markets-gambling-regulation-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "regulation",
@@ -64113,7 +64113,7 @@ Macquarie's bullish outlook also reflects the structural dynamics of prediction 
 ## Market Implications
 
 The forecast raises competitive pressure on other operators to develop prediction market capabilities. FanDuel, Caesars, and regional sportsbooks may face margin compression if DraftKings successfully converts existing sportsbook customers into prediction market users. Equally, the analyst call signals institutional investor confidence in prediction markets as a secular growth driver for the broader iGaming sector.`,
-    featuredImage: "/images/articles/draftkings-prediction-markets-15b-volume-2027.png",
+    featuredImage: "/images/articles/draftkings-prediction-markets-15b-volume-2027.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "operators",
@@ -64162,7 +64162,7 @@ The court's decision to consolidate these disputes into a joint hearing suggests
 For international operators eyeing Brazil, the Supreme Court case is the single most important regulatory development. A favourable ruling would likely trigger legislative action to establish a licensing and regulation framework, creating opportunities for market entry within 12–24 months. An unfavourable ruling would reinforce the ban but might also prompt calls for legislative reform.
 
 Operators should prepare market-entry strategies, compliance frameworks, and partnership structures now—before a ruling crystallises the path forward. The timing of the Supreme Court hearing remains fluid, but resolution is expected within months rather than years.`,
-    featuredImage: "/images/articles/brazil-supreme-court-betting-ban-2026.png",
+    featuredImage: "/images/articles/brazil-supreme-court-betting-ban-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "regulation",
@@ -64215,7 +64215,7 @@ The push toward faster, intelligence-led cooperation also raises data security a
 ## Industry-Wide Shift
 
 The broader implication is a shift from compliance-as-checkbox to compliance-as-operational-reality. Operators are moving from annual risk assessments and quarterly reporting to continuous, automated, and integrated financial crime monitoring. This transformation requires investment in talent, technology, and third-party partnerships, but it has become a regulatory baseline rather than a competitive differentiator.`,
-    featuredImage: "/images/articles/europe-fraud-speed-operator-response-2026.png",
+    featuredImage: "/images/articles/europe-fraud-speed-operator-response-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "industry-services",
@@ -64269,7 +64269,7 @@ Licensed operators and the BGC are calling on regulators to increase enforcement
 ## Implications
 
 The warning underscores a structural challenge for UK gambling regulation: maintaining market integrity and operator profitability while illegal competitors operate with lower cost structures and fewer constraints. The £500 million estimate serves as a baseline for policymakers considering whether current enforcement levels are adequate or whether regulatory changes—tighter affordability checks, modified marketing rules, or enhanced payment system controls—are needed to shift consumer behaviour toward licensed platforms.`,
-    featuredImage: "/images/articles/uk-black-market-cheltenham-500m-2026.png",
+    featuredImage: "/images/articles/uk-black-market-cheltenham-500m-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "regulation",
@@ -64319,7 +64319,7 @@ Casino operators continuously evaluate whether theatrical residencies generate s
 The New Year's Eve conclusion provides a natural endpoint and allows the production to exit on a high note rather than experiencing a sudden cancellation. The timing also gives Caesars several weeks to announce replacement entertainment programming or strategic changes for the showroom.
 
 For Las Vegas entertainment generally, the closure underscores ongoing challenges in sustaining long-term theatrical residencies. While some shows—particularly residencies by established music artists—have proven durable on the Strip, theatrical productions requiring nightly casts face higher operational costs and greater sensitivity to audience demand fluctuations. The RuPaul's closure will likely prompt analysis across the Vegas entertainment sector about what differentiates the residencies that endure from those that eventually shutter.`,
-    featuredImage: "/images/articles/rupauls-drag-race-flamingo-closure-2026.png",
+    featuredImage: "/images/articles/rupauls-drag-race-flamingo-closure-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "operators",
@@ -64380,7 +64380,7 @@ Operators face an impossible compliance matrix: Louisiana orders them to shut do
 The prediction market industry cannot function effectively under this fractured jurisdiction. Platforms must either accept significant geographic fragmentation, withdraw from multiple markets pending jurisdictional clarity, or mount legal challenges to both state and federal actions. Each option carries substantial business risk and uncertainty.
 
 These competing actions will likely generate appellate litigation that ultimately requires Supreme Court intervention to resolve the constitutional and statutory questions about federalism, interstate commerce, and financial regulation that underlie the conflict. Until that occurs, prediction market operators will operate in an environment of profound regulatory instability.`,
-    featuredImage: "/images/articles/prediction-markets-federal-state-conflict-2026.png",
+    featuredImage: "/images/articles/prediction-markets-federal-state-conflict-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "regulation",
@@ -64435,7 +64435,7 @@ Casino operators have invested heavily in responsible gaming programs, problem g
 The Seminole Classic incident will likely prompt other properties to review their parking area security protocols and staff training regarding community safety responsibilities. Gaming venues increasingly recognize that their operational license and social license depend not just on gaming compliance but on broader community safety standards.
 
 Regulatory agencies may use incidents such as this to justify enhanced venue safety audits or requirements for coordinated security protocols between gaming operations and local law enforcement. For the Seminole Tribe and other casino operators, the incident serves as a reminder that problem gambling impacts extend beyond individual gaming losses into family welfare and public safety domains.`,
-    featuredImage: "/images/articles/casino-child-welfare-incident-2026.png",
+    featuredImage: "/images/articles/casino-child-welfare-incident-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "operators",
@@ -64495,7 +64495,7 @@ Regulators expect the measures to reduce VLT-derived gaming revenue by 12–15% 
 ### What to Watch
 
 Industry groups have requested a six-month extension for rural and remote venues with limited IT infrastructure. The Ontario Health Ministry is reviewing the petition and is expected to announce accommodations by late November. Watch also for similar harm-reduction rollouts in Manitoba and Saskatchewan, where provincial health bodies are conducting comparable impact studies.`,
-    featuredImage: "/images/articles/ontario-vlt-harm-reduction-expansion-2026.png",
+    featuredImage: "/images/articles/ontario-vlt-harm-reduction-expansion-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "regulation",
@@ -64553,7 +64553,7 @@ Competitors including DraftKings and FanDuel have sponsored individual shows but
 ### What to Watch
 
 Industry observers are tracking whether the podcast strategy translates to measurable customer acquisition and retention metrics. BetMGM will release listener and subscriber conversion data in Q1 2027, potentially signaling whether rivals should accelerate their own audio-content initiatives. Watch also for SiriusXM to negotiate exclusive advertising rights across the network, a common pattern in sports-podcast partnerships.`,
-    featuredImage: "/images/articles/betmgm-sports-betting-podcast-network-2026.png",
+    featuredImage: "/images/articles/betmgm-sports-betting-podcast-network-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "operators",
@@ -64606,7 +64606,7 @@ Traditional payment processors including PayPal and Square have largely avoided 
 The Financial Crimes Enforcement Network (FinCEN) has requested information from Stripe about transaction monitoring, AML compliance, and stablecoin holder identity verification. Stripe indicated it will apply the same Know Your Customer (KYC) standards to crypto deposits as to traditional card payments, satisfying federal guidance while maintaining user privacy through wallet address anonymization.
 
 State regulators have not yet issued formal guidance on crypto sportsbook deposits. New York's Department of Financial Services is reviewing Stripe's submission and is expected to rule by year-end.`,
-    featuredImage: "/images/articles/stripe-crypto-wallet-sportsbook-deposits-2026.png",
+    featuredImage: "/images/articles/stripe-crypto-wallet-sportsbook-deposits-2026.jpg",
     author: AUTHORS[5],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "payments-fintech",
@@ -64666,7 +64666,7 @@ Operators are now facing a strategic choice: continue competing on parlay promot
 ### What's Next
 
 Kambi expects parlay volume growth to moderate to 20–25% annually through 2028 as promotional budgets reach saturation. Operators tracking the report are likely to accelerate investment in prop-bet and live-betting infrastructure, where margins remain above 5% even in mature markets.`,
-    featuredImage: "/images/articles/kambi-parlay-betting-surge-2026-report.png",
+    featuredImage: "/images/articles/kambi-parlay-betting-surge-2026-report.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "industry-services",
@@ -64725,7 +64725,7 @@ Instagram, owned by Meta, benefits from clearer advertiser-disclosure infrastruc
 ### Outlook
 
 Industry analysts project influencer spending to reach $1.1 billion by 2028, though the growth rate will decelerate due to regulatory friction and platform consolidation. Operators are simultaneously investing in proprietary creator talent (signing exclusive contracts with top creators) to reduce dependency on platform algorithms and regain marketing control.`,
-    featuredImage: "/images/articles/igaming-influencer-spending-840m-tiktok-2026.png",
+    featuredImage: "/images/articles/igaming-influencer-spending-840m-tiktok-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-13T08:30:00Z",
     category: "marketing-traffic",
@@ -64772,7 +64772,7 @@ This case follows broader regulatory friction as states implement their own rest
 ## What to Watch
 
 The outcome of this lawsuit could establish binding precedent affecting how other states regulate prediction markets. If the CFTC prevails, expect additional challenges to state-level bans and potential expansion of prediction market operators into previously restricted jurisdictions. Industry players should monitor this case closely as it develops, particularly operators considering expansion into states with gaming restrictions.`,
-    featuredImage: "/images/articles/cftc-sues-louisiana-prediction-markets-2026.png",
+    featuredImage: "/images/articles/cftc-sues-louisiana-prediction-markets-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "regulation",
@@ -64813,7 +64813,7 @@ The deputies' enforcement action signals prosecutors are treating underground po
 Prosecutors explicitly warned of additional enforcement actions planned across the state, indicating this raid was not an isolated incident but part of a systematic crackdown. The messaging suggests Texas law enforcement has identified multiple illegal poker rooms and is executing a coordinated strategy to shut down the operations.
 
 For the iGaming industry, the enforcement trend underscores the legal risks facing any unlicensed gaming operation, particularly brick-and-mortar poker rooms operating outside regulatory frameworks. As states expand legalized sports betting and online gaming, illegal poker venues face mounting pressure from law enforcement treating these operations as serious criminal enterprises.`,
-    featuredImage: "/images/articles/texas-poker-room-raid-organized-crime-charges-2026.png",
+    featuredImage: "/images/articles/texas-poker-room-raid-organized-crime-charges-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "regulation",
@@ -64862,7 +64862,7 @@ This user overlap suggests operators can bundle prediction markets with sportsbo
 ## Market Implications
 
 As major publicly traded operators report success with prediction markets, investor sentiment around the category should stabilize, particularly if regulatory clarity improves. Competitors will likely intensify their own prediction market launches to capture similar cross-sell opportunities. The convergence of sportsbook and prediction market users may also influence how regulators view these products—as complementary sports wagering tools rather than separate gaming categories.`,
-    featuredImage: "/images/articles/fanduel-prediction-markets-growth-flutter-2026.png",
+    featuredImage: "/images/articles/fanduel-prediction-markets-growth-flutter-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "operators",
@@ -64911,7 +64911,7 @@ For operators, this uncertainty creates compliance planning challenges. If the C
 ## Looking Ahead
 
 The ongoing litigation against Louisiana and other potential state-level challenges will likely provide judicial clarity on the CFTC's actual regulatory boundaries. Until those cases conclude, operators and investors should monitor how courts interpret the agency's statutory authority and whether the judiciary supports or constrains the CFTC's expansionist enforcement approach.`,
-    featuredImage: "/images/articles/cftc-regulatory-scope-questions-2026.png",
+    featuredImage: "/images/articles/cftc-regulatory-scope-questions-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "regulation",
@@ -64961,7 +64961,7 @@ The legality of Casino Pauma's sportsbook hinges on whether the operation qualif
 The Casino Pauma launch exposes a structural weakness in California's sports betting framework: the inability of state law to regulate or prevent gaming activity on tribal lands. If other California tribes with gaming compacts follow Casino Pauma's lead, multiple tribal sportsbooks could operate across the state, fragmenting the market and potentially encouraging California to address tribal sports betting through either negotiated compacts or legislative action.
 
 For operators and investors, the development highlights how tribal gaming sovereignty can create regulatory opportunities or obstacles depending on a state's tribal gaming agreements and federal law interpretations. California may eventually need to establish tribal sports betting regulations or negotiate expanded gaming compacts to maintain state oversight over the sector.`,
-    featuredImage: "/images/articles/california-tribal-sportsbook-casino-pauma-2026.png",
+    featuredImage: "/images/articles/california-tribal-sportsbook-casino-pauma-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "operators",
@@ -65023,7 +65023,7 @@ Operators using the system also report reduced disputes related to withdrawal ti
 The faster settlement model addresses one of the most persistent customer satisfaction friction points in iGaming. Industry data consistently shows withdrawal speed influences churn rates and loyalty, particularly in competitive markets like the UK, Sweden, and Malta.
 
 Payment processors and banking partners are now under pressure to match or exceed the 48-hour standard. Visa and American Express are expected to announce competing frameworks within the next 90 days. Regional operators who do not adopt accelerated settlement risk competitive disadvantage as players increasingly expect rapid payouts as a baseline expectation.`,
-    featuredImage: "/images/articles/mastercard-fast-settlement-igaming-2026.png",
+    featuredImage: "/images/articles/mastercard-fast-settlement-igaming-2026.jpg",
     author: AUTHORS[5],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "payments-fintech",
@@ -65086,7 +65086,7 @@ Analysts project DraftKings could capture 8-12% Colombian market share within 18
 DraftKings' Colombia entry is widely interpreted as the first phase of a broader Latin American expansion strategy. The operator has indicated interest in regulated markets in Argentina, Mexico, and Peru pending license approvals. Colombia's success will likely dictate pace and investment levels for subsequent Latin American launches.
 
 Investors are viewing the Colombia entry as validation of the company's ability to navigate complex international regulatory environments and execute seamless market launches. The move may also encourage shareholder confidence in the company's diversification away from mature North American markets facing increasing competitive saturation.`,
-    featuredImage: "/images/articles/draftkings-colombia-sports-betting-launch-2026.png",
+    featuredImage: "/images/articles/draftkings-colombia-sports-betting-launch-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "operators",
@@ -65157,7 +65157,7 @@ Competing studios Red Tiger Gaming (owned by Pragmatic through parent company), 
 Operators have responded positively, with early data from leading UK and German sportsbooks showing 'Solar Eclipse' achieving in the 87th percentile for new slot performance—significantly above median releases. The dynamic volatility mechanics appear to appeal to both recreational and high-value players, generating broader engagement than volatility-locked titles.
 
 Player acquisition data indicates 'Solar Eclipse' resonates particularly strongly with players aged 28-45, suggesting the collaboration's game design successfully bridges multiple market segments. Operators are requesting accelerated delivery of subsequent titles from the partnership pipeline.`,
-    featuredImage: "/images/articles/pragmatic-play-solar-eclipse-netent-collaboration-2026.png",
+    featuredImage: "/images/articles/pragmatic-play-solar-eclipse-netent-collaboration-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "slots-game-providers",
@@ -65214,7 +65214,7 @@ The commission restructuring accelerates industry consolidation. Large affiliate
 The shift reflects operators' desire to reduce customer acquisition dependence and build direct brand loyalty. Major sportsbooks are simultaneously increasing spend on SEO, branded search, and owned-channel marketing—channels that generate higher-value customers but require larger upfront investment.
 
 Affiliates argue the sudden policy change violates long-standing partnership principles and threatens their viability. The iGaming Affiliate Association is demanding operators provide 60-90 day transition periods and maintain tiered structures for legacy affiliates. Negotiation outcomes in early December will significantly influence affiliate sector health through 2027.`,
-    featuredImage: "/images/articles/igaming-affiliate-revenue-decline-2026.png",
+    featuredImage: "/images/articles/igaming-affiliate-revenue-decline-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "marketing-traffic",
@@ -65267,7 +65267,7 @@ Operators including DraftKings, FanDuel, BetRivers, and PointsBet have begun upd
 The stricter standards could create competitive advantages for larger operators with deeper technical resources, while smaller or emerging market entrants may face higher per-user compliance expenses. Some operators are exploring third-party compliance technology providers to distribute implementation costs.
 
 Regulators in British Columbia and Quebec have indicated they are monitoring Ontario's approach with interest, raising the possibility of similar provincial harmonization that could reshape compliance requirements across Canada's booming iGaming market.`,
-    featuredImage: "/images/articles/ontario-tightens-responsible-gaming-standards-2026.png",
+    featuredImage: "/images/articles/ontario-tightens-responsible-gaming-standards-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "regulation",
@@ -65310,7 +65310,7 @@ Sweden's online gaming market, regulated by Spelinspektionen, has emerged as a k
 The supplier's Swedish licensing and compliance track record has strengthened its negotiating position with local operators seeking proven game supply partners. Recent approvals from Spelinspektionen of Novomatic's responsible gaming integration features positioned the company as an attractive partner for operators facing tightening player protection standards.
 
 Competing suppliers including Pragmatic Play, IGT, and NetEnt continue to strengthen their own Nordic market positions, suggesting that operator and player demand for diverse, localized content is driving increased competition for distribution partnerships in the region.`,
-    featuredImage: "/images/articles/novomatic-expands-swedish-partnerships-content-2026.png",
+    featuredImage: "/images/articles/novomatic-expands-swedish-partnerships-content-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "slots-game-providers",
@@ -65354,7 +65354,7 @@ The capability comes as European regulators increasingly scrutinize player fund 
 Emerging and mid-market operators have historically relied on aggregator platforms or regional payment providers due to higher direct banking onboarding costs. Stripe's scaled infrastructure and existing EU banking partnerships lower the barrier to direct settlement access, potentially disrupting pricing models of smaller specialist payments providers serving the gaming vertical.
 
 The move also signals competitive pressure on rival processors including Paysafe, Skrill, and Neteller, which have traditionally dominated European gaming payment flows. Larger operators including bet365, Unibet, and Betfair already maintain direct banking relationships; Stripe's offering primarily accelerates adoption among mid-market and emerging platforms.`,
-    featuredImage: "/images/articles/stripe-direct-sepa-settlement-european-igaming-2026.png",
+    featuredImage: "/images/articles/stripe-direct-sepa-settlement-european-igaming-2026.jpg",
     author: AUTHORS[5],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "payments-fintech",
@@ -65398,7 +65398,7 @@ The regulatory shift reflects a broader recognition among state gaming commissio
 Competing operators including PokerStars, Caesars, and FanDuel have signaled intentions to apply for live-dealer poker licenses in New Jersey before year-end, potentially creating a crowded offering landscape by early 2027. The regulatory precedent may also influence how other states with active iGaming markets—particularly Pennsylvania, Michigan, and West Virginia—evaluate live-dealer poker licensing.
 
 Industry analysts note that live-dealer poker represents a higher-margin offering for operators compared to traditional online slots and table games, as player retention and session time increase measurably in streamed formats. BetMGM's early launch provides competitive data that will likely influence operator investment decisions across the region.`,
-    featuredImage: "/images/articles/betmgm-live-dealer-poker-new-jersey-2026.png",
+    featuredImage: "/images/articles/betmgm-live-dealer-poker-new-jersey-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "operators",
@@ -65442,7 +65442,7 @@ Prognosis AI's primary differentiator has been its predictive player risk engine
 The acquisition reflects a broader trend in the compliance software space: point-solution vendors are consolidating to capture larger operator budgets and reduce sales friction. Operators managing multiple vendor relationships for regulatory reporting, AML/KYC, and risk analytics face integration complexity and higher total cost of ownership.
 
 Standalone risk analytics and fraud-detection vendors—particularly smaller regional or specialized providers—may face revenue pressure as operators migrate toward integrated platforms. GamblingCompliance's acquisition strategy signals its competitive intent to become an "all-in-one" compliance backbone rather than a point solution, a positioning that historically attracts acquirers in the broader enterprise software sector.`,
-    featuredImage: "/images/articles/gamblingcompliance-acquires-prognosis-ai-2026.png",
+    featuredImage: "/images/articles/gamblingcompliance-acquires-prognosis-ai-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-14T08:30:00Z",
     category: "industry-services",
@@ -65498,7 +65498,7 @@ The dispute also reflects deeper questions about whether prediction markets shou
 Kalshi and similar platforms argue they facilitate price discovery and information markets rather than traditional gambling. Regulators, however, have expressed concern about retail participation, market manipulation risks, and consumer harm.
 
 The company's legal strategy in Louisiana will likely influence how other operators approach state-level regulatory challenges and whether they pursue federal clarification of prediction market status.`,
-    featuredImage: "/images/articles/kalshi-louisiana-due-process-claim-2026.png",
+    featuredImage: "/images/articles/kalshi-louisiana-due-process-claim-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-15T08:30:00Z",
     category: "regulation",
@@ -65543,7 +65543,7 @@ For other prediction market platforms operating across multiple states, the case
 Unlike traditional online sportsbooks or casino operators, prediction market platforms lack a unified regulatory framework at the federal level. This vacuum has allowed individual states to adopt conflicting approaches, forcing multi-state operators to maintain separate compliance regimes or withdraw from hostile jurisdictions entirely.
 
 Industry observers expect the Kalshi case to influence how other states structure enforcement actions and whether prediction market operators collectively pursue federal legislative solutions to harmonize regulatory treatment across states.`,
-    featuredImage: "/images/articles/prediction-markets-regulatory-uncertainty-louisiana-2026.png",
+    featuredImage: "/images/articles/prediction-markets-regulatory-uncertainty-louisiana-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-15T08:30:00Z",
     category: "regulation",
@@ -65587,7 +65587,7 @@ This has led to growth in several service categories: regulatory monitoring plat
 The Kalshi case demonstrates that operators cannot assume state regulators will follow formal procedures or provide advance warning. Companies must therefore invest in scenario planning, documentation retention, and legal readiness to respond quickly if enforcement action occurs.
 
 The broader implication is that the cost of operating across multiple state jurisdictions continues to rise, driven not only by direct licensing and compliance costs but also by the hidden costs of legal defense and regulatory risk management.`,
-    featuredImage: "/images/articles/regulatory-enforcement-procedural-gaps-operators-2026.png",
+    featuredImage: "/images/articles/regulatory-enforcement-procedural-gaps-operators-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-15T08:30:00Z",
     category: "industry-services",
@@ -65634,7 +65634,7 @@ The broader implication is that prediction market access will increasingly fract
 Operators are also beginning to explore federal legislative solutions, hoping that Congress might establish a preemptive national framework for prediction markets. Such a framework would remove state-level enforcement risk and create a more predictable operating environment.
 
 In the near term, however, operators must navigate an increasingly hostile state-level landscape while managing legal costs and revenue volatility.`,
-    featuredImage: "/images/articles/prediction-operators-state-strategy-enforcement-2026.png",
+    featuredImage: "/images/articles/prediction-operators-state-strategy-enforcement-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-15T08:30:00Z",
     category: "operators",
@@ -65693,7 +65693,7 @@ The case will likely proceed through Louisiana courts and possibly to appellate 
 For regulators, a Kalshi victory might necessitate adopting formal notice and hearing procedures before enforcement action. For operators, the case represents an opportunity to establish constitutional protections that constrain aggressive state enforcement.
 
 The prediction market industry remains at a critical juncture. Federal legislative clarity on prediction market status would resolve much of this uncertainty, but absent federal action, operators must navigate an increasingly fractious state-by-state regulatory landscape where enforcement procedures and operator protections remain legally unsettled.`,
-    featuredImage: "/images/articles/due-process-prediction-markets-legal-precedent-2026.png",
+    featuredImage: "/images/articles/due-process-prediction-markets-legal-precedent-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-15T08:30:00Z",
     category: "regulation",
@@ -65754,7 +65754,7 @@ Stripe's program requires operators to maintain current licensing, provide compl
 The company has established a dedicated iGaming support channel with local language support and 24/7 escalation for critical issues. Early participants report high satisfaction with technical onboarding speed and proactive fraud monitoring.
 
 Operators should expect similar expansions from other major fintech platforms (Square, Adyen) within 12 months as regulatory clarity persists across APAC.`,
-    featuredImage: "/images/articles/stripe-igaming-asia-pacific-expansion-2026.png",
+    featuredImage: "/images/articles/stripe-igaming-asia-pacific-expansion-2026.jpg",
     author: AUTHORS[5],
     publishedAt: "2026-11-15T08:30:00Z",
     category: "payments-fintech",
@@ -65813,7 +65813,7 @@ Regional tribal casinos operating poker rooms have also taken note; some have be
 Key metrics to monitor: DraftKings' poker revenue contribution, customer acquisition cost differentials (poker-to-sportsbook crossover vs. sportsbook-only acquisition), and regulatory responses in other states. If Pennsylvania or Michigan express concerns about cannibalization of state poker tax revenue, expect pushback on the studio model.
 
 Also monitor whether other major operators (FanDuel, BetMGM, Caesars) face pressure to launch live poker within six months or risk losing market share among casual poker players who prefer integrated platforms.`,
-    featuredImage: "/images/articles/draftkings-live-poker-sportsbooks-2026.png",
+    featuredImage: "/images/articles/draftkings-live-poker-sportsbooks-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-15T08:30:00Z",
     category: "operators",
@@ -65870,7 +65870,7 @@ Operators report that the database has already become a product differentiator i
 Pragmatic Play has indicated it will expand the database to include live dealer game data (RTP and house edge by game variant) by Q2 2027. The company has not disclosed plans to publish detailed player session-level data, which would exceed current regulatory standards and raise privacy concerns.
 
 Watch for other Tier 1 providers (NetEnt, Microgaming, Playtech) to announce similar transparency initiatives within six months. Regulatory bodies will likely incorporate this data into their own enforcement and licensing frameworks, making transparency a de facto compliance expectation industry-wide.`,
-    featuredImage: "/images/articles/pragmatic-play-rtp-transparency-database-2026.png",
+    featuredImage: "/images/articles/pragmatic-play-rtp-transparency-database-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-15T08:30:00Z",
     category: "slots-game-providers",
@@ -65933,7 +65933,7 @@ Operators are redirecting affiliate budgets toward Google Ads, expecting higher 
 Monitor whether other ad platforms (Meta, TikTok, Bing) follow Google's lead. Meta has already implemented similar restrictions in certain regions; a global rollout across all major platforms within six months is plausible.
 
 Also watch for regulatory responses to affiliate displacement. Consumer protection groups may argue that the policy unfairly restricts information access; conversely, regulators may view it as a compliance win. Expect affiliate networks to lobby for softer policy carve-outs or disclosure-based alternatives to outright bans.`,
-    featuredImage: "/images/articles/google-gambling-ads-policy-licensed-operators-2026.png",
+    featuredImage: "/images/articles/google-gambling-ads-policy-licensed-operators-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-15T08:30:00Z",
     category: "marketing-traffic",
@@ -65980,7 +65980,7 @@ The migration to White Hat indicates the tribe is seeking enhanced capabilities 
 This development underscores the competitive dynamics among gaming technology platforms seeking to serve tribal operators, who represent a unique and growing segment of the regulated North American gaming market. White Hat's successful onboarding of an established tribal operator signals confidence in its platform capabilities and may influence purchasing decisions among other tribal gaming enterprises evaluating their technology partnerships.
 
 The timing of the migration also reflects broader industry trends toward consolidation and optimization of gaming technology stacks, as operators seek platforms offering superior compliance tools, player analytics, and integration capabilities.`,
-    featuredImage: "/images/articles/saginaw-chippewa-white-hat-platform-migration-2026.png",
+    featuredImage: "/images/articles/saginaw-chippewa-white-hat-platform-migration-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "operators",
@@ -66021,7 +66021,7 @@ The extension signals a pragmatic regulatory approach, acknowledging the adminis
 This flexibility may encourage greater participation in the formal licensing process, potentially expanding the regulator's oversight of previously informal gambling activity. However, the extended deadline also creates clarity challenges for operators unsure whether further extensions might be forthcoming, potentially delaying business planning decisions.
 
 The move aligns with broader Caribbean trends toward regulated gambling markets, though enforcement mechanisms and compliance incentive structures remain critical factors determining participation rates among informal operators.`,
-    featuredImage: "/images/articles/dominican-republic-betting-shop-deadline-extension-2026.png",
+    featuredImage: "/images/articles/dominican-republic-betting-shop-deadline-extension-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "regulation",
@@ -66062,7 +66062,7 @@ The suspension creates uncertainty for NGOs, addiction treatment centers, and pu
 Romania's move contrasts with broader European regulatory trends emphasizing enhanced consumer protection and harm-prevention spending. EU member states increasingly view gambling-harm mitigation as a core regulatory responsibility, with funding typically derived from operator licensing fees or dedicated regulator budgets.
 
 The reasons for the suspension remain unclear, but budgetary constraints or shifting regulatory priorities may be contributing factors. The impact extends beyond individual treatment providers to the broader ecosystem of harm-prevention services that depend on coordinated regulator support. Market observers will watch for signals about whether the suspension is temporary or reflects fundamental changes in Romania's approach to gambling-harm funding.`,
-    featuredImage: "/images/articles/romania-gambling-harm-prevention-grant-suspension-2026.png",
+    featuredImage: "/images/articles/romania-gambling-harm-prevention-grant-suspension-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "regulation",
@@ -66111,7 +66111,7 @@ The report documents substantial investment in sports sponsorship and charitable
 For EGBA members, these aggregate figures provide powerful evidence of the industry's economic contribution when presented to policymakers, regulators, and the public. The data supports arguments favoring regulation over prohibition, demonstrating how legitimate operators generate revenue for governments and invest in social causes.
 
 The 21% tax growth rate also signals healthy market expansion in core European jurisdictions, suggesting strong player engagement and operator profitability in regulated markets. These dynamics will likely feature prominently in ongoing regulatory discussions across European member states and EU-level policy discussions regarding gaming market harmonization and consumer protection standards.`,
-    featuredImage: "/images/articles/egba-societal-contributions-5-5-billion-2025.png",
+    featuredImage: "/images/articles/egba-societal-contributions-5-5-billion-2025.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "industry-services",
@@ -66160,7 +66160,7 @@ For UK operators, the data demonstrates that investment in player-protection fea
 The trend also validates the UK Gambling Commission's strategic emphasis on player-protection tools as a cornerstone of responsible gambling regulation. Rather than relying exclusively on prohibitive measures, the regulator's approach of promoting self-service controls has proven effective at driving player engagement.
 
 Operators should view these figures as validation for continued investment in responsible gambling technology, clearer presentation of control options, and targeted campaigns promoting awareness of available tools. The data suggests that when operators make controls prominent and campaigns make players aware, adoption follows—a dynamic that benefits both player welfare and regulatory standing.`,
-    featuredImage: "/images/articles/safer-gambling-week-deposit-limits-uk-players-2026.png",
+    featuredImage: "/images/articles/safer-gambling-week-deposit-limits-uk-players-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "marketing-traffic",
@@ -66211,7 +66211,7 @@ Operators licensed in Gibraltar should anticipate closer scrutiny on tax reporti
 For prediction markets operators planning European expansion, the signal is clear: Gibraltar is positioning itself as a credible regulatory jurisdiction for emerging betting technologies. This could accelerate migration of prediction market business to Gibraltar as other European jurisdictions remain uncertain about how to license and oversee these products.
 
 The new commissioner's appointment also reflects Gibraltar's broader strategy to retain its appeal amid competitive pressure from Malta, Cyprus, and other European licensing states. With tax pressures mounting and regulatory complexity increasing, Gibraltar's ability to attract and retain major operators will depend partly on leadership perceived as fair, technically competent, and forward-thinking—qualities Hodgson's résumé appears to promise.`,
-    featuredImage: "/images/articles/gibraltar-appoints-hodgson-gambling-commissioner-2026.png",
+    featuredImage: "/images/articles/gibraltar-appoints-hodgson-gambling-commissioner-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "regulation",
@@ -66266,7 +66266,7 @@ The bill is not dead, but the stalled vote prolongs uncertainty for operators wa
 Expect continued negotiations between government officials, committee members, and industry representatives over the coming weeks. The levy issue will likely need to be softened or restructured to regain operator support and ensure full committee attendance at the next scheduled vote.
 
 For now, the Buenos Aires market remains closed to legal online betting, keeping capital and talent directed toward other regional jurisdictions with clearer licensing frameworks.`,
-    featuredImage: "/images/articles/buenos-aires-betting-bill-stalls-quorum-levy-2026.png",
+    featuredImage: "/images/articles/buenos-aires-betting-bill-stalls-quorum-levy-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "regulation",
@@ -66323,7 +66323,7 @@ For prediction market platforms, the congressional letter provides cover to cont
 The next critical moment will come if the CFTC formally responds to the Senate letter. A defensive or defiant response could provoke legislative action, potentially including amendments to the Commodity Exchange Act clarifying that prediction markets fall outside federal futures regulation. Conversely, a conciliatory response might signal the CFTC is reconsidering its position.
 
 For operators and platforms, clarity on this issue is essential to business planning. A definitive state-level framework would unlock investment and growth; continued federal-state uncertainty will suppress it.`,
-    featuredImage: "/images/articles/senate-dems-cftc-prediction-markets-jurisdiction-2026.png",
+    featuredImage: "/images/articles/senate-dems-cftc-prediction-markets-jurisdiction-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "regulation",
@@ -66374,7 +66374,7 @@ Retail investors following FLL stock have become increasingly vocal about financ
 The October revenue performance at American Place demonstrates that there is genuine customer demand for gaming and entertainment in the Waukegan market. This operational validation is crucial—it proves the thesis that the market exists. What remains uncertain is whether Full House can convert that demand into the sustained, predictable cash flow needed to service debt on a major permanent facility.
 
 Management will need to demonstrate clear milestones toward permanent facility financing in upcoming quarterly reports and earnings calls. The gap between operational gains and stock appreciation suggests investors need more concrete evidence of progress on capital deployment rather than just month-to-month revenue trends.`,
-    featuredImage: "/images/articles/full-house-resorts-american-place-stock-financing-2026.png",
+    featuredImage: "/images/articles/full-house-resorts-american-place-stock-financing-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "operators",
@@ -66433,7 +66433,7 @@ The state's regulatory agencies will likely move to enforce the sports betting b
 If Casino Pauma's sportsbook survives legal challenge, other California tribes could follow suit, effectively creating a patchwork of legal sports betting availability that undermines the state's current prohibition. This could force California to either legalize sports betting statewide (thereby normalizing it across jurisdictions) or escalate legal action against tribal sportsbooks, risking political backlash and protracted litigation.
 
 For the iGaming and sports betting industries, California's handling of this tribal sportsbook challenge could determine the viability of a tribal pathway to sports betting legalization in the state—potentially offering a faster route than statewide ballot measures or legislative action.`,
-    featuredImage: "/images/articles/casino-pauma-sportsbook-california-ban-defiance-2026.png",
+    featuredImage: "/images/articles/casino-pauma-sportsbook-california-ban-defiance-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "regulation",
@@ -66482,7 +66482,7 @@ The Brazil market, which had represented growth opportunity for many iGaming ven
 Bragg's struggles underscore volatility in the platform-as-a-service segment of iGaming. Operators that have outsourced critical technology infrastructure to providers like Bragg face indirect exposure to these financial and operational challenges. Customer migrations cited in the report suggest that some operators may be diversifying their technology partnerships or consolidating with competitors.
 
 For vendors competing with Bragg—including both established players and emerging platforms—the softness in revenue presents both a cautionary tale and potential opportunity. Operators evaluating platform partners should scrutinize vendor stability, customer retention, and long-term product investment commitments as part of due diligence processes.`,
-    featuredImage: "/images/articles/bragg-gaming-q3-revenue-decline-brazil-2026.png",
+    featuredImage: "/images/articles/bragg-gaming-q3-revenue-decline-brazil-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "operators",
@@ -66534,7 +66534,7 @@ The social media giant's move suggests that prediction markets—which allow use
 The federal court challenges to Louisiana's TRO will likely take months to adjudicate, leaving the regulatory status of prediction markets in a state of flux. Other states have watched Louisiana's approach closely, with some considering similar restrictions and others maintaining more permissive frameworks.
 
 For operators and platforms considering prediction market offerings, the outcome in federal court will carry significant implications. A ruling favoring federal CFTC authority could unlock multi-state expansion opportunities, while a decision upholding state restrictions could fragment the market and complicate national strategies. Meta's entry into the space may also accelerate policy discussions at both state and federal levels regarding how prediction markets should be classified and regulated.`,
-    featuredImage: "/images/articles/cftc-operators-louisiana-prediction-market-ban-2026.png",
+    featuredImage: "/images/articles/cftc-operators-louisiana-prediction-market-ban-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "regulation",
@@ -66591,7 +66591,7 @@ This gap raises broader questions about how gaming operators forecast the financ
 PENN's earnings guidance carries direct weight for investors evaluating the company's strategic positioning and financial trajectory. If the $21 million projection is not supported by reproducible data analysis, it may indicate either optimistic modeling or insufficient analytical rigor in revenue forecasting.
 
 Competitors and regulatory analysts should demand greater transparency around the assumptions underpinning such projections. As regulators in other states consider skill game restrictions, clearer evidence of actual player behavior shifts will help inform both policy decisions and investor confidence in operator guidance.`,
-    featuredImage: "/images/articles/penn-skill-game-revenue-forecast-data-questions-2026.png",
+    featuredImage: "/images/articles/penn-skill-game-revenue-forecast-data-questions-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "regulation",
@@ -66652,7 +66652,7 @@ If Orr and other legislative leaders prioritize gaming bills in 2027, the typica
 - Regulatory agency establishment and licensing rule-making in late 2027  
 
 Operators and sportsbooks should monitor Alabama legislative developments closely, as 2027 may represent a genuine inflection point for the state's gaming policy.`,
-    featuredImage: "/images/articles/alabama-election-casino-sports-betting-2027.png",
+    featuredImage: "/images/articles/alabama-election-casino-sports-betting-2027.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "regulation",
@@ -66705,7 +66705,7 @@ The buffet concept, once proven successful at the El Cortez, diffused rapidly th
 This historical precedent illustrates a broader principle in gaming operations: non-gaming amenities—food and beverage, entertainment, accommodations—function as essential player acquisition and loyalty tools. While modern operators deploy more sophisticated data analytics and personalization techniques, the fundamental insight that hospitality drives gaming volume remains constant.
 
 The El Cortez's innovation thus represents more than curiosity; it exemplifies how operational ingenuity in one property can establish industry-wide standards and competitive benchmarks.`,
-    featuredImage: "/images/articles/las-vegas-casino-buffet-origins-el-cortez-1945.png",
+    featuredImage: "/images/articles/las-vegas-casino-buffet-origins-el-cortez-1945.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-16T08:30:00Z",
     category: "industry-services",
@@ -66759,7 +66759,7 @@ Operators and technology platforms in the prediction market space face regulator
 For mainstream gaming operators considering entry into prediction markets, the AGA data suggests that early compliance and consumer protection investments could actually position them favorably in a regulated environment. Conversely, platforms that have operated in legal gray areas may face pressure to formalize their compliance frameworks.
 
 The timing is significant: as election cycles and major sporting events continue to drive prediction market volume, regulators will likely cite this public mandate when debating legislation.`,
-    featuredImage: "/images/articles/aga-prediction-markets-gambling-regulation-2026.png",
+    featuredImage: "/images/articles/aga-prediction-markets-gambling-regulation-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "regulation",
@@ -66818,7 +66818,7 @@ Operators who shift capital toward analytics, UX research, and segmented product
 Over the next 12–18 months, watch for operators publishing engagement and retention metrics alongside their promotional spend. Those showing improving lifetime value *despite* flat or declining bonus budgets will signal that the behavioral-first approach is working. Conversely, operators doubling down on bigger bonuses to drive growth may face margin compression as players become more rational in bonus arbitrage.
 
 Platform providers like SOFTSWISS that enable sophisticated behavioral segmentation and dynamic feature serving will likely see increased demand from operators seeking a competitive moat beyond promotional spending.`,
-    featuredImage: "/images/articles/player-behavior-engagement-strategy-2026.png",
+    featuredImage: "/images/articles/player-behavior-engagement-strategy-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "industry-services",
@@ -66878,7 +66878,7 @@ Product design becomes critical: games, user interfaces, and promotional mechani
 ## What to Watch
 
 Monitor French regulator (ARJEL/ANJ) guidance on how operators should address youth player protection and affordability. If regulators tighten restrictions on marketing to under-25 players or implement spending caps for younger cohorts, it could significantly impact growth trajectories. Operators demonstrating strong responsible gambling practices in these segments will gain competitive advantage as regulation likely intensifies.`,
-    featuredImage: "/images/articles/french-online-gambling-young-adults-women-2026.png",
+    featuredImage: "/images/articles/french-online-gambling-young-adults-women-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "marketing-traffic",
@@ -66934,7 +66934,7 @@ Operators and international firms considering entry into the Colombian market ma
 ## What Happens Next
 
 Watch for official statements from Coljuegos regarding Pinedo's status and any internal investigation findings. Also monitor whether interim or permanent leadership is appointed, and what their first regulatory decisions or public communications signal about continuity versus reform.`,
-    featuredImage: "/images/articles/coljuegos-chief-degree-controversy-2026.png",
+    featuredImage: "/images/articles/coljuegos-chief-degree-controversy-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "regulation",
@@ -66994,7 +66994,7 @@ The technology also requires ongoing tuning: as abusers adapt their patterns, de
 ## Market Opportunity
 
 As fraud prevention matures from a back-office function to a strategic operational lever, demand for specialized detection platforms will grow. Operators serious about margin protection and regulatory compliance are actively investing in these capabilities.`,
-    featuredImage: "/images/articles/bonus-guardian-abuse-detection-2026.png",
+    featuredImage: "/images/articles/bonus-guardian-abuse-detection-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "industry-services",
@@ -67044,7 +67044,7 @@ The capital structure allows Bally's to strengthen its balance sheet while simul
 Bally's $560 million raise signals that institutional capital markets remain supportive of regional casino expansion into major U.S. cities. The financing success—achieved during a period of mixed economic sentiment in the hospitality sector—reflects investor appetite for well-capitalized operators with clear path-to-profit projects.
 
 For the broader regional gaming sector, this development demonstrates that lenders and equity investors continue to differentiate between well-managed operators with strategic projects and those facing operational headwinds. Bally's improved access to capital could accelerate its Chicago timeline relative to competitors.`,
-    featuredImage: "/images/articles/ballys-560m-chicago-casino-financing-2026.png",
+    featuredImage: "/images/articles/ballys-560m-chicago-casino-financing-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "operators",
@@ -67097,7 +67097,7 @@ The Amazon decision may accelerate similar policy shifts from other ad networks.
 This represents a broader pattern of regulatory and policy fragmentation in emerging fintech categories. Operators face a patchwork of federal, state, and now platform-level restrictions that don't align. Amazon's decision to treat prediction markets as gambling—despite federal regulators' different classification—underscores the absence of clear sectoral consensus on how these products should be regulated and treated by infrastructure providers.
 
 For operators, the development signals that reliance on major platform ad networks may not be viable long-term, necessitating direct-to-consumer and alternative marketing investments to sustain customer growth.`,
-    featuredImage: "/images/articles/amazon-prediction-markets-gambling-policy-2026.png",
+    featuredImage: "/images/articles/amazon-prediction-markets-gambling-policy-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "regulation",
@@ -67150,7 +67150,7 @@ The research may also inform treatment pathways for individuals struggling with 
 ### Broader Pattern
 
 This study exemplifies growing academic interest in examining how pharmaceutical and behavioral patterns interact within addiction frameworks. As iGaming continues to expand and normalize across markets, research linking medication use to gambling participation may become increasingly common, particularly around medications affecting reward pathways or impulse control.`,
-    featuredImage: "/images/articles/university-washington-glp1-gambling-study-2026.png",
+    featuredImage: "/images/articles/university-washington-glp1-gambling-study-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "industry-services",
@@ -67199,7 +67199,7 @@ Rating agencies will likely place the company under negative watch, and equity a
 Regional casino operators have faced headwinds throughout 2026, with many struggling with post-pandemic normalization and increased competitive pressure from tribal gaming and new market entries. Century Casinos' restatement announcement adds to sector uncertainty and may prompt broader reassessment of financial disclosure quality across mid-cap gaming companies.
 
 The company will likely need to file an 8-K and provide additional disclosure to market regulators and stakeholders as the restatement process unfolds. Future earnings calls and investor presentations will face increased scrutiny regarding internal controls and financial reporting reliability.`,
-    featuredImage: "/images/articles/century-casinos-financial-restatement-2026.png",
+    featuredImage: "/images/articles/century-casinos-financial-restatement-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "operators",
@@ -67252,7 +67252,7 @@ This incident also reflects broader urban security challenges facing downtown ca
 ### Industry Signal
 
 The lawsuit underscores ongoing legal risk around parking security in the casino sector. Operators must balance guest convenience and property layout constraints against security investment and monitoring. As urban casino development continues and gaming expands into downtown markets, security negligence claims will likely become more frequent, potentially driving industry-wide standards evolution around surveillance, incident response, and emergency protocols.`,
-    featuredImage: "/images/articles/live-casino-philadelphia-security-lawsuit-2026.png",
+    featuredImage: "/images/articles/live-casino-philadelphia-security-lawsuit-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "regulation",
@@ -67299,7 +67299,7 @@ Institutional stake-building by prominent hedge funds often precedes broader mar
 ## What to Watch
 
 Industry observers should monitor whether additional institutional investors follow Einhorn into MGM positions, which could signal growing consensus around the operator's near-term prospects. Changes to DME Capital's stake size in subsequent 13F filings will indicate confidence trajectory through the remainder of 2026 and into 2027.`,
-    featuredImage: "/images/articles/einhorn-dme-mgm-resorts-stake-q3-2026.png",
+    featuredImage: "/images/articles/einhorn-dme-mgm-resorts-stake-q3-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "operators",
@@ -67350,7 +67350,7 @@ State courts in Louisiana and Ohio have now become battlegrounds for determining
 The multi-front legal challenge creates compliance complexity for platforms attempting to navigate simultaneous federal and state requirements. Senate pressure on the CFTC suggests potential legislative solutions may emerge, either reaffirming or constraining the commission's geofencing authority.
 
 Operators and compliance teams are tracking these developments closely, as resolution will determine whether prediction markets can expand nationally or remain confined to permissive jurisdictions. The 2027 legislative calendar will likely see acceleration of these debates.`,
-    featuredImage: "/images/articles/senators-challenge-cftc-geofencing-prediction-markets-2026.png",
+    featuredImage: "/images/articles/senators-challenge-cftc-geofencing-prediction-markets-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "regulation",
@@ -67402,7 +67402,7 @@ The experiment carries significant regulatory implications. If Kalshi can establ
 The potential TAM is substantial: data center operators, cloud service providers, and AI companies collectively spend tens of billions annually on GPU capacity. Even small adoption of hedging tools could generate significant trading volume.
 
 Kalshi's enterprise push comes as the company simultaneously navigates geofencing litigation and CFTC regulatory questions. Success in GPU futures could strengthen its positioning as a legitimate financial infrastructure provider rather than a gambling platform.`,
-    featuredImage: "/images/articles/kalshi-gpu-futures-ai-computing-hedge-2026.png",
+    featuredImage: "/images/articles/kalshi-gpu-futures-ai-computing-hedge-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "industry-services",
@@ -67454,7 +67454,7 @@ The liquidity covenant breach is particularly significant because it typically g
 The company's warning about potential year-end covenant breaches suggests management is considering multiple options: asset sales, debt restructuring, operational efficiency initiatives, or strategic partnerships. Bally's $560 million financing commitment provides near-term breathing room but does not address structural profitability concerns.
 
 Investors and creditors will watch closely whether Chicago expansion and iGaming investments can drive sufficient margin improvement in 2027, or whether more aggressive restructuring becomes necessary. The financial pressure may force consolidation discussions with better-capitalized gaming companies.`,
-    featuredImage: "/images/articles/ballys-liquidity-shortfall-560m-financing-2026.png",
+    featuredImage: "/images/articles/ballys-liquidity-shortfall-560m-financing-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "operators",
@@ -67505,7 +67505,7 @@ For sports betting markets, the Heat's resurgence creates meaningful value volat
 The Heat's story generates compelling content for NBA betting analysts, podcast discussion, and affiliate sports media. Comeback narratives drive engagement with public betting communities while professional handicappers parse whether the turnaround reflects genuine competitive improvement or variance noise.
 
 The LA Clippers' measured approach to roster continuity—referenced in Week 5 analysis—represents a contrasting strategic patience that also shapes playoff expectations. Teams' mid-season adjustment decisions will influence second-half playoff odds as the season progresses toward the trade deadline and playoff push periods.`,
-    featuredImage: "/images/articles/miami-heat-5-game-winning-streak-2026.png",
+    featuredImage: "/images/articles/miami-heat-5-game-winning-streak-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-17T08:30:00Z",
     category: "marketing-traffic",
