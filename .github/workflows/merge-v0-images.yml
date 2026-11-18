@@ -32,10 +32,74 @@ jobs:
           echo "new_commits=$NEW" >> $GITHUB_OUTPUT
           echo "New commits on v0 branch: $NEW"
 
+      - name: Set up Python
+        if: steps.check.outputs.new_commits != '0'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Pillow
+        if: steps.check.outputs.new_commits != '0'
+        run: pip install Pillow
+
       - name: Merge v0 images into main
         if: steps.check.outputs.new_commits != '0'
         run: |
           git reset --hard origin/main
           # Use -X theirs so v0 image files always win on conflict (e.g. add/add or modify/delete)
           git merge origin/v0/article-featured-images --no-edit -X theirs -m "merge: v0 featured images"
+
+      - name: Compress new PNG images to JPEG
+        if: steps.check.outputs.new_commits != '0'
+        run: |
+          python3 - <<'EOF'
+          import os, re
+          from pathlib import Path
+          from PIL import Image
+
+          IMG_DIR = Path("public/images/articles")
+          DATA_TS = Path("lib/data.ts")
+          MAX_W, MAX_H = 1200, 630
+          QUALITY = 82
+
+          renamed = []
+          for src in sorted(IMG_DIR.glob("*.png")):
+              if src.name == "bege-eggs-fashion-tv-sofia-november-2026-preview.png":
+                  continue  # keep this specific PNG
+              try:
+                  img = Image.open(src)
+                  has_alpha = img.mode in ("RGBA","LA","PA") or (img.mode=="P" and "transparency" in img.info)
+                  if has_alpha:
+                      continue
+                  if img.width > MAX_W or img.height > MAX_H:
+                      img.thumbnail((MAX_W, MAX_H), Image.LANCZOS)
+                  dest = src.with_suffix(".jpg")
+                  img.convert("RGB").save(dest, "JPEG", quality=QUALITY, optimize=True)
+                  if dest.stat().st_size < src.stat().st_size:
+                      src.unlink()
+                      renamed.append(src.stem)
+                  else:
+                      dest.unlink()
+              except Exception as e:
+                  print(f"Error {src.name}: {e}")
+
+          if renamed:
+              content = DATA_TS.read_text(encoding="utf-8")
+              for stem in renamed:
+                  content = content.replace(f"/images/articles/{stem}.png", f"/images/articles/{stem}.jpg")
+              DATA_TS.write_text(content, encoding="utf-8")
+              print(f"Compressed {len(renamed)} images, updated data.ts")
+          else:
+              print("No new PNGs to compress")
+          EOF
+
+      - name: Commit and push
+        if: steps.check.outputs.new_commits != '0'
+        run: |
+          git add public/images/articles/ lib/data.ts
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit --amend --no-edit
+          fi
           git push origin main || (git pull --rebase origin main && git push origin main)
