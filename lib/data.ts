@@ -67558,7 +67558,7 @@ Operators who invest in understanding *why* players return—session length pref
 ## What to Watch
 
 Expect to see platform providers increasingly emphasizing behavioral analytics and cohort-level insights in their sales pitches. Operators that successfully shift from bonus-first to behavior-first thinking may unlock competitive advantages as the market matures and regulatory scrutiny on promotional practices intensifies.`,
-    featuredImage: "/images/articles/player-engagement-behavior-not-bonuses-2026.png",
+    featuredImage: "/images/articles/player-engagement-behavior-not-bonuses-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "industry-services",
@@ -67611,7 +67611,7 @@ These shifts carry several operational implications. Product teams should audit 
 ## Market Maturation Signal
 
 France's demographic expansion indicates a maturing regulated market attracting mainstream consumers rather than niche enthusiasts. As the addressable market broadens, competition intensifies—meaning operators that segment, personalize, and safeguard effectively will differentiate, while those relying on generic acquisition tactics will struggle.`,
-    featuredImage: "/images/articles/france-online-gambling-young-adults-women-2026.png",
+    featuredImage: "/images/articles/france-online-gambling-young-adults-women-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "marketing-traffic",
@@ -67664,7 +67664,7 @@ For iGaming operators holding Colombian licenses or pursuing market entry, the m
 ## Broader Governance Concerns
 
 The incident also highlights the importance of institutional governance in emerging iGaming markets. When regulator leadership becomes mired in credibility questions, the entire regulatory framework loses legitimacy. This can create openings for political interference or undermine the institutional safeguards that licensed operators depend on.`,
-    featuredImage: "/images/articles/coljuegos-chief-vives-pinedo-removal-2026.png",
+    featuredImage: "/images/articles/coljuegos-chief-vives-pinedo-removal-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "regulation",
@@ -67717,7 +67717,7 @@ Nevada's technical standards carry disproportionate weight across U.S. gaming re
 ## What to Watch
 
 Operators should immediately request detailed technical guidance from the Nevada Gaming Commission and Gaming Control Board. Those with December 2026 product launch targets or feature releases may need to adjust timelines. Compliance teams should audit existing systems against preliminary published standards and begin remediation planning now to avoid last-minute emergency patches.`,
-    featuredImage: "/images/articles/nevada-technical-standards-revisions-december-2026.png",
+    featuredImage: "/images/articles/nevada-technical-standards-revisions-december-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "regulation",
@@ -67774,7 +67774,7 @@ The incident also exposes resource allocation problems within law enforcement. U
 Police departments facing budget constraints often lack specialized gaming enforcement units, increasing the likelihood of investigation errors. Virginia's experience suggests that states may need dedicated, trained gambling enforcement teams capable of distinguishing legitimate activity from illegal operations before making arrests.
 
 Recalde's lawsuit may encourage state legislators to revisit law enforcement training requirements and civil immunity standards for wrongful arrest cases involving gaming investigations. If awarded substantial damages, similar cases could incentivize more cautious investigation practices.`,
-    featuredImage: "/images/articles/virginia-illegal-casino-misidentification-suit-2026.png",
+    featuredImage: "/images/articles/virginia-illegal-casino-misidentification-suit-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "industry-services",
@@ -67829,7 +67829,7 @@ State gaming regulators may respond to this litigation by issuing guidance on mi
 From a competitive standpoint, casinos that upgrade security infrastructure may market this as a customer safety advantage. High-net-worth players and female guests, in particular, increasingly factor safety perceptions into venue selection. Demonstrable security improvements could become a differentiator in saturated regional markets.
 
 The Live! Philadelphia case also highlights the tension between cost containment and risk management. Upgraded parking security—additional guards, improved lighting, real-time monitoring technology—requires capital investment that reduces operating margins. However, the potential liability exposure from inadequate security likely far exceeds incremental security spending.`,
-    featuredImage: "/images/articles/live-philadelphia-parking-security-lawsuit-2026.png",
+    featuredImage: "/images/articles/live-philadelphia-parking-security-lawsuit-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "regulation",
@@ -67889,7 +67889,7 @@ This approach raises privacy considerations, particularly around pharmaceutical 
 ## What to Watch
 
 The GAME Study's recruitment phase is now underway. Industry observers should monitor: (1) whether the study identifies significant behavioral patterns; (2) whether findings are peer-reviewed and published in addiction or gaming literature; and (3) whether major operators or gaming associations incorporate GLP-1 considerations into responsible gaming frameworks. The research could become a foundation for updated industry guidelines and regulatory expectations around pharmaceutical-behavioral health intersections.`,
-    featuredImage: "/images/articles/uw-glp1-gambling-study-2026.png",
+    featuredImage: "/images/articles/uw-glp1-gambling-study-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "marketing-traffic",
@@ -67936,7 +67936,7 @@ The timing is noteworthy given ongoing industry consolidation trends, regional g
 Institutional investor accumulation often precedes periods of strategic activity. Whether DME's position signals confidence in management's current strategy or positions the fund to influence future capital deployment decisions remains to be seen. For operators and service providers in the gaming ecosystem, tracking significant hedge fund entries and exits provides early signals about sector health and strategic pivots.
 
 Form 13F filings, while lagging indicators, offer transparency into how the investment community is positioning itself across gaming and hospitality plays.`,
-    featuredImage: "/images/articles/einhorn-dme-capital-mgm-resorts-stake-q3-2026.png",
+    featuredImage: "/images/articles/einhorn-dme-capital-mgm-resorts-stake-q3-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "operators",
@@ -67985,7 +67985,7 @@ The GPU market today lacks these characteristics. Most GPU procurement happens t
 Kalshi's AI computing futures strategy carries regulatory significance beyond the company itself. If Kalshi can demonstrate genuine enterprise adoption and proper market functioning, it strengthens the argument that prediction markets deserve classification as financial derivatives rather than gambling products. Conversely, if the GPU futures market fails to achieve meaningful volume or participants, it may reinforce regulator skepticism about whether prediction markets can ever serve legitimate hedging purposes.
 
 The company's simultaneous movement into traditional securities trading suggests a broader strategic pivot: position prediction markets as incidental to a larger fintech platform rather than the core value proposition. This diversification may be prudent given ongoing federal and state regulatory challenges, but it also signals limited confidence in prediction markets as a standalone business.`,
-    featuredImage: "/images/articles/kalshi-ai-computing-futures-gpu-pricing-2026.png",
+    featuredImage: "/images/articles/kalshi-ai-computing-futures-gpu-pricing-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "industry-services",
@@ -68035,7 +68035,7 @@ The Chicago property development—which was highlighted in earlier financing ar
 The 21.7% revenue growth is a positive operational signal, suggesting properties are performing and customer demand remains intact. Yet it proves insufficient to overcome legacy financing structures, indicating that organic business improvement alone may not resolve Bally's capital structure challenges without additional intervention.
 
 Investors monitoring gaming sector consolidation and distressed debt trading should track Bally's covenant compliance closely. If the company breaches additional covenants in Q4, it could trigger accelerated debt maturity, force asset sales, or create refinancing pressure that leads to ownership restructuring. For suppliers, vendors, and service providers in the gaming ecosystem, Bally's financial status affects payment reliability and contract stability.`,
-    featuredImage: "/images/articles/ballys-q3-loss-covenant-breach-financing-2026.png",
+    featuredImage: "/images/articles/ballys-q3-loss-covenant-breach-financing-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "operators",
@@ -68088,7 +68088,7 @@ Teams that prioritize player health and rotation flexibility often underperform 
 ## Betting Market Implications for Operators
 
 For iGaming platforms and sportsbooks, Week 5 performance inflection points like the Heat's turnaround create both risk and opportunity. Books that identify genuine performance shifts early can lock in better hedging pricing. Those caught flat-footed face exposure correction costs. The Clippers' measured approach similarly rewards operators with patient, data-driven position management over narrative-chasing reactivity.`,
-    featuredImage: "/images/articles/nba-week-5-heat-clippers-betting-impact-2026.png",
+    featuredImage: "/images/articles/nba-week-5-heat-clippers-betting-impact-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "marketing-traffic",
@@ -68136,7 +68136,7 @@ Galaxsys's decision to revisit this format signals continued confidence in the c
 ## What to Watch
 
 Industry observers should monitor adoption rates among tier-one operators, particularly in regulated markets where content rotation cycles are shorter. The performance of Tower Rush 2 may indicate whether the floor-stacking category can sustain multiple successful titles or if consolidation will favor early market entrants like Pragmatic Play's Gate of Olympus variants.`,
-    featuredImage: "/images/articles/galaxsys-tower-rush-2-multipliers-2026.png",
+    featuredImage: "/images/articles/galaxsys-tower-rush-2-multipliers-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "slots-game-providers",
@@ -68173,7 +68173,7 @@ Industry observers should monitor adoption rates among tier-one operators, parti
 The release exemplifies a dominant industry trend: rather than developing entirely new game engines, leading providers apply cosmetic and narrative layers to validated mechanics. This approach reduces development cost while leveraging data-driven performance benchmarks from the original format.
 
 Christmas-themed games consistently outperform baseline content during November-December, with some operators reporting 15-25% engagement lifts for seasonal variants. Play'n GO's holiday slate now spans multiple title families, allowing operators to rotate seasonal content across different player segments without depleting their release calendar.`,
-    featuredImage: "/images/articles/playn-go-christmas-gold-heist-holiday-2026.png",
+    featuredImage: "/images/articles/playn-go-christmas-gold-heist-holiday-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "slots-game-providers",
@@ -68210,7 +68210,7 @@ Christmas-themed games consistently outperform baseline content during November-
 Wild multipliers integrated into the bonus flow create cascading win potential, reducing friction between baseline spins and high-value bonus moments. This mechanic design aligns with player preference data showing that games with graduated reward sequences outperform flat-reward systems in retention metrics.
 
 The title represents Play'n GO's continued confidence in character-driven and narrative-rich slots as differentiation tools in an increasingly crowded market.`,
-    featuredImage: "/images/articles/playn-go-green-knight-camelot-gold-2026.png",
+    featuredImage: "/images/articles/playn-go-green-knight-camelot-gold-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "slots-game-providers",
@@ -68253,7 +68253,7 @@ The partnership slate emphasizes Northeast-based teams and markets, reflecting N
 NHL partnerships provide prediction operators with several competitive advantages: direct fan touchpoints through stadium integration, official league credibility that eases regulatory navigation, and access to high-intent betting audiences during live games. For NHL teams, Novig partnerships generate incremental revenue without the operational overhead of in-house sportsbook development.
 
 The Northeast geographic focus aligns with regulatory momentum in states including New York, Massachusetts, and Connecticut, where prediction market legislation remains in active development. Securing team partnerships now positions Novig favorably for rapid market entry once state-level frameworks solidify.`,
-    featuredImage: "/images/articles/novig-nhl-partnerships-carolina-hurricanes-2026.png",
+    featuredImage: "/images/articles/novig-nhl-partnerships-carolina-hurricanes-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "slots-game-providers",
@@ -68290,7 +68290,7 @@ The Northeast geographic focus aligns with regulatory momentum in states includi
 The promotion reflects an industry-wide trend: leading casino operators increasingly source general management talent from marketing and customer acquisition functions. Robinson's background in customer-facing strategy positions him to implement data-driven operational decisions across gaming, hospitality, and revenue optimization—areas where marketing expertise directly translates to competitive advantage.
 
 Cordish's decision to promote internally signals confidence in Robinson's capability while leveraging institutional knowledge of the Louisiana property and its customer base, reducing leadership transition friction compared to external hires.`,
-    featuredImage: "/images/articles/cordish-joshua-robinson-louisiana-casino-2026.png",
+    featuredImage: "/images/articles/cordish-joshua-robinson-louisiana-casino-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "operators",
@@ -68339,7 +68339,7 @@ This distinction has become increasingly contentious as collectible card markets
 The debate reflects broader international concern about products that bridge collectibles and gaming. Regulators in multiple jurisdictions have begun examining whether secondary markets for digital and physical collectibles should fall under gambling oversight, particularly when algorithmic scarcity or randomized pack mechanics drive valuations.
 
 Peers for Gambling Reform has indicated this issue may feature prominently in upcoming gambling review consultations, potentially forcing the Commission to revisit its classification framework.`,
-    featuredImage: "/images/articles/pokemon-cards-gambling-scrutiny-uk-2026.png",
+    featuredImage: "/images/articles/pokemon-cards-gambling-scrutiny-uk-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "regulation",
@@ -68388,7 +68388,7 @@ GLI, one of the world's leading independent testing laboratories for gaming equi
 The precedent set by Elite Competitions' certification may influence regulatory expectations across other jurisdictions. As prize draw markets mature and attract larger operators and investment, regulators in the UK and EU have signaled stronger preferences for independent technical validation of draw systems.
 
 Operators in markets with less formalized testing infrastructure are likely to view this certification as a roadmap for achieving regulatory compliance, particularly as prize draw platforms expand to include more sophisticated game mechanics and larger prize pools.`,
-    featuredImage: "/images/articles/elite-competitions-gli-certification-live-draw-2026.png",
+    featuredImage: "/images/articles/elite-competitions-gli-certification-live-draw-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "industry-services",
@@ -68462,7 +68462,7 @@ The suspension of the 2027 tournament may prompt the CBF to undertake a comprehe
 It also raises questions about whether the CBF will seek to negotiate with Brazilian government authorities regarding the betting ban's impact on sports funding. Some sports organizations in countries with betting restrictions have successfully advocated for carve-outs or specific arrangements that allow regulated betting revenue to support sports development.
 
 For now, the immediate impact is clear: Brazilian state federations must adjust their expectations for 2027, and the broader football community must contend with the reality that regulatory changes in one area have direct consequences across the entire sports ecosystem. How the CBF and other organizations adapt to this new financial reality will shape the future of regional football in Brazil.`,
-    featuredImage: "/images/articles/brazil-cbf-tournament-suspension-betting-ban-2026.png",
+    featuredImage: "/images/articles/brazil-cbf-tournament-suspension-betting-ban-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "regulation",
@@ -68541,7 +68541,7 @@ Industry observers note that implementation of the proposed fund would likely tr
 ## Looking Forward
 
 As Italy's budget process continues through parliamentary committees and plenary votes, the opposition's amendments will face procedural review and substantive debate. The coming weeks will determine whether the PD's combination of blocking expansion measures while proposing substantial alternative investment gains traction with fellow lawmakers and the broader Italian public.`,
-    featuredImage: "/images/articles/italy-gambling-harm-fund-slot-stakes-2026.png",
+    featuredImage: "/images/articles/italy-gambling-harm-fund-slot-stakes-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "regulation",
@@ -68623,7 +68623,7 @@ The long-term sustainability of Brazil's betting regulation will depend on wheth
 ## Looking Ahead
 
 Betano's suspension of its Flamengo sponsorship represents a watershed moment for Brazilian sports betting. As more operators reassess their market commitments, the Brazilian sports landscape will likely experience significant disruption to established sponsorship structures. For international gaming companies, Brazil's regulatory environment has transitioned from being an attractive growth market to a jurisdiction requiring defensive and conservative strategies.`,
-    featuredImage: "/images/articles/betano-flamengo-sponsorship-suspension-2026.png",
+    featuredImage: "/images/articles/betano-flamengo-sponsorship-suspension-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "marketing-traffic",
@@ -68677,7 +68677,7 @@ The move also highlights the precarious position of local gaming operators: regu
 Industry observers should monitor whether Johnson's budget proposal gains City Council approval, as the increase will likely face pushback from operators and their trade associations. The outcome could set a precedent for other major U.S. cities facing comparable fiscal stress, potentially triggering a wave of sports betting tax hikes nationwide.
 
 The intersection of the existing legal challenge and the proposed increase also raises questions about timing: will courts rule on the current tax's legality before the new rate is implemented, and could a court invalidate the existing tax structure altogether?`,
-    featuredImage: "/images/articles/chicago-doubles-sports-betting-tax-budget-2026.png",
+    featuredImage: "/images/articles/chicago-doubles-sports-betting-tax-budget-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "regulation",
@@ -68728,7 +68728,7 @@ This pattern has practical implications for sportsbooks: revenue forecasting tie
 The continued wagering interest in a struggling Leafs team demonstrates that handle is not purely performance-driven. Casual bettors, local enthusiasts, and recreational players will continue backing Toronto even during rough stretches, underpinning a stable baseline of engagement.
 
 For operators, this suggests that marquee franchises—especially those in major population centers—represent more predictable revenue anchors than might be assumed from won-loss records alone. The Leafs may lose games, but bettors keep showing up.`,
-    featuredImage: "/images/articles/maple-leafs-losing-streak-betting-action-strong-2026.png",
+    featuredImage: "/images/articles/maple-leafs-losing-streak-betting-action-strong-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "marketing-traffic",
@@ -68779,7 +68779,7 @@ The settlement is a tactical win for Evolution, removing a persistent source of 
 The case also illustrates the murky terrain of competitive intelligence in a highly consolidating industry. As gaming suppliers jockey for market share and regulatory approvals, the temptation to weaponize legal and reputational tools grows. This settlement may chill some future campaigns, though it won't eliminate the fundamental competitive pressures that drive such tactics.
 
 Shareholders and partners of both companies were likely relieved to see the dispute resolved quietly rather than escalate into prolonged litigation that could have damaged both brands further.`,
-    featuredImage: "/images/articles/evolution-settles-playtech-smear-report-case-2026.png",
+    featuredImage: "/images/articles/evolution-settles-playtech-smear-report-case-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "industry-services",
@@ -68832,7 +68832,7 @@ For the state, the record $634.4 million in losses (revenue) represents signific
 ## Seasonal Momentum
 
 October's strong showing sets up an interesting dynamic heading into November and December, traditionally robust months for gaming due to holiday recreational spending and cold weather driving indoor entertainment consumption. If October's momentum sustains, the final quarter of 2026 could see another round of record-breaking months, with year-end results providing a data point for 2027 operator guidance.`,
-    featuredImage: "/images/articles/pennsylvania-record-gaming-revenue-october-2026.png",
+    featuredImage: "/images/articles/pennsylvania-record-gaming-revenue-october-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "regulation",
@@ -68885,7 +68885,7 @@ For the broader sports betting industry, the James filing signals that regulator
 ## Regulatory Fallout
 
 State gaming regulators may also begin imposing requirements around AI-generated advertising content in sports betting applications. Just as operators must disclose odds and house advantages, they may eventually be required to disclose when celebrity endorsements are synthetic rather than authentic, or be prohibited from using synthetic likenesses altogether without formal licensing arrangements.`,
-    featuredImage: "/images/articles/lebron-james-sues-ai-betting-app-bron-2026.png",
+    featuredImage: "/images/articles/lebron-james-sues-ai-betting-app-bron-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-18T08:30:00Z",
     category: "regulation",
