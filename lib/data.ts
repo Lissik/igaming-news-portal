@@ -68934,7 +68934,7 @@ For compliance and risk teams at betting platforms, the case reinforces the impo
 ## What to Watch
 
 Industry observers are tracking whether additional convictions result in longer sentences, which would signal prosecutors' intent to treat corruption with maximum severity. The NCAA and individual state gaming regulators may also announce enhanced coordination mechanisms with law enforcement to prevent future schemes. Expect renewed calls for stricter verification protocols around player identity and insider access to team information.`,
-    featuredImage: "/images/articles/college-basketball-point-shaving-jail-sentences-2026.png",
+    featuredImage: "/images/articles/college-basketball-point-shaving-jail-sentences-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "regulation",
@@ -68981,7 +68981,7 @@ The Chicago casino is shaping up as a transformational asset for Bally's, expand
 ## Execution and Timeline
 
 The new capital supports continued construction and pre-opening operational readiness across the Chicago property. Industry observers will monitor progress on the project timeline and any updates on expected opening windows. Bally's investor base will also watch for commentary on overall capital allocation priorities as the company balances the Chicago project against other growth initiatives.`,
-    featuredImage: "/images/articles/ballys-chicago-casino-560-million-financing-2026.png",
+    featuredImage: "/images/articles/ballys-chicago-casino-560-million-financing-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "operators",
@@ -69028,7 +69028,7 @@ UK regulators and politicians have shown increasing willingness to respond to or
 ## Corporate Response Considerations
 
 Entain's public relations strategy around Safer Gambling Week now carries added complexity given the activist challenge to its credibility on responsible gambling. The company faces a choice between deepening its commitments around greyhound welfare and racing transparency, or maintaining existing operational arrangements while managing reputational friction. Industry observers will track whether Entain takes additional steps to address activist concerns or whether the company maintains its current course.`,
-    featuredImage: "/images/articles/entain-protest-safer-gambling-week-2026.png",
+    featuredImage: "/images/articles/entain-protest-safer-gambling-week-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "marketing-traffic",
@@ -69075,7 +69075,7 @@ The company is also exploring sportsbook expansion in the United States, a marke
 ## What to Watch
 
 Investors and market observers will track whether Allwyn's confidence in Betano's resilience proves justified as Brazil's regulatory process unfolds. The company's ability to maintain customer relationships during a shutdown and re-activate dormant accounts post-suspension will be a key barometer of brand strength. Any announcements regarding US sportsbook licensing applications or partnerships will signal the credibility of Allwyn's expansion ambitions in North America.`,
-    featuredImage: "/images/articles/allwyn-betano-brazil-shutdown-pizepicks-growth-2026.png",
+    featuredImage: "/images/articles/allwyn-betano-brazil-shutdown-pizepicks-growth-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "operators",
@@ -69122,7 +69122,7 @@ For operators relying on third-party testing and certification, the merger creat
 ## Implications for Industry Standards
 
 The merged entity will hold considerable influence over gaming standards, test protocols, and certification frameworks across jurisdictions. Regulatory bodies may view the consolidation as an opportunity to coordinate on testing standards and best practices, or conversely, may scrutinize competitive impacts on operator service costs. The new leadership team's approach to maintaining independence and neutrality will be closely watched by the industry and regulators alike.`,
-    featuredImage: "/images/articles/bmm-testlabs-founder-executive-chair-ecogra-merger-2026.png",
+    featuredImage: "/images/articles/bmm-testlabs-founder-executive-chair-ecogra-merger-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "industry-services",
@@ -69176,7 +69176,7 @@ Argentina has seen sporadic provincial betting legalization efforts over the pas
 The next critical juncture is the committee's decision on consolidation. Lawmakers will need to either merge the three texts into a unified bill or formally advance a preferred version to the full legislative chamber. That process typically involves direct negotiations between committee leadership and provincial executive officials.
 
 Operators should also monitor whether the clubs fund debate expands into broader discussions about betting tax rates, licensing fees, or harm-prevention spending—issues that often emerge once a framework enters its final legislative phases. The funding disagreement could either remain isolated or cascade into other structural disputes.`,
-    featuredImage: "/images/articles/buenos-aires-betting-bill-advances-funding-dispute-2026.png",
+    featuredImage: "/images/articles/buenos-aires-betting-bill-advances-funding-dispute-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "regulation",
@@ -69215,7 +69215,7 @@ The application window closed on 21 October, meaning any operators that failed t
 The number of applications reflects moderate but meaningful operator appetite for Ecuador's market, which has long struggled with unregulated betting activity. A regulated framework could redirect that illegal wagering volume toward licensed operators paying taxes and contributing to consumer protections—though success depends on competitive licensing fees and compliance burden not pushing operators back to grey-market operations.
 
 No additional applications will be accepted, the regulator emphasized, reinforcing the finality of the October deadline and the locked-in applicant pool. The next phase involves regulatory review and licensing decisions, though no timeline for approvals has been publicly announced.`,
-    featuredImage: "/images/articles/ecuador-sports-betting-16-applications-deadline-2026.png",
+    featuredImage: "/images/articles/ecuador-sports-betting-16-applications-deadline-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "regulation",
@@ -69270,7 +69270,7 @@ The case also carries broader implications for operator-tech platform relations.
 The legal proceedings will likely take months to develop, but initial filings should reveal what specific damages FDJ and VNLOK are seeking and what specific Meta policy failures they're alleging. Courts may also need to address jurisdictional questions about whether Meta's European operations can be held liable for content on global platforms.
 
 Operator associations in other European markets are likely monitoring these cases closely. If FDJ and VNLOK achieve meaningful settlements or court victories, similar litigation could follow in Germany, Spain, Italy, and other regulated markets where illegal gambling advertising remains prevalent on major platforms.`,
-    featuredImage: "/images/articles/fdj-meta-lawsuit-illegal-casino-ads-2026.png",
+    featuredImage: "/images/articles/fdj-meta-lawsuit-illegal-casino-ads-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "marketing-traffic",
@@ -69311,7 +69311,7 @@ The line of questioning reflects broader congressional concern about whether maj
 Prediction market operators have long lobbied for explicit CFTC oversight as preferable to the current ambiguity, reasoning that clear regulatory parameters would reduce legal risk and facilitate institutional participation. However, some platforms have resisted regulation, citing compliance costs and operational restrictions.
 
 The Senate hearings suggest that congressional impatience with jurisdictional grey areas is mounting, making it increasingly likely that the new CFTC commissioners will face pressure to issue guidance or pursue enforcement actions that establish de facto regulatory boundaries for prediction market activity.`,
-    featuredImage: "/images/articles/cftc-nominees-prediction-markets-senate-2026.png",
+    featuredImage: "/images/articles/cftc-nominees-prediction-markets-senate-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "regulation",
@@ -69349,7 +69349,7 @@ The three-year extension maintains regulatory standing for the development while
 Site approvals represent a critical but preliminary step in the casino development process. While they demonstrate regulatory acceptance and lock in a specific location, they do not guarantee that a project will reach operational status. Extensions are routinely granted for projects experiencing financing delays or design modifications, particularly in competitive markets where multiple developments compete for limited capital.
 
 The Black Marlin project's extension through late 2029 suggests the developer continues pursuing the initiative despite what appear to be execution delays. For Biloxi's gaming market, the extended timeline creates uncertainty about when new supply will reach the market, potentially affecting competitive positioning of existing operators and influencing future licensing decisions by the MGC.`,
-    featuredImage: "/images/articles/black-marlin-casino-biloxi-approval-extended-2029-2026.png",
+    featuredImage: "/images/articles/black-marlin-casino-biloxi-approval-extended-2029-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "operators",
@@ -69397,7 +69397,7 @@ By framing sports contracts as "swaps," the CFTC proposal would have shifted ove
 The CFTC must now weigh the unprecedented show of state opposition against its own regulatory agenda. The 43-state filing significantly increases the political cost of moving forward with the rule as originally proposed. Industry observers expect either a substantial revision to the proposal or a formal withdrawal in coming months, though prediction market operators and some sports betting platforms have independently lobbied for federal clarity.
 
 The outcome will determine whether sports betting derivatives operate under state gambling law, federal commodities law, or a hybrid framework.`,
-    featuredImage: "/images/articles/43-state-ags-cftc-sports-swap-rules-2026.png",
+    featuredImage: "/images/articles/43-state-ags-cftc-sports-swap-rules-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "regulation",
@@ -69440,7 +69440,7 @@ Better Collective operates several major brands within its portfolio, including 
 While Better Collective has not yet disclosed Q3 earnings details, the revenue figure positions the company well ahead of market expectations. Analysts will be watching for profitability metrics and guidance during the company's formal financial report, particularly given the leadership restructuring and potential strategic initiatives under Søgaard's unified leadership.
 
 The timing of the leadership change also comes amid continued consolidation across the iGaming affiliate space, with larger players investing in technology and content to defend market position.`,
-    featuredImage: "/images/articles/better-collective-leadership-reshuffle-83m-q3-2026.png",
+    featuredImage: "/images/articles/better-collective-leadership-reshuffle-83m-q3-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "operators",
@@ -69489,7 +69489,7 @@ The lawsuit involved attempts by four tribes to void compacts held by competing 
 The decision establishes that federal courts will enforce tribal gaming compacts even when state courts find them invalid. This outcome strengthens the stability of existing compact arrangements and may discourage future challenges based on state-level legal theories.
 
 For tribal gaming operators, the ruling provides assurance that compact agreements remain legally binding despite state-level objections. However, the decision also highlights the complexity of gaming regulation in jurisdictions involving tribal lands, where federal, state, and tribal law intersect.`,
-    featuredImage: "/images/articles/oklahoma-tribes-casino-compact-federal-court-2026.png",
+    featuredImage: "/images/articles/oklahoma-tribes-casino-compact-federal-court-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "regulation",
@@ -69544,7 +69544,7 @@ Some regulators have already begun scrutinizing similar features in other games.
 Social media has split between excitement about expanded gameplay and skepticism about pay-to-gamble mechanics. Some players theorize the casinos will offer only in-game currency wagering—a safer option that avoids regulatory issues entirely.
 
 Rockstar has not confirmed either approach. The company has also not provided a timeline for casino activation, leaving the gaming community to speculate whether these venues will unlock within weeks or remain locked indefinitely as decorative map elements.`,
-    featuredImage: "/images/articles/gta6-casinos-real-money-speculation-2026.png",
+    featuredImage: "/images/articles/gta6-casinos-real-money-speculation-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "industry-services",
@@ -69597,7 +69597,7 @@ DraftKings had positioned its casino offering as an expansion of existing bettin
 Florida's move signals heightened state scrutiny of operator product expansion and suggests that existing sports betting licenses may not automatically extend to online casino offerings. Other operators operating in Florida have taken note, with some reconsidering planned product launches pending legal clarity.
 
 The twin developments—D.C.'s legislative progress and Florida's compliance challenge—reflect the fragmented regulatory landscape that U.S. iGaming operators navigate. Each state applies different legal frameworks, approval processes, and product restrictions, requiring platform-by-platform compliance strategies.`,
-    featuredImage: "/images/articles/dc-igaming-florida-draftkings-compliance-2026.png",
+    featuredImage: "/images/articles/dc-igaming-florida-draftkings-compliance-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-19T08:30:00Z",
     category: "regulation",
