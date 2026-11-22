@@ -70306,7 +70306,7 @@ The timing aligns with the PWHL's December season launch, providing Betty with i
 For Betty, the partnership establishes premium positioning within Canada's regulated operator landscape and creates differentiation in a crowded Alberta and Ontario market. For the PWHL, securing a licensed iGaming partner validates the league's commercial value and revenue-generation potential with established gaming operators.
 
 The deal underscores the maturing relationship between North American sports leagues and regulated gaming operators post-legalization, with women's professional sports increasingly attractive as sponsorship categories gain mainstream media attention and advertiser investment. Future expansion of this partnership model across other Canadian provincial operators remains a possibility as the PWHL scales its commercial roster.`,
-    featuredImage: "/images/articles/betty-pwhl-partnership-canada-2026.png",
+    featuredImage: "/images/articles/betty-pwhl-partnership-canada-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "marketing-traffic",
@@ -70358,7 +70358,7 @@ Kalshi, which offers contracts tied to real-world events and outcomes, has opera
 The CFTC's failed emergency motion indicates that attempts to preempt state enforcement through federal injunction face high judicial barriers. For prediction market operators and similar event derivatives platforms, this means regulatory compliance strategies must account for state-level oversight in addition to federal CFTC posture—a costly and complex compliance burden that could reshape the competitive landscape.
 
 Future CFTC filings seeking to block state action will likely face similarly skeptical judicial review absent significantly clearer federal statutory language establishing exclusive federal jurisdiction over prediction markets. The decision leaves regulatory authority fragmented but functional, with states like New York empowered to independently police consumer protection and fair dealing within their borders.`,
-    featuredImage: "/images/articles/cftc-kalshi-new-york-tro-denied-2026.png",
+    featuredImage: "/images/articles/cftc-kalshi-new-york-tro-denied-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "regulation",
@@ -70407,7 +70407,7 @@ Betty's move positions the operator as a mainstream entertainment brand rather t
 Sports partnerships carry measurable customer acquisition signals: broadcast visibility, integrated betting experiences during games, and cross-promotional opportunities with the league's player and fan base. For mid-sized operators like Betty, such deals provide scale advantages unavailable through pure performance marketing channels, where customer acquisition costs have risen substantially in competitive regulated markets.
 
 The deal's commercial value extends beyond immediate customer signups to include brand equity and competitive positioning. Operators who establish early association with women's sports properties gain first-mover advantages in a demographic segment receiving increasing mainstream media attention and sponsor investment.`,
-    featuredImage: "/images/articles/betty-operator-sports-partnership-strategy-2026.png",
+    featuredImage: "/images/articles/betty-operator-sports-partnership-strategy-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "operators",
@@ -70445,7 +70445,7 @@ The deal's commercial value extends beyond immediate customer signups to include
     content: `Prediction market platform Kalshi has secured a meaningful legal win as a federal judge declined the Commodity Futures Trading Commission's request for emergency injunctive relief against New York state enforcement. The decision effectively allows New York regulators to proceed with investigations and enforcement actions against the platform without federal court interference.
 
 The CFTC's failed emergency motion sought to establish that federal derivatives regulatory authority under the Commodity Exchange Act preempts state gaming and wagering laws. The judge's rejection suggests courts will not easily grant such preemption claims absent clearer statutory language or more compelling federal regulatory interest.`,
-    featuredImage: "/images/articles/kalshi-cftc-preemption-fails-new-york-2026.png",
+    featuredImage: "/images/articles/kalshi-cftc-preemption-fails-new-york-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "regulation",
@@ -70492,7 +70492,7 @@ States like New York—with sophisticated gaming enforcement infrastructure and 
 The compliance burden created by dual-jurisdiction oversight favors larger, well-capitalized operators capable of funding sophisticated legal and compliance teams. Smaller prediction market platforms or startups may find the regulatory complexity and cost barriers prohibitive, potentially accelerating industry consolidation around established operators with existing state licensing and compliance infrastructure.
 
 Service providers including legal firms, compliance consultants, and regulatory affairs firms face increased demand for multi-jurisdictional expertise in prediction markets and event derivatives. The fragmented regulatory landscape creates sustained consulting revenue from ongoing compliance monitoring, state-specific strategy development, and enforcement response services.`,
-    featuredImage: "/images/articles/prediction-markets-compliance-complexity-rises-2026.png",
+    featuredImage: "/images/articles/prediction-markets-compliance-complexity-rises-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "industry-services",
@@ -70544,7 +70544,7 @@ Major operators licensed under iGaming Ontario, including BetRivers, DraftKings,
 The move positions Ontario as North America's most stringent regulated gaming jurisdiction by deposit-limit standards. Quebec and British Columbia are reportedly reviewing similar measures, suggesting a potential regulatory cascade across Canada's major provinces. Industry associations have requested a 90-day extension to handle the January deadline; AGCO's response is expected by mid-December.
 
 Operators and suppliers should begin system scoping immediately to avoid last-minute delays or non-compliance penalties.`,
-    featuredImage: "/images/articles/ontario-tightens-player-protection-rules-2026.png",
+    featuredImage: "/images/articles/ontario-tightens-player-protection-rules-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "regulation",
@@ -70597,7 +70597,7 @@ Legacy payment processors like PaymentExpress and Global Collect have faced moun
 Operators currently using multiple payment vendors for deposits and payouts may consolidate around Stripe's unified offering, reducing complexity in their tech stacks. However, regional payment preferences and regulatory constraints in certain jurisdictions mean no single vendor will capture the entire market.
 
 Implementation costs are expected to range from USD $50,000–$250,000 depending on operator size and existing payment infrastructure, with pricing tied to transaction volume.`,
-    featuredImage: "/images/articles/stripe-iGaming-payout-settlement-2026.png",
+    featuredImage: "/images/articles/stripe-iGaming-payout-settlement-2026.jpg",
     author: AUTHORS[5],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "payments-fintech",
@@ -70636,7 +70636,7 @@ Implementation costs are expected to range from USD $50,000–$250,000 depending
 Operators can customize recommendation parameters—such as focusing on high-RTP games, specific themes, or low-volatility options—while the AI maintains its core objective of extending play sessions. Early testing with three major European operators showed a 14–18% increase in games-per-session and an 8–11% uplift in session duration.
 
 The tool is available as a white-label integration via Pragmatic's operator portal and requires minimal technical customization. Deployment cost ranges from EUR 25,000–75,000 depending on operator player base size and integration complexity.`,
-    featuredImage: "/images/articles/pragmatic-play-ai-game-recommendations-2026.png",
+    featuredImage: "/images/articles/pragmatic-play-ai-game-recommendations-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "slots-game-providers",
@@ -70691,7 +70691,7 @@ Affiliates and media buyers are advised to reconcile their operator rosters agai
 The move aligns with Google's broader initiative to reduce fraud and illegal gambling activity on its platforms. It also creates indirect competitive advantage for established operators with mature compliance infrastructure, while raising barriers to entry for new market entrants lacking established regulatory relationships.
 
 Operators should initiate verification submissions immediately, as Google's review queue is expected to exceed capacity in December.`,
-    featuredImage: "/images/articles/google-iGaming-ad-verification-2026.png",
+    featuredImage: "/images/articles/google-iGaming-ad-verification-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "marketing-traffic",
@@ -70729,7 +70729,7 @@ Operators should initiate verification submissions immediately, as Google's revi
 Virtuoso currently serves 85+ iGaming operators across 28 jurisdictions, automating compliance workflows for license applications, player verification, and regulatory reporting. The new capital will enable the company to hire 40 additional engineers and compliance specialists, targeting full coverage of LATAM and APAC markets by Q4 2027.
 
 The Series B will also fund development of a proprietary AML/KYC engine that integrates sanctions list monitoring, beneficial ownership verification, and enhanced due diligence protocols. Early beta customers have reported 60% reduction in manual compliance review workload.`,
-    featuredImage: "/images/articles/virtuoso-series-b-funding-compliance-2026.png",
+    featuredImage: "/images/articles/virtuoso-series-b-funding-compliance-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "industry-services",
@@ -70781,7 +70781,7 @@ Some operators have signaled concerns that the new requirements could drive cust
 ## What to Watch
 
 The Malta Gaming Authority has indicated that inspectors will begin spot-checking operator compliance files in January 2027. Operators falling short of EDD standards face warnings, financial penalties, or license suspension. Watch for industry lobby groups to submit feedback on the framework's implementation during the 90-day consultation period ending February 2027.`,
-    featuredImage: "/images/articles/malta-gaming-authority-enhanced-aml-due-diligence-2026.png",
+    featuredImage: "/images/articles/malta-gaming-authority-enhanced-aml-due-diligence-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "regulation",
@@ -70830,7 +70830,7 @@ Evolution's Chief Commercial Officer for European Markets noted that the Madrid 
 The studio has obtained full approval from Spain's gaming regulator, Dirección General de Ordenación del Juego (DGOJ), with specific compliance for content encryption, geofencing, and player information feeds. The facility maintains dual-channel content distribution: one feed for Spanish operators and a separate technical channel ensuring regulatory audit trails.
 
 Evolution now operates dedicated studios in eight European countries, with Madrid joining facilities in Romania, Georgia, Latvia, the United Kingdom, and other key markets. This geographic diversification supports the company's strategy of reducing content delivery dependencies and maintaining compliance with regional broadcast regulations.`,
-    featuredImage: "/images/articles/evolution-gaming-madrid-live-casino-studio-2026.png",
+    featuredImage: "/images/articles/evolution-gaming-madrid-live-casino-studio-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "slots-game-providers",
@@ -70883,7 +70883,7 @@ The European Banking Authority (EBA) has encouraged faster payment adoption as p
 ## Expansion Timeline
 
 PaymentExpress indicated it expects 25-30 additional operator integrations by Q1 2027, with particular focus on German, Swiss, and Austrian market entry. The company is also exploring SEPA Instant applications for deposit processing, though regulatory questions remain about deposit account provisioning and responsible gambling safeguards.`,
-    featuredImage: "/images/articles/paymentexpress-sepa-instant-european-operators-2026.png",
+    featuredImage: "/images/articles/paymentexpress-sepa-instant-european-operators-2026.jpg",
     author: AUTHORS[5],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "payments-fintech",
@@ -70939,7 +70939,7 @@ The company also disclosed a €2.1 million investment in proprietary player beh
 Management guided toward 7-10% full-year 2026 revenue growth, with margin stabilization expected in Q4 as compliance spending normalizes. The company flagged potential headwinds from pending German state licensing deadline extensions, which could delay revenue ramp in that market by 6-12 months.
 
 Investors and analysts interpreted the results as confirming that European regulatory consolidation is favoring operationally mature, well-capitalized operators while creating barriers to entry for smaller competitors lacking compliance infrastructure. LeoVegas's stock closed up 3.2% on the results, outperforming the broader gaming sector index.`,
-    featuredImage: "/images/articles/leovegas-q3-2026-results-regulatory-resilience-2026.png",
+    featuredImage: "/images/articles/leovegas-q3-2026-results-regulatory-resilience-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "operators",
@@ -70994,7 +70994,7 @@ Larger operators with diversified acquisition channels—including direct paid s
 Industry analysts suggest Google's verification tightening reflects the company's broadening risk management approach to gaming advertising, amid ongoing regulatory scrutiny of ad networks' role in facilitating access to gambling services. The IAB (Interactive Advertising Bureau) has begun discussions with Google regarding transparency and graduated enforcement, though no policy changes are expected imminently.
 
 Expect affiliate networks to invest in proprietary traffic quality verification systems over the coming quarters, reducing dependence on third-party ad networks as distribution channels. Some networks are exploring partnerships with gaming operators to build direct affiliate programs, potentially bypassing Google's restrictions entirely.`,
-    featuredImage: "/images/articles/affiliate-networks-google-verification-traffic-decline-2026.png",
+    featuredImage: "/images/articles/affiliate-networks-google-verification-traffic-decline-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-21T08:30:00Z",
     category: "marketing-traffic",
