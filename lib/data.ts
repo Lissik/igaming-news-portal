@@ -71049,7 +71049,7 @@ The strategy also suggests the operator is playing a longer-term market share ga
 ## What to Watch
 
 Monitor whether Alberta's other licensed sportsbook operators respond with similar experiential tactics in the coming months. The Grey Cup activation may become a playbook for sports betting brands competing in Canadian markets, particularly as operators look to maximize their presence during major sporting events when fan engagement is highest and brand awareness campaigns are most cost-effective.`,
-    featuredImage: "/images/articles/thescore-bet-fan-experiences-alberta-2026.png",
+    featuredImage: "/images/articles/thescore-bet-fan-experiences-alberta-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "marketing-traffic",
@@ -71106,7 +71106,7 @@ For Kalshi, it complicates its negotiating position with New York regulators and
 The Monday hearing will test whether federal courts view digital-first platforms as subject to traditional state-by-state regulatory fragmentation or as platforms that require uniform national treatment. The outcome could reshape how prediction markets, decentralized betting platforms, and crypto-native gaming services navigate compliance with state regulators.
 
 Wallach's framing also reflects broader legal trends: courts and regulators increasingly expect digital operators to implement geographic restrictions and state-specific compliance measures rather than treating the U.S. as a single regulatory zone.`,
-    featuredImage: "/images/articles/kalshi-new-york-partial-restriction-2026.png",
+    featuredImage: "/images/articles/kalshi-new-york-partial-restriction-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "regulation",
@@ -71157,7 +71157,7 @@ Verstappen's consistency at the venue—winning three of four races held there�
 The 2026 race's high number of lead changes and overtakes kept betting outcomes uncertain until the final laps, maintaining engagement and extending betting interest throughout the event. Live betting platforms saw activity spikes each time the lead changed, demonstrating how race chaos translates directly into wagering activity.
 
 For operators building their sports betting offerings, F1 events like Las Vegas represent a high-value category: they attract international audiences, feature unpredictable outcomes, and generate substantial media coverage that sustains betting interest beyond race day.`,
-    featuredImage: "/images/articles/verstappen-las-vegas-grand-prix-f1-2026.png",
+    featuredImage: "/images/articles/verstappen-las-vegas-grand-prix-f1-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "industry-services",
@@ -71214,7 +71214,7 @@ This shift toward experiential marketing suggests that Alberta's established ope
 ## What to Watch
 
 Monitor other Alberta-licensed sportsbook operators for similar experiential activations during the upcoming 2026-2027 sports season. If experiential marketing becomes a standard part of operator playbooks, it signals that acquisition costs and competitive intensity in Canadian markets have reached levels where digital-only strategies are insufficient. Additionally, watch for consolidation among smaller operators that lack the marketing budgets to compete on experience as well as product.`,
-    featuredImage: "/images/articles/alberta-sportsbook-operators-brand-experience-2026.png",
+    featuredImage: "/images/articles/alberta-sportsbook-operators-brand-experience-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "operators",
@@ -71267,7 +71267,7 @@ If a federal court agrees with Wallach's reasoning, it establishes precedent tha
 The Kalshi case will likely influence how other emerging betting and prediction platforms approach state regulation. A ruling favoring New York's ability to impose partial restrictions would signal that operators need to invest in granular geographic compliance infrastructure rather than assuming national treatment or complete market exits.
 
 It would also embolden other states considering restrictions on prediction markets or specific betting products, knowing that partial bans are legally and operationally feasible options.`,
-    featuredImage: "/images/articles/kalshi-new-york-partial-restrictions-hearing-2026.png",
+    featuredImage: "/images/articles/kalshi-new-york-partial-restrictions-hearing-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "regulation",
@@ -71318,7 +71318,7 @@ Major operators have already begun signaling readiness. PlayON.ca issued a state
 The framework aligns Ontario's standards closer to those in the UK and European markets, where deposit limits and self-exclusion integration are now baseline expectations. Industry analysts note this move likely foreshadows similar requirements in British Columbia and other provinces currently drafting their own regulatory roadmaps.
 
 Operators viewing compliance as a cost center may find themselves disadvantaged; those positioning enhanced protection as a marketing differentiator—emphasizing responsible gaming credentials in customer acquisition campaigns—could attract the growing segment of players who actively seek trustworthy platforms. The regulatory trend suggests player protection will increasingly influence operator selection in mature markets.`,
-    featuredImage: "/images/articles/ontario-responsible-gaming-framework-2026.png",
+    featuredImage: "/images/articles/ontario-responsible-gaming-framework-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "regulation",
@@ -71369,7 +71369,7 @@ Tennessee's move aligns with broader industry efforts to stimulate racing intere
 The integration allows DraftKings to monetize racing without establishing separate racing licenses in Tennessee—the racing wagering operates under the existing sports betting license. This regulatory efficiency makes the model replicable across other states where DraftKings holds sportsbook authority.
 
 From a user engagement standpoint, the consolidated platform increases cross-sell opportunities: a bettors placing weekend NFL bets may notice Kentucky Derby odds mid-slip and add a racing leg, boosting average bet size and session duration. Industry observers expect this model to become standard within 18-24 months as other multi-state operators recognize the competitive disadvantage of siloed racing offerings.`,
-    featuredImage: "/images/articles/draftkings-horse-racing-tennessee-2026.png",
+    featuredImage: "/images/articles/draftkings-horse-racing-tennessee-2026.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "operators",
@@ -71412,7 +71412,7 @@ Mid-market operators operating across five or more jurisdictions have been early
 Standard iGaming payment processors like Paginator and Sportech have positioned themselves as specialist alternatives to mainstream acquirers for years, but Stripe's entry into this space signals mainstreaming of iGaming fintech solutions. The move may also pressure legacy payment infrastructure providers to upgrade their chargeback workflows or risk losing scale operators to Stripe's ecosystem.
 
 Stripe has already secured commitments from several regional operators to integrate the tool by Q1 2027, with plans to expand geographic coverage as regulatory environments evolve.`,
-    featuredImage: "/images/articles/stripe-igaming-settlement-tool-2026.png",
+    featuredImage: "/images/articles/stripe-igaming-settlement-tool-2026.jpg",
     author: AUTHORS[5],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "payments-fintech",
@@ -71455,7 +71455,7 @@ The release arrives as Asia-Pacific competition intensifies. Microgaming, Evolut
 Pragmatic is bundling the suite with regional payment integration (UnionPay, GCash, local e-wallets) and multilingual responsible gaming tools compliant with Philippine PAGCOR standards and Singapore Remote Gambling Act guidelines. This vertical integration reduces operator implementation friction and positions Pragmatic as a full-stack technology partner rather than a third-party content vendor.
 
 Manila-based operators already using Pragmatic's existing portfolio can upgrade to the AI suite mid-cycle; new operators signing in Q4 2026 and Q1 2027 will likely default to the new stack given its competitive advantages.`,
-    featuredImage: "/images/articles/pragmatic-play-ai-slots-asia-2026.png",
+    featuredImage: "/images/articles/pragmatic-play-ai-slots-asia-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "slots-game-providers",
@@ -71498,7 +71498,7 @@ CPA network managers report that existing affiliates are activating dormant traf
 Deposit-per-player metrics remain elevated. The average newly acquired player is depositing $95-$110 on first transaction, compared to $72-$85 in November 2025. This uptick suggests either higher-value players are entering the market or existing player bases are more aggressive during holiday spending windows.
 
 Affiliate margins are compressing slightly—operators can afford to reduce per-acquisition payouts while still commanding healthy volume when demand is strong—but overall revenue opportunity for affiliate networks remains substantial. Industry forecasters predict affiliate-sourced player acquisition will drive 18-22 percent of Q4 2026 new player additions across regulated North American sportsbooks, up from 14-16 percent in 2025.`,
-    featuredImage: "/images/articles/affiliate-networks-holiday-ramp-2026.png",
+    featuredImage: "/images/articles/affiliate-networks-holiday-ramp-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "marketing-traffic",
@@ -71547,7 +71547,7 @@ Technology service providers specializing in gaming compliance have reported a s
 Industry observers expect at least two additional U.S. jurisdictions—including New York and New Jersey—to adopt similar loss-limit and cooling-off frameworks within the next 12 months, following Pennsylvania's lead. The Board has also announced a post-implementation review scheduled for mid-2027 to assess whether player harm metrics have meaningfully declined.
 
 Operators are quietly lobbying the Board for a phase-in period or hardship extensions, though the regulatory body has signaled no appetite for delay. Expect continued negotiation over technical specifications for the cross-operator self-exclusion database, which remains partially undefined pending platform vendor selection.`,
-    featuredImage: "/images/articles/pennsylvania-gaming-standards-responsible-player-protection-2026.png",
+    featuredImage: "/images/articles/pennsylvania-gaming-standards-responsible-player-protection-2026.jpg",
     author: AUTHORS[4],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "regulation",
@@ -71592,7 +71592,7 @@ The expansion also includes promotional flexibility features allowing operators 
 Competition in the region remains intense. Evolution Gaming, Pragmatic Play, and Microgaming's subsidiary Quickfire have all expanded Latin American live offerings in the past 18 months. Industry analysts expect live dealer content to represent 35% of regional gaming revenue by 2028, up from 28% today, creating ongoing pressure on vendors to invest in localization and regional payment-system integration.
 
 Playtech has not disclosed deployment timelines for additional regional variants, though operators in Peru and Chile have reportedly requested localized versions ahead of anticipated 2027 regulatory changes in both markets.`,
-    featuredImage: "/images/articles/playtech-live-dealer-latin-america-expansion-2026.png",
+    featuredImage: "/images/articles/playtech-live-dealer-latin-america-expansion-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "slots-game-providers",
@@ -71636,7 +71636,7 @@ Payment-method fragmentation across regions has long constrained operator profit
 The vendor has not disclosed acquisition price or specific payment-processor identity, citing confidentiality agreements. Industry sources suggest the target was a mid-tier processor with established relationships across Latin America and Southeast Asia—geographies where Nuvei has identified underpenetration among its existing operator customer base.
 
 Competition in payments infrastructure remains intense. Paysafe, Genius Sports' payment division, and Worldpay continue aggressive operator-focused sales campaigns. Nuvei's move signals confidence that vertical integration and regional consolidation will drive acquisition and retention advantages heading into 2027 budget negotiations.`,
-    featuredImage: "/images/articles/nuvei-payment-processor-acquisition-2026.png",
+    featuredImage: "/images/articles/nuvei-payment-processor-acquisition-2026.jpg",
     author: AUTHORS[5],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "payments-fintech",
@@ -71691,7 +71691,7 @@ Sustained high acquisition costs are reshaping operator strategy. Regional sport
 Operators are also accelerating investment in player-lifetime-value optimization, recognizing that acquisition costs cannot improve further without additional regulatory expansion. Retention marketing, VIP program enhancement, and cross-product bundling (betting + gaming + iGaming) now represent the competitive frontier.
 
 Heading into 2027, media buyers expect advertising efficiency to remain constrained, with CPM growth outpacing player growth across most operators. This dynamic favors large, diversified platforms capable of absorbing marketing inefficiency while building long-term customer equity.`,
-    featuredImage: "/images/articles/sports-betting-ad-spend-record-levels-leagues-2026.png",
+    featuredImage: "/images/articles/sports-betting-ad-spend-record-levels-leagues-2026.jpg",
     author: AUTHORS[3],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "marketing-traffic",
@@ -71739,7 +71739,7 @@ Operators face persistent tradeoffs between fraud prevention and player experien
 Cross-operator data sharing remains limited despite fraud-prevention benefits. Privacy regulations and competitive concerns restrict collaboration on account-level fraud intelligence, though industry groups are exploring anonymized pattern-sharing agreements. Expect regulatory momentum toward mandatory fraud-data-sharing frameworks in 2027, particularly across European and Commonwealth markets.
 
 Operators implementing ML-enhanced compliance tools report 15-22% fraud-loss reduction within six months of deployment, with payback periods typically under 18 months. This ROI profile has accelerated vendor adoption, with compliance platforms now standard across tier-one operator technology stacks. Mid-tier and regional operators lag in deployment, representing ongoing market opportunity for compliance vendors targeting 2027 sales cycles.`,
-    featuredImage: "/images/articles/compliance-platforms-fraud-detection-machine-learning-2026.png",
+    featuredImage: "/images/articles/compliance-platforms-fraud-detection-machine-learning-2026.jpg",
     author: AUTHORS[6],
     publishedAt: "2026-11-22T08:30:00Z",
     category: "industry-services",
