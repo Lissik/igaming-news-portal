@@ -72696,7 +72696,7 @@ EEGS is drawing over **350 delegates** from more than **25 jurisdictions** acros
 Passes are still available via the EEGS registration page at [eegamingsummit.com/tickets-2026](https://eegamingsummit.com/tickets-2026/).
 
 *Inter Expo Center, Sofia, Bulgaria — November 25–26, 2026*`,
-    featuredImage: "/images/articles/bege-eegs-2026-sofia-event-starts-tomorrow.jpg",
+    featuredImage: "/images/articles/bege-eggs-fashion-tv-sofia-november-2026-preview.jpg",
     author: AUTHORS[0],
     publishedAt: "2026-11-24T08:30:00Z",
     category: "conferences-events",
