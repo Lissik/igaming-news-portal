@@ -72719,6 +72719,806 @@ Passes are still available via the EEGS registration page at [eegamingsummit.com
     metaDescription: "BEGE and EEGS 2026 open in Sofia on November 25. Full Day 1 and Day 2 conference agenda, Fashion TV Gaming Group cornerstone role, and what to expect on the exhibition floor.",
     likes: 3,
     comments: [],
+  },
+
+  {
+    id: "1519",
+    slug: "ny-prediction-market-kalshi-ruling-2026",
+    language: "en",
+    translationGroupId: "tg-1519",
+    title: "NY Judge Blocks Kalshi Ban as Prediction Market Bill Gains Traction 2026",
+    excerpt: "New York judge blocks AG's attempt to shut down Kalshi as lawmakers simultaneously advance prediction market legislation.",
+    content: `## Court Halts Kalshi Enforcement Push
+
+Judge Melissa Crane has rejected a temporary restraining order (TRO) filed by the New York Attorney General seeking to immediately halt Kalshi's operations in New York State. The ruling represents a significant legal setback for enforcement efforts and prevents an emergency injunction that could have forced the prediction market platform offline.
+
+## Legislative Momentum Builds
+
+In a development that underscores the evolving political landscape around prediction markets, a New York State Senator introduced a bill on the same day as the court ruling that would establish a formal regulatory framework for prediction market operations. The legislative proposal suggests state policymakers are exploring licensing and oversight mechanisms rather than outright prohibition.
+
+## What This Means
+
+The combination of judicial pushback and legislative interest signals potential recalibration in how New York approaches digital prediction markets. The court's decision to block the TRO challenges the AG's characterization of Kalshi's services as unlicensed gambling, while the Senate bill indicates recognition that prediction markets may warrant regulatory legitimacy rather than enforcement action.
+
+Operators in the space are watching closely to see whether New York will join other jurisdictions in creating opt-in regulatory regimes, or whether the conflicting signals reflect deeper disagreement within state government about the appropriate policy approach.
+
+## What to Watch
+
+Focus on whether the Senate bill gains co-sponsor traction and committee hearings, and whether the AG's office appeals Judge Crane's ruling or modifies its enforcement strategy. Additional court filings from either party would indicate escalation or retreat.`,
+    featuredImage: "/images/articles/ny-prediction-market-kalshi-ruling-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t11288", label: "prediction-markets", slug: "prediction-markets" },
+      { id: "t11289", label: "regulation", slug: "regulation" },
+      { id: "t11290", label: "New York", slug: "new-york" },
+      { id: "t11291", label: "Kalshi", slug: "kalshi" },
+      { id: "t11292", label: "legal-action", slug: "legal-action" },
+      { id: "t11293", label: "market-access", slug: "market-access" },
+      { id: "t11294", label: "compliance", slug: "compliance" },
+      { id: "t11295", label: "fintech-regulation", slug: "fintech-regulation" },
+    ],
+    sourceName: "iGamingBusiness",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "NY Judge Blocks Kalshi Ban as Prediction Market Bill Gains Traction 2026 | iGaming Pulse",
+    metaDescription: "New York judge blocks AG's attempt to shut down Kalshi as lawmakers simultaneously advance prediction market legislation.",
+    likes: 18,
+    comments: [],
+  },
+
+  {
+    id: "1520",
+    slug: "fast-betting-content-sportsbook-vertical-2026",
+    language: "en",
+    translationGroupId: "tg-1520",
+    title: "Fast Betting Content Evolves From Filler to Core Sportsbook Revenue Driver",
+    excerpt: "Fast betting content has matured from filler programming to a dedicated revenue-generating vertical in competitive sportsbooks.",
+    content: `## The Professionalization of Fast Betting
+
+Fast betting content—encompassing rapid-cycle events like esports competitions, virtual basketball, and digital football matches—has undergone a fundamental repositioning within sportsbook product hierarchies. What began as supplementary content designed to occupy dead time between traditional sports fixtures has evolved into a recognized vertical with distinct operational, marketing, and compliance requirements.
+
+Peter Camden, director of fast betting content at Oddin.gg, notes that the shift reflects both operator demand for consistent wagering opportunities and customer appetite for high-frequency betting experiences. "Operators now recognize this isn't just bridge content," Camden explained, emphasizing that successful sportsbooks are investing dedicated resources into fast betting curation, odds compilation, and promotion.
+
+## Structural Changes in Product Strategy
+
+The evolution has triggered changes in how operators approach product planning. Rather than treating fast betting as an afterthought, leading sportsbooks now:
+
+- Allocate dedicated technology resources to fast betting odds and settlement systems
+- Develop specialized marketing campaigns targeting fast-betting customer segments
+- Invest in content partnerships with esports and virtual sports producers
+- Create separate bonus structures and retention mechanics optimized for high-frequency players
+
+Operators report that fast betting customers often exhibit different behavioral patterns than traditional sports bettors—shorter session lengths, higher bet frequency, and distinct sport preferences. Understanding these patterns has become critical for customer segmentation and lifetime value optimization.
+
+## Market Dynamics and Competitive Positioning
+
+The industry-wide recognition of fast betting as a core vertical has intensified competition among content suppliers and odds providers. Operators seeking differentiation are increasingly evaluating which fast betting verticals to emphasize—some prioritizing esports, others focusing on virtual sports or rapid-resolution events.
+
+This fragmentation creates both opportunity and risk. Operators with sophisticated fast betting strategies can capture market share among younger, digitally-native customer segments. Conversely, sportsbooks that underinvest in this category risk losing engagement with cohorts that prefer high-frequency wagering experiences.
+
+## Compliance and Regulatory Considerations
+
+As fast betting matures, regulatory bodies are beginning to focus on this segment with the same scrutiny applied to traditional sports betting. Settlement transparency, odds accuracy, and responsible gambling safeguards all require dedicated compliance infrastructure. Operators leveraging third-party suppliers must ensure those partners maintain robust compliance frameworks.`,
+    featuredImage: "/images/articles/fast-betting-content-sportsbook-vertical-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t11296", label: "fast-betting", slug: "fast-betting" },
+      { id: "t11297", label: "esports", slug: "esports" },
+      { id: "t11298", label: "sportsbook-operations", slug: "sportsbook-operations" },
+      { id: "t11299", label: "content-strategy", slug: "content-strategy" },
+      { id: "t11300", label: "ebasketball", slug: "ebasketball" },
+      { id: "t11301", label: "efootball", slug: "efootball" },
+      { id: "t11302", label: "operator-tools", slug: "operator-tools" },
+      { id: "t11303", label: "engagement", slug: "engagement" },
+    ],
+    sourceName: "iGamingBusiness",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Fast Betting Content Evolves From Filler to Core Sportsbook Revenue Driver | iGaming Pulse",
+    metaDescription: "Fast betting content has matured from filler programming to a dedicated revenue-generating vertical in competitive sportsbooks.",
+    likes: 21,
+    comments: [],
+  },
+
+  {
+    id: "1521",
+    slug: "early-dialogue-compliance-gaps-wyzia-2026",
+    language: "en",
+    translationGroupId: "tg-1521",
+    title: "Early Regulator Dialogue Key to Bridging Compliance Gaps, Wyzia COO Says",
+    excerpt: "Wyzia's COO argues early regulator engagement helps payment providers avoid costly compliance gaps and enforcement actions.",
+    content: `## The Case for Proactive Engagement
+
+Cliff Nywening, chief operating officer of Wyzia—a payment infrastructure provider serving the Canadian iGaming sector—contends that many compliance failures stem not from intentional misconduct but from inadequate communication between operators and regulators during the product development and deployment phases.
+
+"Organizations often wait until they're fully operational to engage with regulators, only to discover their systems don't meet evolving expectations," Nywening said. "By that point, remediation is exponentially more expensive and disruptive."
+
+Wyzia's approach reflects a broader shift within payment infrastructure providers toward compliance-first product design, underpinned by continuous dialogue with regulatory bodies across multiple jurisdictions.
+
+## Practical Benefits of Early Collaboration
+
+Nywening identifies several concrete benefits to early regulator engagement:
+
+**Reduced Remediation Costs**: Issues identified during product development are typically less expensive to fix than those requiring system overhauls post-launch.
+
+**Clearer Expectations**: Direct conversations with regulators clarify specific requirements, reducing interpretation risk and costly misalignment.
+
+**Faster Market Entry**: Operators with pre-approved compliance frameworks can achieve regulatory sign-off more quickly, accelerating time-to-market.
+
+**Lower Enforcement Risk**: Demonstrating good-faith collaboration with authorities reduces the likelihood of aggressive enforcement actions.
+
+## Implementation Challenges
+
+While the logic of early engagement is sound, implementation obstacles persist. Regulatory bodies often lack dedicated resources for pre-implementation consultations, and their guidance can shift as market conditions evolve. Payment providers must navigate multiple jurisdictions with varying compliance philosophies, complicating standardized approaches.
+
+Additionally, competitive dynamics sometimes discourage transparency—operators fear that revealing product details to regulators might disadvantage them against competitors. Wyzia's experience suggests these concerns, while understandable, often prove counterproductive.
+
+## Industry Adoption and Future Outlook
+
+Wyzia's advocacy for structured early dialogue reflects broader movement within payment infrastructure toward compliance enablement rather than merely compliance monitoring. As regulatory bodies in Canada, Ontario, and other provinces expand iGaming oversight, the distinction between operators who engage proactively with regulators and those who react to enforcement pressure is likely to widen.
+
+For payment providers serving iGaming operators, the message is clear: compliance expertise and regulatory intelligence have become core value propositions, not ancillary services.`,
+    featuredImage: "/images/articles/early-dialogue-compliance-gaps-wyzia-2026.png",
+    author: AUTHORS[5],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "payments-fintech",
+    tags: [
+      { id: "t11304", label: "compliance", slug: "compliance" },
+      { id: "t11305", label: "payments", slug: "payments" },
+      { id: "t11306", label: "fintech", slug: "fintech" },
+      { id: "t11307", label: "regulation", slug: "regulation" },
+      { id: "t11308", label: "Canada", slug: "canada" },
+      { id: "t11309", label: "operator-relations", slug: "operator-relations" },
+      { id: "t11310", label: "risk-management", slug: "risk-management" },
+      { id: "t11311", label: "enforcement", slug: "enforcement" },
+    ],
+    sourceName: "iGamingBusiness",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Early Regulator Dialogue Key to Bridging Compliance Gaps, Wyzia COO Says | iGaming Pulse",
+    metaDescription: "Wyzia's COO argues early regulator engagement helps payment providers avoid costly compliance gaps and enforcement actions.",
+    likes: 24,
+    comments: [],
+  },
+
+  {
+    id: "1522",
+    slug: "illegal-gambling-europe-91-billion-2025",
+    language: "en",
+    translationGroupId: "tg-1522",
+    title: "Illegal European Gambling Hit €91.6B in 2025, Report Urges Payment Crackdown",
+    excerpt: "Illegal gambling operators generated €91.6 billion across Europe in 2025, prompting industry calls for payment-flow enforcement.",
+    content: `## Illegal Gambling Market Reaches Record €91.6 Billion in Europe
+
+The underground gambling industry across Europe has reached an alarming milestone, generating €91.6 billion in revenue during 2025, according to a comprehensive new report that has reignited calls for tougher enforcement measures against unlicensed operators.
+
+The figures underscore the persistent challenge facing European regulators and licensed operators, who argue that illegal gambling platforms continue to proliferate despite ongoing efforts to curb their operations. The scale of the underground market—which operates outside regulatory frameworks and consumer protection safeguards—has prompted industry leaders to push for more aggressive intervention strategies, particularly targeting the financial infrastructure that sustains these illicit operations.
+
+## Payment Systems Under Scrutiny
+
+The European Casino Association (ECA), which represents licensed gambling operators across the continent, has identified payment processing as a critical vulnerability in efforts to combat illegal gambling. In response to the latest figures, ECA Chairman Erwin Van Lambaart has issued a stark warning about the need to disrupt financial flows to unlicensed operators.
+
+"Illegal gambling operators depend entirely on their ability to move money," Van Lambaart stated, emphasizing that targeting payment channels represents the most effective strategy for undermining the business models of rogue platforms. By restricting access to legitimate financial infrastructure, regulators could potentially force illegal operators offline and redirect consumer spending toward licensed, regulated alternatives.
+
+The call for a payment-focused crackdown reflects growing recognition that traditional enforcement approaches—such as domain seizures and criminal prosecutions—have proven insufficient to stem the tide of illegal gambling. While such measures may disrupt individual operators temporarily, unlicensed platforms often resurface under different branding or jurisdictions, allowing the underground market to maintain its momentum.
+
+## Regulatory Gaps Enable Underground Growth
+
+Europe's fragmented regulatory landscape has inadvertently created an environment where illegal gambling can flourish. With 27 EU member states plus additional European nations each maintaining distinct gambling frameworks, inconsistencies in enforcement and licensing requirements create pathways for unlicensed operators to exploit.
+
+Some jurisdictions maintain strict licensing regimes with comprehensive player protections, while others have more permissive frameworks or enforcement gaps. This regulatory patchwork allows illegal operators to target consumers in heavily regulated markets while maintaining servers and payment processing in jurisdictions with weaker oversight.
+
+The €91.6 billion figure represents not only lost tax revenue for European governments but also highlights the scale of consumer exposure to unregulated platforms. Players using illegal gambling services typically lack access to crucial protections including responsible gambling tools, deposit limits, self-exclusion mechanisms, and dispute resolution processes available through licensed operators.
+
+## Consumer Protection Concerns Mount
+
+Beyond the financial implications, the thriving illegal gambling market exposes millions of European consumers to significant risks. Unlicensed platforms operate without regulatory oversight, meaning there are no mandatory standards for fair game outcomes, secure data handling, or timely payouts.
+
+Consumers who experience disputes with illegal operators have no recourse to gambling regulators or independent arbitration services. This absence of accountability has led to documented cases of players losing funds without compensation when platforms unexpectedly cease operations or refuse legitimate withdrawal requests.
+
+The situation becomes particularly acute for vulnerable populations, including problem gamblers and younger players. Licensed operators must implement mandatory responsible gambling features and age verification protocols. Illegal platforms, by contrast, operate without such safeguards, potentially facilitating gambling addiction and underage participation.
+
+## International Cooperation Remains Limited
+
+Despite the magnitude of the illegal gambling problem, international cooperation among European nations remains fragmented. While the European Commission and various member states have launched initiatives to improve coordination, enforcement actions often lack the cross-border coordination necessary to effectively target unlicensed operators that deliberately distribute their operations across multiple jurisdictions.
+
+The ECA's emphasis on payment system intervention reflects recognition that financial regulation may offer more leverage than traditional enforcement approaches. Many major banks and payment processors already maintain policies prohibiting transactions with known unlicensed gambling operators. However, inconsistent implementation and the emergence of alternative payment methods—including cryptocurrency and unregulated fintech platforms—have created loopholes that illegal operators continue to exploit.
+
+## Industry Calls for Coordinated Action
+
+Licensed operators and their representative organizations are intensifying pressure on European regulators and financial authorities to implement coordinated strategies targeting payment flows. The ECA's latest statement represents part of a broader industry push to position payment system restrictions as the linchpin of effective illegal gambling enforcement.
+
+Proponents of this approach argue that by requiring payment processors, banks, and financial institutions to implement stricter verification procedures and transaction monitoring for gambling-related activities, regulators can create meaningful friction for illegal operators without requiring them to pursue individual enforcement actions across dozens of jurisdictions.
+
+Such measures would likely require coordination at the European Union level, potentially through updates to anti-money laundering directives or new gambling-specific financial regulations. However, any such initiatives would need to carefully balance enforcement objectives against legitimate banking and payment processing activities in regulated gambling markets.
+
+## Looking Forward
+
+The €91.6 billion illegal gambling revenue figure for 2025 suggests that existing regulatory and enforcement strategies have been insufficient to protect European consumers or preserve market share for licensed operators. As the underground market continues to generate substantial revenue, pressure will likely intensify on European policymakers to implement more aggressive interventions.
+
+Whether coordinated payment system restrictions can meaningfully reduce illegal gambling activity remains uncertain. However, with traditional enforcement approaches yielding limited results, targeting the financial infrastructure that sustains unlicensed operators represents the most promising avenue for future regulatory action across Europe.`,
+    featuredImage: "/images/articles/illegal-gambling-europe-91-billion-2025.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t11312", label: "illegal-gambling", slug: "illegal-gambling" },
+      { id: "t11313", label: "Europe", slug: "europe" },
+      { id: "t11314", label: "enforcement", slug: "enforcement" },
+      { id: "t11315", label: "payment-regulation", slug: "payment-regulation" },
+      { id: "t11316", label: "ECA", slug: "eca" },
+      { id: "t11317", label: "unlicensed-operators", slug: "unlicensed-operators" },
+      { id: "t11318", label: "market-integrity", slug: "market-integrity" },
+      { id: "t11319", label: "compliance", slug: "compliance" },
+    ],
+    sourceName: "iGamingBusiness",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Illegal European Gambling Hit €91.6B in 2025, Report Urges Payment Crackdown | iGaming Pulse",
+    metaDescription: "Illegal gambling operators generated €91.6 billion across Europe in 2025, prompting industry calls for payment-flow enforcement.",
+    likes: 19,
+    comments: [],
+  },
+
+  {
+    id: "1523",
+    slug: "morongo-band-sandoval-casino-leader-2026",
+    language: "en",
+    translationGroupId: "tg-1523",
+    title: "Morongo Band Appoints Damon Sandoval as Casino Operations Leader in 2026",
+    excerpt: "Morongo Band elevates Damon Sandoval to leadership of casino operations across multiple tribal gaming properties.",
+    content: `The Morongo Band of Mission Indians has named Damon Sandoval to a leadership position overseeing operations across two of its casino properties. Sandoval previously served as tribal vice-chairman and brings direct casino management experience from his prior role managing Casino Morongo.
+
+The appointment reflects organizational restructuring aimed at consolidating oversight of the tribe's gaming portfolio. Sandoval's elevation from his previous position suggests the Morongo Band is prioritizing operational continuity and leveraging existing internal expertise rather than seeking external leadership.
+
+Tribal gaming properties operate under distinct regulatory frameworks compared to commercial casinos, with governance structures that often intertwine business operations with tribal government functions. Sandoval's experience navigating these dynamics, combined with his prior gaming management background, positions him to manage operational challenges specific to tribal gaming contexts.
+
+The Morongo Band's gaming properties have generated significant economic impact for the tribe and surrounding communities, making leadership quality central to sustained performance. The appointment indicates the tribe's confidence in Sandoval's ability to manage multiple properties while maintaining tribal governance standards and financial objectives.`,
+    featuredImage: "/images/articles/morongo-band-sandoval-casino-leader-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t11320", label: "tribal-gaming", slug: "tribal-gaming" },
+      { id: "t11321", label: "leadership", slug: "leadership" },
+      { id: "t11322", label: "casino-operations", slug: "casino-operations" },
+      { id: "t11323", label: "Morongo", slug: "morongo" },
+      { id: "t11324", label: "management-appointments", slug: "management-appointments" },
+      { id: "t11325", label: "California", slug: "california" },
+      { id: "t11326", label: "gaming-properties", slug: "gaming-properties" },
+    ],
+    sourceName: "iGamingBusiness",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Morongo Band Appoints Damon Sandoval as Casino Operations Leader in 2026 | iGaming Pulse",
+    metaDescription: "Morongo Band elevates Damon Sandoval to leadership of casino operations across multiple tribal gaming properties.",
+    likes: 23,
+    comments: [],
+  },
+
+  {
+    id: "1524",
+    slug: "videoslots-aml-penalty-sweden-2026",
+    language: "en",
+    translationGroupId: "tg-1524",
+    title: "Swedish Court Upholds SEK4M AML Penalty Against Videoslots 2026",
+    excerpt: "Videoslots loses appeal as Swedish court maintains SEK4M penalty for lax anti-money-laundering controls and inadequate customer verification procedures.",
+    content: `## Swedish Court Rejects Videoslots AML Appeal
+
+The Jönköping appeal court in Sweden has upheld a SEK4 million penalty and formal warning against Videoslots for systemic failures in anti-money-laundering compliance. The court rejected the operator's challenge to the penalty, finding that the company's approach to AML risks was characterized as 'almost indifferent'—language that signals judicial frustration with what regulators viewed as deliberate or reckless non-compliance.
+
+## Context
+
+Videoslots initially received the fine and warning from Swedish gambling authorities, Spelinspektionen, over deficiencies in its customer verification processes and transaction monitoring systems. The operator subsequently appealed the decision, arguing that the penalties were disproportionate or that it had taken sufficient remedial steps. The appeal court disagreed, affirming the regulator's assessment that the company had failed to implement adequate controls to identify and prevent money-laundering activity.
+
+## What This Means
+
+The decision carries significant weight across European gambling jurisdictions, as Swedish courts' interpretations of compliance obligations influence regulatory enforcement elsewhere. For operators licensed in or targeting Nordic markets, the ruling makes clear that passive or inadequate AML frameworks—even if the operator claims to have improved procedures post-enforcement action—will not succeed on appeal.
+
+The language used by the court ('almost indifferent') suggests that Videoslots' defense centered on procedural or technical arguments rather than demonstrating genuine systemic improvements. This distinction matters: regulators and courts increasingly expect operators to show proactive, documented AML programs rather than reactive compliance patches.
+
+## What to Watch
+
+Operators should review their own AML documentation and customer verification audit trails to ensure they demonstrate active, not passive, compliance postures. The ruling may also influence how other European regulators frame enforcement actions, particularly in markets where court challenges to penalties are common. Additionally, watch for potential regulatory tightening in Sweden around transaction monitoring thresholds and customer due diligence protocols for high-risk jurisdictions.`,
+    featuredImage: "/images/articles/videoslots-aml-penalty-sweden-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t11327", label: "AML compliance", slug: "aml-compliance" },
+      { id: "t11328", label: "anti-money-laundering", slug: "anti-money-laundering" },
+      { id: "t11329", label: "Videoslots", slug: "videoslots" },
+      { id: "t11330", label: "Sweden", slug: "sweden" },
+      { id: "t11331", label: "regulatory penalty", slug: "regulatory-penalty" },
+      { id: "t11332", label: "financial crime", slug: "financial-crime" },
+      { id: "t11333", label: "gaming enforcement", slug: "gaming-enforcement" },
+      { id: "t11334", label: "legal compliance", slug: "legal-compliance" },
+      { id: "t11335", label: "Nordic regulation", slug: "nordic-regulation" },
+      { id: "t11336", label: "operator accountability", slug: "operator-accountability" },
+    ],
+    sourceName: "igamingbusiness.com",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Swedish Court Upholds SEK4M AML Penalty Against Videoslots 2026 | iGaming Pulse",
+    metaDescription: "Videoslots loses appeal as Swedish court maintains SEK4M penalty for lax anti-money-laundering controls and inadequate customer verification procedures.",
+    likes: 7,
+    comments: [],
+  },
+
+  {
+    id: "1525",
+    slug: "italy-betting-tax-slot-levy-2026",
+    language: "en",
+    translationGroupId: "tg-1525",
+    title: "Italy Rejects Slot Machine Relief, Advances Betting Tax 2026",
+    excerpt: "Italy's parliament blocks slot machine tax relief while advancing higher taxation on online sports betting and gaming platforms as part of budget discussions.",
+    content: `## Italian Parliament Blocks Slot Relief, Advances Betting Tax
+
+Italian lawmakers have rejected a Lega-backed proposal to delay or reduce taxes on slot machines while advancing a Forza Italia amendment to increase taxation on sports betting and online gaming operations. The parliamentary moves, made during scrutiny of Italy's 2027 budget, reflect differing regulatory priorities within the government coalition.
+
+## Context
+
+Italy's gaming sector has long faced tension between land-based machine operators and digital betting platforms regarding tax burden distribution. The slot machine industry, already under pressure from changing consumer habits and existing levies, sought relief through the Lega amendment. Simultaneously, Forza Italia has pushed for higher tax rates on online gambling verticals, viewing them as an emerging revenue source.
+
+The rejection of slot relief while advancing betting tax increases suggests that parliamentary consensus favors revenue optimization in digital channels over support for traditional gaming infrastructure.
+
+## What This Means
+
+Online sports betting and iGaming operators operating in Italy should anticipate higher tax liabilities effective 2027. The decision reinforces Italy's strategic shift toward digital taxation—a pattern seen across mature European markets where brick-and-mortar gaming faces structural decline.
+
+For land-based operators, the failed relief amendment signals that statutory support is unlikely in the near term. Equipment suppliers and machine operators may need to accelerate cost optimization or pursue alternative markets.
+
+## What to Watch
+
+Monitor Italian parliamentary proceedings for the specific tax rate increases on sports betting and online gaming once the 2027 budget passes final stages. Operators should also track whether Forza Italia's tax proposal includes carve-outs for licensed versus unlicensed operators, as this could affect competitive positioning within Italy's regulated market.`,
+    featuredImage: "/images/articles/italy-betting-tax-slot-levy-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t11337", label: "Italy", slug: "italy" },
+      { id: "t11338", label: "taxation", slug: "taxation" },
+      { id: "t11339", label: "slot machines", slug: "slot-machines" },
+      { id: "t11340", label: "sports betting", slug: "sports-betting" },
+      { id: "t11341", label: "online gaming", slug: "online-gaming" },
+      { id: "t11342", label: "tax policy", slug: "tax-policy" },
+      { id: "t11343", label: "budget", slug: "budget" },
+      { id: "t11344", label: "gaming levy", slug: "gaming-levy" },
+      { id: "t11345", label: "regulatory finance", slug: "regulatory-finance" },
+      { id: "t11346", label: "European regulation", slug: "european-regulation" },
+    ],
+    sourceName: "igamingbusiness.com",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Italy Rejects Slot Machine Relief, Advances Betting Tax 2026 | iGaming Pulse",
+    metaDescription: "Italy's parliament blocks slot machine tax relief while advancing higher taxation on online sports betting and gaming platforms as part of budget discussions.",
+    likes: 11,
+    comments: [],
+  },
+
+  {
+    id: "1526",
+    slug: "inter-milan-club-brugge-betsson-sponsorship-2026",
+    language: "en",
+    translationGroupId: "tg-1526",
+    title: "Dutch Regulator Forces Inter Milan, Club Brugge to Drop Betsson Sponsorship 2026",
+    excerpt: "Dutch gambling regulator blocks Inter Milan and Club Brugge from wearing Betsson.Foundation sponsorship, ruling that foundation branding still promotes gambling services.",
+    content: `## Dutch Regulator Blocks Betsson Football Sponsorship Deal
+
+The Dutch gambling regulator has forced Inter Milan and Club Brugge to remove proposed Betsson.Foundation shirt sponsorship after determining that the foundation naming convention failed to adequately disconnect the branding from gambling promotion. The regulator ruled that despite the 'foundation' nomenclature, the sponsorship remained recognizably linked to Betsson's gambling operations and would constitute prohibited gambling advertising under Dutch law.
+
+## Context
+
+Betsson sought to sponsor the two clubs' shirts through its charitable foundation arm, apparently betting that foundation-based naming would satisfy Dutch advertising restrictions on gambling marketing. The Dutch regulator, however, applied substance-over-form analysis and concluded that the arrangement was fundamentally a gambling operator using a foundation vehicle to maintain high-visibility sports marketing presence.
+
+The decision reflects broader European regulatory trends where authorities increasingly scrutinize indirect or structural approaches designed to circumvent advertising rules.
+
+## What This Means
+
+For operators, the ruling signals that European regulators will not accept naming structures or charitable vehicle arrangements if they serve primarily to bypass gambling advertising restrictions. A foundation cannot function as a regulatory workaround if its primary benefactor and driving commercial interest is a gambling company.
+
+Sports properties and clubs must also reassess their sponsorship vetting processes. Due diligence teams should assume that regulators will conduct source-of-funds and beneficial ownership analysis on any sponsorship proposal, regardless of how it is titled.
+
+## What to Watch
+
+Monitor for similar regulatory actions in other European jurisdictions, particularly France, Germany, and Spain, where gambling advertising restrictions are similarly strict. Expect operators to shift toward alternative sports marketing approaches that do not rely on front-of-shirt or prominent jersey placement. The decision may also prompt industry consultation on what forms of sports involvement remain permissible for gambling operators under European regulatory frameworks.`,
+    featuredImage: "/images/articles/inter-milan-club-brugge-betsson-sponsorship-2026.png",
+    author: AUTHORS[3],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "marketing-traffic",
+    tags: [
+      { id: "t11347", label: "sponsorship", slug: "sponsorship" },
+      { id: "t11348", label: "gambling advertising", slug: "gambling-advertising" },
+      { id: "t11349", label: "Netherlands", slug: "netherlands" },
+      { id: "t11350", label: "sports marketing", slug: "sports-marketing" },
+      { id: "t11351", label: "regulatory enforcement", slug: "regulatory-enforcement" },
+      { id: "t11352", label: "brand compliance", slug: "brand-compliance" },
+      { id: "t11353", label: "football sponsorship", slug: "football-sponsorship" },
+      { id: "t11354", label: "Betsson", slug: "betsson" },
+      { id: "t11355", label: "advertising restrictions", slug: "advertising-restrictions" },
+      { id: "t11356", label: "marketing regulation", slug: "marketing-regulation" },
+    ],
+    sourceName: "igamingbusiness.com",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Dutch Regulator Forces Inter Milan, Club Brugge to Drop Betsson Sponsorship 2026 | iGaming Pulse",
+    metaDescription: "Dutch gambling regulator blocks Inter Milan and Club Brugge from wearing Betsson.Foundation sponsorship, ruling that foundation branding still promotes gambling",
+    likes: 10,
+    comments: [],
+  },
+
+  {
+    id: "1527",
+    slug: "entain-cvc-cee-divestiture-2026",
+    language: "en",
+    translationGroupId: "tg-1527",
+    title: "Entain Pursues CVC Exit From Central Eastern European Operations 2026",
+    excerpt: "Entain negotiates sale of remaining Central European operations to CVC Capital Partners as part of ongoing portfolio realignment and regional exit strategy.",
+    content: `## Entain in Talks to Exit CEE Region Via CVC Deal
+
+Entain is reportedly negotiating with investment firm CVC Capital Partners to offload its remaining Central and Eastern European business, according to sources familiar with the discussions. The potential transaction would represent another significant step in Entain's phased withdrawal from the CEE region and reflects the operator's broader strategic refocus toward higher-priority markets.
+
+## Context
+
+Entain has been systematically reducing its CEE footprint over the past two years through selective asset sales and business rationalization. The region, while containing growing regulated markets, has proven operationally complex and capital-intensive relative to returns in Entain's core Western European and UK/Ireland markets. CVC Capital Partners, a major private equity player with substantial gaming sector exposure, has been actively acquiring gaming assets across Europe.
+
+## What This Means
+
+The reported deal signals that Entain views CEE operations as non-core and is willing to accept buyer valuations that reflect the region's regulatory diversity and operational overhead. For CVC, acquisition of Entain's CEE platform suggests confidence in the region's long-term licensing stability and the potential for operational leverage across multiple jurisdictions.
+
+The transaction would likely consolidate CEE assets under CVC's portfolio umbrella, potentially creating a mid-market gaming operator with footprint across Poland, Czech Republic, Romania, and other regulated CEE markets. This consolidation model—combining multiple regional licenses and customer bases—has historically proven attractive to private equity investors seeking EBITDA growth through operational efficiency.
+
+## What to Watch
+
+Monitor regulatory filings in individual CEE jurisdictions for formal acquisition notifications and licensing transfer requirements. CVC's approach to post-acquisition integration—whether it maintains separate brands or consolidates under unified operating platforms—will signal broader private equity strategy in European gaming.
+
+Also watch for Entain's deployment of divestiture proceeds. The company may accelerate investment in higher-growth verticals such as sports betting, esports, or iGaming technology platforms, or use capital for shareholder returns. Competitor positioning in Entain's retained markets may shift as the company focuses resources on fewer geographies.`,
+    featuredImage: "/images/articles/entain-cvc-cee-divestiture-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "operators",
+    tags: [
+      { id: "t11357", label: "Entain", slug: "entain" },
+      { id: "t11358", label: "CVC Capital Partners", slug: "cvc-capital-partners" },
+      { id: "t11359", label: "M&A", slug: "m-a" },
+      { id: "t11360", label: "portfolio divestiture", slug: "portfolio-divestiture" },
+      { id: "t11361", label: "CEE", slug: "cee" },
+      { id: "t11362", label: "Central Europe", slug: "central-europe" },
+      { id: "t11363", label: "strategic exit", slug: "strategic-exit" },
+      { id: "t11364", label: "operator consolidation", slug: "operator-consolidation" },
+      { id: "t11365", label: "private equity", slug: "private-equity" },
+      { id: "t11366", label: "gaming assets", slug: "gaming-assets" },
+    ],
+    sourceName: "igamingbusiness.com",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Entain Pursues CVC Exit From Central Eastern European Operations 2026 | iGaming Pulse",
+    metaDescription: "Entain negotiates sale of remaining Central European operations to CVC Capital Partners as part of ongoing portfolio realignment and regional exit strategy.",
+    likes: 9,
+    comments: [],
+  },
+
+  {
+    id: "1528",
+    slug: "portugal-online-gambling-net-gains-tax-2026",
+    language: "en",
+    translationGroupId: "tg-1528",
+    title: "Portugal Approves Net Gambling Tax on Online Betting Profits 2026",
+    excerpt: "Portugal's parliament endorses progressive taxation on net online gambling profits, treating player winnings as taxable personal income during 2027 budget review.",
+    content: `## Portugal Advances Personal Income Tax on Online Gambling Winnings
+
+Portugal's parliament has approved a proposal to tax net online gambling gains on a progressive personal income basis, according to discussions during the country's 2027 budget review. The measure would classify annual online betting profits as individual income subject to sliding-scale tax rates, marking a significant shift in how Portugal treats player winnings from regulated gambling platforms.
+
+## Context
+
+The proposal emerged as part of Portugal's broader fiscal policy review and reflects European-wide regulatory momentum toward capturing tax revenue from gaming winnings. Many European jurisdictions have historically treated gambling losses as non-deductible personal expenses while either ignoring winnings or applying flat rates. Portugal's progressive income tax approach represents a more aggressive revenue-generation model.
+
+## What This Means
+
+For players, the tax will apply to net gambling gains (wins minus losses) calculated on an annual basis, with rates scaling based on profit thresholds. This progressive structure incentivizes platforms to track and report player profitability metrics at year-end, requiring enhanced data infrastructure.
+
+For operators, the policy creates compliance and reporting obligations. Platforms will need to:
+
+- Maintain detailed win/loss records for each player across all games and betting products
+- Calculate annual net gains with precision to avoid disputes with tax authorities
+- Potentially serve as withholding agents for player taxes or provide comprehensive tax documentation to players
+- Implement system changes to track and report net gambling income by jurisdiction
+
+The progressive structure may also create regulatory complexity if different income brackets trigger different tax liabilities or if the government establishes thresholds below which reporting is not required.
+
+## What to Watch
+
+Monitor for regulatory guidance from Portuguese tax authorities on implementation mechanics, reporting timelines, and whether operators or players bear primary reporting responsibility. Additionally, track whether other European regulators adopt similar progressive taxation models, as this could signal a broader continental shift in how gambling winnings are fiscally treated.
+
+Watch for operator comments on compliance infrastructure costs and whether the policy may incentivize players to use unregulated platforms to avoid tax reporting—a secondary concern for regulators balancing revenue extraction with market integrity.`,
+    featuredImage: "/images/articles/portugal-online-gambling-net-gains-tax-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t11367", label: "Portugal", slug: "portugal" },
+      { id: "t11368", label: "taxation", slug: "taxation" },
+      { id: "t11369", label: "online gambling", slug: "online-gambling" },
+      { id: "t11370", label: "personal income tax", slug: "personal-income-tax" },
+      { id: "t11371", label: "budget", slug: "budget" },
+      { id: "t11372", label: "tax policy", slug: "tax-policy" },
+      { id: "t11373", label: "regulatory finance", slug: "regulatory-finance" },
+      { id: "t11374", label: "player taxation", slug: "player-taxation" },
+      { id: "t11375", label: "European regulation", slug: "european-regulation" },
+      { id: "t11376", label: "fiscal policy", slug: "fiscal-policy" },
+    ],
+    sourceName: "igamingbusiness.com",
+    sourceUrl: "https://igamingbusiness.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Portugal Approves Net Gambling Tax on Online Betting Profits 2026 | iGaming Pulse",
+    metaDescription: "Portugal's parliament endorses progressive taxation on net online gambling profits, treating player winnings as taxable personal income during 2027 budget revie",
+    likes: 17,
+    comments: [],
+  },
+
+  {
+    id: "1529",
+    slug: "iowa-cedar-crossing-casino-opens-20th-venue-2026",
+    language: "en",
+    translationGroupId: "tg-1529",
+    title: "Iowa's $275M Cedar Crossing Casino Opens as State's 20th Commercial Venue",
+    excerpt: "Cedar Crossing Casino opens in Cedar Rapids as Iowa's 20th state-licensed commercial venue with 700 slots and 22 table games.",
+    content: `## Iowa Adds to Gaming Portfolio with Cedar Crossing Launch
+
+Cedar Crossing Casino & Entertainment Center opened its doors in Cedar Rapids on November 24, bringing a fresh $275 million investment to Iowa's commercial gaming sector. The facility represents the state's 20th licensed commercial casino and marks continued geographic diversification beyond traditional gaming hubs.
+
+### Venue Specifications
+
+The 110,000-square-foot property features a gaming floor with 700 slot machines and 22 table games, positioning it as a mid-sized regional casino. The Entertainment Center component suggests a mixed-use approach beyond pure gaming, potentially including dining, entertainment, or hospitality amenities designed to extend player visit duration and frequency.
+
+### Market Significance
+
+Iowa's gaming market has matured considerably since the state's initial casino licensing wave. Cedar Crossing's opening underscores the viability of secondary-market casino development in the Midwest, where population centers outside major metros can sustain commercial gaming venues. The opening occurred as regional casino operators compete for discretionary entertainment spending across Iowa, Illinois, and neighboring states.
+
+### What This Means for Operators
+
+For integrated gaming platforms and sportsbooks, land-based casino openings generate player acquisition opportunities and reinforce the importance of omnichannel strategies. Cedar Crossing's customer base represents potential cross-sell targets for online sportsbooks and iGaming platforms seeking to establish brand presence in underserved markets. The venue's operational scale—700 machines is substantial enough to generate meaningful player data and insights while remaining manageable for single-property operations.
+
+Operators should monitor whether Cedar Crossing's success influences licensing decisions in other secondary Midwest markets, potentially affecting competitive dynamics and player liquidity across regional sportsbook platforms.`,
+    featuredImage: "/images/articles/iowa-cedar-crossing-casino-opens-20th-venue-2026.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t11377", label: "casino-opening", slug: "casino-opening" },
+      { id: "t11378", label: "Iowa-gaming", slug: "iowa-gaming" },
+      { id: "t11379", label: "commercial-casinos", slug: "commercial-casinos" },
+      { id: "t11380", label: "slot-machines", slug: "slot-machines" },
+      { id: "t11381", label: "table-games", slug: "table-games" },
+      { id: "t11382", label: "gaming-expansion", slug: "gaming-expansion" },
+      { id: "t11383", label: "Cedar-Rapids", slug: "cedar-rapids" },
+      { id: "t11384", label: "2026", slug: "2026" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Iowa's $275M Cedar Crossing Casino Opens as State's 20th Commercial Venue | iGaming Pulse",
+    metaDescription: "Cedar Crossing Casino opens in Cedar Rapids as Iowa's 20th state-licensed commercial venue with 700 slots and 22 table games.",
+    likes: 14,
+    comments: [],
+  },
+
+  {
+    id: "1530",
+    slug: "florida-ag-draftkings-ceo-personal-liability-2026",
+    language: "en",
+    translationGroupId: "tg-1530",
+    title: "Florida AG Seeks Personal Liability Against DraftKings CEO Over Gaming Operations",
+    excerpt: "Florida's Attorney General escalates enforcement by targeting DraftKings CEO Jason Robins personally over gaming operations amid voting control concerns.",
+    content: `## Florida Escalates Enforcement Against DraftKings Leadership
+
+Florida's regulatory apparatus has intensified its scrutiny of DraftKings, shifting focus from corporate entity compliance to personal liability of Chief Executive Jason Robins. The move represents a marked departure from traditional operator enforcement, which typically targets companies rather than individual executives.
+
+### The Voting Control Angle
+
+The Attorney General's case relies on a critical structural fact: Robins controls approximately 88% of DraftKings' voting power, giving him effective unilateral decision-making authority over major corporate actions. Florida regulators are using this concentrated control as the foundation for establishing personal accountability, arguing that such voting dominance makes the executive directly responsible for operational and compliance decisions.
+
+Investor disclosures about Robins' voting structure provide the regulatory roadmap. These documents, filed with securities regulators and available to public scrutiny, detail the extent of his control and have become evidentiary anchors for Florida's personal liability theory.
+
+### Implications for Operator Leadership
+
+This enforcement strategy diverges from historical regulatory practice and may signal a broader shift toward executive accountability across jurisdictions. If Florida succeeds in establishing personal liability precedent, other states could adopt similar approaches, fundamentally altering risk calculus for operators with concentrated control structures.
+
+The case raises structural questions for DraftKings and similarly positioned companies: Does concentrated voting power create material personal liability exposure? Should boards implement voting caps or oversight mechanisms to insulate executives from regulatory action? These questions will likely shape corporate governance discussions across the sportsbook industry.
+
+### What to Watch
+
+The outcome of Florida's case could reshape how operators structure leadership voting rights and corporate governance frameworks. If personal liability attaches to executive voting control, we may see industry-wide governance restructuring to distribute decision-making authority and limit individual liability exposure. Regulatory observers should monitor whether other states adopt similar enforcement tactics or whether this remains a Florida-specific approach tied to DraftKings' specific operational issues.`,
+    featuredImage: "/images/articles/florida-ag-draftkings-ceo-personal-liability-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t11385", label: "DraftKings", slug: "draftkings" },
+      { id: "t11386", label: "regulation", slug: "regulation" },
+      { id: "t11387", label: "personal-liability", slug: "personal-liability" },
+      { id: "t11388", label: "Florida", slug: "florida" },
+      { id: "t11389", label: "Jason-Robins", slug: "jason-robins" },
+      { id: "t11390", label: "enforcement", slug: "enforcement" },
+      { id: "t11391", label: "sportsbooks", slug: "sportsbooks" },
+      { id: "t11392", label: "2026", slug: "2026" },
+    ],
+    sourceName: "gamblinginsider.com",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Florida AG Seeks Personal Liability Against DraftKings CEO Over Gaming Operations | iGaming Pulse",
+    metaDescription: "Florida's Attorney General escalates enforcement by targeting DraftKings CEO Jason Robins personally over gaming operations amid voting control concerns.",
+    likes: 11,
+    comments: [],
+  },
+
+  {
+    id: "1531",
+    slug: "dutch-regulator-blocks-betsson-sponsorship-champions-league-2026",
+    language: "en",
+    translationGroupId: "tg-1531",
+    title: "Dutch Regulator Prohibits Betsson Branding in Champions League Matches",
+    excerpt: "Dutch regulators prohibited Betsson from displaying sponsorship branding during Champions League matches, restricting operator visibility in premium European sports.",
+    content: `The Dutch gambling authority has enforced a sponsorship restriction that prevents Betsson from displaying advertising during UEFA Champions League matches, marking another instance of European regulatory intervention against gambling operator sports visibility.
+
+The enforcement action specifically targeted Inter Milan's Champions League fixture against Feyenoord in Rotterdam, where Betsson branding was prohibited from appearing on sponsorship signage visible during broadcast and in-stadium displays. This direct intervention represents an escalation beyond standard regulatory oversight into active enforcement during live sporting events.
+
+## Regulatory Landscape Tightening
+
+The Netherlands has established itself as one of Europe's more restrictive jurisdictions regarding gambling advertising, particularly in high-visibility sports environments. This action aligns with broader European Union momentum toward stricter gambling commercial restrictions, following similar measures in other member states.
+
+Operators like Betsson must now navigate increasingly fragmented European sponsorship frameworks, where approval in one jurisdiction does not guarantee clearance in others. The regulatory environment has shifted from minimal restrictions to affirmative permission models, requiring pre-clearance of sports partnerships before engagement.
+
+## Impact on Operator Strategy
+
+For Betsson and competitors, the blocked sponsorship represents direct revenue loss and reduced brand visibility in premium entertainment contexts. Champions League matches reach tens of millions of European viewers across broadcast and digital platforms, making sponsorship presence valuable for operator market positioning.
+
+Operators must now conduct jurisdiction-specific regulatory audits before committing to sports sponsorships, adding compliance complexity and potentially increasing deal costs. Some operators may abandon high-profile European sports partnerships in favor of less-regulated markets or less restrictive advertising channels.`,
+    featuredImage: "/images/articles/dutch-regulator-blocks-betsson-sponsorship-champions-league-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t11393", label: "Betsson", slug: "betsson" },
+      { id: "t11394", label: "advertising-restrictions", slug: "advertising-restrictions" },
+      { id: "t11395", label: "sports-sponsorship", slug: "sports-sponsorship" },
+      { id: "t11396", label: "Netherlands", slug: "netherlands" },
+      { id: "t11397", label: "regulation", slug: "regulation" },
+      { id: "t11398", label: "Champions-League", slug: "champions-league" },
+      { id: "t11399", label: "2026", slug: "2026" },
+      { id: "t11400", label: "enforcement", slug: "enforcement" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Dutch Regulator Prohibits Betsson Branding in Champions League Matches | iGaming Pulse",
+    metaDescription: "Dutch regulators prohibited Betsson from displaying sponsorship branding during Champions League matches, restricting operator visibility in premium European sp",
+    likes: 10,
+    comments: [],
+  },
+
+  {
+    id: "1532",
+    slug: "churchgoers-online-gambling-rates-demographic-study-2026",
+    language: "en",
+    translationGroupId: "tg-1532",
+    title: "Study Reveals Churchgoers Engage Online Gambling at Twice the Rate",
+    excerpt: "New research finds regular churchgoers gamble online nearly twice as much as non-churchgoers, challenging industry demographic assumptions.",
+    content: `Research from the 2026 American Family Survey presents a counterintuitive finding about online gambling participation and religious affiliation: regular churchgoers engage in online gambling at approximately twice the rate of non-churchgoers, contradicting conventional wisdom about religious populations and gambling behavior.
+
+The study establishes a positive correlation between regular religious attendance and online gambling engagement, suggesting that traditional risk profiling based on religious demographics may be incomplete or misaligned with actual behavioral patterns.
+
+## Challenging Demographic Assumptions
+
+The gaming industry has historically relied on demographic segmentation that linked religious conservatism with lower gambling propensity. This research suggests such assumptions merit reconsideration. The data indicates that religious identity and gambling behavior operate independently or even inversely to conventional expectations.
+
+Possible explanatory factors include increased comfort with digital platforms among religious populations, improved online accessibility removing barriers to participation, or changing social attitudes toward online gambling within faith communities. The correlation does not establish causation, but the finding itself represents significant demographic insight for operator targeting and market positioning.
+
+## Operator Implications
+
+For sportsbooks and online gaming platforms, the research suggests that audience segments previously considered lower-propensity for gambling may actually represent high-engagement opportunities. Marketing teams should reconsider demographic targeting frameworks that exclude or deprioritize religious populations based on outdated behavioral assumptions.
+
+The finding also raises questions about responsible gambling outreach: if churchgoers engage online gambling at higher rates than assumed, do existing player protection mechanisms adequately serve this population? Operators may need to refine responsible gambling messaging and resource allocation based on updated demographic understanding.`,
+    featuredImage: "/images/articles/churchgoers-online-gambling-rates-demographic-study-2026.png",
+    author: AUTHORS[6],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "industry-services",
+    tags: [
+      { id: "t11401", label: "demographics", slug: "demographics" },
+      { id: "t11402", label: "player-behavior", slug: "player-behavior" },
+      { id: "t11403", label: "online-gambling", slug: "online-gambling" },
+      { id: "t11404", label: "religious-affiliation", slug: "religious-affiliation" },
+      { id: "t11405", label: "consumer-research", slug: "consumer-research" },
+      { id: "t11406", label: "market-segmentation", slug: "market-segmentation" },
+      { id: "t11407", label: "2026", slug: "2026" },
+      { id: "t11408", label: "United-States", slug: "united-states" },
+    ],
+    sourceName: "casino.org",
+    sourceUrl: "https://www.casino.org",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Study Reveals Churchgoers Engage Online Gambling at Twice the Rate | iGaming Pulse",
+    metaDescription: "New research finds regular churchgoers gamble online nearly twice as much as non-churchgoers, challenging industry demographic assumptions.",
+    likes: 8,
+    comments: [],
+  },
+
+  {
+    id: "1533",
+    slug: "ncpg-kalshi-deal-governance-oversight-concerns-2026",
+    language: "en",
+    translationGroupId: "tg-1533",
+    title: "Board Oversight Questions Linger Over NCPG's $2M Kalshi Partnership",
+    excerpt: "Governance disputes persist over NCPG's Kalshi partnership as Evergreen Council raises unanswered questions about board oversight and decision-making processes.",
+    content: `Governance tensions within the responsible gambling sector have surfaced publicly, with Evergreen Council on Problem Gambling asserting that concerns about board oversight of the National Council on Problem Gambling's $2 million Kalshi partnership remain unresolved two months after Evergreen's organizational withdrawal.
+
+Evergreen's statement, provided exclusively to industry observers, indicates that NCPG's decision-making process around the prediction market operator partnership lacked transparency and adequate stakeholder consultation. The withdrawal itself signals institutional disagreement over how major organizational partnerships should be vetted and approved.
+
+## The Governance Gap
+
+The dispute centers on fundamental board governance questions: How should responsible gambling organizations evaluate partnerships with gaming operators? What level of stakeholder input is required before major financial commitments? How should potential conflicts of interest be managed when funding involves gambling-adjacent technologies?
+
+Evergreen's concerns suggest NCPG did not adequately address these questions before committing to the Kalshi arrangement. The fact that concerns remain unresolved two months post-withdrawal indicates either ongoing institutional resistance to transparency or structural governance gaps that prevent adequate information-sharing among organizational leadership.
+
+## Implications for Operator Partnerships
+
+For operators considering partnerships with responsible gambling organizations, this dispute illustrates reputational and institutional risks. Partnerships lacking transparent governance frameworks and adequate stakeholder input can generate negative publicity and organizational instability, ultimately undermining the partnership's stated public health objectives.
+
+Operators investing in responsible gambling initiatives should require clear governance commitments, board-level accountability mechanisms, and transparent decision-making processes as partnership conditions. The NCPG-Kalshi situation demonstrates that public health partnerships require institutional rigor equivalent to corporate governance standards.`,
+    featuredImage: "/images/articles/ncpg-kalshi-deal-governance-oversight-concerns-2026.png",
+    author: AUTHORS[4],
+    publishedAt: "2026-11-25T08:30:00Z",
+    category: "regulation",
+    tags: [
+      { id: "t11409", label: "governance", slug: "governance" },
+      { id: "t11410", label: "responsible-gambling", slug: "responsible-gambling" },
+      { id: "t11411", label: "NCPG", slug: "ncpg" },
+      { id: "t11412", label: "Kalshi", slug: "kalshi" },
+      { id: "t11413", label: "board-oversight", slug: "board-oversight" },
+      { id: "t11414", label: "partnerships", slug: "partnerships" },
+      { id: "t11415", label: "industry-relations", slug: "industry-relations" },
+      { id: "t11416", label: "2026", slug: "2026" },
+    ],
+    sourceName: "gamblinginsider.com",
+    sourceUrl: "https://www.gamblinginsider.com",
+    featured: false,
+    trending: false,
+    sponsored: false,
+    seoTitle: "Board Oversight Questions Linger Over NCPG's $2M Kalshi Partnership | iGaming Pulse",
+    metaDescription: "Governance disputes persist over NCPG's Kalshi partnership as Evergreen Council raises unanswered questions about board oversight and decision-making processes.",
+    likes: 19,
+    comments: [],
   }
 ];
 
