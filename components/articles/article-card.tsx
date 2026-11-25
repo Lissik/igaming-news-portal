@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Heart } from "lucide-react";
 import { Article, CATEGORIES, formatDateShort } from "@/lib/data";
+import { ArticleLikesCount } from "./article-likes-count";
 
 interface ArticleCardProps {
   article: Article;
@@ -58,10 +58,7 @@ export function ArticleCard({ article, variant = "default" }: ArticleCardProps) 
             <span>&middot;</span>
             <time dateTime={article.publishedAt}>{formatDateShort(article.publishedAt)}</time>
             <span>&middot;</span>
-            <span className="flex items-center gap-1">
-              <Heart className="w-3 h-3" />
-              {article.likes}
-            </span>
+            <ArticleLikesCount slug={article.slug} initialLikes={article.likes} className="text-white/60" />
           </div>
         </div>
       </article>
@@ -164,10 +161,7 @@ export function ArticleCard({ article, variant = "default" }: ArticleCardProps) 
             <span>&middot;</span>
             <time dateTime={article.publishedAt}>{formatDateShort(article.publishedAt)}</time>
           </div>
-          <span className="flex items-center gap-1">
-            <Heart className="w-3 h-3" />
-            {article.likes}
-          </span>
+          <ArticleLikesCount slug={article.slug} initialLikes={article.likes} />
         </div>
       </div>
     </article>
