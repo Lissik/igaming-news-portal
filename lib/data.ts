@@ -72638,6 +72638,87 @@ Completion would likely require regulatory approvals across multiple national ga
     metaDescription: "Entain is in talks to sell its remaining 47.5% Eastern European stake to CVC Capital Partners in a deal potentially valued at $2.29 billion.",
     likes: 20,
     comments: [],
+  },
+
+  {
+    id: "1518",
+    slug: "bege-eegs-2026-sofia-event-starts-tomorrow",
+    language: "en",
+    translationGroupId: "tg-1518",
+    title: "BEGE and EEGS 2026 Open in Sofia Tomorrow: Full Programme and What to Expect on the Floor",
+    excerpt: "With under 24 hours until doors open at Inter Expo Center Sofia, here is a breakdown of the full conference agenda, key sessions, and what Fashion TV Gaming Group's cornerstone exhibitor role means for BEGE's 2026 edition.",
+    content: `The countdown is over. **BEGE 2026** and the **Eastern European Gaming Summit (EEGS)** open tomorrow, November 25, at Inter Expo Center Sofia — and the two-day programme is among the most substantive the region has assembled.
+
+Here is what to expect across both days.
+
+## BEGE Exhibition Floor: Fashion TV Gaming Group and 30+ Countries
+
+This year's exhibition introduces a significant new presence: **Fashion TV Gaming Group** has taken on a cornerstone exhibitor role, bringing its fusion of lifestyle branding and gaming content into direct conversation with the broader supplier community on the BEGE floor. The move positions Fashion TV Gaming Group alongside traditional slot manufacturers, cashless payment specialists, live dealer infrastructure providers, and AI-driven player protection technology vendors.
+
+Exhibitors this year represent over 30 countries, maintaining BEGE's reach as the dominant B2B gaming trade event for the Balkan and Eastern European markets. For procurement and technology teams, the floor covers the full supply chain: cabinet hardware, platform software, payment processing, and regulatory compliance tools.
+
+The **BEGE Awards ceremony** takes place on Day 2, November 26, recognising standout performers across supplier categories.
+
+## EEGS Day 1 — 25 November: Future of Entertainment and Global Titans
+
+The main conference programme begins with a **VIP C-Level Networking Breakfast** (09:00–11:00), hosted by AGIB and open by invitation only.
+
+The opening keynote at 11:00 comes from **Rossi McKee**, Co-Founder of Telematic Interactive Bulgaria AD and Founder of the Responsible Gaming Foundation — the architect of much of Bulgaria's gaming regulatory framework — followed by a keynote from **Dinos Stranomitis**, COO of Altenar.
+
+The first major session, **Clash of the Titans** (11:30–12:00), puts two operators directly at odds: **Tom Light** (Founder & CEO, First.Bet) and **Bilyan Balinoff** (Founder, Vegas Legends; CEO, Felix Gaming) debate whether traditional iGaming should fully merge with the decentralised Web3 model, or whether crypto casinos represent a temporary phenomenon. The format is a direct clash rather than a moderated panel — the positions are pre-set and defended.
+
+**Vision Forum: The Future of Gaming in 2035** (12:20–13:00) takes a longer view. Moderator Jeff Letlat (COO, Anakatech) brings together **Mariana Tabanelli** (CEO, Grupo Boldt), **Thomas Tzokas** (Founder & CEO), and **Milan Černý** (Group Head of Content, Allwyn) to debate metaverse environments, holographic casino concepts, and what large-scale generative AI deployment will look like across a decade.
+
+After lunch, a **sports sponsorship session** (14:00–14:40) examines whether gambling advertising restrictions are pushing operators into sports partnerships as a last viable channel — and whether those partnerships still deliver against the investment. Speakers include **Tomas Cortes** (CMO, BPlay Argentina), **Dan Iliovici** (VP, Rombet), **John Kalamvokis** (GM, Superbet Greece), and **Wojciech Trzaska** (Chief Communications Officer, SB Software).
+
+The afternoon closes with two back-to-back technical sessions. **Money, Machines & Fraud** (16:00–16:40), moderated by **Roberta Nicholls** (Founder & CEO, Mela Gaming), examines how blockchain, AI algorithms, and next-generation payment infrastructure support fraud prevention and safer transactions — and what risks they introduce. Then the **Media Clash** (16:40–17:20) puts journalists, influencers, platform algorithms, and generative AI against each other, with moderator **Ulyana Solis** chairing contributions from Barb Tasci (All-in Global / Revpanda), John Sullivan (Global Gambling News), and Jonny Whitfield (InterGame).
+
+## Fashion TV Marketing & Affiliate Conference — Day 1
+
+Running concurrently in Hall 2, the Fashion TV Marketing track opens at noon. The opening panel, **The AI Wake-Up Call**, addresses AI's role in marketing creative production: campaign development, copywriting, visual generation, and cross-market localisation at scale. The session examines which AI platforms are delivering measurable ROI and which remain at the hype stage.
+
+A second session in the afternoon covers **SEO in the AI Era** — specifically the shift from traditional search rankings to Generative Engine Optimisation (GEO), the emerging discipline of appearing in AI-generated answers rather than ranked results. For affiliate businesses with high dependency on organic traffic, the implications are direct and immediate.
+
+## EEGS Day 2 — 26 November: Regulation, Innovation and the AI Mega Debate
+
+Day 2 opens with a **case study on AI and player protection** from the Responsible Gaming Foundation, examining whether AI tools can make gambling safer and what an evidence-based deployment framework looks like in practice.
+
+The regulatory session that follows, **The AI Regulation Wave** (11:30–12:10), addresses the EU AI Act's specific implications for gaming: automated player scoring and profiling, marketing personalisation, and regulatory compliance — with legal perspectives from Kinstellar and Baciu Partners.
+
+The afternoon closes with the event's centrepiece, **Will AI Kill the Soul of Global Brands, or Save It?** — a structured debate with live audience voting. Two teams defend opposing positions: the Optimists argue AI is now essential to building global brands, enabling hyper-personalisation and multilingual scale; the Sceptics contend that authentic customer experience requires genuine human emotion, and that AI produces robotic, uniform brand identities. **Dmitry Starostenkov** (CEO, EvenBet Gaming) leads the Optimists; **Joseph Borg** (Partner, WH Partners) anchors the Sceptics.
+
+## Delegate Scale
+
+EEGS is drawing over **350 delegates** from more than **25 jurisdictions** across its two-day programme. Combined with BEGE exhibitors and visitors, the two-day Sofia event represents one of the region's highest annual concentrations of gaming industry decision-makers.
+
+---
+
+Passes are still available via the EEGS registration page at [eegamingsummit.com/tickets-2026](https://eegamingsummit.com/tickets-2026/).
+
+*Inter Expo Center, Sofia, Bulgaria — November 25–26, 2026*`,
+    featuredImage: "/images/articles/bege-eegs-2026-sofia-event-starts-tomorrow.png",
+    author: AUTHORS[0],
+    publishedAt: "2026-11-24T08:30:00Z",
+    category: "conferences-events",
+    tags: [
+      { id: "t11280", label: "BEGE 2026", slug: "bege-2026" },
+      { id: "t11281", label: "EEGS 2026", slug: "eegs-2026" },
+      { id: "t11282", label: "Eastern European Gaming Summit", slug: "eastern-european-gaming-summit" },
+      { id: "t11283", label: "Fashion TV Gaming Group", slug: "fashion-tv-gaming-group" },
+      { id: "t11284", label: "Sofia gaming event", slug: "sofia-gaming-event" },
+      { id: "t11285", label: "iGaming conferences", slug: "igaming-conferences" },
+      { id: "t11286", label: "BEGE Awards", slug: "bege-awards" },
+      { id: "t11287", label: "Eastern Europe gaming", slug: "eastern-europe-gaming" },
+    ],
+    sourceName: "eegamingsummit.com",
+    sourceUrl: "https://eegamingsummit.com",
+    featured: true,
+    trending: true,
+    sponsored: false,
+    seoTitle: "BEGE and EEGS 2026 Open in Sofia Tomorrow — Full Programme Preview | iGaming Pulse",
+    metaDescription: "BEGE and EEGS 2026 open in Sofia on November 25. Full Day 1 and Day 2 conference agenda, Fashion TV Gaming Group cornerstone role, and what to expect on the exhibition floor.",
+    likes: 0,
+    comments: [],
   }
 ];
 
