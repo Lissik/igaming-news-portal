@@ -72717,7 +72717,7 @@ Passes are still available via the EEGS registration page at [eegamingsummit.com
     sponsored: false,
     seoTitle: "BEGE and EEGS 2026 Open in Sofia Tomorrow — Full Programme Preview | iGaming Pulse",
     metaDescription: "BEGE and EEGS 2026 open in Sofia on November 25. Full Day 1 and Day 2 conference agenda, Fashion TV Gaming Group cornerstone role, and what to expect on the exhibition floor.",
-    likes: 0,
+    likes: 3,
     comments: [],
   }
 ];
